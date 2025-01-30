@@ -7,19 +7,23 @@ import {
   ICharacterFavourGiftTypeData,
   ICharacterFavourPresentData,
   ICharacterFavourSkillData,
+  ICharacterGift,
   ICharacterRarity,
   ICharacterVocation,
+  ICharacterYardSkill,
+  ICharacterYardSkillData,
 } from "src/interfaces/CharacterInterfaces";
 import characterVocationJson from "src/data/characters/manual/charactervocation.json";
 import characterElementJson from "src/data/characters/manual/characterelements.json";
 import characterAffiliationJson from "src/data/characters/handbook/caffiliation_handbook.json";
-import { RWCUtils } from "./RWUtils";
+import { RWUtils } from "../../utils/RWUtils";
 import { getImageUrl } from "src/hooks/getImage";
-import { RWCTexts } from "./RWTexts";
+import { RWTexts } from "../../utils/RWTexts";
 import cFavourExpJson from "src/data/characters/role/cfavourexp.json";
 import cFavourPresentJson from "src/data/characters/role/cfavourpresent.json";
 import cFavourGiftTypeJson from "src/data/characters/role/cfavourgifttype.json";
 import cFavourSkillJson from "src/data/characters/role/cfavourskill.json";
+import cYardSkillJson from "src/data/characters/courtyard/cyardskill.json";
 
 const RW_CDN = "rw/cdn/GLOBAL";
 const RARITY_NAMES = ["R", "SR", "SSR", "UR", "EX"];
@@ -42,10 +46,12 @@ const favourGiftTypeData: {
 const favourSkillData: {
   [key: string]: ICharacterFavourSkillData | undefined;
 } = cFavourSkillJson.Data;
+const yardSkillData: { [key: string]: ICharacterYardSkillData } =
+  cYardSkillJson.Data;
 
 export namespace RWCAttributes {
   export const getRarity = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return undefined;
 
     const rarity: ICharacterRarity = {
@@ -60,33 +66,31 @@ export namespace RWCAttributes {
   };
 
   export const getElement = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return undefined;
 
-    const elementConfig = RWCUtils.getElementConfig(
-      characterConfig.element - 1,
-    );
+    const elementConfig = RWUtils.getElementConfig(characterConfig.element - 1);
     const characterElement: ICharacterElement = {
       id: characterConfig.element,
       image: getImageUrl(characterElements[elementConfig?.image ?? -1]),
-      name: RWCTexts.geWordRole(elementConfig?.nameid ?? -1),
+      name: RWTexts.geWordRole(elementConfig?.nameid ?? -1),
     };
 
     return characterElement;
   };
 
   export const getVocation = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return undefined;
 
-    const vocationConfig = RWCUtils.getVocationConfig(
+    const vocationConfig = RWUtils.getVocationConfig(
       characterConfig.vocation - 1,
     );
     const characterVocation: ICharacterVocation = {
       id: characterConfig.vocation,
       imgDescribe: getImageUrl(characterVocations[characterConfig.vocation]),
       name: vocationConfig
-        ? RWCTexts.geWordRole(vocationConfig.nameTextID)
+        ? RWTexts.geWordRole(vocationConfig.nameTextID)
         : undefined,
     };
 
@@ -94,7 +98,7 @@ export namespace RWCAttributes {
   };
 
   export const getAffiliation = (id: number) => {
-    const cardConfig = RWCUtils.getCardConfig(id);
+    const cardConfig = RWUtils.getCardConfig(id);
     if (!cardConfig) return undefined;
 
     const affiliationId =
@@ -102,11 +106,11 @@ export namespace RWCAttributes {
     const affiliationIds = affiliationData[affiliationId];
 
     const affiliationName = affiliationIds
-      ? (RWCTexts.getWordHandbook(affiliationIds.nameTextID) ?? "???")
+      ? (RWTexts.getWordHandbook(affiliationIds.nameTextID) ?? "???")
       : "???";
 
     const characterAffiliation: ICharacterAffiliation = {
-      icon: RWCUtils.getRWAssetImage(affiliationIds?.icon),
+      icon: RWUtils.getRWAssetImage(affiliationIds?.icon),
       id: affiliationId,
       name: affiliationName.toLowerCase() === "null" ? "???" : affiliationName,
     };
@@ -136,14 +140,14 @@ export namespace RWCAttributes {
       if (levelRewardType === 2) {
         const favourSkill = favourSkillData[levelRewardID];
         reward = favourSkill
-          ? RWCTexts.getWordSkill(favourSkill.skillattributiontxt)
+          ? RWTexts.getWordSkill(favourSkill.skillattributiontxt)
           : undefined;
       } else {
         const storyId =
           favourGiftTypeData[levelRewardType]?.storyandlineid[
             Math.max(levelRewardID - 1, 0)
           ];
-        reward = storyId ? RWCTexts.getWordRole(storyId) : undefined;
+        reward = storyId ? RWTexts.getWordRole(storyId) : undefined;
       }
 
       characterBonds.push({
@@ -156,5 +160,50 @@ export namespace RWCAttributes {
     });
 
     return characterBonds;
+  };
+
+  export const getGift = (id: number) => {
+    const characterConfig = RWUtils.getConfig(id);
+    const gifts: ICharacterGift[] = [];
+    if (!characterConfig) return gifts;
+
+    const favourPresentTypeData = RWUtils.getFavourPresentTypeData();
+
+    Object.keys(favourPresentTypeData).forEach((key, _) => {
+      const present = favourPresentTypeData[key];
+      if (present.presenttype !== characterConfig.favourgift) return;
+
+      const itemAttr = RWUtils.getItemAttr(present.id);
+
+      gifts.push({
+        id: itemAttr.id,
+        name: RWTexts.getWordItem(itemAttr.nameTextID) ?? "?",
+        description: RWTexts.getWordItem(itemAttr.destribeTextID) ?? "?",
+        icon: RWUtils.getRWAssetImage(itemAttr.icon),
+        favour: present.favour,
+        exfavour: present.exfavour,
+      });
+    });
+
+    return gifts;
+  };
+
+  export const getYardSkill = (id: number) => {
+    const characterConfig = RWUtils.getConfig(id);
+    const yardSkills: ICharacterYardSkill[] = [];
+    if (!characterConfig) return yardSkills;
+
+    characterConfig.yardskillid.forEach((skillId) => {
+      const yardskill = yardSkillData[skillId];
+
+      yardSkills.push({
+        id: yardskill.id,
+        name: RWTexts.getWordYard(yardskill.nameTextID) ?? "?",
+        description: RWTexts.getWordYard(yardskill.descTextID) ?? "?",
+        icon: RWUtils.getRWAssetImage(yardskill.image),
+      });
+    });
+
+    return yardSkills;
   };
 }

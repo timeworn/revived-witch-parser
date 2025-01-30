@@ -6,13 +6,13 @@ import {
   ICharacterVoiceline,
   ICharacterVoiceSourceData,
 } from "src/interfaces/CharacterInterfaces";
-import { RWCUtils } from "./RWUtils";
+import { RWUtils } from "../../utils/RWUtils";
 import cSoundLinesJson from "src/data/characters/sound/csoundlines.json";
 import cSoundTitleJson from "src/data/characters/sound/csoundtitle.json";
 import cSoundCatalogJson from "src/data/characters/sound/csoundcatalog.json";
 import cSoundHandbookJson from "src/data/characters/sound/csoundhandbook.json";
 import enCVoiceSourceJson from "src/data/characters/sound/cvoicesource_ja_jp_overseas_en.json";
-import { RWCTexts } from "./RWTexts";
+import { RWTexts } from "../../utils/RWTexts";
 import { getImageUrl } from "src/hooks/getImage";
 
 const RW_AUDIO = "rw/audio/GLOBAL";
@@ -36,7 +36,7 @@ export namespace RWCAudio {
     enCVoiceSourceData[voiceId];
 
   export const getVoiceline = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     const voicelines: ICharacterVoiceline[] = [];
     if (!characterConfig) return voicelines;
 
@@ -49,9 +49,6 @@ export namespace RWCAudio {
     const soundHandbook = cSoundHandbookData[id];
     if (!soundHandbook) return voicelines;
 
-    // const voiceSource = enCVoiceSourceData[id];
-    // if (!voiceSource) return voicelines;
-
     const soundCatalog = cSoundCatalogData[id];
     if (!soundCatalog) return voicelines;
 
@@ -62,7 +59,7 @@ export namespace RWCAudio {
       arrayIndex?: number,
     ) => {
       const line = catalogKey
-        ? RWCTexts.getWordHandbook(
+        ? RWTexts.getWordHandbook(
             arrayIndex !== undefined
               ? soundLines[catalogKey]?.[arrayIndex]
               : soundLines[catalogKey],
@@ -85,7 +82,28 @@ export namespace RWCAudio {
     soundHandbook.otherVoice.forEach((voiceId, index) => {
       if (voiceId === 0) return;
 
-      const title = RWCTexts.getWordHandbook(soundTitle.otherTitle[index]);
+      const title = RWTexts.getWordHandbook(soundTitle.otherTitle[index]);
+
+      for (const [key, value] of Object.entries(soundCatalog)) {
+        if (Array.isArray(value)) {
+          const arrayIndex = value.indexOf(voiceId);
+          if (arrayIndex !== -1) {
+            processVoiceEntry(voiceId, title, key, arrayIndex);
+            break;
+          }
+        } else if (value === voiceId) {
+          processVoiceEntry(voiceId, title, key);
+          break;
+        }
+      }
+    });
+
+    soundHandbook.relationVoice.forEach((voiceId, index) => {
+      if (voiceId === 0) {
+        voiceId = soundHandbook.relationVoice[index - 1] + 1;
+      }
+
+      const title = RWTexts.getWordHandbook(soundTitle.relationTitle[index]);
 
       for (const [key, value] of Object.entries(soundCatalog)) {
         if (Array.isArray(value)) {

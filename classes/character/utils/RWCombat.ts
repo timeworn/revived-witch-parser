@@ -8,13 +8,11 @@ import {
   ICharacterSpecialEquip,
   ICharacterSpecialEquipData,
   ICharacterStats,
-  ItemData,
 } from "src/interfaces/CharacterInterfaces";
-import { RWCUtils } from "./RWUtils";
-import { RWCTexts } from "./RWTexts";
+import { RWUtils } from "../../utils/RWUtils";
+import { RWTexts } from "../../utils/RWTexts";
 import cSkillShowRoleJson from "src/data/characters/skill/cskillshow_role.json";
 import characterSkillJson from "src/data/characters/skill/cskill.json";
-import cItemAttr from "src/data/characters/item/citemattr.json";
 import cUniqueEquipConfig from "src/data/characters/equip/cuniqueequipcfg.json";
 import cSkillShowSoulJson from "src/data/characters/skill/cskillshow_soul.json";
 import { getImageUrl } from "src/hooks/getImage";
@@ -30,7 +28,6 @@ const STATS_ICON = {
   magicDef: 10152,
 };
 
-const itemAttrData: { [key: string]: ItemData } = cItemAttr.Data;
 const skillShowRoleData: {
   [key: string]: ICharacterSkillShowRoleData | undefined;
 } = cSkillShowRoleJson.Data;
@@ -47,77 +44,9 @@ const roleEvolutionConfigData: { [key: string]: ICharacterEvolutionData } =
 const attrEffectIdNameData: { [key: string]: ICharacterAttrEffectIdNameData } =
   cAttrEffectIdNameJson.Data;
 
-const getSkillAttributes = (
-  skillId: number,
-  skillShowData: any,
-  changeIndex: number,
-  max?: number,
-) => {
-  let skillAttributes: string[][] = [];
-  for (let i = 0; i < skillShowData[skillId + 1].attr.length; i++) {
-    skillAttributes[i] = [];
-  }
-
-  let index = 1;
-  while (true) {
-    const newSkillId = skillId + index;
-    const skillIdStr = skillId.toString();
-    const newSkillIdStr = newSkillId.toString();
-
-    if (
-      skillIdStr.substring(0, changeIndex + 1) !==
-        newSkillIdStr.substring(0, changeIndex + 1) ||
-      (max && index > max)
-    ) {
-      return skillAttributes;
-    }
-
-    const attributes = skillShowData[newSkillId]?.attr;
-    if (attributes) {
-      attributes.forEach((element: string, parameterIndex: number) => {
-        skillAttributes[parameterIndex].push(element);
-      });
-    }
-
-    index++;
-  }
-};
-
-const replaceDescriptionParameters = (
-  description: string,
-  skillAttributes: string[][],
-) => {
-  if (!description) return description;
-
-  const usageCounts = new Array(skillAttributes.length).fill(0);
-
-  for (let i = 0; i < skillAttributes.length; i++) {
-    const colorRegex = new RegExp(
-      `(<color=#[0-9A-Fa-f]{6}>)?\\$parameter${i + 1}\\$?(</color>)?`,
-      "g",
-    );
-
-    description = description.replace(colorRegex, (_, startColor, endColor) => {
-      const usageIndex = usageCounts[i]++;
-      const partsForThisParam = skillAttributes[i].map((item) => {
-        const splitItem = item.split(";");
-        return splitItem[usageIndex] ?? splitItem[splitItem.length - 1];
-      });
-
-      const joinedParts = partsForThisParam.join("/");
-      if (startColor) {
-        return `${startColor}${joinedParts}${endColor || ""}`;
-      }
-      return `<color=#82C65D>${joinedParts}</color>`;
-    });
-  }
-
-  return description;
-};
-
 export namespace RWCCombat {
   export const getSkills = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return [];
 
     const skillIds = [
@@ -133,15 +62,22 @@ export namespace RWCCombat {
       if (!characterSkillShow) return [];
 
       let description =
-        RWCTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "";
+        RWTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "";
 
-      const skillAttributes = getSkillAttributes(skillId, skillShowRoleData, 4);
-      description = replaceDescriptionParameters(description, skillAttributes);
+      const skillAttributes = RWUtils.getSkillAttributes(
+        skillId,
+        skillShowRoleData,
+        4,
+      );
+      description = RWUtils.replaceDescriptionParameters(
+        description,
+        skillAttributes,
+      );
 
       const skill: ICharacterSkill = {
         id: skillId,
-        name: RWCTexts.getWordSkill(characterSkillShow.nameTextID),
-        icon: RWCUtils.getRWAssetImage(characterSkill?.icon),
+        name: RWTexts.getWordSkill(characterSkillShow.nameTextID),
+        icon: RWUtils.getRWAssetImage(characterSkill?.icon),
         description: description,
       };
 
@@ -153,7 +89,7 @@ export namespace RWCCombat {
     if (!characterSkillShow) return skills as ICharacterSkill[];
 
     let description =
-      RWCTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "";
+      RWTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "";
 
     let skillAttributes: string[][] = [];
 
@@ -163,7 +99,7 @@ export namespace RWCCombat {
       for (let index = 1; index <= 2; index++) {
         const characterSkillShow = skillShowSoulData[passiveSkillId + index];
         let description = characterSkillShow
-          ? (RWCTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "")
+          ? (RWTexts.getWordSkill(characterSkillShow.exDiscribeTextID) ?? "")
           : "";
 
         let match;
@@ -186,18 +122,21 @@ export namespace RWCCombat {
         );
       }
     } else {
-      skillAttributes = getSkillAttributes(
+      skillAttributes = RWUtils.getSkillAttributes(
         passiveSkillId,
         skillShowSoulData,
         3,
       );
     }
 
-    description = replaceDescriptionParameters(description, skillAttributes);
+    description = RWUtils.replaceDescriptionParameters(
+      description,
+      skillAttributes,
+    );
 
     const passiveSkill: ICharacterSkill = {
       id: passiveSkillId,
-      name: RWCTexts.getWordSkill(characterSkillShow.nameTextID),
+      name: RWTexts.getWordSkill(characterSkillShow.nameTextID),
       icon: getImageUrl(
         "rw/assets/GLOBAL/ui/imagesets/CharDetailPassiveSkill0.png",
       ),
@@ -210,34 +149,34 @@ export namespace RWCCombat {
   };
 
   export const getEquipment = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return [];
 
-    const item = itemAttrData[characterConfig.uniqueequipid];
+    const item = RWUtils.getItemAttr(characterConfig.uniqueequipid);
     const skillId = id * 100 + 300000;
     const skillShowSoul = skillShowSoulData[skillId + 1];
     if (!item) return [];
 
-    const skillAttributes = getSkillAttributes(
+    const skillAttributes = RWUtils.getSkillAttributes(
       skillId,
       skillShowSoulData,
       3,
       6,
     );
-    const effectText = RWCTexts.getWordSkill(
+    const effectText = RWTexts.getWordSkill(
       skillShowSoul?.exDiscribeTextID ?? -1,
     );
     const effect = effectText
-      ? replaceDescriptionParameters(effectText, skillAttributes)
+      ? RWUtils.replaceDescriptionParameters(effectText, skillAttributes)
       : undefined;
 
     const uniqueEquip = getUniqueEquipConfig(id);
     let evolution = undefined;
 
     if (uniqueEquip) {
-      const evolutionText = RWCTexts.getWordEquip(uniqueEquip.evolutiontext);
+      const evolutionText = RWTexts.getWordEquip(uniqueEquip.evolutiontext);
       evolution = evolutionText
-        ? replaceDescriptionParameters(evolutionText, [
+        ? RWUtils.replaceDescriptionParameters(evolutionText, [
             uniqueEquip.evolutionnum,
           ])
         : undefined;
@@ -245,9 +184,9 @@ export namespace RWCCombat {
 
     const equipment: ICharacterSpecialEquip = {
       id: item.id,
-      icon: RWCUtils.getRWAssetImage(item.icon),
-      name: RWCTexts.getWordItem(item.nameTextID),
-      description: RWCTexts.getWordItem(item.destribeTextID),
+      icon: RWUtils.getRWAssetImage(item.icon),
+      name: RWTexts.getWordItem(item.nameTextID),
+      description: RWTexts.getWordItem(item.destribeTextID),
       effect: effect,
       evolution: evolution,
     };
@@ -256,7 +195,7 @@ export namespace RWCCombat {
   };
 
   export const getUniqueEquipConfig = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return undefined;
 
     const uniqueEquipId = characterConfig.uniqueequipid;
@@ -271,7 +210,7 @@ export namespace RWCCombat {
       list: [],
       evolutions: [],
     };
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return characterStats;
 
     STATS.forEach((stat) => {
@@ -288,7 +227,7 @@ export namespace RWCCombat {
       }
 
       characterStats.list.push({
-        icon: RWCUtils.getRWAssetImage(statIcon),
+        icon: RWUtils.getRWAssetImage(statIcon),
         name: stat,
         baseValue: baseValue,
         addValue: addValue,
@@ -317,7 +256,7 @@ export namespace RWCCombat {
 
       characterStats.evolutions.push({
         level: level,
-        icon: RWCUtils.getRWAssetImage(attrEffect.classIcon),
+        icon: RWUtils.getRWAssetImage(attrEffect.classIcon),
         name: attrEffect.attrname,
         addValue: evolutionData.addPropertyValue,
       });

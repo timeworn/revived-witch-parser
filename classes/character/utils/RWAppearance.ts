@@ -9,8 +9,8 @@ import cRoleSkinJson from "src/data/characters/role/croleskin.json";
 import cskinJson from "src/data/characters/role/cskin.json";
 import nNpcShapeJson from "src/data/characters/npc/cnpcshape.json";
 import { getImageUrl } from "src/hooks/getImage";
-import { RWCUtils } from "./RWUtils";
-import { RWCTexts } from "./RWTexts";
+import { RWUtils } from "../../utils/RWUtils";
+import { RWTexts } from "../../utils/RWTexts";
 
 const RW_CDN = "rw/cdn/GLOBAL";
 
@@ -20,7 +20,7 @@ const skinData: { [key: string]: ICharacterSkinData | undefined } =
   cskinJson.Data;
 const shapeData: { [key: string]: ICharacterShapeData | undefined } =
   nNpcShapeJson.Data;
-const thumbnailData = RWCUtils.getConfigJson().AllIds.reduce(
+const thumbnailData = RWUtils.getConfigJson().AllIds.reduce(
   (acc, id) => {
     acc[id] = getImageUrl(`${RW_CDN}/thumbnails/${id}.webp`);
     return acc;
@@ -31,13 +31,13 @@ const thumbnailData = RWCUtils.getConfigJson().AllIds.reduce(
 export namespace RWCAppearance {
   export const getSkins = (id: number) => {
     const skinIds = roleSkinData[id];
-    const cardConfig = RWCUtils.getCardConfig(id);
+    const cardConfig = RWUtils.getCardConfig(id);
     let characterSkins: ICharacterSkins = { list: [] };
 
     if (skinIds?.skinID?.length && cardConfig) {
       const { artistTextID, overseasArtistTextID, cvTextIDJpn } = cardConfig;
       const getText = (id: number) => {
-        const text = RWCTexts.getWordHandbook(id);
+        const text = RWTexts.getWordHandbook(id);
         return text === "Unavailable" ? "?" : text || "?";
       };
 
@@ -57,18 +57,23 @@ export namespace RWCAppearance {
           const pixelAnims: ICharacterPixelAnimations[] = [];
 
           characterSkins.list.push({
+            id: skinId,
+            name: RWTexts.geWordRole(skin.skinNameTextID),
+            description: RWTexts.fixFormatting(
+              RWTexts.getWordRole(skin.discribeTextID),
+            ),
             thumbnail: thumbnailData[id],
-            square: RWCUtils.getRWAssetImage(skinShape.littleHeadID),
-            card: RWCUtils.getRWAssetImage(skinShape.lihuiID),
-            name: RWCTexts.geWordRole(skin.skinNameTextID),
+            artist: RWTexts.getWordRole(skin.artistTextID),
+            overseasArtist: RWTexts.getWordRole(skin.overseasArtistTextID),
+            square: RWUtils.getRWAssetImage(skinShape.littleHeadID),
+            card: RWUtils.getRWAssetImage(skinShape.lihuiID),
             l2d: skin.ifLive
               ? {
-                  path: RWCUtils.getRWL2DImage(skinShape.live2DAssetBundleName),
+                  path: RWUtils.getRWL2DImage(skinShape.live2DAssetBundleName),
                   name: getAssetName(skinShape.live2DAssetBundleName),
                 }
               : undefined,
             pixelAnims: pixelAnims,
-            id: skinId,
           });
         }
       });
@@ -78,11 +83,11 @@ export namespace RWCAppearance {
   };
 
   export const getFrame = (id: number) => {
-    const characterConfig = RWCUtils.getConfig(id);
+    const characterConfig = RWUtils.getConfig(id);
     if (!characterConfig) return undefined;
 
-    const rarityConfig = RWCUtils.getRarityConfig(characterConfig.rarity);
-    return RWCUtils.getRWAssetImage(rarityConfig?.charframesmall);
+    const rarityConfig = RWUtils.getRarityConfig(characterConfig.rarity);
+    return RWUtils.getRWAssetImage(rarityConfig?.charframesmall);
   };
 }
 
