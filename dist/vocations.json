@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Guardian",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/layouts/basecharacterinfo/charshouhu.png"
+  },
+  {
+    "id": 2,
+    "name": "Destroyer",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/imagesets/charpohuai.png"
+  },
+  {
+    "id": 3,
+    "name": "Assassin",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/layouts/tujian/charcisha.png"
+  },
+  {
+    "id": 4,
+    "name": "Compeller",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/imagesets/charfanghai.png"
+  },
+  {
+    "id": 5,
+    "name": "Healer",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/imagesets/charhuifu.png"
+  },
+  {
+    "id": 6,
+    "name": "Mage",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/imagesets/charmodao.png"
+  },
+  {
+    "id": 7,
+    "name": "Witch",
+    "imgDescribe": "/rw/assets/GLOBAL/ui/imagesets/charmonv.png"
+  }
+]

@@ -1,0 +1,2486 @@
+[
+  {
+    "id": 95006,
+    "name": "Abundant Prayer",
+    "description": "Something worn while performing the ritual dance to celebrate the return of life to the earth.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip076.png",
+    "type": "Unique Equipment",
+    "owner": "Vedare",
+    "effect": "After combat begins, increases Magic DMG taken by all enemy targets by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> every 10s, stacking up to 5 times.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95008,
+    "name": "Sweet Dreams",
+    "description": "Afallen's favorite pillow. The fluffiness is beyond your wildest dreams. Sleep on this heavenly creation to send your fatigue flying.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip008.png",
+    "type": "Unique Equipment",
+    "owner": "Afallen",
+    "effect": "Increases ATK by <color=#82C65D>11/12/13/14/15/16%</color> of the sum of Physical DEF and Magic DEF.",
+    "evolution": "(Evolving the current Character's Level will also increase an Attribute by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95010,
+    "name": "Everlasting Leisure",
+    "description": "A harp endowed with memories. Time did not leave a single blemish on the timbre of its notes. This instrument has once pacified the fiendish aura of the Demongod Gordia.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip010.png",
+    "type": "Unique Equipment",
+    "owner": "Flora",
+    "effect": "Upon entering combat, increases all allies' ATK, Physical DEF, and Magic DEF by <color=#82C65D>2.75/3/3.25/3.5/3.75/4%</color> of Flora's corresponding attributes every 10s, stacking up to 20 times.",
+    "evolution": "(Evolving the current Character's Level will also increase an Attribute by <color=#82C65D>0/0.25/0.5/0.75</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95011,
+    "name": "Donellsegal",
+    "description": "A spear granted by the elven goddess to the worthy. The wielder gains the goddess' blessing.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip013.png",
+    "type": "Unique Equipment",
+    "owner": "Caledonia",
+    "effect": "When the DEF reduction effect of Overwhelming is active, all allies deal <color=#82C65D>11/12/13/14/15/16%</color> more DMG.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95013,
+    "name": "Star Will",
+    "description": "A legendary sword instilled with the will of its wielder. The blade glimmers with the brilliance of stars.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip007.png",
+    "type": "Unique Equipment",
+    "owner": "Akasha",
+    "effect": "When scoring a critical hit, increases Crit DMG by <color=#82C65D>2.75/3/3.25/3.5/3.75/4%</color>, and Physical Penetration by <color=#82C65D>110/120/130/140/150/160</color>, stacking up to 10 times.",
+    "evolution": "(Evolving the current Character's Level will increase Crit DMG by <color=#82C65D>0/0.25/0.5/0.75</color>%, and Physical Penetration by <color=#82C65D>0/10/20/30</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95017,
+    "name": "Blessed Sky",
+    "description": "A bracelet Ella bought on her birthday. It's her lucky charm.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip012.png",
+    "type": "Unique Equipment",
+    "owner": "Ella",
+    "effect": "Ella deals <color=#82C65D>11/12/13/14/15/16%</color> more DMG while in the dragon form.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95023,
+    "name": "Sacred Oath",
+    "description": "The flag held high by the girl who took the lead in charging to the enemy, bringing light and glory back to this land.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip018.png",
+    "type": "Unique Equipment",
+    "owner": "Catherine",
+    "effect": "On each skill use, increases all allies' Crit Chance by <color=#82C65D>1.1/1.2/1.3/1.4/1.5/1.6%</color> for 10s, stacking up to 10 times.",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/0.1/0.2/0.3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95029,
+    "name": "Soaring Skies",
+    "description": "A great bow given to Celanya by her father. Only the best hunter in the village is allowed to wield it. A mere man can hardly even draw the bowstring.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip002.png",
+    "type": "Unique Equipment",
+    "owner": "Celanya",
+    "effect": "Increases DMG dealt by <color=#82C65D>22/24/26/28/30/32%</color> for 30s upon entering combat.",
+    "evolution": "(Evolving the current Character's Level will also increase DMG by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95030,
+    "name": "Fool's Trek",
+    "description": "Can peer into people's hearts and guide them forward.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip016.png",
+    "type": "Unique Equipment",
+    "owner": "Arcana",
+    "effect": "All allies deal <color=#82C65D>11/12/13/14/15/16%</color> more Magic DMG for 30s after entering combat.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95033,
+    "name": "Eternal Bond",
+    "description": "A hair accessory gifted by Eulalia, that has been deeply cherished by Cynetia.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip014.png",
+    "type": "Unique Equipment",
+    "owner": "Cynetia",
+    "effect": "When healing allies, increases the targets' ATK by <color=#82C65D>21/22/23/24/25/26%</color> of Cynetia's ATK for 10s.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95034,
+    "name": "Oblivion",
+    "description": "Once stained with blood, it locks on the target until it snuffs the life out of them.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip001.png",
+    "type": "Unique Equipment",
+    "owner": "Shuffle",
+    "effect": "When dealing DMG to an enemy, inflicts Bleed on the target for 10s. \nBleed: The target takes Physical DMG per second, equal to <color=#82C65D>1.1/1.2/1.3/1.4/1.5/1.6%</color> of lost HP.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.15/0.3/0.45</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95035,
+    "name": "Sparkling Ice",
+    "description": "Made from the coldest crystals in Snegurochka, emitting chilling aurora.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip044.png",
+    "type": "Unique Equipment",
+    "owner": "Lilia",
+    "effect": "When Lilia is in the team, increases self's Magic DMG dealt by <color=#82C65D>11/12/13/14/15/16%</color>. The effect receives a 15% boost for every 1 Order Energy owned.",
+    "evolution": "(Doll's current Evolution Level increases self's Magic DMG dealt by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95038,
+    "name": "Polyphase",
+    "description": "A mask that can connect with souls. It nibbles away at the wearer's heart.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100903.png",
+    "type": "Unique Equipment",
+    "owner": "Metamorphoses",
+    "effect": "All allies take <color=#82C65D>11/12/13/14/15/16%</color> less DMG for 60s after entering combat.",
+    "evolution": "(Doll's current Evolution Level reduces DMG taken by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95039,
+    "name": "Virulenthorn",
+    "description": "A sacred object that's passed down the Hameln family, one of the Six Ovates that is in charge of the \"Cròg (Claw)\". Said to be able to pierce through everything.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip029.png",
+    "type": "Unique Equipment",
+    "owner": "Raphan",
+    "effect": "When dealing damage, ignores the target's Physical DEF equal to <color=#82C65D>22/24/26/28/30/32%</color> of self's ATK.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/2/4/6</color>% while ignoring the enemy target's Physical DEF)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95041,
+    "name": "Basilisk Soul",
+    "description": "A staff that symbolizes the power of the Desert Alliance, hosting the soul of the last Andes chieftain.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip009.png",
+    "type": "Unique Equipment",
+    "owner": "Ushpia",
+    "effect": "Increases Order Energy generation rate by <color=#82C65D>2.75/3/3.25/3.5/3.75/4%</color> for each skill used, stacking up to 5 times.",
+    "evolution": "(Evolving the current Character's Level will also increase Generation Speed by <color=#82C65D>0/0.25/0.5/0.75</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95042,
+    "name": "Divine Mercy",
+    "description": "A symbol of power held by the girl on the underworld throne. It seems to be telling a tale of salvation that echoes throughout the River of the Underworld.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100901.png",
+    "type": "Unique Equipment",
+    "owner": "Acheronte",
+    "effect": "DMG dealt in the first 30s of combat ignores the target's Magic DEF equal to <color=#82C65D>22/24/26/28/30/32%</color> of self's ATK.",
+    "evolution": "(Doll's current Evolution Level ignores enemy's Magic DEF and increases DMG by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95043,
+    "name": "Soulcry",
+    "description": "A magical ornament. The Koshchey family, the steward of \"Cridhe\", wears it in sacrificial rituals to commune with the spirit of nature and to bestow blessings on Fomoire.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip006.png",
+    "type": "Unique Equipment",
+    "owner": "Norn",
+    "effect": "Applies a stack of Insight to all allies every 10s, up to 10 stacks.\nInsight: When dealing DMG to an enemy, inflicts extra Physical DMG equal to the number of stacks * <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of Norn's ATK.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95047,
+    "name": "Scarlet Wish",
+    "description": "An essential for a noble lady when going out. Offers protection from sunburn.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100904.png",
+    "type": "Unique Equipment",
+    "owner": "Nocturna",
+    "effect": "After combat starts, Crit Chance increases by <color=#82C65D>1.65/1.8/1.95/2.1/2.25/2.4%</color> every 5s, stacking up to 15 times.",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/0.15/0.3/0.45</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95048,
+    "name": "Ode to the End",
+    "description": "A symbol of the leader of Deliverers. The mere presence of this scythe alone strikes fear into others. It is said to be made by the Ruler of the Underworld.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip011.png",
+    "type": "Unique Equipment",
+    "owner": "Kyphon",
+    "effect": "Kyphon deals <color=#82C65D>38.5/42/45.5/49/52.5/56%</color> more DMG when there is an enemy below 30% HP.",
+    "evolution": "(Evolving the current Character's Level will also increase DMG by <color=#82C65D>0/3.5/7/10.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95051,
+    "name": "Holy Forbiddenness",
+    "description": "Emits a warm, holy glow. Holds a mysterious forbidden power.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip024.png",
+    "type": "Unique Equipment",
+    "owner": "Tuonel",
+    "effect": "While in the Nightwish status, ATK increases by an amount equal to <color=#82C65D>11/12/13/14/15/16%</color> of Tuonel's ATK.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95053,
+    "name": "Sea Whisper",
+    "description": "A never wilting flower that Ardisia occasionally wears in her hair. It's always silent there listening to the maiden's wishes.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip032.png",
+    "type": "Unique Equipment",
+    "owner": "Ardisia",
+    "effect": "In the first 30s of combat, increases the Order Energy generation rate by <color=#82C65D>22/24/26/28/30/32%</color>.",
+    "evolution": "(Evolving the current Character's Level will also increase Generation Speed by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95056,
+    "name": "Skyroar",
+    "description": "A ceremonial object used to celebrate the coming of spring. When Amanami holds this light and elegant fan, it makes her more adorable than she already is.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip004.png",
+    "type": "Unique Equipment",
+    "owner": "Amanami",
+    "effect": "When Seigaiha is in effect, deals Magic DMG equal to <color=#82C65D>1.1/1.2/1.3/1.4/1.5/1.6%</color> of the target's current HP.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.15/0.3/0.45</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95063,
+    "name": "Multiglory",
+    "description": "A magical mirror that reflects people's hidden desires. It's said that no amount of force can break it.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip003.png",
+    "type": "Unique Equipment",
+    "owner": "Nannar",
+    "effect": "Recovers HP equal to <color=#82C65D>55/60/65/70/75/80%</color> of self's ATK when taking DMG.",
+    "evolution": "(Doll's current Evolution Level restores HP equal to <color=#82C65D>0/5/10/15</color>% of ATK)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95064,
+    "name": "Fadeless",
+    "description": "A weapon wielded by Isabel only when there is salvation needed. It always fulfills its commitment, that's for sure.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip031.png",
+    "type": "Unique Equipment",
+    "owner": "Isabel",
+    "effect": "When dealing Crit DMG, reduces the target's Physical DEF by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color>, stacking up to 5 times.",
+    "evolution": "(Doll's current Evolution Level decreases the enemy target's Physical DEF by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95066,
+    "name": "Key of Fantasy",
+    "description": "Hauen has always been guarding the beautiful dreams of every child",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip045.png",
+    "type": "Unique Equipment",
+    "owner": "Hauen",
+    "effect": "When taking damage, heals all allies for <color=#82C65D>27.5/30/32.5/35/37.5/40%</color> of self's ATK",
+    "evolution": "(Doll's current Evolution Level restores HP equal to <color=#82C65D>0/1/2/3</color>% of ATK)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95069,
+    "name": "Staff of Promise",
+    "description": "A memento given to Mayahuel by Dana, the Goddess of the Lake. Holds the power to manipulate the growth of all trees.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100902.png",
+    "type": "Unique Equipment",
+    "owner": "Mayahuel",
+    "effect": "When using skills, Mayahuel deals <color=#82C65D>11/12/13/14/15/16%</color> more Magic DMG for 10s (Can't stack up).",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95070,
+    "name": "Palemoon",
+    "description": "A piece of jewelry handed down over generations of elves. Said to hold the power of moonlight.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip005.png",
+    "type": "Unique Equipment",
+    "owner": "Mineer",
+    "effect": "When using a skill to deal Magic DMG, there is a <color=#82C65D>11/12/13/14/15/16%</color> chance of inflicting extra Magic DMG equal to 300% of ATK on all enemies.",
+    "evolution": "(Doll's current Evolution Level increases chance by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95071,
+    "name": "Paradox",
+    "description": "Cognitive biases often lead to paradoxes. This is the problem Matveiffe is going to tackle.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip039.png",
+    "type": "Unique Equipment",
+    "owner": "Matveiffe",
+    "effect": "When self's Health is below 50%, damage taken decreases by <color=#82C65D>11/12/13/14/15/16%</color> and gains the same percentage of Physical Life Steal. When self's Health is above 50%, damage dealt increases by <color=#82C65D>11/12/13/14/15/16%</color> and ignores <color=#82C65D>550/600/650/700/750/800</color> of enemies' Physical DEF",
+    "evolution": "(Doll's current Evolution Level decreases the damage taken by <color=#82C65D>0/1/2/3</color>%, increases the damage dealt by <color=#82C65D>0/1/2/3</color>%, and ignores <color=#82C65D>0/50/100/150</color> Physical DEF of the enemy)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95072,
+    "name": "Destiny Reveal",
+    "description": "A magical item that can manifest the past and guide the future. It is said that Sher always carries it around.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip020.png",
+    "type": "Unique Equipment",
+    "owner": "Sher",
+    "effect": "When casting Light of Creation, there is <color=#82C65D>22/24/26/28/30/32%</color> chance to cast Spirit Prayer once.",
+    "evolution": "(Doll's current Evolution Level increases chance by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95079,
+    "name": "Floating Radiance",
+    "description": "A kickboard with dreamy radiance under the sun. Rest on it to be immersed in the sound of the sea.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip034.png",
+    "type": "Unique Equipment",
+    "owner": "Symbriette",
+    "effect": "After combat begins, increases Magic DMG taken by all enemy targets by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> every 10s, stacking up to 5 times.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95080,
+    "name": "Gorgeous Curtain",
+    "description": "Under the patronage of the Holmgard royal family, Nasha can study the lost magic as she pleases.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip063.png",
+    "type": "Unique Equipment",
+    "owner": "Nasha",
+    "effect": "Increases <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of self's ATK every 10 seconds, up to 4 times.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95081,
+    "name": "Divine Dove",
+    "description": "A fantastic animal unaffected by Kamui's psychic power, who silently accompanied her during the years she lived alone",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip046.png",
+    "type": "Unique Equipment",
+    "owner": "Kamui",
+    "effect": "Divine Punishment will also increase all allies' damage or healing effect of next active skills by <color=#82C65D>55/60/65/70/75/80%</color>",
+    "evolution": "(Doll's current Evolution Level increases active skill damage and healing effect by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95082,
+    "name": "Abyssal Flame",
+    "description": "A chain that rises from the abyss of lava. Filled with Sinmara's grudges.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip072.png",
+    "type": "Unique Equipment",
+    "owner": "Sinmara",
+    "effect": "The Damage Factor of Lava Explosion increases by <color=#82C65D>55/60/65/70/75/80%</color>",
+    "evolution": "(Doll's current Evolution Level increases the DMG Factor of Skill by <color=#82C65D>0/5/10/15</color>)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95083,
+    "name": "Sizzling Ice",
+    "description": "Made of special ice stone from the mysterious land of the far north. Except for Cersivey, others will be mercilessly frostbitten if they touch it.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip051.png",
+    "type": "Unique Equipment",
+    "owner": "Cersivey",
+    "effect": "Increases the DMG Factor of Cryofall by <color=#82C65D>55/60/65/70/75/80%</color>.",
+    "evolution": "(Doll's current Evolution Level increases the DMG Factor of Skill by <color=#82C65D>0/5/10/15</color>)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95084,
+    "name": "Sentience",
+    "description": "A symbol of the highest will of Irminsul, imbued with the power of life.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip038.png",
+    "type": "Unique Equipment",
+    "owner": "Asherah",
+    "effect": "Every skill attack inflicts extra Physical DMG equal to <color=#82C65D>22/24/26/28/30/32%</color> of ATK.",
+    "evolution": "(Doll's current Evolution Level increases Physical DMG equal to <color=#82C65D>0/2/4/6</color>% of ATK)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95085,
+    "name": "Glorious Amulet",
+    "description": "A testament to the past glory of Irminsul. Only allowed to be worn by the ritual-performing priestess.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip042.png",
+    "type": "Unique Equipment",
+    "owner": "Flare",
+    "effect": "Targets inflicted with Dispirit take <color=#82C65D>11/12/13/14/15/16%</color> Magic DMG equal to Flare's max health per second",
+    "evolution": "(Doll's current Evolution Level increases Magic DMG equal to <color=#82C65D>0/1/2/3</color>% of max HP)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95088,
+    "name": "Peacebringer",
+    "description": "The symbol of Protector. Represents Camilyne's dedication to protecting Cassiel.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip048.png",
+    "type": "Unique Equipment",
+    "owner": "Camilyne",
+    "effect": "Holy Scorch reduces the Physical DEF of the target equal to <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of self's ATK, stacking up to 3 times.",
+    "evolution": "(Doll's current Evolution Level increases the Physical DEF reduction of every stack of Holy Scorch by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95089,
+    "name": "Malevolence",
+    "description": "A fatal weapon utterly exuding malevolence when coming to heretics.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip028.png",
+    "type": "Unique Equipment",
+    "owner": "Dark Anemone",
+    "effect": "When there is an enemy target with Health below 50%, increases Anemone's DMG dealt by <color=#82C65D>38.5/42/45.5/49/52.5/56%</color>.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/3.5/7/10.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95090,
+    "name": "Dark Stalking",
+    "description": "The long whip that Betsy carries around, always raiding enemies from unexpected directions.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip033.png",
+    "type": "Unique Equipment",
+    "owner": "Betsy",
+    "effect": "Increases Crit Chance by <color=#82C65D>27.5/30/32.5/35/37.5/40%</color> and Crit DMG by <color=#82C65D>27.5/30/32.5/35/37.5/40%</color> during the first 60s of combat.",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/2.5/5/7.5</color>%, and Crit DMG by <color=#82C65D>0/5/10/15</color>)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95091,
+    "name": "Divine Judgment",
+    "description": "The Swords of Divine Judgment, also known as Parondit & Fusariel, hold magic powerful enough to cut the sky in half.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip036.png",
+    "type": "Unique Equipment",
+    "owner": "Curtana",
+    "effect": "The last burst of sword energy released by Field of Swords deals <color=#82C65D>33/36/39/42/45/48%</color> additional damage",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/3/6/9</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95092,
+    "name": "Ceremonial Sword",
+    "description": "A ceremonial sword used in rituals. It's more about looking cool than dealing damage.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip037.png",
+    "type": "Unique Equipment",
+    "owner": "Little Akasha",
+    "effect": "After combat starts, ATK increases by <color=#82C65D>1.65/1.8/1.95/2.1/2.25/2.4%</color> every 5s, stacks up to 15 times.",
+    "evolution": "(Evolving the current Character's Level will also increase an Attribute by <color=#82C65D>0/0.15/0.3/0.45</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95093,
+    "name": "Soul Calmer",
+    "description": "A staff capable of healing wounds and eliminating disasters.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip075.png",
+    "type": "Unique Equipment",
+    "owner": "Gracin",
+    "effect": "Every time an allied Doll is healed, ATK increases by an amount equal to <color=#82C65D>21/22/23/24/25/26%</color> of Gracin's ATK for the next 10s.",
+    "evolution": "(Evolving the current Character's Level will also increase an Attribute by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95094,
+    "name": "Everwatcher",
+    "description": "An artifact that once kept Demongod at bay. Now safeguards the future of the Elves.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip035.png",
+    "type": "Unique Equipment",
+    "owner": "Goddess Dana",
+    "effect": "When Goddess Dana is in the team, increases self‘s Magic DMG dealt by <color=#82C65D>11/12/13/14/15/16%</color>. The effect receives an 8% boost for every 1 Order Energy and Chaos Energy owned.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95095,
+    "name": "Melody Echo",
+    "description": "Originally, it was just an ordinary microphone. Under the nourishment of Flora's beautiful singing voice, it began to gradually change......",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip050.png",
+    "type": "Unique Equipment",
+    "owner": "Idol Flora",
+    "effect": "For the duration of Intoxicated, the target takes additional <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> damage from Idol Flora, and its Magic DEF is reduced equal to <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of Idol Flora's ATK.",
+    "evolution": "(Doll's current Evolution Level increases the DMG taken from Idol Flora for the duration of Intoxicated by<color=#82C65D>0/0.5/1/1.5</color>% and reduces the target's Magic DEF equal to $parameter2$% of Idol Flora's ATK)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95097,
+    "name": "Time Reset",
+    "description": "Time is reset again and again, but the future stays the same.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip047.png",
+    "type": "Unique Equipment",
+    "owner": "Phileanosis",
+    "effect": "All the effects of Time Overclock increase by <color=#82C65D>27.5/30/32.5/35/37.5/40%</color>",
+    "evolution": "(Doll's current Evolution Level increases the effects of Time Overclock by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95098,
+    "name": "Plop Bag",
+    "description": "Whatever you want, you'll find it here—and at unbeatable prices too. Don't miss out!",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip057.png",
+    "type": "Unique Equipment",
+    "owner": "Maja Kany",
+    "effect": "Every time High Spirited is triggered, reduces a random enemy target's Magic DEF by an amount equal to <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of Maja Kany's ATK; lasts for 30 seconds and stacks up to 5 times.",
+    "evolution": "(Doll's current Evolution Level decreases Magic DEF by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95099,
+    "name": "Reverie",
+    "description": "A magical item with a soft luminous glow. Can guide people into the dreamland.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip027.png",
+    "type": "Unique Equipment",
+    "owner": "Eddine",
+    "effect": "When Eddine is in the team, increases all allies' Magic DMG dealt by <color=#82C65D>11/12/13/14/15/16%</color>. This effect is boosted by 10% for every 1 point Order Energy.",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95100,
+    "name": "Ode to Sorrow",
+    "description": "Amorai has a way of cheering people up with her words. If you're in a bad mood, come talk to her.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip065.png",
+    "type": "Unique Equipment",
+    "owner": "Amorai",
+    "effect": "All allies receive a <color=#82C65D>38.5/42/45.5/49/52.5/56%</color> DMG Taken Reduction for 10s after entering combat.",
+    "evolution": "(Doll's current Evolution Level increases DMG Taken Reduction by <color=#82C65D>0/3.5/7/10.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95101,
+    "name": "Seaflow",
+    "description": "A ribbon carrying the will of the sea. It can not only see the billowing waves, but also hear the tides.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip043.png",
+    "type": "Unique Equipment",
+    "owner": "Bellavita",
+    "effect": "Enhances the buffs granted by Boundless Sea and Spiritual Water by <color=#82C65D>27.5/30/32.5/35/37.5/40%</color>",
+    "evolution": "(Doll's current Evolution Level increases the skill effect by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95102,
+    "name": "Kalavin",
+    "description": "A ceremonial instrument used during rituals to worship the god. Adorned with the feathers of the divine birds from Elysium",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip041.png",
+    "type": "Unique Equipment",
+    "owner": "Princess Amanami",
+    "effect": "Every stack of Stride on an ally increases the target's Magic DMG by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color>",
+    "evolution": "(Doll's current Evolution Level increases Magic DMG by <color=#82C65D>0/0.5/1/1.5</color>% per stack of Stride)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95103,
+    "name": "Regeneration",
+    "description": "An unpretentious brooch, but in fact blessed with the power of blessing by the Goddess of the Lake",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip040.png",
+    "type": "Unique Equipment",
+    "owner": "Ninsar",
+    "effect": "Every stack of Forest Blessing increases self's ATK by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> and converts <color=#82C65D>2.75/3/3.25/3.5/3.75/4%</color> of damage dealt to HP",
+    "evolution": "(Doll's current Evolution Level increases DMG by <color=#82C65D>0/0.25/0.5/0.75</color>% and HP regeneration by <color=#82C65D>0/0.25/0.5/0.75</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95104,
+    "name": "Virtual Vision",
+    "description": "U·Pollyben uses her paintbrush to create beautiful worlds, worlds that only she can see.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip061.png",
+    "type": "Unique Equipment",
+    "owner": "U·Pollyben",
+    "effect": "When Smoke and Mirrors deals DMG for the last time, inflicts Stun for 1s and reduces the target's Magic DEF equal to <color=#82C65D>11/12/13/14/15/16%</color> of U·Pollyben's ATK for 15s.",
+    "evolution": "(Doll's current Evolution Level decreases Magic DEF of the enemy equal to <color=#82C65D>0/1/2/3</color>% of U·Pollyben's max HP)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95105,
+    "name": "Shiny Star",
+    "description": "When Claire picks it up, the winner of the idol contest is a forgone conclusion.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip060.png",
+    "type": "Unique Equipment",
+    "owner": "Claire",
+    "effect": "Increases self's ATK by <color=#82C65D>8.25/9/9.75/10.5/11.25/12%</color> every 15s; stacks up to 3 times.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/0.75/1.5/2.25</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95106,
+    "name": "Healer's Kit",
+    "description": "A medical kit filled with all kinds of healing potions and medical devices. Sally carries it wherever she goes.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip066.png",
+    "type": "Unique Equipment",
+    "owner": "Sally",
+    "effect": "Every use of Injection Time increases self's ATK by <color=#82C65D>11/12/13/14/15/16%</color>; stacks up to 3 times.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/1/2/4</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95107,
+    "name": "Soulgain·Flame Chopper",
+    "description": "This blade is a gift from Amanami. As its name suggests, it can extinguish flame and clear paths. It can destroy souls and vanquish evil spirits before guiding them to the underworld.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip059.png",
+    "type": "Unique Equipment",
+    "owner": "Naiad",
+    "effect": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>22/24/26/28/30/32%</color> for 20s.",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/1/2/3</color>% and Crit DMG by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95108,
+    "name": "Patton Bear",
+    "description": "The toy bear hosts a powerful demon that can destroy the world. This demon only takes orders from Tuonel.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip062.png",
+    "type": "Unique Equipment",
+    "owner": "Tuonel of Night",
+    "effect": "Increases <color=#82C65D>5.5/6/6.5/7/7.5/8%</color> of self's max HP every 8 seconds, up to 5 times.",
+    "evolution": "(Doll's current Evolution Level increases max HP by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95109,
+    "name": "Forsakenness",
+    "description": "Absorbed the energy of the Lethe, with the power to make evil spirits forsake their past and fall into an eternal slumber at the bottom of the Lethe.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip055.png",
+    "type": "Unique Equipment",
+    "owner": "Sanva",
+    "effect": "During the first 30 seconds of combat, all allies take <color=#82C65D>11/12/13/14/15/16%</color> less DMG.",
+    "evolution": "(Doll's current Evolution Level reduces DMG taken by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95110,
+    "name": "Tiger Paw",
+    "description": "Don't worry, it's just a touch. It'll be absolutely fine, I promise!",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip064.png",
+    "type": "Unique Equipment",
+    "owner": "Kapla",
+    "effect": "Increases self's max Health by <color=#82C65D>11/12/13/14/15/16%</color> and ATK by <color=#82C65D>11/12/13/14/15/16%</color> for 30s.",
+    "evolution": "(Doll's current Evolution Level increases max Health and ATK by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95111,
+    "name": "Lucky Fishing Rod",
+    "description": "Angling's homemade fishing rod. Once the fish is hooked, it cannot easily break free.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip053.png",
+    "type": "Unique Equipment",
+    "owner": "Angling",
+    "effect": "Within 15 seconds after releasing Fish Shadow, increases self's ATK by <color=#82C65D>11/12/13/14/15/16%</color> and converts <color=#82C65D>11/12/13/14/15/16%</color> of Physical DMG dealt into HP; stacks up to 5 times.",
+    "evolution": "(Doll's current Evolution Level increases ATK by <color=#82C65D>0/1/2/3</color>%, and when using Unique Weapon, the ratio of Physical DMG dealt converted into HP increases by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95112,
+    "name": "Burning Wave",
+    "description": "A weapon Floating Captain wore around the waist. Focuses more on practicality than aesthetics.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip049.png",
+    "type": "Unique Equipment",
+    "owner": "Cassis",
+    "effect": "For the duration of Stimulated, increases Doll's max HP equal to <color=#82C65D>16.5/18/19.5/21/22.5/24%</color> of Cassis's max HP.",
+    "evolution": "(Doll's current Evolution Level increases HP equal to <color=#82C65D>0/1.5/3/4.5</color>% of Cassis's max HP for the duration of Stimulated)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95113,
+    "name": "Pearl Shell",
+    "description": "The rain drops and turns into grains of pearls. Shiroi usually hides inside and observes the humans coming and going.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip054.png",
+    "type": "Unique Equipment",
+    "owner": "Shiroi",
+    "effect": "Increases self's DMG dealt by <color=#82C65D>11/12/13/14/15/16%</color> and ignores <color=#82C65D>550/600/650/700/750/800</color> of enemy's Magic DEF; when self's HP falls below 50%, the effect of the weapon becomes reducing <color=#82C65D>11/12/13/14/15/16%</color> DMG taken and converting the DMG dealt by using skills into an equal amount of HP.",
+    "evolution": "(Doll's current Evolution Level decreases the DMG taken by <color=#82C65D>0/1/2/3</color>%, increases the damage dealt by <color=#82C65D>0/1/2/3</color>%, and ignores <color=#82C65D>0/50/100/150</color> Magic DEF of the enemy)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95115,
+    "name": "Seduction",
+    "description": "A hat favored by Nocturna. Nocturna has a lot of confidence in her fashion taste, even though it baffles many people.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip056.png",
+    "type": "Unique Equipment",
+    "owner": "Evernight Nocturna",
+    "effect": "Increases self's Crit Chance by <color=#82C65D>11/12/13/14/15/16%</color>. If self has the Waxing Moon buff, Crit DMG increases by <color=#82C65D>22/24/26/28/30/32%</color>.",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/1/2/3</color>% and Crit DMG by <color=#82C65D>0/2/4/6</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95116,
+    "name": "Endless Spirit",
+    "description": "A mysterious phantom floating around Auris.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip074.png",
+    "type": "Unique Equipment",
+    "owner": "Auris",
+    "effect": "All allies take <color=#82C65D>11/12/13/14/15/16%</color> less damage for 60s after entering combat.",
+    "evolution": "(Doll's current Evolution Level reduces DMG taken by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 32250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 2700,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 2250,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95119,
+    "name": "Redemption",
+    "description": "The staff given to Nicolis by the Holy Church leadership. A symbol of her role as a hierophant.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip058.png",
+    "type": "Unique Equipment",
+    "owner": "Nicolis",
+    "effect": "Every use of Holy Boundary has a 50% chance of increasing Magic DMG dealt by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color>; stacks up to 5 times.",
+    "evolution": "(Doll's current Evolution Level increases Magic DMG dealt by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 16500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4800,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95120,
+    "name": "Splendor",
+    "description": "Danelim's favorite hair accessory. Even in the darkness of the night, it gives off a radiant glow.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip052.png",
+    "type": "Unique Equipment",
+    "owner": "Danelim",
+    "effect": "In the first 30s of combat, there is a <color=#82C65D>22/24/26/28/30/32%</color> chance to generate 1 Chaos Energy per second.",
+    "evolution": "(Doll's current Evolution Level increases the chance to generate 1 Chaos Energy by <color=#82C65D>0/2/4/6</color>% per second)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 60,
+        "name": "Magic DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 270,
+        "name": "Crit Chance Resistance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95121,
+    "name": "Wispy Cloud",
+    "description": "Light as the wind, wispy as smoke. Amane's favorite garment.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip069.png",
+    "type": "Unique Equipment",
+    "owner": "Amane",
+    "effect": "Crit Chance increases by <color=#82C65D>11/12/13/14/15/16%</color>",
+    "evolution": "(Doll's current Evolution Level increases Crit Chance by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95122,
+    "name": "Odomera",
+    "description": "A sword handed down over generations in the Kingdom of Lochaber. Reserved for the heir to the throne.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip068.png",
+    "type": "Unique Equipment",
+    "owner": "Carol",
+    "effect": "After combat starts, ATK increases by <color=#82C65D>1.65/1.8/1.95/2.1/2.25/2.4%</color> every 5s, stacks up to 15 times.",
+    "evolution": "(Evolving the current Character's Level will also increase an Attribute by <color=#82C65D>0/0.15/0.3/0.45</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 22500,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 4500,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1500,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95123,
+    "name": "Sweet Heartbeat",
+    "description": "Snowshine's newly developed dessert. Popular among young people.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip071.png",
+    "type": "Unique Equipment",
+    "owner": "Snowshine",
+    "effect": "Increases DMG Dealt of all allies by <color=#82C65D>1/2/3/4/5/6%</color>.",
+    "evolution": "(Evolving the current Character's Level will also increase DMG by <color=#82C65D>0/1/2/3</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 20250,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 3000,
+        "isDecimal": false
+      },
+      {
+        "id": 50,
+        "name": "Physical DEF",
+        "baseStat": 1275,
+        "isDecimal": false
+      },
+      {
+        "id": 830,
+        "name": "Crit DMG Resistance",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  },
+  {
+    "id": 95124,
+    "name": "Heart Arrow",
+    "description": "A ranged weapon infused with Geisha's thoughts.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/exclusiveequip//charequip073.png",
+    "type": "Unique Equipment",
+    "owner": "Geisha",
+    "effect": "Every Crit landed reduces the enemy's Physical DEF by <color=#82C65D>5.5/6/6.5/7/7.5/8%</color>; stacks up to 5 times",
+    "evolution": "(Doll's current Evolution Level decreases the enemy target's Physical DEF by <color=#82C65D>0/0.5/1/1.5</color>%)",
+    "attributes": [
+      {
+        "id": 20,
+        "name": "Health",
+        "baseStat": 12750,
+        "isDecimal": false
+      },
+      {
+        "id": 30,
+        "name": "Attack",
+        "baseStat": 5250,
+        "isDecimal": false
+      },
+      {
+        "id": 130,
+        "name": "Crit Chance",
+        "baseStat": 150,
+        "isDecimal": true
+      },
+      {
+        "id": 140,
+        "name": "Crit DMG",
+        "baseStat": 450,
+        "isDecimal": true
+      }
+    ]
+  }
+]

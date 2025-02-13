@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mercury",
+    "image": "/rw/assets/GLOBAL/ui/layouts/yard/ElementsItem1.png"
+  },
+  {
+    "id": 2,
+    "name": "Saltstone",
+    "image": "/rw/assets/GLOBAL/ui/layouts/share/ElementsItem2.png"
+  },
+  {
+    "id": 3,
+    "name": "Brimstone",
+    "image": "/rw/assets/GLOBAL/ui/layouts/basecharacterinfo/ElementsItem3.png"
+  },
+  {
+    "id": 4,
+    "name": "Aether",
+    "image": "/rw/assets/GLOBAL/ui/widgets/ElementsItem4.png"
+  }
+]

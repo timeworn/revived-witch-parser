@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "exp": 100,
+    "alchemyexplimit": 10500,
+    "alchemystage": 1,
+    "byproductProbability": 1
+  },
+  {
+    "id": 2,
+    "exp": 200,
+    "alchemyexplimit": 10500,
+    "alchemystage": 1,
+    "byproductProbability": 2
+  },
+  {
+    "id": 3,
+    "exp": 300,
+    "alchemyexplimit": 10500,
+    "alchemystage": 2,
+    "byproductProbability": 3
+  },
+  {
+    "id": 4,
+    "exp": 400,
+    "alchemyexplimit": 10500,
+    "alchemystage": 2,
+    "byproductProbability": 4
+  },
+  {
+    "id": 5,
+    "exp": 500,
+    "alchemyexplimit": 10500,
+    "alchemystage": 2,
+    "byproductProbability": 5
+  },
+  {
+    "id": 6,
+    "exp": 600,
+    "alchemyexplimit": 10500,
+    "alchemystage": 3,
+    "byproductProbability": 6
+  },
+  {
+    "id": 7,
+    "exp": 700,
+    "alchemyexplimit": 10500,
+    "alchemystage": 3,
+    "byproductProbability": 7
+  },
+  {
+    "id": 8,
+    "exp": 800,
+    "alchemyexplimit": 10500,
+    "alchemystage": 3,
+    "byproductProbability": 8
+  },
+  {
+    "id": 9,
+    "exp": 900,
+    "alchemyexplimit": 10500,
+    "alchemystage": 4,
+    "byproductProbability": 9
+  },
+  {
+    "id": 10,
+    "exp": 1000,
+    "alchemyexplimit": 10500,
+    "alchemystage": 4,
+    "byproductProbability": 10
+  },
+  {
+    "id": 11,
+    "exp": 1100,
+    "alchemyexplimit": 10500,
+    "alchemystage": 4,
+    "byproductProbability": 11
+  },
+  {
+    "id": 12,
+    "exp": 1200,
+    "alchemyexplimit": 10500,
+    "alchemystage": 5,
+    "byproductProbability": 12
+  },
+  {
+    "id": 13,
+    "exp": 1300,
+    "alchemyexplimit": 10500,
+    "alchemystage": 5,
+    "byproductProbability": 13
+  },
+  {
+    "id": 14,
+    "exp": 1400,
+    "alchemyexplimit": 10500,
+    "alchemystage": 5,
+    "byproductProbability": 14
+  },
+  {
+    "id": 15,
+    "exp": -1,
+    "alchemyexplimit": -1,
+    "alchemystage": 6,
+    "byproductProbability": 15
+  }
+]

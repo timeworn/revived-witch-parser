@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "name": "Fluorescence Training",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 6000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 300
+    }
+  },
+  {
+    "id": 2,
+    "name": "Fluorescence Training",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 12000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 600
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fluorescence Training",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 24000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 1200
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fluorescence Enhancement",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 8000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 100
+    }
+  },
+  {
+    "id": 5,
+    "name": "Fluorescence Enhancement",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 16000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 200
+    }
+  },
+  {
+    "id": 6,
+    "name": "Fluorescence Enhancement",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 32000,
+    "rarity": 1,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 400
+    }
+  },
+  {
+    "id": 7,
+    "name": "Fluorescence Training",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 18000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 900
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fluorescence Training",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 36000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 1800
+    }
+  },
+  {
+    "id": 9,
+    "name": "Fluorescence Training",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 72000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 3600
+    }
+  },
+  {
+    "id": 10,
+    "name": "Fluorescence Training",
+    "time": 600,
+    "timeString": "10:00:00",
+    "expGain": 90000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 4500
+    }
+  },
+  {
+    "id": 11,
+    "name": "Fluorescence Enhancement",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 24000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 300
+    }
+  },
+  {
+    "id": 12,
+    "name": "Fluorescence Enhancement",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 48000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 600
+    }
+  },
+  {
+    "id": 13,
+    "name": "Fluorescence Enhancement",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 96000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 1200
+    }
+  },
+  {
+    "id": 14,
+    "name": "Fluorescence Enhancement",
+    "time": 720,
+    "timeString": "12:00:00",
+    "expGain": 144000,
+    "rarity": 2,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 1800
+    }
+  },
+  {
+    "id": 15,
+    "name": "Fluorescence Training",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 36000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 1800
+    }
+  },
+  {
+    "id": 16,
+    "name": "Fluorescence Training",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 72000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 3600
+    }
+  },
+  {
+    "id": 17,
+    "name": "Fluorescence Training",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 144000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 7200
+    }
+  },
+  {
+    "id": 18,
+    "name": "Fluorescence Training",
+    "time": 600,
+    "timeString": "10:00:00",
+    "expGain": 180000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35014,
+        "name": "White Light",
+        "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100238.png",
+        "type": "Currency"
+      },
+      "amount": 9000
+    }
+  },
+  {
+    "id": 19,
+    "name": "Fluorescence Enhancement",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 48000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 600
+    }
+  },
+  {
+    "id": 20,
+    "name": "Fluorescence Enhancement",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 96000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 1200
+    }
+  },
+  {
+    "id": 21,
+    "name": "Fluorescence Enhancement",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 192000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 2400
+    }
+  },
+  {
+    "id": 22,
+    "name": "Fluorescence Enhancement",
+    "time": 720,
+    "timeString": "12:00:00",
+    "expGain": 288000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 3600
+    }
+  },
+  {
+    "id": 23,
+    "name": "Fluorescence Enhancement",
+    "time": 960,
+    "timeString": "16:00:00",
+    "expGain": 384000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 4800
+    }
+  },
+  {
+    "id": 24,
+    "name": "Fluorescence Enhancement",
+    "time": 360,
+    "timeString": "06:00:00",
+    "expGain": 144000,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35015,
+        "name": "Blue Light",
+        "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100239.png",
+        "type": "Currency"
+      },
+      "amount": 1800
+    }
+  },
+  {
+    "id": 25,
+    "name": "Fluorescence Mastery",
+    "time": 120,
+    "timeString": "02:00:00",
+    "expGain": 50400,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 360
+    }
+  },
+  {
+    "id": 26,
+    "name": "Fluorescence Mastery",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 100800,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 720
+    }
+  },
+  {
+    "id": 27,
+    "name": "Fluorescence Mastery",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 201600,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 1440
+    }
+  },
+  {
+    "id": 28,
+    "name": "Fluorescence Mastery",
+    "time": 720,
+    "timeString": "12:00:00",
+    "expGain": 302400,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 2160
+    }
+  },
+  {
+    "id": 29,
+    "name": "Fluorescence Mastery",
+    "time": 960,
+    "timeString": "16:00:00",
+    "expGain": 403200,
+    "rarity": 3,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 2880
+    }
+  },
+  {
+    "id": 30,
+    "name": "Fluorescence Mastery",
+    "time": 240,
+    "timeString": "04:00:00",
+    "expGain": 151200,
+    "rarity": 4,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 1080
+    }
+  },
+  {
+    "id": 31,
+    "name": "Fluorescence Mastery",
+    "time": 480,
+    "timeString": "08:00:00",
+    "expGain": 302400,
+    "rarity": 4,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 2160
+    }
+  },
+  {
+    "id": 32,
+    "name": "Fluorescence Mastery",
+    "time": 640,
+    "timeString": "10:40:00",
+    "expGain": 403200,
+    "rarity": 4,
+    "itemNeeded": {
+      "item": {
+        "id": 35016,
+        "name": "Chromatic Light",
+        "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100240.png",
+        "type": "Currency"
+      },
+      "amount": 2880
+    }
+  }
+]

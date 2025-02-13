@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Default Avatar Frame",
+    "description": "`Default Avatar Frame",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame.png"
+  },
+  {
+    "id": 2,
+    "name": "CBT Limited Avatar Frame",
+    "description": "Revived Witch \nCBT Limited Avatar Frame",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame3.png"
+  },
+  {
+    "id": 3,
+    "name": "雷霆头像框",
+    "description": "官网预约雷霆头像框",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame4.png"
+  },
+  {
+    "id": 4,
+    "name": "Phantom Mirror of Stars",
+    "description": "Clear Phantom Mirror of Stars\nMay the strength to overcome yourself be with you always.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame5.png"
+  },
+  {
+    "id": 5,
+    "name": "王老菊头像框",
+    "description": "Wang Laoju Exclusive Channel\nWork! Work more!",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame6.png"
+  },
+  {
+    "id": 6,
+    "name": "Path Not Taken Avatar Frame",
+    "description": "Path Not Taken Avatar Frame",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame7.png"
+  },
+  {
+    "id": 7,
+    "name": "Isle Adventure Avatar Frame",
+    "description": "Isle Adventure Event Memorial Avatar Frame",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame8.png"
+  },
+  {
+    "id": 8,
+    "name": "Kitty Cat",
+    "description": "Via redemption code\nWith this, even the tone has changed... Meowww!",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame9.png"
+  },
+  {
+    "id": 9,
+    "name": "Chrismas Avatar Frame",
+    "description": "Merry Chrismas！",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame10.png"
+  },
+  {
+    "id": 10,
+    "name": "Fashion Icon Avatar Frame",
+    "description": "Put it on to show off your status",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame11.png"
+  },
+  {
+    "id": 11,
+    "name": "Spring Festival Avatar Frame",
+    "description": "Happy Spring Festival!",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame12.png"
+  },
+  {
+    "id": 12,
+    "name": "1st Anniversary Avatar Frame",
+    "description": "Revived Witch 1st Anniversary",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame13.png"
+  },
+  {
+    "id": 13,
+    "name": "Summer Echo",
+    "description": "The girls got together for an unforgettable time at the end of the summer.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/headframe//HeadPhotoFrame14.png"
+  }
+]

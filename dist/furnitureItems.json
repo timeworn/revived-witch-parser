@@ -1,0 +1,3632 @@
+[
+  {
+    "id": 80001,
+    "name": "Aged Floor",
+    "description": "[Floor] Old wooden floor. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100534.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80002,
+    "name": "Green Wallpaper",
+    "description": "[Wallpaper] Green patterned wallpaper. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100539.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80003,
+    "name": "Orange Curtains",
+    "description": "[Window] A window with orange curtains. Increase Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100528.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "4*5",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80004,
+    "name": "Wooden Bookshelf",
+    "description": "[Bulky Item] A wooden bookshelf. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100537.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80005,
+    "name": "Red Couch",
+    "description": "[Bulky Item] A red leather sofa. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100538.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80006,
+    "name": "Alchemical Cauldron",
+    "description": "[Compact Item] The alchemical cauldron used by Witches. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100535.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80007,
+    "name": "Wooden Desk",
+    "description": "[Compact Item] A small wooden desk. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100536.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80008,
+    "name": "Leather Chair",
+    "description": "[Compact Item] A red leather chair. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100541.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80009,
+    "name": "Sticky Note Wall",
+    "description": "[Compact Item] Simple sticky note wall. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100526.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80010,
+    "name": "Antique Floorlamp",
+    "description": "[Compact Item] A floor lamp with orange light. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100525.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80011,
+    "name": "Astrometer",
+    "description": "[Compact Item] An astrometer. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100540.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80012,
+    "name": "Round Carpet",
+    "description": "[Carpet] A green round carpet. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100542.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "4*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80013,
+    "name": "Dark Red Carpet",
+    "description": "[Carpet] A carpet in wine red. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100533.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80014,
+    "name": "Wall Clock",
+    "description": "[Wall Decor] A metal wall clock. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100530.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80015,
+    "name": "Hanging Painting",
+    "description": "[Wall Decor] A hanging painting with flowers. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100529.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80016,
+    "name": "Hanging Painting Set",
+    "description": "[Wall Decor] A hanging painting set composed of three. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100531.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80017,
+    "name": "Metal Wall Lamp",
+    "description": "[Wall Decor] A metal wall lamp with yellow light. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100532.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80051,
+    "name": "Marble Fireplace",
+    "description": "[Compact Item] A fireplace made of marble. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100567.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80052,
+    "name": "White Rose",
+    "description": "[Compact Item] Fresh white rose. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100566.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80053,
+    "name": "Table Lamp",
+    "description": "[Compact Item] A small table lamp. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100564.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80054,
+    "name": "Stylish Floorlamp",
+    "description": "[Compact Item] A floor lamp with dim light. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100562.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80055,
+    "name": "Milky Dresser",
+    "description": "[Compact Item] A milky dresser made of wood. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100561.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80056,
+    "name": "Blue Recliner",
+    "description": "[Compact Item] A small blue armchair. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100560.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80057,
+    "name": "Luxury Couch",
+    "description": "[Bulky Item] A luxury couch made of wood with a cloth cover. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100559.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80058,
+    "name": "White Bookcase",
+    "description": "[Bulky Item] A luxurious white bookcase. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100557.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80059,
+    "name": "Wall Lamp",
+    "description": "[Wall Decor] A wall lamp with dim light. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100573.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80060,
+    "name": "Metal Chandelier",
+    "description": "[Wall Decor] A luxury chandelier made of metal. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100572.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80061,
+    "name": "Rose Photo",
+    "description": "[Wall Decor] A photo with white roses. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100571.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80062,
+    "name": "Miniature Mirror",
+    "description": "[Wall Decor] A miniature mirror for making up easily. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100570.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80063,
+    "name": "Flower Photo",
+    "description": "[Wall Decor] A photo of colorful flowers. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100569.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80064,
+    "name": "Rack",
+    "description": "[Wall Decor] A sturdy rack. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100568.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80065,
+    "name": "Roller Shutter",
+    "description": "[Window] A window with roller blinds. Increase Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100556.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*5",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80066,
+    "name": "Wooden Floor",
+    "description": "[Floor] Brand new wooden floor. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100625.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80067,
+    "name": "Sea-green Wallpaper",
+    "description": "[Wallpaper] Wallpaper with blue-green patterns. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100555.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80068,
+    "name": "European-style Carpet",
+    "description": "[Carpet] A round carpet in European style. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100558.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80101,
+    "name": "Mahogany Cabinet",
+    "description": "[Bulky Item] A small mahogany cabinet for easy storage. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100582.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80102,
+    "name": "Mahogany Wardrobe",
+    "description": "[Bulky Item] A large mahogany wardrobe. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100583.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80103,
+    "name": "Floor Candlestick",
+    "description": "[Compact Item] A floor candlestick. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100589.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80104,
+    "name": "Mahogany Table",
+    "description": "[Compact Item] A small table made of mahogany. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100577.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80105,
+    "name": "Mahogany Chair",
+    "description": "[Compact Item] A seat made of mahogany. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100576.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80106,
+    "name": "Grand Piano",
+    "description": "[Compact Item] A grand piano with a bright tone. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100584.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80107,
+    "name": "Mahogany Couch",
+    "description": "[Bulky Item] A sofa made of mahogany. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100575.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80108,
+    "name": "Black Pottery Vase",
+    "description": "[Compact Item] A black pottery vase. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100579.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80109,
+    "name": "Dressing Table",
+    "description": "[Compact Item] A simple wooden dressing table. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100581.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80110,
+    "name": "Gramophone",
+    "description": "[Compact Item] An old-fashioned gramophone. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100580.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80111,
+    "name": "Candle Chandelier",
+    "description": "[Wall Decor] A chandelier with candles. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100588.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80112,
+    "name": "Candle Sconce",
+    "description": "[Wall Decor] A wall lamp with candles. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100587.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80113,
+    "name": "Mahogany Wall Clock",
+    "description": "[Wall Decor] A wall clock made of mahogany. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100574.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80114,
+    "name": "Gothic Window",
+    "description": "[Window] A window in gothic style. Increase Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100590.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "4*5",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80115,
+    "name": "Ribbed Floor",
+    "description": "[Floor] Ribbed wooden floor. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100626.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80116,
+    "name": "Violet Wallpaper",
+    "description": "[Wallpaper] Violet wallpaper. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100578.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80117,
+    "name": "Persian Carpet",
+    "description": "[Carpet] A square carpet in Persian style. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100585.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80118,
+    "name": "雷霆沙发",
+    "description": "【大件】雷霆游戏的集会沙发。摆放后可增加20点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100650.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80119,
+    "name": "雷霆接待台",
+    "description": "【大件】雷霆游戏的集会接待台。摆放后可增加20点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100651.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "8*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80120,
+    "name": "雷霆云朵吊灯",
+    "description": "【墙饰】雷霆游戏的云朵吊灯。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100652.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*7",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80121,
+    "name": "雷霆圆桌",
+    "description": "【小件】雷霆游戏的小圆桌。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100653.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80122,
+    "name": "雷霆地板",
+    "description": "【地板】雷霆游戏的大理石地板。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100654.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80123,
+    "name": "雷霆墙纸",
+    "description": "【墙纸】雷霆游戏的墙纸。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100655.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80124,
+    "name": "雷霆盆栽",
+    "description": "【大件】雷霆游戏的大型植物盆栽。摆放后可增加20点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100656.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80125,
+    "name": "雷霆屏风",
+    "description": "【墙饰】雷霆游戏的大型屏风。摆放后可增加20点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100657.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80126,
+    "name": "TapTap立牌",
+    "description": "【小件】TapTap的易拉宝立牌。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100658.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80127,
+    "name": "TapTap饰牌",
+    "description": "【墙饰】TapTap的饰牌。摆放后可增加10点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100659.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80128,
+    "name": "好游快爆立牌",
+    "description": "【小件】好游快爆的易拉宝立牌。摆放后可增加15点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100660.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80129,
+    "name": "好游快爆饰牌",
+    "description": "【墙饰】好游快爆的饰牌。摆放后可增加10点舒适度。",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100661.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80130,
+    "name": "Star Wallpaper",
+    "description": "[Wallpaper] The wallpaper with the theme of a magnificent sky full of shining stars. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100662.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80131,
+    "name": "Star Floor",
+    "description": "[Floor] The floor with the theme of a magnificent sky full of shining stars. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100663.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80132,
+    "name": "Star & Moon Wall Lamp Set",
+    "description": "[Wall Decor] A wall lamp set with the theme of stars and the moon. It's so romantic. Increases Comfort by 90 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100664.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "20*7",
+    "comfortPoint": 90
+  },
+  {
+    "id": 80133,
+    "name": "Small Flower Bed",
+    "description": "[Compact Item] A little flower bed sends out a wonderful message of blessing. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100665.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80134,
+    "name": "Garden Arch",
+    "description": "[Bulky Item] Through this arch of happiness you can feel the beauty of stars. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100666.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*1",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80135,
+    "name": "Garden Bench",
+    "description": "[Compact Item] A slightly worn wooden bench, sitting on it makes you feel refreshed somehow. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100667.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80136,
+    "name": "Starlight Street Lamp",
+    "description": "[Bulky Item] A lonesome and tall street lamp, perfect company for the solitary figure on the bench. Increases Comfort by 25 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100668.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 25
+  },
+  {
+    "id": 80137,
+    "name": "Starnight Fountain",
+    "description": "[Bulky Item] Clear water surges from within. The sculpted figures seem to be dancing. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100669.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80138,
+    "name": "Little Floorlamp",
+    "description": "[Compact Item] A small floorlamp that illuminates your path. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100670.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80139,
+    "name": "Astronomical Telescope",
+    "description": "[Compact Item] You can see the galaxy with this. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100671.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80140,
+    "name": "Garden Plans (Left)",
+    "description": "[Carpet] A large flower bed covers the ground beneath your feet. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100672.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "7*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80141,
+    "name": "Garden Plans (Right)",
+    "description": "[Carpet] A large flower bed covers the ground beneath your feet. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100672.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "7*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80142,
+    "name": "Phantom Mirror of Stars",
+    "description": "[Compact Item] A trophy to show that you have overcome yourself and gotten rid of your doubts in the world of the Phantom Mirror of Stars. Increases Comfort by 50 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100673.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*2",
+    "comfortPoint": 50
+  },
+  {
+    "id": 80143,
+    "name": "Coin Decor",
+    "description": "[Compact Item] A large coin of unknown origin. Put it on display! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100707.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80144,
+    "name": "Red Star",
+    "description": "[Compact Item] A trophy to show that you have overcome yourself in the world of the Phantom Mirror of Stars. An ominous black fog is coming out from the gap of the red star. Increases Comfort by 50 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100682.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 50
+  },
+  {
+    "id": 80145,
+    "name": "Star?",
+    "description": "[Compact Item] Round with a soft glow. Somehow it also smells nice! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100708.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80146,
+    "name": "Cat Tower - Kaze",
+    "description": "[Bulky Item] A kitten peeks its head out. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100681.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80147,
+    "name": "Cake for Big A",
+    "description": "[Compact Item] Happy birthday, Big A! Increases Comfort by 15.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100683.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80148,
+    "name": "Potato",
+    "description": "[Compact Item] It's a sullen potato! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100709.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80149,
+    "name": "Witch Pillow",
+    "description": "[Compact Item] What adorable cheeks! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100718.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80150,
+    "name": "\"Take this blow!\"",
+    "description": "[Bulky Item] Humph, stop doing that, you hear? Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100734.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80151,
+    "name": "Sun Lamp",
+    "description": "[Wallpaper] An artificial lamp that grants you the comfort of sunbathing at your home without the risk of sunburn. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100806.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80152,
+    "name": "Dolphin Painting",
+    "description": "[Wall Decor] A hanging painting shaped like a dolphin. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100801.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80153,
+    "name": "Island Painting",
+    "description": "[Wall Decor] A hanging painting shaped like a small isle. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100807.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80154,
+    "name": "Beach Shack",
+    "description": "[Bulky Item] A beach shack replicated for the succulent access of watermelons. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100802.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "5*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80155,
+    "name": "Palm Tree Decor",
+    "description": "[Compact Item] A palm tree relocated from the seaside. Coconut juice at your beck and call. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100808.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80156,
+    "name": "Beach Toy",
+    "description": "[Compact Item] The beach is your garage. Build to your heart's content. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100803.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80157,
+    "name": "Beach Castle",
+    "description": "[Compact Item] A castle fit for a sandy king. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100825.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80158,
+    "name": "Beach Parasol",
+    "description": "[Compact Item] A souvenir parasol from the beaches. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100810.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80159,
+    "name": "Beach Bench",
+    "description": "[Compact Item] Crumble into the comforts of this bench and live the vacation. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100804.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80160,
+    "name": "Surfboard Rack",
+    "description": "[Bulky Item] A souvenir from the beaches after making the wildest splash of your life. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100799.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80161,
+    "name": "Triangular Table",
+    "description": "[Compact Item] A wooden triangular table. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100809.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80162,
+    "name": "BBQ Grill Rack",
+    "description": "[Compact Item] The soul of a beach party. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100805.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 10
+  },
+  {
+    "id": 80163,
+    "name": "Beach Wallpaper",
+    "description": "[Wallpaper] A magical wallpaper that allows you to live the beach life. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100798.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80164,
+    "name": "Artificial Beach",
+    "description": "[Flooring] Sand brought back from the beach for some reason. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100800.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80165,
+    "name": "Flying Broom",
+    "description": "[Compact Item] A magical broom that can take you up into the sky. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100832.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "5*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80166,
+    "name": "Flying Witch",
+    "description": "[Wall Decor] Is this a bird? Or an airplane? Neither... It's a witch. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100833.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*4",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80167,
+    "name": "Pumpkin Candy Jar",
+    "description": "[Bulky Item] Trick or treat. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100834.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80168,
+    "name": "Ancient Castle Wallpaper",
+    "description": "[Wallpaper] A perfect copy of Dracucat's castle, down to every tile. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100859.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80169,
+    "name": "Ancient Castle Floor",
+    "description": "[Floor] Quaint flooring with a retro charm. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100855.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80170,
+    "name": "Broken Iron Window",
+    "description": "[Window] A slightly worn window. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100856.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*5",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80171,
+    "name": "Portrait of Dracucat",
+    "description": "[Wall Decor] The dignified portrait of Earl Dracucat. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100850.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80172,
+    "name": "Cluck Wall Clock",
+    "description": "[Wall Decor] A wall clock in the shape of an owl. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100849.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80173,
+    "name": "Tiny Cobweb",
+    "description": "[Wall Decor] A tiny cobweb with a creepy spider dangling from it. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100851.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80174,
+    "name": "Thorny Vine",
+    "description": "[Wall Decor] A strange pattern woven from thorns. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100842.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80175,
+    "name": "Ancient Castle Chandelier",
+    "description": "[Wall Decor] An old chandelier that retains traces of its former glory. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100843.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80176,
+    "name": "Tiny Phantom Lamp",
+    "description": "[Compact Item] A phantom that adds to the creepy atmosphere. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100858.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80177,
+    "name": "Pumpkin Head Candy Box",
+    "description": "[Compact Item] Spoils of trick-or-treating. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100853.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80178,
+    "name": "Ancient Castle Chair",
+    "description": "[Compact Item] A chair that is at once primitive and glamorous. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100852.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80179,
+    "name": "Iron Armor Knight",
+    "description": "[Compact Item] This stately knight armor looks as if it could spring to life any minute. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100847.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80180,
+    "name": "Candle Floorlamp",
+    "description": "[Compact Item] A candle that has been burning for a long time. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100857.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80181,
+    "name": "Witch Coat Hanger",
+    "description": "[Compact Item] The witch in the night sky turns out to be... Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100848.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80182,
+    "name": "Scary Dining Table",
+    "description": "[Bulky Item] A feast steeped in the Halloween spirit. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100844.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80183,
+    "name": "Monster Fireplace",
+    "description": "[Bulky Item] A fireplace that is a living monster munching on coal. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100846.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80184,
+    "name": "Earl's Desk",
+    "description": "[Bulky Item] Earl Dracucat's desk. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100845.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80185,
+    "name": "Summon Circle",
+    "description": "[Carpet] A circle that can supposedly summon horrible demons. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100854.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80186,
+    "name": "Birthday Cake",
+    "description": "[Compact Item]A carefully prepared birthday cake! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100863.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80187,
+    "name": "Warm Woodpile",
+    "description": "[Compact Item] Light it up to warm the place and the atmosphere. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100873.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80188,
+    "name": "Xmas Mistletoe",
+    "description": "[Wall Decor] A must-have to welcome Christmas. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100874.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80189,
+    "name": "Christmeow",
+    "description": "[Compact Item] Wazza Christmeow purrsent this year? Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100875.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 50
+  },
+  {
+    "id": 80190,
+    "name": "Fervent Fireplace",
+    "description": "[Bulky Item] They say Santa likes a nice, well-kept fireplace. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100876.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80191,
+    "name": "Xmas Banner",
+    "description": "[Wall Decor] A ring-a-ding-ding holly-woven banner. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100877.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80192,
+    "name": "Winter Tea Set",
+    "description": "[Compact Item] How 'bout a cuppa in the wintry night, while we wait for Santa? Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100878.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80193,
+    "name": "Xmas Windows",
+    "description": "[Windows] Thick curtains keep the blizzard out of your cottage. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100879.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*5",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80194,
+    "name": "Snug Carpet",
+    "description": "[Compact Item] A fluffy carpet where you walk barefoot without even feeling cold. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100881.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80195,
+    "name": "Xmas Wall Clock",
+    "description": "[Wall Decor] A wall clock made of frosting and gingerbread. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100882.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80196,
+    "name": "Xmas Giftboxes",
+    "description": "[Compact Item] Gifts delivered by Santa. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100883.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80197,
+    "name": "Bell Couch",
+    "description": "[Bulky Item] Let's all laze around and do nothing this Christmas too... Zzz... Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100884.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80198,
+    "name": "Xmas Tree",
+    "description": "[Bulky Item] A Christmas tree jam-packed with presents. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100885.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80199,
+    "name": "Xmas Stocking",
+    "description": "[Wall Decor] A jumbo Christmas stocking made through overtime labor. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100886.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80200,
+    "name": "Reindeer Armchair",
+    "description": "[Compact Item] Sit and give the chonky reindeer a hug! Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100887.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80201,
+    "name": "Wood Wallpaper",
+    "description": "[Wallpaper] Wooden cabin atmosphere in the comfort of your own home. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100888.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80202,
+    "name": "Square Tiles",
+    "description": "[Floor] The square tiles are patterned. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100880.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80203,
+    "name": "Pure White Cynetia standee",
+    "description": "[Compact Item] A standee handmade by Cynetia as a forget-me-not present to the Witch. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100943.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80204,
+    "name": "Starry Promise Matveiffe standee",
+    "description": "[Compact Item] A standee handmade by Matveiffe as a forget-me-not present to the Witch. Increases Comfort by 10 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100942.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80205,
+    "name": "Festival Hotpot",
+    "description": "[Bulky Item] Nothing like a steaming hotpot on a cold winter day. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100934.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80206,
+    "name": "Festival Screen",
+    "description": "[Bulky Item] A giant screen festooned with festive lanterns. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100928.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "2*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80207,
+    "name": "Dragon Lantern",
+    "description": "[Bulky Item] A lantern inspired by oriental mythology. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100933.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80208,
+    "name": "Festive Doorframe",
+    "description": "[Compact Item] A portal to the spring bursting with vigor and fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100938.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80209,
+    "name": "Lucky Charm",
+    "description": "[Wall Decor] Thousands of families, bathed in the bright sunlight, are replacing the old peach wood charms with new ones. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100931.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80210,
+    "name": "Festive Window",
+    "description": "[Window] A quaint window, through which you can clearly see the fireworks. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100927.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "4*4",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80211,
+    "name": "Firecrackers",
+    "description": "[Wall Decor] Said to be a secret item used to drive off the Beast. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100941.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80212,
+    "name": "Chinese Knot",
+    "description": "[Wall Decor] A time-honored knot that has its roots in the Far East. Symbolizes good fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100936.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80213,
+    "name": "Ceiling Light",
+    "description": "[Wall Decor] An oriental style ceiling light. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100940.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80214,
+    "name": "Lion Dance",
+    "description": "[Compact Item] A set in the shape of an oriental auspicious beast. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100935.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80215,
+    "name": "Cracker Pack",
+    "description": "[Compact Item] A children's favorite during the Spring Festival. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100929.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80216,
+    "name": "Cloth Tiger",
+    "description": "[Compact Item] A vicious-looking little tiger that can repel bad luck. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100939.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80217,
+    "name": "Hollowed Stool",
+    "description": "[Compact Item] A delicate stool with a classical aura. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100930.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80218,
+    "name": "Palace Lantern",
+    "description": "[Compact Item] A royal lamp from the Far East. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100932.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80219,
+    "name": "Festive Wallpaper",
+    "description": "[Wallpaper] A kind of oriental-style wallpaper, looking festive. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100926.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80220,
+    "name": "Traditional Floor",
+    "description": "[Floor] Sandalwood floor. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100947.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80221,
+    "name": "Festive Carpet",
+    "description": "[Carpet] A festive-looking red carpet. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100937.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80222,
+    "name": "Festival Hotpot",
+    "description": "[Bulky Item] A giant screen festooned with festive lanterns. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100964.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80223,
+    "name": "Festival Screen",
+    "description": "[Bulky Item] A lantern inspired by oriental mythology. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100928.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "2*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80224,
+    "name": "Dragon Lantern",
+    "description": "[Wall Decor] Thousands of families, bathed in the bright sunlight, are replacing the old peach wood charms with new ones. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100963.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80225,
+    "name": "Festive Doorframe",
+    "description": "[Compact Item] A portal to the spring bursting with vigor and fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100938.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80226,
+    "name": "Lucky Charm",
+    "description": "[Window] A quaint window, through which you can clearly see the fireworks. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100957.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80227,
+    "name": "Festive Window",
+    "description": "[Wall Decor] Said to be a secret item used to drive off the Beast. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100927.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "4*4",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80228,
+    "name": "Chinese Knot",
+    "description": "[Wall Decor] A time-honored knot that has its roots in the Far East. Symbolizes good fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100966.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80229,
+    "name": "Firecrackers",
+    "description": "[Wall Decor] An oriental style ceiling light. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100958.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80230,
+    "name": "Ceiling Light",
+    "description": "[Compact Item] A set in the shape of an oriental auspicious beast. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100940.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80231,
+    "name": "Lion Dance",
+    "description": "[Compact Item] A vicious-looking little tiger that can repel bad luck. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100962.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80232,
+    "name": "Cloth Tiger",
+    "description": "[Compact Item] A delicate stool with a classical aura. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100961.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80233,
+    "name": "Cracker Pack",
+    "description": "[Compact Item] A vicious-looking little tiger that can repel bad luck. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100960.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80234,
+    "name": "Hollowed Stool",
+    "description": "[Compact Item] A royal lamp from the Far East. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100965.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80235,
+    "name": "Palace Lantern",
+    "description": "[Compact Item] A portal to the spring bursting with vigor and fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100959.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80236,
+    "name": "Festive Wallpaper",
+    "description": "[Wallpaper] A kind of oriental-style wallpaper, looking festive. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100926.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80237,
+    "name": "Traditional Floor",
+    "description": "[Floor] Sandalwood floor. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100947.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80238,
+    "name": "Festive Carpet",
+    "description": "[Carpet] A festive-looking red carpet. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100937.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80239,
+    "name": "Festival Screen",
+    "description": "[Bulky Item] A giant screen festooned with festive lanterns. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100928.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "2*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80240,
+    "name": "Festive Doorframe",
+    "description": "[Compact Item] A portal to the spring bursting with vigor and fortune. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100967.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80241,
+    "name": "Lucky Charm",
+    "description": "[Wall Decor] Thousands of families, bathed in the bright sunlight, are replacing the old peach wood charms with new ones. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100968.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80242,
+    "name": "Forest Wallpaper",
+    "description": "[Wallpaper] Wallpaper depicting a lush forest. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100997.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80243,
+    "name": "Verdant Flooring",
+    "description": "[Floor] Flooring covered in soft turf. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100998.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80244,
+    "name": "Tree Base",
+    "description": "[Bulky Item] A secret base hidden in a tree. You have to be invited to get in. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100999.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "5*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80245,
+    "name": "Easy Hammock",
+    "description": "[Bulky Item] Nothing like a nap in a nice hammock. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101000.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80246,
+    "name": "Colorful Parrot Egg",
+    "description": "[Wall Decor] A pretty giant bird egg. Wonder what kind of bird it will hatch. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101001.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80247,
+    "name": "Forest Parrot",
+    "description": "[Wall Decor] A parrot that can talk like humans. \"Squawk! Wakey-wakey, master!\" Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101002.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80248,
+    "name": "Rusty Tin Man",
+    "description": "[Compact Item] A tin man without a heart, lying here waiting to be awakened. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101003.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80249,
+    "name": "Lost Toy",
+    "description": "[Compact Item] A pair of rag dolls, said to be the toys of a pair of sisters. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101004.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80250,
+    "name": "Picnic Pot",
+    "description": "[Compact Item] One buttered finger. Two teaspoons of wishful thinking. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101005.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80251,
+    "name": "Bug Catcher",
+    "description": "[Compact Item] A great instrument to catch bugs. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101006.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80252,
+    "name": "Forest Springwater",
+    "description": "[Bulky Item] Sourced from the clean, sweet spring water in the Magic Forest. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101007.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "3*3",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80253,
+    "name": "Fawn Silhouette",
+    "description": "[Wall Decor] Faster. Keep running. Don't look back! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101008.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80254,
+    "name": "Mossy Stump",
+    "description": "[Compact Item] A stump comfy to lean against. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101009.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80255,
+    "name": "Verdant Rattan",
+    "description": "[Wall Decor] A strand of rattan covered in moss, hanging somewhere in the forest. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101010.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80256,
+    "name": "Fun Balloon",
+    "description": "[Compact Item] There seems to be something strange in the colorful balloon. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101011.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80257,
+    "name": "Shady Swing",
+    "description": "[Window] A simple but steady swing. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101012.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*5",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80258,
+    "name": "Forest Picnic Blanket",
+    "description": "[Carpet] So much food. Which should I eat first? Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101013.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80259,
+    "name": "Mashup Wooden Wall",
+    "description": "[Wallpaper] A collage of wood panels. The most stylish wall decoration of the year! Take care to keep it dry. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101066.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80260,
+    "name": "Assembly Carpet",
+    "description": "[Carpet] Someone once said that a biscuit that doesn't want to be a chess board is not a good carpet. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101077.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80261,
+    "name": "Deluxe Lattice Window",
+    "description": "[Window] The view outside the window is the same as a year ago, but it feels more beautiful now with the luxurious-looking silk curtains. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101074.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*4",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80262,
+    "name": "Family Photo",
+    "description": "[Wall Decor] A photo of a happy couple and a cat. Who wouldn't want this kind of life? Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101082.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80263,
+    "name": "Ceremonial Chandelier",
+    "description": "[Wall Decor] The magic-infused chandelier emits a soft glow. Just being near it makes you feel relaxed. Increase Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101069.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*4",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80264,
+    "name": "Birthday Banner",
+    "description": "[Wall Decor] \"Happy Birthday!\" It's a simple greeting but carries a lot of weight. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101072.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80265,
+    "name": "Birthday Flag",
+    "description": "[Wall Decor] The future is still full of hope. Stand under the flag and make a victory sign. Let the wind take away the troubles of your past. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101073.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80266,
+    "name": "Kitten Egg",
+    "description": "[Compact Item] How did a kitten hatch out of an egg? There must be magic at work! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101070.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80267,
+    "name": "Ceremonial Round Table",
+    "description": "[Compact Item] Forget about what your fitness instructor told you. Forget about losing weight. It's your birthday, so eat to your heart's content. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101068.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80268,
+    "name": "Birthday Cake",
+    "description": "[Compact Item] No one would say no to a delicious cake. If they do, let them have two. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101078.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80269,
+    "name": "Hatching Lamp",
+    "description": "[Compact Item] Have you ever felt the \"brilliance of life\"? If not, come closer. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101075.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80270,
+    "name": "Ceremonial Balloons",
+    "description": "[Compact Item] Every balloon contains a child's dream. Handle it with care and keep it away from pointy objects. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101071.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80271,
+    "name": "Surprise Gift",
+    "description": "[Compact Item] Every gift is a surprise, waiting for you to unwrap. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101079.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80272,
+    "name": "Champagne Barrel",
+    "description": "[Bulky Item] This vintage wine came from a private collection in Holy Church. Carrying it here was a lot of hassle. Should have just gone for the barrels of soda next door. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101081.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "5*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80273,
+    "name": "Comfy Sofa",
+    "description": "[Bulky Item] A very soft loveseat, greatly favored by Erina and the Black Cat! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101076.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80274,
+    "name": "Elegant Long Table",
+    "description": "[Bulky Item] People are sitting around the long table, talking about the past year with knowing smiles on their faces. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101080.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "8*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80275,
+    "name": "Pagoda Flooring",
+    "description": "[Floor] Watch your step. The uneven floor can easily cause you to trip and fall spectacularly. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101067.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80276,
+    "name": "Mottled Wall",
+    "description": "[Wall] Time has inflicted wear and tear on this mottled wall, but it can't erase evidence of its glorious past from its surface. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101133.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80277,
+    "name": "Ancient Wooden Floor",
+    "description": "[Floor] It creaks when walked on. Makes you worried it will cave in at any moment. So tread lightly. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101134.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80278,
+    "name": "Lonely Window",
+    "description": "[Window] A window completely boarded up with planks and nails. The view outside is blurry. Close inspection reveals that the nails are, surprisingly, made of sterling silver. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101135.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*4",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80279,
+    "name": "Cold Will-o'-the-wisp",
+    "description": "[Wall Decor] A candle emitting a faint, strange glow. Instead of giving you warmth, it sends a chill down your spine. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101136.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "1*3",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80280,
+    "name": "Strange Cat Mural",
+    "description": "[Wall Decor] Do not stare at this painting, or it will make you hallucinate and slowly lose your mind. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101137.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80281,
+    "name": "Inferno Flag",
+    "description": "[Wall Decor] A strange liquid stains the otherwise glossy surface of the flag, the edges of which are torn by scratches. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101138.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "1*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80282,
+    "name": "Dormant Chair",
+    "description": "[Compact Item] An unassuming chair with a cat fast asleep on it. Once you sit down on it, you will never wake up. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101139.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80283,
+    "name": "Sinister Coffin",
+    "description": "[Compact Item] \"Come on, open it...\" It whispers to you as soon as you come close. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101140.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80284,
+    "name": "Horrid Clock",
+    "description": "[Compact Item] What makes this thing creepy is that it constantly makes loud, strange sounds on its own—especially when people come near. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101141.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80285,
+    "name": "Giant Magic Hat",
+    "description": "[Compact Item] A magic as tall as a person. It feels safe to hide in it, maybe. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101142.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80286,
+    "name": "Sleeping Statue",
+    "description": "[Compact Item] A stone statue standing in the room. It has a hideous face and a grim stare. Looks like it is guarding something. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101143.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80287,
+    "name": "Escape Circle",
+    "description": "[Carpet] A teleport circle exuding magic. There's no telling where it will take you if you stand on it. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101144.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80288,
+    "name": "Crowded Cupboard",
+    "description": "[Bulky Item] A cupboard filled to the brim with all kinds of strange items. Better stay away from it. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101145.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80289,
+    "name": "Timeless Feast",
+    "description": "[Bulky Item] A quaint serving of dinner that gives off a timeless charm. Ancient Castle exclusive. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101146.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80290,
+    "name": "Blasphemous Fireplace",
+    "description": "[Bulky Item] \"Why is there not a soul in sight...?\" Ponders the demon sitting by the fireplace. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101147.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80291,
+    "name": "Grease-Proof Wallpaper",
+    "description": "[Wall] This wallpaper is coated in a special material that makes it grease-proof. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101116.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 2,
+      "name": "Wallpaper",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWallPaper0.png"
+    },
+    "level": 4,
+    "cover": "20*7",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80292,
+    "name": "Simple Flooring",
+    "description": "[Flooring] A simple but graceful collage of tiles. Very much in vogue this year. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101117.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 1,
+      "name": "Floor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 1,
+    "cover": "20*2",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80293,
+    "name": "Quiet Afternoon",
+    "description": "[Window] The warm sunlight lazily makes its way through the window. Shut your eyes for a nice nap. Increases Comfort by 20 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101118.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 3,
+      "name": "Window",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWindow0.png"
+    },
+    "level": 6,
+    "cover": "3*4",
+    "comfortPoint": 20
+  },
+  {
+    "id": 80294,
+    "name": "Flow of Time",
+    "description": "[Wall Decor] The past is frozen in pictures. The future washes over like a breeze. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101119.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "3*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80295,
+    "name": "Lingering Warmth",
+    "description": "[Wall Decor] The sight of sumptuous food in warm lighting makes all your troubles go away. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101120.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80296,
+    "name": "True Aim",
+    "description": "[Wall Decor] If you can hit the bullseye five times in a row, your name will go on the restaurant brochure, and you will get a free drink. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101121.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "2*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80297,
+    "name": "Pixel Neko Ceiling",
+    "description": "[Wall Decor] This kind of suspended ceiling is a common sight at restaurant bars, for they're cheap, practical, and easy to clean. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101122.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 7,
+      "name": "Wall Decor",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopWall0.png"
+    },
+    "level": 6,
+    "cover": "4*2",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80298,
+    "name": "Soft Barstool",
+    "description": "[Compact Item] Whenever you come by, there's always a spot reserved for you. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101123.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80299,
+    "name": "Tidal Music Box",
+    "description": "[Compact Item] The primary mood setter in the restaurant! In the absence of music, it steps up to the plate. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101124.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80300,
+    "name": "Food Display Rack",
+    "description": "[Compact Item] Laden with an assortment of fresh foods, each labeled with an expiration date and replaced regularly. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101125.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80301,
+    "name": "Bespoke Piano",
+    "description": "[Compact Item] An expensive custom-made piano that can produce beautiful notes when played by skilled hands. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101126.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80302,
+    "name": "Potted Plants",
+    "description": "[Compact Item] People like to put vibrant plants inside buildings to add a touch of nature. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101127.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "1*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80303,
+    "name": "Billboard",
+    "description": "[Compact Item] The latest promotion package on offer at the restaurant. Cheap and delicious. Don't miss out! Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101128.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 5,
+      "name": "Compact Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopSmall0.png"
+    },
+    "level": 3,
+    "cover": "2*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80304,
+    "name": "Restaurant Bar",
+    "description": "[Bulky Item] A place where tears and laughter mingle. Whenever you want to get something off your chest, you can always find someone here who is willing to listen. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101129.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "7*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80305,
+    "name": "Intimate Bench",
+    "description": "[Bulky Item] A bench and table commonly seen in restaurants. Kids love laying or standing on it. Maintenance work can be a hassle. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101130.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "4*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80306,
+    "name": "Spliced Wine Rack",
+    "description": "[Bulky Item] This enormous wine cabinet can satisfy the need of all customers, from heavy spenders to those on budget. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101131.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 4,
+      "name": "Bulky Item",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopBig0.png"
+    },
+    "level": 3,
+    "cover": "6*1",
+    "comfortPoint": 15
+  },
+  {
+    "id": 80307,
+    "name": "Khaki Carpet",
+    "description": "[Carpet] A khaki carpet was chosen so that coffee and wine stains won't stand out. Increases Comfort by 15 when furnished.",
+    "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//101132.png",
+    "type": "Furniture",
+    "furnitureType": {
+      "id": 6,
+      "name": "Carpet",
+      "icon": "/rw/assets/GLOBAL/ui/imagesets/maincontrol16/HouseShopFloor0.png"
+    },
+    "level": 2,
+    "cover": "2*2",
+    "comfortPoint": 15
+  }
+]

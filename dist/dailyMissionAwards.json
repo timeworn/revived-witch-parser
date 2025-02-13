@@ -1,0 +1,72 @@
+[
+  {
+    "id": 20,
+    "points": 20,
+    "reward": {
+      "item": {
+        "id": 35002,
+        "name": "Mana",
+        "description": "The source of magic, can be used in many ways, mostly to enhance one's magic.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100006.png",
+        "type": "Currency"
+      },
+      "amount": 2000
+    }
+  },
+  {
+    "id": 40,
+    "points": 40,
+    "reward": {
+      "item": {
+        "id": 35017,
+        "name": "Dream Shard",
+        "description": "Quartz formed by the merging of consciousnesses while traveling in the Dreamworld.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100634.png",
+        "type": "Dream Shard"
+      },
+      "amount": 30
+    }
+  },
+  {
+    "id": 60,
+    "points": 60,
+    "reward": {
+      "item": {
+        "id": 35018,
+        "name": "Furniture Coin",
+        "description": "Glittering coins used to buy furniture for the Cottage.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100553.png",
+        "type": "Currency"
+      },
+      "amount": 40
+    }
+  },
+  {
+    "id": 80,
+    "points": 80,
+    "reward": {
+      "item": {
+        "id": 35008,
+        "name": "Soul",
+        "description": "Crystallized by magic, it is necessary for any Witch who intends to sign a Soul Contract. $B$$B$Used to summon new Dolls",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100191.png",
+        "type": "Currency"
+      },
+      "amount": 30
+    }
+  },
+  {
+    "id": 100,
+    "points": 100,
+    "reward": {
+      "item": {
+        "id": 31038,
+        "name": "Stamina Elixir",
+        "description": "A mysterious, precious elixir found in the Chrono Tower. Consuming it will restore Stamina greatly as having a long rest.$B$$B$Restores 100% of maximum Stamina.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100516.png",
+        "type": "Normal Item"
+      },
+      "amount": 1
+    }
+  }
+]

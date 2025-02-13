@@ -1,0 +1,640 @@
+[
+  {
+    "id": 1,
+    "unlockLv": 3,
+    "type": 1,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75019,
+          "name": "Iris Feather",
+          "description": "A multi-color feather mutated by magic. Used in Doll ascension.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100635.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75018,
+        "name": "Solid Scale",
+        "description": "A hard scale produced to resist extreme conditions. Used in Doll ascension.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100636.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 2,
+    "unlockLv": 3,
+    "type": 1,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75018,
+          "name": "Solid Scale",
+          "description": "A hard scale produced to resist extreme conditions. Used in Doll ascension.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100636.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75019,
+        "name": "Iris Feather",
+        "description": "A multi-color feather mutated by magic. Used in Doll ascension.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100635.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 3,
+    "unlockLv": 3,
+    "type": 1,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 74005,
+          "name": "Brutal Serum",
+          "description": "Translucent Serum that seals the most primitive brutality. Used to enhance the Dolls' skills.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100554.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 74004,
+        "name": "Elves' Spawn",
+        "description": "An egg that spawns elves allegedly, or unknown creatures if handled improperly. Used to enhance the Dolls' skills.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100545.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 4,
+    "unlockLv": 3,
+    "type": 1,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 74004,
+          "name": "Elves' Spawn",
+          "description": "An egg that spawns elves allegedly, or unknown creatures if handled improperly. Used to enhance the Dolls' skills.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100545.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 74005,
+        "name": "Brutal Serum",
+        "description": "Translucent Serum that seals the most primitive brutality. Used to enhance the Dolls' skills.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100554.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 10,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75012,
+          "name": "Basic Healer Quartz",
+          "description": "Magic Quartz used to ascend the Healers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100113.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75000,
+        "name": "Basic Guardian Quartz",
+        "description": "Magic Quartz used to ascend the Guardians.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100101.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 11,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75013,
+          "name": "Average Healer Quartz",
+          "description": "Magic Quartz used to ascend the Healers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100114.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75001,
+        "name": "Average Guardian Quartz",
+        "description": "Magic Quartz used to ascend the Guardians.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100102.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 12,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75014,
+          "name": "Advanced Healer Quartz",
+          "description": "Magic Quartz used to ascend the Healers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100115.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75002,
+        "name": "Advanced Guardian Quartz",
+        "description": "Magic Quartz used to ascend the Guardians.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100103.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 13,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75006,
+          "name": "Basic Assassin Quartz",
+          "description": "Magic Quartz used to ascend the Assassins.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100095.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75003,
+        "name": "Basic Destroyer Quartz",
+        "description": "Magic Quartz used to ascend the Destroyers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100110.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 14,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75007,
+          "name": "Average Assassin Quartz",
+          "description": "Magic Quartz used to ascend the Assassins.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100096.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75004,
+        "name": "Average Destroyer Quartz",
+        "description": "Magic Quartz used to ascend the Destroyers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100111.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 15,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75008,
+          "name": "Advanced Assassin Quartz",
+          "description": "Magic Quartz used to ascend the Assassins.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100097.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75005,
+        "name": "Advanced Destroyer Quartz",
+        "description": "Magic Quartz used to ascend the Destroyers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100112.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 16,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75003,
+          "name": "Basic Destroyer Quartz",
+          "description": "Magic Quartz used to ascend the Destroyers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100110.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75006,
+        "name": "Basic Assassin Quartz",
+        "description": "Magic Quartz used to ascend the Assassins.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100095.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 17,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75004,
+          "name": "Average Destroyer Quartz",
+          "description": "Magic Quartz used to ascend the Destroyers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100111.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75007,
+        "name": "Average Assassin Quartz",
+        "description": "Magic Quartz used to ascend the Assassins.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100096.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 18,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75005,
+          "name": "Advanced Destroyer Quartz",
+          "description": "Magic Quartz used to ascend the Destroyers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100112.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75008,
+        "name": "Advanced Assassin Quartz",
+        "description": "Magic Quartz used to ascend the Assassins.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100097.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 19,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75015,
+          "name": "Basic Mage Quartz",
+          "description": "Magic Quartz used to ascend the Mages.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100104.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75009,
+        "name": "Basic Compeller Quartz",
+        "description": "Magic Quartz used to ascend the Compellers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100098.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 20,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75016,
+          "name": "Average Mage Quartz",
+          "description": "Magic Quartz used to ascend the Mages.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100105.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75010,
+        "name": "Average Compeller Quartz",
+        "description": "Magic Quartz used to ascend the Compellers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100099.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 21,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75017,
+          "name": "Advanced Mage Quartz",
+          "description": "Magic Quartz used to ascend the Mages.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100106.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75011,
+        "name": "Advanced Compeller Quartz",
+        "description": "Magic Quartz used to ascend the Compellers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100100.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 22,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75000,
+          "name": "Basic Guardian Quartz",
+          "description": "Magic Quartz used to ascend the Guardians.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100101.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75012,
+        "name": "Basic Healer Quartz",
+        "description": "Magic Quartz used to ascend the Healers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100113.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 23,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75001,
+          "name": "Average Guardian Quartz",
+          "description": "Magic Quartz used to ascend the Guardians.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100102.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75013,
+        "name": "Average Healer Quartz",
+        "description": "Magic Quartz used to ascend the Healers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100114.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 24,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75002,
+          "name": "Advanced Guardian Quartz",
+          "description": "Magic Quartz used to ascend the Guardians.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100103.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75014,
+        "name": "Advanced Healer Quartz",
+        "description": "Magic Quartz used to ascend the Healers.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100115.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 25,
+    "unlockLv": 1,
+    "type": 2,
+    "emotionCost": 2,
+    "getExp": 10,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75009,
+          "name": "Basic Compeller Quartz",
+          "description": "Magic Quartz used to ascend the Compellers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100098.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75015,
+        "name": "Basic Mage Quartz",
+        "description": "Magic Quartz used to ascend the Mages.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100104.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 26,
+    "unlockLv": 2,
+    "type": 2,
+    "emotionCost": 3,
+    "getExp": 15,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75010,
+          "name": "Average Compeller Quartz",
+          "description": "Magic Quartz used to ascend the Compellers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100099.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75016,
+        "name": "Average Mage Quartz",
+        "description": "Magic Quartz used to ascend the Mages.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100105.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  },
+  {
+    "id": 27,
+    "unlockLv": 3,
+    "type": 2,
+    "emotionCost": 4,
+    "getExp": 20,
+    "itemsNeeded": [
+      {
+        "item": {
+          "id": 75011,
+          "name": "Advanced Compeller Quartz",
+          "description": "Magic Quartz used to ascend the Compellers.",
+          "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100100.png",
+          "type": "Normal Item"
+        },
+        "amount": 3
+      }
+    ],
+    "itemsGiven": {
+      "item": {
+        "id": 75017,
+        "name": "Advanced Mage Quartz",
+        "description": "Magic Quartz used to ascend the Mages.",
+        "icon": "/rw/assets/GLOBAL/ui/imagesets/items1//100106.png",
+        "type": "Normal Item"
+      },
+      "amount": 2
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 30010,
+    "name": "Daily Login",
+    "description": "Log in daily",
+    "instruction": "Log into the game.",
+    "points": 10
+  },
+  {
+    "id": 30011,
+    "name": "Chrono Tower",
+    "description": "Clear Main Story stages 3 times",
+    "instruction": "Continue exploring and clear Main Story stages.",
+    "points": 10
+  },
+  {
+    "id": 30012,
+    "name": "Strong Stamina",
+    "description": "Consume 60 Stamina",
+    "instruction": "Stamina is the driving force that sustains the Witch. Exploring Main Story costs Stamina.",
+    "points": 10
+  },
+  {
+    "id": 30013,
+    "name": "Strong Stamina",
+    "description": "Consume 100 Stamina",
+    "instruction": "Stamina is the driving force that sustains the Witch. Exploring Main Story costs Stamina.",
+    "points": 20
+  },
+  {
+    "id": 30014,
+    "name": "Enhance Dolls",
+    "description": "Enhance a Doll 1 time",
+    "instruction": "You can increase the enhancement level of Dolls by consuming Mana.",
+    "points": 10
+  },
+  {
+    "id": 30015,
+    "name": "Extend Best Wishes",
+    "description": "Send a gift to a Doll 1 time",
+    "instruction": "Givie nice gifts to your Dolls to increase the Bond level.",
+    "points": 10
+  },
+  {
+    "id": 30016,
+    "name": "Enhance Equipment",
+    "description": "Enhance equipment 1 time",
+    "instruction": "You can enhance equipment with certain materials.",
+    "points": 10
+  },
+  {
+    "id": 30017,
+    "name": "Dispatch for Exploration",
+    "description": "Explore the Mirror of the Otherworld 1 time",
+    "instruction": "You can dispatch Dolls to explore the Mirror of the Otherworld in Witch Courtyard. They will bring back plentiful materials.",
+    "points": 10
+  },
+  {
+    "id": 30018,
+    "name": "Break Time",
+    "description": "Settle Dolls in the Cottage 1 time",
+    "instruction": "Cottage is a main building in Witch Courtyard. Dolls restore Energy there.",
+    "points": 10
+  },
+  {
+    "id": 30019,
+    "name": "Friendship Exchange",
+    "description": "Purchase in Friendship Point Shop 1 time",
+    "instruction": "Friend assistance brings you Friendship Points that can be traded for items in the shop.",
+    "points": 20
+  },
+  {
+    "id": 30020,
+    "name": "Friend Assist",
+    "description": "Clear a stage with Assisting Doll 1 time",
+    "instruction": "Defeat enemies with Friend Assist.",
+    "points": 10
+  },
+  {
+    "id": 30021,
+    "name": "Chronospace Duel",
+    "description": "Clear Chronospace Breach 1 time",
+    "instruction": "Fight against other witches in Chronospace Breach.",
+    "points": 20
+  }
+]
