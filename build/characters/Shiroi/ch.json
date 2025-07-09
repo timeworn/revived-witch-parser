@@ -1,0 +1,140 @@
+{
+  "id": 113,
+  "name": "皎",
+  "title": "海中匿影",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "緜",
+  "artistOverseas": "緜",
+  "backstories": [
+    "作为稀少的人鱼一族的幸存者，平时生活在海底，很少接触大海之外的世界。",
+    "人鱼一族原本自由自在地在海底生活，不时浮出水面，甚至登上海岸。但经过一场浩劫之后，只剩下少数幸存者，他们选择切断和外界的联系，孤独地待在海底。",
+    "皎生性善良，而且周围的族人一直在说人类的坏话，因此她也对未知的人类产生了一丝畏惧。虽然常常期盼浮出水面，去看看外面的世界，但是一旦萌生这样的念头，就会被族人立刻喝止。",
+    "唯一的朋友就是能和精灵一样在水中生活的爱迪希亚，非常羡慕爱迪希亚能自由地在沙滩奔跑嬉戏，经常缠着爱迪希亚给她讲外面的新鲜事。"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_113//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_113//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113//round.png",
+      "square": "/ui/imagesets/localization/role/char_113//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_113//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_113//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113//round.png",
+      "square": "/ui/imagesets/localization/role/char_113//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char113",
+        "url": "/overseas_live2d/char113"
+      }
+    },
+    {
+      "id": 911303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_113_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_113_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char113_break",
+        "url": "/overseas_live2d/char113_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 141,
+    "def": 21,
+    "hp": 472,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 61132,
+      "type": "assist"
+    },
+    {
+      "id": 61131,
+      "type": "contract"
+    },
+    {
+      "id": 61132,
+      "type": "contract"
+    },
+    {
+      "id": 511301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95113,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1124
+}

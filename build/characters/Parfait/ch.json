@@ -1,0 +1,140 @@
+{
+  "id": 67,
+  "name": "辛妮",
+  "title": "圣灵惩戒者",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "ほし",
+  "artistOverseas": "ほし",
+  "backstories": [
+    "圣域双子守门人之一，$B$比起懒散的爱珐怜，$B$辛妮总是一边精神满满地巡视着灵界大门，$B$一边喋喋不休地抱怨着脱线的姐姐。$B$$B$作为嘉代提斯的妹妹，$B$在得知嘉代提斯离开圣域后，$B$决定代替不靠谱的哥哥，守护圣域。",
+    "没有人敢轻易闯入圣域，$B$所以其实辛妮一直处于空闲的状态，$B$不过她并没有像爱珐怜一样跑出去玩耍，$B$而是把她过剩的灵力都用来生产甜点和零食，$B$并且乐于把自己的新作品分享给圣域的同伴，$B$她自己手中的零食似乎从来没有断过货。",
+    "那远超出她身高的巨大魔杖，$B$据说能发出“任何屏障都无法抵御的强大魔力”。$B$$B$但似乎并没有人会害怕，$B$因为一看到魔杖的可爱外形，就让人忍不住笑出来。",
+    "如果用手中的魔杖攻击姐姐那“任何魔法都能吸收的抱枕”，$B$究竟会发生什么，这个问题似乎永远没有答案。$B$$B$不过姐妹两人的关系十分亲密，$B$经常一起在圣域的花园中玩耍，$B$$B$“打架是绝对禁止的！”"
+  ],
+  "birthday": "？",
+  "height": "135cm",
+  "hobby": "偷懒、睡觉、玩耍",
+  "race": "Holy Spirit",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906701,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ほし",
+      "overseasArtist": "ほし",
+      "card": "/ui/imagesets/localization/role/char_067//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_067//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_067//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_067//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_067//round.png",
+      "square": "/ui/imagesets/localization/role/char_067//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_067//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906702,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ほし",
+      "overseasArtist": "ほし",
+      "card": "/ui/imagesets/localization/role/char_067//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_067//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_067//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_067//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_067//round.png",
+      "square": "/ui/imagesets/localization/role/char_067//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_067//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char067",
+        "url": "/overseas_live2d/char067"
+      }
+    },
+    {
+      "id": 906703,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "ほし",
+      "overseasArtist": "ほし",
+      "card": "/ui/imagesets/localization/role/char_067_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_067_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_067_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_067_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_067_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_067_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char067_break",
+        "url": "/overseas_live2d/char067_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 60671,
+      "type": "assist"
+    },
+    {
+      "id": 60671,
+      "type": "contract"
+    },
+    {
+      "id": 60672,
+      "type": "contract"
+    },
+    {
+      "id": 506701,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1037
+}

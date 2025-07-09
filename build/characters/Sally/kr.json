@@ -1,0 +1,120 @@
+{
+  "id": 106,
+  "name": "샤논",
+  "title": "건강의 소망",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40003,
+  "age": "24",
+  "artist": "IrvineQ",
+  "artistOverseas": "IrvineQ",
+  "backstories": [
+    "루니아 공국의 작은 마을에는 신기한 보건소가 있다. 그 보건소는 마을에서 용하기로 입소문이 났고, 샤논은 이런 보건소에서 일하는 것을 몹시 영광으로 생각한다.$B$샤논은 가끔씩 자신이 처음 이곳에 왔을 때 아모레 선생님이 던진 엉뚱한 질문과 그 질문에 답을 하던 자신을 회상하며 중얼거리 곤한다.\n\n\"지금 꿈을 꾸고 있는 건가? 이렇게 뜬금없이 합격할 줄은……\"",
+    "막 일을 시작했을 때, 샤논은 아모레의 기상천외한 진찰과 결정으로 정신이 없었다.$B$B$고양이가 양파를 대할 때 모습의 관찰이던지…… 나이팅게일의 눈물과 두꺼비의 점액을 모아 고체로 가공한다든지…… 집 없는 여자 유년체를 입양하고 딸로 삼는다든지……\n\n\"잠깐, 여자 유년체는 아모레 선생님 말투잖아! 저 사람은 이미 학교를 다니는 여자 아이야 나이가 적지 않다고.\"\n샤논은 말투의 오류를 바로 잡는 데 급급해 보인다.",
+    "업무 이야기를 할 때면, 샤논은 사랑스럽지만 서도 미운 표정을 짓게 된다.$B$B$샤논은 자신이 보건소에서 간호사로 일을 하게 될 줄 알았지만, 차츰 자신이 마치 아모레 선생님의 조수처럼 느껴졌고, 출근 이후 새로운 직원이 들어오지 않는다는 것을 알게 되었다. 그 말인즉슨 간호사로서의 일보다는 조수로 더 많은 일을 한다는 것이다.\n\n\"정확히 말하자면, 아모레 선생님과 단둘이서, 물론 우리가 일상적인 일을 하기에는 충분하겠지만……“\n샤논은 말을 잇지 못했다.",
+    "스트레스를 풀기 위해 샤논은 퇴근 후 길거리에 있는 술집에 자주 들른다. 샤논은 도수는 별로 없고 맛은 아주 맑고 달콤한 꿀맥주를 가장 좋아한다.$B$$B$그러던 어느날, 아모레 선생님은 샤논의 주의를 잊은 채 귀한 약재를 함부로 낭비한 일이 있었고, 샤논은 화가 치밀어 올랐지만, 아모레 선생님이 월급을 더 많이 주겠다고 하자, 화를 참았다.\n\n\"인정하고 싶지 않지만, 오메러 선생님은 확실히 많이 주셨지……휴, 그리고 꿀맥주는 정말 맛있었고!\"\n"
+  ],
+  "birthday": "9월 20일",
+  "height": "171cm",
+  "hobby": "출근, 꿀 맥주",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "IrvineQ",
+      "overseasArtist": "IrvineQ",
+      "card": "/ui/imagesets/localization/role/char_106//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_106//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_106//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_106//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_106//round.png",
+      "square": "/ui/imagesets/localization/role/char_106//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_106//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "IrvineQ",
+      "overseasArtist": "IrvineQ",
+      "card": "/ui/imagesets/localization/role/char_106//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_106//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_106//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_106//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_106//round.png",
+      "square": "/ui/imagesets/localization/role/char_106//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_106//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char106",
+        "url": "/overseas_live2d/char106"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61061,
+      "type": "assist"
+    },
+    {
+      "id": 61061,
+      "type": "contract"
+    },
+    {
+      "id": 61062,
+      "type": "contract"
+    },
+    {
+      "id": 510601,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95106,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1104
+}

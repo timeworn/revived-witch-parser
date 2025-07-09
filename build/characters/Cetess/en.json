@@ -1,0 +1,120 @@
+{
+  "id": 27,
+  "name": "Cetess",
+  "title": "Crimson Maiden of War",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40013,
+  "age": "20",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She shows great loyalty to the Protector Cersivey, willing to give her all to the Protector. No one in the Chivalric Order can be as loyal as her. \n\nFastidiously completing her tasks, she is regarded as a model of the chevalier.",
+    "She was initially a soldier of the Frost Chivalric Order and once in a battle, her bravery was commended by the Protector Cersivey. \n\nSince then, Cersivey's encouraging words served as a driving force for her assiduous training. \n\nShe always continued her training even after others had called it a day, and with her unusual perseverance, she completed many difficult challenges. \nFinally, her efforts paid off. She won the Protector Cersivey's favor by her strength, and was appointed as the vice captain of the Order.",
+    "She always charges in front, and has slain countless enemies on the battlefield so she is hailed as the Crimson Maiden of War by other chevaliers... \n\nIt's said that she kind of enjoys this title but for her foes, hearing this title on the battlefield means the arrival of a bloody end.",
+    "She seems to have encountered some accident when she was sent by the Protector on a special mission. No one has ever seen her since her departure."
+  ],
+  "birthday": "Jul. 29",
+  "height": "173cm",
+  "hobby": "Weaponry",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902701,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_030.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_30.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_030.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_030.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_30.png",
+      "square": "/ui/imagesets/headphotos//hp_030.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_030.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902702,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_030.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_30.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_030.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_030.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_30.png",
+      "square": "/ui/imagesets/headphotos//hp_030.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_030.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char030",
+        "url": "/overseas_live2d/char030"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 54,
+    "def": 594,
+    "hp": 810,
+    "magicDef": 356.4,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.4,
+    "def": 3.6,
+    "hp": 81,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.4,
+    "def": 5.4,
+    "hp": 81,
+    "magicDef": 3.24
+  },
+  "skills": [
+    {
+      "id": 60271,
+      "type": "assist"
+    },
+    {
+      "id": 60271,
+      "type": "contract"
+    },
+    {
+      "id": 60272,
+      "type": "contract"
+    },
+    {
+      "id": 502701,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1032
+}

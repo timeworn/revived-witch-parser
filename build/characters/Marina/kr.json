@@ -1,0 +1,117 @@
+{
+  "id": 40,
+  "name": "마리나",
+  "title": "인형사",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "20",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "정령의 호수에서 온 인형사, $B$세상과 단절된 공주 칼레도니아와 사이가 꽤 괜찮은 것 같다.",
+    "외부인과의 접촉을 싫어하고 $B$호숫가에 있는 집에서 새로운 인형을 만들며, 종종 몇 주일씩이나 외출하지 않기도 한다.",
+    "그녀는 인형이 자신을 대신해 모든 일을 처리해 줄 수 있을 거라 믿었다. $B$간단한 집안일뿐만 아니라 그 이상을 말하는 것이었다. $B$$B$정성스럽게 제작한 인형은 그녀의 조종으로 여러 가지 섬세한 움직임을 할 수 있었는데, $B$인형이 살아있는 게 아닌지 의심이 될 정도였다.",
+    "처음에는 그저 인형으로 각종 귀찮은 집안일을 대신하게 하려던 것이었다. $B$어떤 의미에서는 게으른 천재여야 개발할 수 있는 기술이었다. $B$$B$바이올라는 마리나의 최고의 걸작이었는데, $B$제작이 끝난 후 $B$인형의 자주적인 능력을 테스트하기 위해 바이올라를 인간 사회에 집어넣었다고 한다."
+  ],
+  "birthday": "11월 26일",
+  "height": "163cm",
+  "hobby": "인형 제작, 어리광부리기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_059.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_059.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_059.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_059.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_59.png",
+      "square": "/ui/imagesets/headphotos//hp_059.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_059.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_059.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_059.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_059.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_059.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_59.png",
+      "square": "/ui/imagesets/headphotos//hp_059.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_059.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 123,
+    "def": 21,
+    "hp": 396,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.39,
+    "def": 2.16,
+    "hp": 39.69,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.39,
+    "def": 2.16,
+    "hp": 39.69,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60401,
+      "type": "assist"
+    },
+    {
+      "id": 60401,
+      "type": "contract"
+    },
+    {
+      "id": 60402,
+      "type": "contract"
+    },
+    {
+      "id": 504001,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1046
+}

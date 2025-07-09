@@ -1,0 +1,140 @@
+{
+  "id": 24,
+  "name": "체르니",
+  "title": "기만의 천사",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40002,
+  "age": "18",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "셀티카 왕국의 귀족 출신이라고 알려진 체르니.\n \n지금은 마을에 머물며 귀족의 체면치레는 전혀 하지 않고 완벽하게 마을 생활에 녹아들었다.",
+    "안일한 생활에 싫증이 나, 귀족 영지를 떠난 것 같다. \n \n그래, 그 아름다운 외모에는 위험에 끌리는 강렬한 충동이 잠재되어 있었던 것이다.\n \n그녀는 모험에서 오는 쾌감을 갈망하고, 그것에 심취해 여러 가지 모험에 참여하기 시작한다.",
+    "체르니는 자신은 운이 좋기 때문에 승리를 거듭할 거라 굳게 믿었다. 또, 실제로 그렇게 되었다. 사람들은 그것을 모두 뛰어난 사기 기술 덕이라고 생각했다.\n \n모든 사람이 체르니가 사기를 친다고 생각했지만, 그녀의 수법을 간파할 수 있는 사람이 없었다.\n \n증거 없는 고발은 결국 뜬소문일 뿐이었다.\n \n하지만 모든 셀티카의 지하 시설에는 체르니의 초상화가 붙어 있었고, 그녀는 가장 환영받지 못하는 사람이 되어 그 누구도 그녀와 동석하려 하지 않았다.\n \n해보지 않아도 무조건 지게 되어 있으니 아무도 받아들이려 하지 않았다.",
+    "체르니는 포모르의 유적에 고대 보물이 숨겨져 있다는 이야기를 들었다.\n \n'그곳에 내가 찾던 최상의 쾌감이 있을지도 몰라.'\n \n그녀는 이런 생각을 품고서 포모르의 금기의 땅에 들어섰다.\n \n'여섯 신관? 늙은이들이 날 쫓아올 수 있을까?'라고 생각하며 포모르를 수호하는 여섯 신관은 안중에도 두지 않았다."
+  ],
+  "birthday": "4월 7일",
+  "height": "155cm",
+  "hobby": "모험",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_022.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_022.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_022.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22.png",
+      "square": "/ui/imagesets/headphotos//hp_022.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_022.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_022.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_022.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22.png",
+      "square": "/ui/imagesets/headphotos//hp_022.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char022",
+        "url": "/overseas_live2d/char022"
+      }
+    },
+    {
+      "id": 902403,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_022b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_022b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22b.png",
+      "square": "/ui/imagesets/headphotos//hp_022b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char022_break",
+        "url": "/overseas_live2d/char022_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 20,
+    "hp": 405,
+    "magicDef": 20,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.05,
+    "hp": 40.5,
+    "magicDef": 2.05,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.05,
+    "hp": 40.5,
+    "magicDef": 2.05
+  },
+  "skills": [
+    {
+      "id": 60242,
+      "type": "assist"
+    },
+    {
+      "id": 60241,
+      "type": "contract"
+    },
+    {
+      "id": 60242,
+      "type": "contract"
+    },
+    {
+      "id": 502401,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1029
+}

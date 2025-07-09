@@ -1,0 +1,140 @@
+{
+  "id": 91,
+  "name": "코타나",
+  "title": "신의 결재자",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "芝",
+  "artistOverseas": "芝",
+  "backstories": [
+    "성역의 결재자는 성역 최고의 결정권자에 속하지만, 종종 중요한 회의에 빠지곤 한다. 신분이 고귀하고, 성역 다른 고위층들도 그녀에게 존댓말을 쓰는 것을 보아 그녀가 성역의 실질적 권력자라는 추측이 돌고 있다.",
+    "결재의 검, 팔론디트와 프사리엘을 차고 다니며, 고대 이 쌍검으로 하늘을 갈라 은하를 형성했다고한다.",
+    "고대에 마신 가디아는 세상을 혼란에 빠뜨렸고, 이에 맞서던 코타나는 마신과의 전투에서 중상을 입고 많은 마력을 잃고 말았다. 사람들의 고통을 바라보고도 무력함과 절망에 빠진 코타나는 어느 날, 신의 지시를 듣고 그에 따라 성물인 의식의 검을 어느 한 인간의 아이에게 하사하여 마침내 세상을 구하게 된다.",
+    "마신과의 전투에서 대부분의 힘을 잃은 코타나는 비록 자신의 힘이 부족함을 깨닫고 수호자 자리에서 물러났지만, 카스피엘을 지키고자 하는 맹세는 잊지 않았다. 정사에 관여하지 않고 은둔한지 오래지만, 코타나는 침입한 마물에 다시 결재의 검을 쥐고 카스피엘을 위해 싸운다. "
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909101,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "芝",
+      "overseasArtist": "芝",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909102,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "芝",
+      "overseasArtist": "芝",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char091",
+        "url": "/overseas_live2d/char091"
+      }
+    },
+    {
+      "id": 909103,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "芝",
+      "overseasArtist": "芝",
+      "card": "/ui/imagesets/localization/role/char_091_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_091_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_091_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char091_break",
+        "url": "/overseas_live2d/char091_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 130,
+    "def": 30,
+    "hp": 617,
+    "magicDef": 29,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 61.74,
+    "magicDef": 2.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 61.74,
+    "magicDef": 2.94
+  },
+  "skills": [
+    {
+      "id": 60912,
+      "type": "assist"
+    },
+    {
+      "id": 60911,
+      "type": "contract"
+    },
+    {
+      "id": 60912,
+      "type": "contract"
+    },
+    {
+      "id": 509101,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95091,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1065
+}

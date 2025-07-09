@@ -1,0 +1,140 @@
+{
+  "id": 25,
+  "name": "达修斯",
+  "title": "均衡执法者",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "圣域出身的执法者，同时也是最受敬畏的审判官。$B$$B$有传言他目前在各地流浪，只为了兑现自己的誓言——$B$$B$“我曾追寻真实，而今我将侍奉正义”。",
+    "有人说他温柔如苦夏中的清风，$B$也有人说他冷酷如凛冬中的冰霜，$B$$B$却没人见过他半遮着的脸上有过任何表情。",
+    "据说十分受到守护者的器重，$B$游历各地也是因为受守护者的委托，$B$处理各地的纠纷，消除不公。",
+    "把自己的选择视作正义，$B$尽管也知道上层贵族对下层人民的剥削是不公平的，$B$但是无法违背对守护者许下的誓言，自己也十分苦恼。"
+  ],
+  "birthday": "10月2日",
+  "height": "186cm",
+  "hobby": "惩恶扬善",
+  "race": "Human",
+  "sex": "男",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902501,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902502,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023",
+        "url": "/overseas_live2d/char023"
+      }
+    },
+    {
+      "id": 902503,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "剑风",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_023b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_023b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23b.png",
+      "square": "/ui/imagesets/headphotos//hp_023b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023_break",
+        "url": "/overseas_live2d/char023_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 128,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60251,
+      "type": "assist"
+    },
+    {
+      "id": 60251,
+      "type": "contract"
+    },
+    {
+      "id": 60252,
+      "type": "contract"
+    },
+    {
+      "id": 502501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1030
+}

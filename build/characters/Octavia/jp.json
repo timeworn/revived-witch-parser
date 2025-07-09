@@ -1,0 +1,160 @@
+{
+  "id": 16,
+  "name": "",
+  "title": "",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "17",
+  "artist": "ピナケス",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "159cm",
+  "hobby": "",
+  "race": "Human",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901601,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901602,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002",
+        "url": "/overseas_live2d/char002"
+      }
+    },
+    {
+      "id": 901603,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_002b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_002b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02b.png",
+      "square": "/ui/imagesets/headphotos//hp_002b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_break",
+        "url": "/overseas_live2d/char002_break"
+      }
+    },
+    {
+      "id": 901611,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_016_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_016_v1//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_016_v1//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_016_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_016_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_016_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_016_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_v1",
+        "url": "/overseas_live2d/char002_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 109,
+    "def": 28,
+    "hp": 567,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84
+  },
+  "skills": [
+    {
+      "id": 60162,
+      "type": "assist"
+    },
+    {
+      "id": 60161,
+      "type": "contract"
+    },
+    {
+      "id": 60162,
+      "type": "contract"
+    },
+    {
+      "id": 501601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1021
+}

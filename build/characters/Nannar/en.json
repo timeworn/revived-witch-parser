@@ -1,0 +1,180 @@
+{
+  "id": 63,
+  "name": "Nannar",
+  "title": "Guard of the Mirror",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "16",
+  "artist": "緜/wata",
+  "artistOverseas": "緜/wata",
+  "backstories": [
+    "The Void Clan is responsible for guarding the Space of Void. $B$So the majority of them would like to act aggressively and expel all intruders. $B$$B$However, Nannar is always flinching, unlike others. $B$She wears a lot of layers of clothes to cover more of herself, hoping to avoid being noticed by others.",
+    "Although she looks vulnerable, she actually is the descendant of the Void Clan.$B$The magic within her is beyond imagination. $B$$B$The clan has been guarding the portal into the Space of Void alone for thousands of years. $B$Therefore, Nannar has never had a chance to talk with people from the outside worlds.",
+    "As soon as she sees a stranger, she will hide herself in the Mirror World immediately. $B$She won't come out until the stranger leaves.",
+    "She is into cooking but it really bothers her that she can't find anyone to taste her cuisines. $B$$B$Compared with directly talking to others, she prefers to sneak a peek first. $B$When she confirms the one is harmless, she will show up.$B$$B$\n\"Who are you? I don't know much about the outside world. $B$I was just sleeping inside the mirror.\""
+  ],
+  "birthday": "Feb. 3",
+  "height": "159cm",
+  "hobby": "Observing/ Sleeping/ Cooking.",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "welchino",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063//round.png",
+      "square": "/ui/imagesets/localization/role/char_063//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "welchino",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063//round.png",
+      "square": "/ui/imagesets/localization/role/char_063//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063",
+        "url": "/overseas_live2d/char063"
+      }
+    },
+    {
+      "id": 906303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "门徒",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063_break//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_063_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_break",
+        "url": "/overseas_live2d/char063_break"
+      }
+    },
+    {
+      "id": 906311,
+      "name": "Dream",
+      "description": "Nannar always talks something cute when in deep slumber.$B$\"Ah... I saw...a different reflection in the mirror...\"",
+      "artist": "门徒",
+      "overseasArtist": "门徒",
+      "card": "/ui/imagesets/cards//Card_063v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_063v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_063v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_63v1.png",
+      "square": "/ui/imagesets/headphotos//hp_063v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_063v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_v1",
+        "url": "/overseas_live2d/char063_v1"
+      }
+    },
+    {
+      "id": 906312,
+      "name": "Summer Fantasy",
+      "description": "The young girl decided to put a unique end to the beautiful summer day in her own way.",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_063_v2//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063_v2//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_063_v2//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063_v2//round.png",
+      "square": "/ui/imagesets/localization/role/char_063_v2//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063_v2//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_v2",
+        "url": "/overseas_live2d/char063_v2"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 396,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4,
+    "hp": 90,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 3.6
+  },
+  "skills": [
+    {
+      "id": 60631,
+      "type": "assist"
+    },
+    {
+      "id": 60631,
+      "type": "contract"
+    },
+    {
+      "id": 60632,
+      "type": "contract"
+    },
+    {
+      "id": 506301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95063,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1071
+}

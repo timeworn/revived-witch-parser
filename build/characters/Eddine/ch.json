@@ -1,0 +1,120 @@
+{
+  "id": 99,
+  "name": "艾迪恩",
+  "title": "玛那梦幻",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "PixelNeko",
+  "backstories": [
+    "存在于梦境之中，轻轻地扇动翅膀，充满着神秘的气息。\n每次出现时，周围环绕着大量闪着荧光的蝴蝶，随艾迪恩一起扇动翅膀，飞向梦境的彼方。",
+    "用如梦如幻来评价艾迪恩再适合不过，但是它又是那么真实。\n进入梦境的人自身仿佛也变成了一只蝴蝶，耳边是艾迪恩的轻声细语，跟随成群的蝴蝶的指引，一同飞向梦境的深处。",
+    "每次遇见艾迪恩时，发生的事情并不相同。大概是因为进入梦境的人心境不同，所以梦境中呈现的景象也各不相同。\n蝴蝶的光芒若隐若现，让人忘记了时间的流逝，甚至会长眠于梦境之中。\n虽然很细微，蝴蝶扇动翅膀时还是会产生细微之风，魔力的气息渐渐扩散。\n进入梦境之人能感受到这细微之处，甚至把蝶之羽风也当作这里是现实的证据。",
+    "万物的生灭都是必然的，艾迪恩也是如此。\n作为造物而生，终有一天也会完成创造者赋予它的使命，然后和蝴蝶一起，回归到梦境的归宿，亦或随着梦境的毁灭而消失。\n不过，在那之前，它还是会在这里，引领进入此地之人，醉于生，梦于死，在梦境的深处永远徘徊。"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909901,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_099//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_099//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_099//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_099//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_099//round.png",
+      "square": "/ui/imagesets/localization/role/char_099//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_099//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909902,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_099//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_099//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_099//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_099//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_099//round.png",
+      "square": "/ui/imagesets/localization/role/char_099//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_099//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char099",
+        "url": "/overseas_live2d/char099"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60992,
+      "type": "assist"
+    },
+    {
+      "id": 60991,
+      "type": "contract"
+    },
+    {
+      "id": 60992,
+      "type": "contract"
+    },
+    {
+      "id": 509901,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95099,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1108
+}

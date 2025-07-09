@@ -1,0 +1,140 @@
+{
+  "id": 122,
+  "name": "캐롤",
+  "title": "오드 아이리스",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "mmu",
+  "artistOverseas": "mmu",
+  "backstories": [
+    "행실이 우아한 귀족. 북적거리는 인파 속에서도 항상 눈에 띈다.",
+    "본래 왕국의 각지를 돌아다니며 민중을 이해하며 훗날 왕위를 계승할 준비를 했다. 그러던 중 마물이 러카버 왕국을 침공하자,그녀는 의연하게 왕국으로 돌아와 사람들을 이끌고 마물에 대항하기 시작했다.",
+    "캐롤은 러카버 왕국 홀로 늘어나는 마물에 대항하기 어렵다는 것을 알고, 주변 국가들을 단결시켜 연맹을 결성하여 마물에 대항하기 위해 사절단을 끌고 각국을 누볐다.",
+    "새해 첫날, 이국땅의 사람들의 축제를 보며 예전 추억이 되살아났다. 그러나 캐롤은 약함과 겁이 조국에 아무런 도움을 주지 않음을 잘 알고 있었고, 자신이 짊어진 중요한 사명도 잊지 않았다."
+  ],
+  "birthday": "?",
+  "height": "178cm",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "？",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 912201,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "mmu",
+      "overseasArtist": "mmu",
+      "card": "/ui/imagesets/localization/role/char_122//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_122//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_122//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_122//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_122//round.png",
+      "square": "/ui/imagesets/localization/role/char_122//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_122//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 912202,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "mmu",
+      "overseasArtist": "mmu",
+      "card": "/ui/imagesets/localization/role/char_122//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_122//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_122//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_122//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_122//round.png",
+      "square": "/ui/imagesets/localization/role/char_122//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_122//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char122",
+        "url": "/overseas_live2d/char122"
+      }
+    },
+    {
+      "id": 912203,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "mmu",
+      "overseasArtist": "mmu",
+      "card": "/ui/imagesets/localization/role/char_122_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_122_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_122_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_122_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_122_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_122_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char122_break",
+        "url": "/overseas_live2d/char122_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 130,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 29,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 61.74,
+    "magicDef": 2.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 66.15,
+    "magicDef": 2.94
+  },
+  "skills": [
+    {
+      "id": 61222,
+      "type": "assist"
+    },
+    {
+      "id": 61221,
+      "type": "contract"
+    },
+    {
+      "id": 61222,
+      "type": "contract"
+    },
+    {
+      "id": 512201,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95122,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1132
+}

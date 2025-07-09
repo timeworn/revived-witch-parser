@@ -1,0 +1,140 @@
+{
+  "id": 14,
+  "name": "네메시",
+  "title": "데스브링어",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40016,
+  "age": "14",
+  "artist": "戏言咸咸",
+  "artistOverseas": "戏言咸咸",
+  "backstories": [
+    "카스피엘의 하층부에서 태어나 어려서 부모를 잃고 거리를 떠돌았다.\n \n살아남기 위해 범죄 집단에 들어가 온갖 더러운 짓을 일삼았고, 도시의 가장 어두운 곳에서 최상의 암살 기술을 익혔다.",
+    "상층부 귀족에게 있어서 그녀의 재능은 쓸모가 아주 많았다. 이 때문에 귀족들은 그녀를 거두고 각종 암살 임무를 수행하도록 했는데, 그녀는 실수를 해본 적이 없었다.\n \n명단에 있는 사람은 모두 지옥에 가게 되었고, 사람들에게 그녀의 데스브링어라는 칭호는 두려움의 대상이었다.",
+    "한동안 조용하더니, 사람들은 그녀가 상층부의 통제에서 벗어나 하층부의 반란 동맹에 합류해 반란 동맹의 우두머리에게 신임 받는 동료가 되었다는 사실을 알게 되었다.",
+    "그녀는 반란 동맹 우두머리의 호위를 맡게 되었는데, 암살 경험을 토대로 가히 완벽하다 할 수 있을 만큼 우두머리에게 꼭 맞는 호위 방법을 만들어냈다.\n \n게다가 그녀는 어떤 상황에서도 냉정을 유지할 수 있는 뛰어난 능력이 있어 우두머리로부터 더욱 두터운 신임을 받게 되었다."
+  ],
+  "birthday": "10월 8일",
+  "height": "151cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_014.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_014.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14.png",
+      "square": "/ui/imagesets/headphotos//hp_014.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_014.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_014.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14.png",
+      "square": "/ui/imagesets/headphotos//hp_014.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char014",
+        "url": "/overseas_live2d/char014"
+      }
+    },
+    {
+      "id": 901411,
+      "name": "고요한 휴일",
+      "description": "흔치 않은 휴일, 네메시가 나른하게 소파에 누워있다.$B$\"넌 왜 온 거지, 쉬는 날일 텐데?\"",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_014v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14v1.png",
+      "square": "/ui/imagesets/headphotos//hp_014v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char014_v1",
+        "url": "/overseas_live2d/char014_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 148,
+    "def": 16,
+    "hp": 226,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.85,
+    "def": 1.62,
+    "hp": 22.68,
+    "magicDef": 1.62,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.85,
+    "def": 1.62,
+    "hp": 22.68,
+    "magicDef": 1.62
+  },
+  "skills": [
+    {
+      "id": 60141,
+      "type": "assist"
+    },
+    {
+      "id": 60141,
+      "type": "contract"
+    },
+    {
+      "id": 60143,
+      "type": "contract"
+    },
+    {
+      "id": 501401,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1014
+}

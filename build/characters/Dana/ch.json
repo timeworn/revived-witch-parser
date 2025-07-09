@@ -1,0 +1,120 @@
+{
+  "id": 45,
+  "name": "达娜",
+  "title": "湖之女神",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Sola",
+  "artistOverseas": "Sola",
+  "backstories": [
+    "精灵湖畔的生物共同崇拜的女神，是高等精灵的领袖。$B$$B$曾经率领精灵湖畔的居民，$B$共同抵御上古魔神的入侵，$B$和星屑之剑一起消灭了魔神高迪亚，拯救了世界。",
+    "据说达娜从那以后，一直沉睡在精灵湖底，$B$只有当她的子民再度陷入危难之时，$B$她才会再度苏醒，守护精灵之森，守护她的子民。$B$$B$不过也有人声称，$B$十几年前在湖畔曾经见过一位高贵的女性，$B$很像是传说中的湖之女神达娜。",
+    "玛娅维尔是她的侍女，$B$在她陷入沉睡后，一直守护着精灵之森，$B$同时担任了芙洛莱的监护人。$B$$B$另一位侍女米奈厄则负责守护精灵之湖，$B$两人分工明确，一同管理着精灵湖畔，$B$并与外界始终保持着距离。",
+    "芙洛莱继承了精灵族最高贵的血脉，$B$从她对母亲的描述中，不难推断出她的母亲就是达娜。$B$$B$然而关于芙洛莱父亲的身份，$B$精灵族上下没有人敢提及，似乎是他们的禁忌。$B$$B$湖之律动就是达娜率领精灵们消灭魔神的咏叹曲，$B$在再次沉睡前，她将这首曲子传授给了芙洛莱。"
+  ],
+  "birthday": "10月20日",
+  "height": "172cm",
+  "hobby": "弹琴、诗歌",
+  "race": "Elf",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904501,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "feng",
+      "overseasArtist": "Sola",
+      "card": "/ui/imagesets/cards//Card_045.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_045.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_045.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_045.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_45.png",
+      "square": "/ui/imagesets/headphotos//hp_045.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_045.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904502,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "feng",
+      "overseasArtist": "Sola",
+      "card": "/ui/imagesets/cards//Card_045.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_045.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_045.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_045.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_45.png",
+      "square": "/ui/imagesets/headphotos//hp_045.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_045.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char045",
+        "url": "/overseas_live2d/char045"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 21,
+    "hp": 405,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.15,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.15,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60452,
+      "type": "assist"
+    },
+    {
+      "id": 60451,
+      "type": "contract"
+    },
+    {
+      "id": 60452,
+      "type": "contract"
+    },
+    {
+      "id": 504501,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1052
+}

@@ -1,0 +1,120 @@
+{
+  "id": 15,
+  "name": "帕嘉妮",
+  "title": "霜冻魔女",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40012,
+  "age": "？",
+  "artist": "戏言咸咸",
+  "artistOverseas": "戏言咸咸",
+  "backstories": [
+    "只存在于记载中的魔法师，据说整个世界进入冰河期和她有关。不过毕竟是非常久远的事情了，没有人能够证实这个说法。\n\n作为使用高等魔法的代价，帕嘉妮失去了正常人的身体，\n永远保持幼年的体型，再也无法成长。\n\n她本人似乎也非常在意这点，一旦有人提及，她会立刻把这视作嘲笑和挑衅。",
+    "一旦不顺着她的意思，她就会大发脾气。\n\n即便小心翼翼地和她交谈，有时候也会惹怒她。\n\n帕嘉妮的心智和小孩子一样，难以捉摸，指不定什么时候她就会乱发脾气，把眼前的一切都当作出气筒。\n\n所以，如果没有相应的觉悟，还是不要接近她比较安全。",
+    "经常会在兰纳玛的湖泊出现，由于背后有冰之羽翼，所以很好辨认。\n\n一旦她出现，即便只是远远地看见她的身影，兰纳玛的人都会立刻走开，生怕一不小心成为她的出气筒。\n\n有时她甚至会躺在湖上睡觉，附近的湖水瞬间结上厚厚的冰，甚至连湖畔的花草都会被冻结住。\n\n曾经有人趁机上去摸她的翅膀，湖畔也因此多了一座冰雕。",
+    "掌握一定沟通技巧的话，也能和帕嘉妮很好地交流，只要一直谈她感兴趣的话题，或者提供些甜食吸引她。\n\n从这点上看，帕嘉妮和任性的小孩子没有太大区别。\n\n即便引起了她的兴趣，也是要小心地接近她，毕竟她的心情就像是六月的天气，说变就变。\n\n前一秒还面带微笑，后一秒就会毫不留情地冰封眼前的一切。"
+  ],
+  "birthday": "？",
+  "height": "142cm",
+  "hobby": "？",
+  "race": "?",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901501,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_019.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_19.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_019.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_019.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_19.png",
+      "square": "/ui/imagesets/headphotos//hp_019.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_019.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901502,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_019.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_19.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_019.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_019.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_19.png",
+      "square": "/ui/imagesets/headphotos//hp_019.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_019.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char019",
+        "url": "/overseas_live2d/char019"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 115,
+    "def": 22,
+    "hp": 425,
+    "magicDef": 20,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 11.54,
+    "def": 2.27,
+    "hp": 42.53,
+    "magicDef": 2.05,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 11.54,
+    "def": 2.27,
+    "hp": 42.53,
+    "magicDef": 2.05
+  },
+  "skills": [
+    {
+      "id": 60152,
+      "type": "assist"
+    },
+    {
+      "id": 60152,
+      "type": "contract"
+    },
+    {
+      "id": 60151,
+      "type": "contract"
+    },
+    {
+      "id": 501501,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1022
+}

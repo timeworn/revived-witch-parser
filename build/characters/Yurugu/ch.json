@@ -1,0 +1,140 @@
+{
+  "id": 49,
+  "name": "尤露古",
+  "title": "虚空之棺",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "14",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "来自虚空之境的虚空一族的后裔，外表和人类无异。\n\n如果非要说有什么不同的话，可能就是体型比起人类，看上去更娇小。",
+    "族人们千百年来一直在地下陵墓之中，\n\n静静地守护着虚空之棺——\n\n虚空之境和其他平行世界之间的传送门。",
+    "任何企图穿越虚空之棺进入虚空之境的家伙都会被她攻击，尽管尤露古也不知道原因，仅仅知道这是千百年流传的使命。\n\n没人能读出她的感情，胆敢挑衅她的家伙，没有一个还活着。\n\n“任何企图入侵虚空者，平等地给予死亡。”",
+    "最近开始对宠物产生了兴趣，自从抚摸了小猫身上柔软的背毛后，一发不可收拾。\n\n在虚空之境的边缘偷偷养了一只小猫，经常溜出地下陵墓，和小猫一起玩耍，这个秘密爱好目前还没有被其他族人发现。"
+  ],
+  "birthday": "5月2日",
+  "height": "137cm",
+  "hobby": "？",
+  "race": "Void",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904901,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_034.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904902,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_034.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char034",
+        "url": "/overseas_live2d/char034"
+      }
+    },
+    {
+      "id": 904903,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_034b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34b.png",
+      "square": "/ui/imagesets/headphotos//hp_034b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char034_break",
+        "url": "/overseas_live2d/char034_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 54,
+    "def": 356.4,
+    "hp": 810,
+    "magicDef": 594,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.4,
+    "def": 2.16,
+    "hp": 81,
+    "magicDef": 3.6,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.4,
+    "def": 3.24,
+    "hp": 81,
+    "magicDef": 5.4
+  },
+  "skills": [
+    {
+      "id": 60491,
+      "type": "assist"
+    },
+    {
+      "id": 60492,
+      "type": "contract"
+    },
+    {
+      "id": 60491,
+      "type": "contract"
+    },
+    {
+      "id": 504901,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1056
+}

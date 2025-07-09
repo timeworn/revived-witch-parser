@@ -1,0 +1,140 @@
+{
+  "id": 107,
+  "name": "나카이",
+  "title": "영혼의 칼날",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40001,
+  "age": "15",
+  "artist": "めばる",
+  "artistOverseas": "めばる",
+  "backstories": [
+    "아마나미 공주를 호위하는 일을 맡고 있다. 성실하고 솔직하면서도 약간 고지식하지만, 여러 가지 상황에 침착하게 대처하는 편이다.",
+    "공주 곁에서 충실히 호위 업무를 수행하며, 영혼이 깃든 칼날로 공주의 안전을 위협하는 모든 적들을 차단했다.",
+    "어려서부터 아마나미 공주와 함께 자라, 자신의 모든 것을 공주에게 바칠 것을 결심하고 매일 무술 훈련을 게을리하지 않았다.",
+    "아마나미 공주와 마찬가지로 고향을 떠난 적이 없지만, 오히려 바깥 세계는 위험하다고 생각하여 전혀 동경하지 않았다. 또래 여자아이들과 공통점이 거의 없어 이상한 사람 취급을 받았다."
+  ],
+  "birthday": "8월 7일",
+  "height": "165cm",
+  "hobby": "단 음식 먹기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910701,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_107//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_107//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107//round.png",
+      "square": "/ui/imagesets/localization/role/char_107//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910702,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_107//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_107//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107//round.png",
+      "square": "/ui/imagesets/localization/role/char_107//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char107",
+        "url": "/overseas_live2d/char107"
+      }
+    },
+    {
+      "id": 910703,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_107_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_107_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char107_break",
+        "url": "/overseas_live2d/char107_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61072,
+      "type": "assist"
+    },
+    {
+      "id": 61071,
+      "type": "contract"
+    },
+    {
+      "id": 61072,
+      "type": "contract"
+    },
+    {
+      "id": 510701,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95107,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1128
+}

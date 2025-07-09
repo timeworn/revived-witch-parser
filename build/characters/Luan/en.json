@@ -1,0 +1,140 @@
+{
+  "id": 59,
+  "name": "Luan",
+  "title": "Vermilion Phoenix",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40018,
+  "age": "22",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She is the most popular maiden of Rumni, the Land of the Sunfaith. \n\nGorgeously dressed and elegantly behaved, she is considered the daughter of a great nobleman by others.",
+    "She uses a long-lost magic that burns as brightly as the sun. \n\nPeople often see her as a symbol of light.",
+    "She calls herself Luan, the same name as the legendary sacred bird that symbolizes the sun. \n\nThe bird can be reborn in fire no matter what harm it suffers. \n\nPeople often regard her as the maiden guarding Rumni and the reincarnation of the sacred bird. \n\nHowever, she has never admitted this. Rather than responding to people's expectations, Luan prefers to play freely, tread lightly on the earth, walk on the wind, and dance among the clouds.",
+    "She likes playing with kids and believes all of them will have a bright future where they can make a splash just like her. \n\nOnce, someone who was up to no good approached Luan and said with an evil smile, \"Since you like kids a lot, how about having a baby by yourself?\" \n\nBut soon he paid the price for his rudeness. The maiden before him was no more the one that always wore a smile. \n\nIn a few days, a person in rags was found lying on the roadside out of the town, whose face was too badly battered to be recognized and whose body had suffered masses of burns and fractures. People could only tell he was still alive from his shallow breathing."
+  ],
+  "birthday": "Dec. 8",
+  "height": "168cm",
+  "hobby": "Gorgeous dresses/ Vegetables/ Sunshine",
+  "race": "?",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_060.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_60.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_060.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_060.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_60.png",
+      "square": "/ui/imagesets/headphotos//hp_060.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_060.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_060.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_60.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_060.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_060.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_60.png",
+      "square": "/ui/imagesets/headphotos//hp_060.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_060.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char060",
+        "url": "/overseas_live2d/char060"
+      }
+    },
+    {
+      "id": 905903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/localization/role/char_060_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_060_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_060_break//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_060_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_060_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_060_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_060_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char060_break",
+        "url": "/overseas_live2d/char060_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 57,
+    "def": 627,
+    "hp": 855,
+    "magicDef": 376.2,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.7,
+    "def": 3.8,
+    "hp": 85.5,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.7,
+    "def": 5.7,
+    "hp": 85.5,
+    "magicDef": 3.42
+  },
+  "skills": [
+    {
+      "id": 60592,
+      "type": "assist"
+    },
+    {
+      "id": 60591,
+      "type": "contract"
+    },
+    {
+      "id": 60592,
+      "type": "contract"
+    },
+    {
+      "id": 505901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1067
+}

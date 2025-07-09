@@ -1,0 +1,137 @@
+{
+  "id": 12,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40005,
+  "age": "？",
+  "artist": "夜ノみつき",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "155cm",
+  "hobby": "",
+  "race": "Human",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901201,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/cards//Card_NPC_7.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_npc_7.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_npc_7.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_npc_7.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_npc_7.png",
+      "square": "/ui/imagesets/headphotos//hp_npc_7.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_npc_7.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901202,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/cards//Card_NPC_7.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_npc_7.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_npc_7.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_npc_7.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_npc_7.png",
+      "square": "/ui/imagesets/headphotos//hp_npc_7.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_npc_7.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "n001",
+        "url": "/overseas_live2d/n001"
+      }
+    },
+    {
+      "id": 901203,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/localization/role/char_007_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_007_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_007_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_007_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_007_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_007_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_007_break//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 27.5
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.2
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60121,
+      "type": "assist"
+    },
+    {
+      "id": 60121,
+      "type": "contract"
+    },
+    {
+      "id": 60122,
+      "type": "contract"
+    },
+    {
+      "id": 501201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1007
+}

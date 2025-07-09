@@ -1,0 +1,140 @@
+{
+  "id": 68,
+  "name": "Dorin",
+  "title": "Celestial Gift",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40024,
+  "age": "14",
+  "artist": "マトリ",
+  "artistOverseas": "マトリ",
+  "backstories": [
+    "Born into nobility, Dorin has had a keen interest in magic since her childhood and became a genius in the eyes of others. $B$$B$Her father, an earl advanced in years, cherished this little daughter so he hired a famed sorcerer from Upper Domain to help her practice magic.",
+    "As she grew up, Dorin was no longer content to just learn from books. $B$$B$In spite of the opposition from her master, she built her own magic workshop and started conducting magic experiments, something she had long since hoped to do.",
+    "Straying from traditional magic research, Dorin took a whimsical approach to her experiments: she developed a potion used to boost magic and directly ran tests on herself. $B$$B$The old earl was very concerned and had tried time and again to stop his daughter's risky project. $B$$B$However, Dorin brushed off her father's opposition. For her, the excitement of exploring the unknown far outweighed the risk.",
+    "Recently, Dorin developed an obsession with magic puppets. She took to spending all night in her workshop building new puppets.$B$$B$The earl, in an attempt to change his daughter's lifestyle and get her out of the workshop, decided to let her host the Dazzling Stage contest."
+  ],
+  "birthday": "Jun. 20",
+  "height": "145cm",
+  "hobby": "Magic Research",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906801,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_068.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_068.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068.png",
+      "square": "/ui/imagesets/headphotos//hp_068.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906802,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_068.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_068.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068.png",
+      "square": "/ui/imagesets/headphotos//hp_068.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char068",
+        "url": "/overseas_live2d/char068"
+      }
+    },
+    {
+      "id": 906803,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_068b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068b.png",
+      "square": "/ui/imagesets/headphotos//hp_068b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char068_break",
+        "url": "/overseas_live2d/char068_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 76,
+    "def": 20,
+    "hp": 382,
+    "magicDef": 20,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04
+  },
+  "skills": [
+    {
+      "id": 60681,
+      "type": "assist"
+    },
+    {
+      "id": 60681,
+      "type": "contract"
+    },
+    {
+      "id": 60682,
+      "type": "contract"
+    },
+    {
+      "id": 506801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1092
+}

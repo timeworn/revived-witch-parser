@@ -1,0 +1,140 @@
+{
+  "id": 49,
+  "name": "Yurugu",
+  "title": "Coffin of Voidness",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "14",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She is a descendant of the Void Clan from the Space of Void, appearing no different from average humans. \n\nIf anything, it may be their body size, much more petite than human's.",
+    "For thousands of years, the clan has been staying in the underground tombs, quietly guarding the Coffin of Voidness—the portal between the Space of Void and other parallel worlds.",
+    "Anyone who attempts to cross the Coffin of Voidness into the Space of Void will be attacked by Yurugu. It is a duty passed down through the centuries. That's truly all she knows.\n\nNo one can read her feelings, and no one that dares to provoke her can survive.\n\n\"I shall shower every void intruder with death equally.\"",
+    "Recently she has developed a great interest in pets since she stroked a cat covered with soft hair. \n\nShe privately keeps a cat on the border of the Space of Void and often sneaks out of the underground tomb to play with the cat, which still remains a secret that hasn't been discovered by others of her clan."
+  ],
+  "birthday": "May. 2",
+  "height": "137cm",
+  "hobby": "?",
+  "race": "Void",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_034.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_034.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char034",
+        "url": "/overseas_live2d/char034"
+      }
+    },
+    {
+      "id": 904903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_034b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_034b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34b.png",
+      "square": "/ui/imagesets/headphotos//hp_034b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char034_break",
+        "url": "/overseas_live2d/char034_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 54,
+    "def": 356.4,
+    "hp": 810,
+    "magicDef": 594,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.4,
+    "def": 2.16,
+    "hp": 81,
+    "magicDef": 3.6,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.4,
+    "def": 3.24,
+    "hp": 81,
+    "magicDef": 5.4
+  },
+  "skills": [
+    {
+      "id": 60491,
+      "type": "assist"
+    },
+    {
+      "id": 60492,
+      "type": "contract"
+    },
+    {
+      "id": 60491,
+      "type": "contract"
+    },
+    {
+      "id": 504901,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1056
+}

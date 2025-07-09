@@ -1,0 +1,140 @@
+{
+  "id": 64,
+  "name": "伊莎贝拉",
+  "title": "神恩代行者",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40005,
+  "age": "16",
+  "artist": "Mins",
+  "artistOverseas": "Mins",
+  "backstories": [
+    "从小在修道院长大，在四五岁时被裁判长发现了作为暗杀者的潜力。在懵懂之时，就已经加入了裁判所，并开始学习“传播神恩的另一种方式”——暗杀。",
+    "对神无比虔诚的她，深信自己所做的一切都是为了更好地传播神的恩典，被她杀死的人并非死去，而是以肉体的消亡换取灵魂被神原谅的机会。",
+    "伊莎贝拉在代行神恩之时，会利用自己人畜无害的外表，轻易接近目标，在对方毫无防备的情况下终结其生命，并在内心虔诚地为其祈祷，乞求神明宽恕其灵魂。",
+    "圣教会得知禁忌魔法重现于时之塔之中，于是从裁判所将神恩代行者唤来，表面上命令她前往时之塔协助牧师寻找圣遗物。实际上，伊莎贝拉只接到了一个命令——抹杀一切试图染指禁忌的人。"
+  ],
+  "birthday": "4月26日",
+  "height": "？",
+  "hobby": "祈祷",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064//card.png",
+      "diamond": "/ui/imagesets/role/char_064//diamond.png",
+      "gacha": "/ui/imagesets/role/char_064//gacha.png",
+      "longCard": "/ui/imagesets/role/char_064//longcard.png",
+      "round": "/ui/imagesets/role/char_064//round.png",
+      "square": "/ui/imagesets/role/char_064//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064//card.png",
+      "diamond": "/ui/imagesets/role/char_064//diamond.png",
+      "gacha": "/ui/imagesets/role/char_064//gacha.png",
+      "longCard": "/ui/imagesets/role/char_064//longcard.png",
+      "round": "/ui/imagesets/role/char_064//round.png",
+      "square": "/ui/imagesets/role/char_064//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char064",
+        "url": "/overseas_live2d/char064"
+      }
+    },
+    {
+      "id": 906403,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064_break//card.png",
+      "diamond": "/ui/imagesets/role/char_064_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_064_break//longcard.png",
+      "round": "/ui/imagesets/role/char_064_break//round.png",
+      "square": "/ui/imagesets/role/char_064_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char064_break",
+        "url": "/overseas_live2d/char064_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 19,
+    "hp": 324,
+    "magicDef": 19,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.98,
+    "hp": 32.4,
+    "magicDef": 1.98,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.98,
+    "hp": 32.4,
+    "magicDef": 1.98
+  },
+  "skills": [
+    {
+      "id": 60641,
+      "type": "assist"
+    },
+    {
+      "id": 60641,
+      "type": "contract"
+    },
+    {
+      "id": 60642,
+      "type": "contract"
+    },
+    {
+      "id": 506401,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95064,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1072
+}

@@ -1,0 +1,140 @@
+{
+  "id": 90,
+  "name": "蓓丝蒂",
+  "title": "隐于黑夜",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40007,
+  "age": "12",
+  "artist": "HIROKAZU",
+  "artistOverseas": "HIROKAZU",
+  "backstories": [
+    "随着万圣节的临近，城镇中节日的气息越来越浓。$B$$B$然而最近却经常有人向治安官汇报，自己为节日精心准备的食物不翼而飞，这些事件无一例外，全部发生在黑夜之中。有人曾目击到一团毛茸茸的黑色东西一闪而过，也有人说那是个身手敏捷的小女孩。$B$$B$越来越多的投诉让城镇的治安官再也坐不住了，他决定在摊位摆上诱人的美食，自己则在暗处监视。$B$$B$夜晚降临，那个神秘的黑影果然出现。",
+    "可恶的家伙，你终于来了——$B$$B$原本抱着敌意的治安官悄无声息地接近了逮捕目标，然而他却惊讶地发现，这是个活泼可爱的女孩，尽管那对耳朵是如此特别。$B$$B$女孩的狼吞虎咽被治安官打断，不过女孩似乎并不是什么坏人，她表示自己只是被美味吸引。和她简单交谈后，治安官发现她只是个不懂人类社会常识的可爱女孩，并没有其他恶念。$B$$B$治安官并没有处罚她，甚至邀请她来到自己的家里，猫灵蓓丝蒂很快就和治安官的女儿成为了朋友。",
+    "蓓丝蒂原本和自己的族人一样，远离人类社会，在山林生活。幼年时就听父母提及过人类。$B$$B$——那些叫做人类的生物，耳朵和栗子一样短小，从来不会听别人的话，这就是我们说的耳边风。人类是十分无礼的家伙，甚至想捕捉我们，让高贵的我们成为他们的宠物。真是笑话，我们可不是那些温顺的家猫，我们是高贵的猫灵一族。$B$$B$父母的话反而让蓓丝蒂对人类充满了好奇，甚至萌生了去人类社会看一看的想法。",
+    "终于，按捺不住好奇之心的蓓丝蒂，尽管被父母再三劝告，还是决定告别他们，离开山林，奔向了自己憧憬的人类社会。$B$$B$眼前繁华热闹的城镇，来往的行人，一切都是那么新鲜有趣，天真烂漫的猫灵少女早已把父母的劝告抛之脑后，兴奋地冲向了未知的世界。"
+  ],
+  "birthday": "？",
+  "height": "150cm",
+  "hobby": "恶作剧、吃东西",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_090.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_090.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90.png",
+      "square": "/ui/imagesets/headphotos//hp_090.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_090.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_090.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90.png",
+      "square": "/ui/imagesets/headphotos//hp_090.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char090",
+        "url": "/overseas_live2d/char090"
+      }
+    },
+    {
+      "id": 909003,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_090b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90b.png",
+      "square": "/ui/imagesets/headphotos//hp_090b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char090_break",
+        "url": "/overseas_live2d/char090_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 60902,
+      "type": "assist"
+    },
+    {
+      "id": 60901,
+      "type": "contract"
+    },
+    {
+      "id": 60902,
+      "type": "contract"
+    },
+    {
+      "id": 509001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95090,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1100
+}

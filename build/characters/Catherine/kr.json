@@ -1,0 +1,140 @@
+{
+  "id": 23,
+  "name": "캐서린",
+  "title": "성스러운 기적",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40002,
+  "age": "17",
+  "artist": "mitha",
+  "artistOverseas": "mitha",
+  "backstories": [
+    "조국이 침략자에게 고통받고 있을 때 팔을 걷어붙이고 나선 영웅이다. $B$사람들이 끝없이 절망하고 있을 때 $B$명예의 군기를 높이 내걸고 선봉에 서서 적진에 돌격했고, $B$이 땅에 다시금 빛과 영광을 가져다준 소녀이다.",
+    "\"신이 침략자를 사랑하시는지 미워하시는지는 난 몰라. $B$$B$내가 아는 건, 모든 침략자를 조국에서 몰아낼 거라는 것뿐이지. 죽은 자는 제외하고 말이야.\"$B$$B$\n 그녀의 신분을 아는 사람은 아무도 없었는데, $B$간혹 어떤 사람은 그녀가 신의 사자라고 말했다. $B$$B$매년 패배한 병사들이 다시 영광의 깃발 아래 모여들어 그녀의 은혜를 찬양했다. $B$$B$심지어 왕자조차도 그녀에게 기적을 기구하며 군대 전체의 지휘를 맡겼고, $B$신의 이름으로 이 나라를 구해달라 부탁했다.",
+    "소녀의 깃발은 조국의 희망이자, 어둠 속 유일한 빛이었다. 모든 사람이 그녀를 성녀로 받들었고, 용감하게 그녀를 따랐으며, 한 번의 승리조차 성스러운 기적으로 여겼다.",
+    "소녀의 군대는 왕자를 도와 함락된 성을 공격했고, $B$$B$왕자는 그녀의 곁에 무릎을 꿇으며 그녀에게 대관해 줄 것을 간청했다.$B$$B$\n \"제가 만약 성은을 입지 않았다면 주께서 하사해 주시기를 바라옵고, $B$제가 만약 이미 신의 영광을 받았다면 주께서 저와 저의 조국에 하사해 주시기를 바라옵나이다.\""
+  ],
+  "birthday": "11월 25일",
+  "height": "160cm",
+  "hobby": "기도",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902301,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "mitha",
+      "overseasArtist": "mitha",
+      "card": "/ui/imagesets/cards//Card_032.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_32.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_032.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_032.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_32.png",
+      "square": "/ui/imagesets/headphotos//hp_032.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_032.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902302,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "mitha",
+      "overseasArtist": "mitha",
+      "card": "/ui/imagesets/cards//Card_032.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_32.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_032.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_032.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_32.png",
+      "square": "/ui/imagesets/headphotos//hp_032.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_032.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char032",
+        "url": "/overseas_live2d/char032"
+      }
+    },
+    {
+      "id": 902311,
+      "name": "화려한 성연",
+      "description": "조국을 떠나고 전쟁이 끝나도, 소녀는 여전히 자신만의 방법으로 주변 사람들을 지킨다.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_032_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_032_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_032_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_032_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_032_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_032_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char032_v1",
+        "url": "/overseas_live2d/char032_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 396,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4,
+    "hp": 90,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 3.6
+  },
+  "skills": [
+    {
+      "id": 60232,
+      "type": "assist"
+    },
+    {
+      "id": 60231,
+      "type": "contract"
+    },
+    {
+      "id": 60232,
+      "type": "contract"
+    },
+    {
+      "id": 502301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95023,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1028
+}

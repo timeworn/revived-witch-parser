@@ -1,0 +1,140 @@
+{
+  "id": 64,
+  "name": "이사벨라",
+  "title": "신의 대행자",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40005,
+  "age": "16",
+  "artist": "Mins",
+  "artistOverseas": "Mins",
+  "backstories": [
+    "어려서 부터 수도원에서 자랐으며, 네댓 살 때 재판장으로 부터 암살자로서의 잠재력을 인정 받았다. 어린 나이에 재판소에 가입해 '신의 은혜를 전파하는 또 다른 방식'인 암살을 배우기 시작했다.",
+    "경건한 믿음을 가진 그녀는 자신이 한 모든 일이 신의 은혜를 더 잘 전파하기 위함이고, 그녀에게 죽임을 당한 사람은 죽음이 아니라 육체의 소멸을 말미암아 영혼을 신에게 용서받을 수 있는 기회를 얻었다고 믿었다.",
+    "이사벨라는 신들의 은총을 대행할 때 자신 외모를 이용해 쉽게 목표에 접근하고, 상대방이 무방비 상태에서 생을 마감할 때 마음속으로 경건하게 기도하며 영혼의 용서를 빌었다.",
+    "상투스 교회는 금기의 마법이 크로노타워에서 발견되었다는 사실을 알자, 재판소에서는 신의 대행자를 불러들여 크로노타워에 가서 목사를 도와 고대 유물을 찾으라고 명령하였지만, 실제로 이사벨라가 받은 것은 금기에 물든 모든 사람들을 말살하라는 명령뿐이었다."
+  ],
+  "birthday": "4월 26일",
+  "height": "？",
+  "hobby": "기도",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064//card.png",
+      "diamond": "/ui/imagesets/role/char_064//diamond.png",
+      "gacha": "/ui/imagesets/role/char_064//gacha.png",
+      "longCard": "/ui/imagesets/role/char_064//longcard.png",
+      "round": "/ui/imagesets/role/char_064//round.png",
+      "square": "/ui/imagesets/role/char_064//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064//card.png",
+      "diamond": "/ui/imagesets/role/char_064//diamond.png",
+      "gacha": "/ui/imagesets/role/char_064//gacha.png",
+      "longCard": "/ui/imagesets/role/char_064//longcard.png",
+      "round": "/ui/imagesets/role/char_064//round.png",
+      "square": "/ui/imagesets/role/char_064//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char064",
+        "url": "/overseas_live2d/char064"
+      }
+    },
+    {
+      "id": 906403,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Mins",
+      "overseasArtist": "Mins",
+      "card": "/ui/imagesets/role/char_064_break//card.png",
+      "diamond": "/ui/imagesets/role/char_064_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_064_break//longcard.png",
+      "round": "/ui/imagesets/role/char_064_break//round.png",
+      "square": "/ui/imagesets/role/char_064_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_064_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char064_break",
+        "url": "/overseas_live2d/char064_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 19,
+    "hp": 324,
+    "magicDef": 19,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.98,
+    "hp": 32.4,
+    "magicDef": 1.98,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.98,
+    "hp": 32.4,
+    "magicDef": 1.98
+  },
+  "skills": [
+    {
+      "id": 60641,
+      "type": "assist"
+    },
+    {
+      "id": 60641,
+      "type": "contract"
+    },
+    {
+      "id": 60642,
+      "type": "contract"
+    },
+    {
+      "id": 506401,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95064,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1072
+}

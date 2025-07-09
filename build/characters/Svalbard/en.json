@@ -1,0 +1,117 @@
+{
+  "id": 21,
+  "name": "Svalbard",
+  "title": "The Revenger",
+  "rarity": 1,
+  "element": 4,
+  "vocation": 2,
+  "affiliation": 40012,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "You may expect it to be a male when you read this name. However, this is the name of her sword. $B$$B$She just refuses to give her real name to anyone.",
+    "She has closed off her heart very early on and keeps working on her swordsmanship, claiming that revenge is the only thing she lives for.",
+    "She used to be the daughter of a local noble family, living a carefree life. $B$$B$However, a gang of bandits broke into her home and plundered her family of everything. $B$$B$\nThe raging fire, the horrible screams, all the images before her eyes were like hell. $B$$B$She was pushed into the storage cabinet by her mother, and huddled her tiny body inside, with the terrified screams stuck in her throat. $B$This poor child could only hold back her grief and let tears soak into her mouth, daring not to make any sound all night. $B$$B$\nNo one in her family has ever survived this massacre, except her.",
+    "In order to take revenge, she wandered around, constantly pursuing the trail of the roving bandits. $B$$B$After hearing that those outlaws appeared in the forest, she quit her job as a servant, carried her great sword on the back and set out on a journey of revenge."
+  ],
+  "birthday": "Aug. 20",
+  "height": "152cm",
+  "hobby": "Sewing/ Gardening",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902101,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_025.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_25.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_025.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_025.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_25.png",
+      "square": "/ui/imagesets/headphotos//hp_025.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_025.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902102,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_025.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_25.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_025.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_025.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_25.png",
+      "square": "/ui/imagesets/headphotos//hp_025.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_025.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 102,
+    "def": 22,
+    "hp": 562,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 10.3,
+    "def": 2.3,
+    "hp": 56.23,
+    "magicDef": 3.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 10.3,
+    "def": 2.3,
+    "hp": 56.23,
+    "magicDef": 3.06
+  },
+  "skills": [
+    {
+      "id": 60211,
+      "type": "assist"
+    },
+    {
+      "id": 60211,
+      "type": "contract"
+    },
+    {
+      "id": 60212,
+      "type": "contract"
+    },
+    {
+      "id": 502101,
+      "type": "contract"
+    },
+    {
+      "id": 2001,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1026
+}

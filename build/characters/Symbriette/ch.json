@@ -1,0 +1,140 @@
+{
+  "id": 79,
+  "name": "辛布莉特",
+  "title": "海之守卫",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40001,
+  "age": "18",
+  "artist": "あれっくす",
+  "artistOverseas": "あれっくす",
+  "backstories": [
+    "夏日才会在海边出现的神秘女性，身着风格完全不同的泳衣，旁若无人地在海边玩耍。$B$$B$因为害怕和陌生人说话，自觉地远离别人。$B$$B$据说是守护大海的精灵，不过谁都没办法证实这个传言。$B$$B$一旦有人搭讪，她就会立刻跑开，游向深海。",
+    "曾搭讪过辛布莉特的人总会失望而归。$B$$B$有人猜测是因为她内向害羞，对社交有着天生的恐惧；又有人猜测她曾在社交方面遭受过重大创伤，如今依然不敢接触他人；还有人猜测她是精灵，只会精灵特有的语言，无法与人类沟通。",
+    "辛布莉特的母亲曾给她讲过一个传说：海之精灵有时会把装满白沙的透明瓶子遗落在海滩，若有人捡到这些瓶子，将会得到海之精灵的珍贵馈赠。$B$$B$辛布莉特期待着这个传说会成为现实，时常会去海滩徘徊。",
+    "辛布莉特对自己被称为“海之精灵”一事感到惊讶，虽然很荣幸被称为自己憧憬的存在，但真实的海之精灵依然是个谜。$B$$B$如果有可能，自己也想去见一见真正的海之精灵。"
+  ],
+  "birthday": "3月5日",
+  "height": "165cm",
+  "hobby": "读书、发呆",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "?",
+  "skins": [
+    {
+      "id": 907901,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79.png",
+      "square": "/ui/imagesets/headphotos//hp_079.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907902,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79.png",
+      "square": "/ui/imagesets/headphotos//hp_079.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char079",
+        "url": "/overseas_live2d/char079"
+      }
+    },
+    {
+      "id": 907903,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79b.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79b.png",
+      "square": "/ui/imagesets/headphotos//hp_079b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char079_break",
+        "url": "/overseas_live2d/char079_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 60792,
+      "type": "assist"
+    },
+    {
+      "id": 60791,
+      "type": "contract"
+    },
+    {
+      "id": 60792,
+      "type": "contract"
+    },
+    {
+      "id": 507901,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95079,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1098
+}

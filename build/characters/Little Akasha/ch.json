@@ -1,0 +1,140 @@
+{
+  "id": 92,
+  "name": "年幼阿卡莎",
+  "title": "剑姬之路",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "夜ノみつき",
+  "artistOverseas": "夜ノみつき",
+  "backstories": [
+    "出身名门的少女，一族都是圣域闻名的魔法剑士，少女从小就在父亲的指导下开始剑术练习。",
+    "对于这个年纪的孩子，比起枯燥无味的挥剑练习，美丽的花朵和田间的小动物更具吸引力。",
+    "虽然一天天的练习让少女的剑技不断提升，但是并不清楚挥剑的意义，不过并没有因此产生抵触情绪，还是充实地度过每一天。",
+    "魔神高迪亚的出现，打破了世界的平静。少女一族都投入了和魔神的战斗之中，少女身边最亲近的人一个个倒下，少女无能为力，整日以泪洗面。直到有一天，圣域的守护者出现在少女面前，将最后的希望——星屑之剑赠予少女。"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_092//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_092//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092//round.png",
+      "square": "/ui/imagesets/localization/role/char_092//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_092//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_092//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092//round.png",
+      "square": "/ui/imagesets/localization/role/char_092//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char092",
+        "url": "/overseas_live2d/char092"
+      }
+    },
+    {
+      "id": 909203,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_092_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_092_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char092_break",
+        "url": "/overseas_live2d/char092_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 133,
+    "def": 30,
+    "hp": 598,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.39,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.39,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 60922,
+      "type": "assist"
+    },
+    {
+      "id": 60921,
+      "type": "contract"
+    },
+    {
+      "id": 60922,
+      "type": "contract"
+    },
+    {
+      "id": 509201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95092,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1110
+}

@@ -1,0 +1,120 @@
+{
+  "id": 4,
+  "name": "优丽雅",
+  "title": "露尼亚的圣女",
+  "rarity": 1,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "17",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "原本是露尼亚公国年龄最小的公主，露尼亚大公的掌上明珠。\n\n但优丽雅并没有因此养成孤僻高傲的性格，而是温柔地对待周围的人，无论身份的高低。\n\n每当她用治愈魔法帮助别人时，总会露出比魔法更治愈心灵的微笑。",
+    "尽管不愿意伤害别人，是位善良的公主，但是个性却意外的坚强率直。\n\n优丽雅坚信神永远祝福露尼亚的土地，能引导人们走出战争带来的苦难，终有一天能建立所有人都能平等生活的国度。",
+    "为了逃避政治联姻而放弃了高贵的身份，逃离王宫，成为献身于神的修女。\n\n从此奔波各地，救助饱尝战争伤痛的平民。\n\n她的慈爱被称为神的救赎，而露尼亚的圣女也由此诞生。\n\n在奔波各地时，即便是像希奈缇娅那样的问题人物，也得到了她的包容。",
+    "偶尔也会怀念从前的生活，睡前从箱底拿出华美的服饰，面露幸福的笑容，将它们紧紧拥在怀中。\n\n这一举动曾经被莫尔提茉看见，因此莫尔提茉经常会拉着她去服装店，挑选可爱的服饰。\n\n两人的服饰喜好意外地接近，因此多了个共同话题，而且其他人完全无法插入。"
+  ],
+  "birthday": "3月30日",
+  "height": "159cm",
+  "hobby": "祈祷、读书",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_006.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_06.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_006.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_006.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_06.png",
+      "square": "/ui/imagesets/headphotos//hp_006.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_006.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_006.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_06.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_006.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_006.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_06.png",
+      "square": "/ui/imagesets/headphotos//hp_006.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_006.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char006",
+        "url": "/overseas_live2d/char006"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 76,
+    "def": 2,
+    "hp": 382,
+    "magicDef": 20,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 7.65,
+    "def": 0.2,
+    "hp": 38.25,
+    "magicDef": 2.04,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 7.65,
+    "def": 0.2,
+    "hp": 38.25,
+    "magicDef": 2.04
+  },
+  "skills": [
+    {
+      "id": 60041,
+      "type": "assist"
+    },
+    {
+      "id": 60041,
+      "type": "contract"
+    },
+    {
+      "id": 60042,
+      "type": "contract"
+    },
+    {
+      "id": 500401,
+      "type": "contract"
+    },
+    {
+      "id": 1001,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1006
+}

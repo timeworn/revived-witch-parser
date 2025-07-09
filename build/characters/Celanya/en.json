@@ -1,0 +1,160 @@
+{
+  "id": 29,
+  "name": "Celanya",
+  "title": "Azure Archer of Wind",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40012,
+  "age": "18",
+  "artist": "えびら",
+  "artistOverseas": "えびら",
+  "backstories": [
+    "Celanya's grandfather and father are the most outstanding hunters in the village, and she inherited their talents through their bloodline. $B$$B$She has started practicing archery since childhood so she can feel the breath of the prey, even in the dark night.$B$It's her somatosensory system rather than her vision that plays a part in detecting the target.",
+    "Due to her great strength, she has absolute confidence in her archery skills. $B$She claims that \"Every shot hits the bull's-eye\". $B$$B$When shooting, she thinks of herself as an arrow, emotionless and undivided, flying straight to the target.",
+    "She has high self-esteem and often feels empty due to a lack of worthy opponents. $B$$B$Like her father, the Silverbow, she is also eager to challenge someone more powerful. $B$$B$\"If I find the legendary Fallen God, then I can both train myself and find the way to stop the snowstorm.\" $B$$B$With such a simple thought, Celanya carries her beloved longbow and sets out alone to the mountain peak.",
+    "Though claiming to be unrivaled, she actually is not a match for her father.$B$$B$She had been following her father's steps and imitating her father to do the hunting practice, but soon she found out that imitation wouldn't help her to surpass her father but just leave her behind her father as always. $B$$B$After realizing this, she was kind of lost and hated herself for being weak. $B$$B$\nThese changes certainly didn't escape her father's attention. He covered her eyes and took her to the target.$B$\"Can you feel the target?\" Celanya nodded. \"Then take ten steps backward. Can you still feel that?\" \"Ten more steps.\"$B$$B$\nOver and over again, when Celanya removed the blindfold, she found she was a hundred steps away from the target but she could still feel the target.$B$$B$\n\"See, this is what you're capable of.\" $B$$B$Father's words are engraved in her mind. After then, she gave up the strength training but focuses on practicing her archery. $B$She puts aside all distracting thoughts and works to be an emotionless archer master."
+  ],
+  "birthday": "Nov. 23",
+  "height": "171cm",
+  "hobby": "Hunting/ Stitching",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "amatou",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/cards//Card_035.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_035.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_035.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35.png",
+      "square": "/ui/imagesets/headphotos//hp_035.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "amatou",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/cards//Card_035.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_035.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_035.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35.png",
+      "square": "/ui/imagesets/headphotos//hp_035.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035",
+        "url": "/overseas_live2d/char035"
+      }
+    },
+    {
+      "id": 902903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "えびら",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/localization/role/char_035_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_035_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_035_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_035_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_035_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_035_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035_break",
+        "url": "/overseas_live2d/char035_break"
+      }
+    },
+    {
+      "id": 902911,
+      "name": "Festival Celebration",
+      "description": "Dressed up for the ritual of the year, Celanya plans to enjoy the festival.",
+      "artist": "amatou",
+      "overseasArtist": "哈奈鲁",
+      "card": "/ui/imagesets/cards//Card_035v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_035v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35v1.png",
+      "square": "/ui/imagesets/headphotos//hp_035v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035_v1",
+        "url": "/overseas_live2d/char035_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 352,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.89,
+    "hp": 35.28,
+    "magicDef": 1.89,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.89,
+    "hp": 35.28,
+    "magicDef": 1.89
+  },
+  "skills": [
+    {
+      "id": 60291,
+      "type": "assist"
+    },
+    {
+      "id": 60291,
+      "type": "contract"
+    },
+    {
+      "id": 60292,
+      "type": "contract"
+    },
+    {
+      "id": 502901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95029,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1035
+}

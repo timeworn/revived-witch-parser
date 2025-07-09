@@ -1,0 +1,140 @@
+{
+  "id": 116,
+  "name": "오리스",
+  "title": "혼의 안내자",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "猫咪的守望",
+  "artistOverseas": "猫咪的守望",
+  "backstories": [
+    "한밤중에 묘지를 돌아다니는 신비로운 여자는 사신의 대리인으로 불리지만, 사실 아무도 없는 곳에서 늦잠을 자고 싶을 뿐이었다.",
+    "한때 키폰의 수하로 명계에서 안내자였으며, 묘지에서 헤매는 영혼을 보면 눈의 붕대를 풀어 자신의 특수한 힘을 이용해 영혼을 명계로 이끈다.",
+    "붕대를 감고 있는 탓에 때론 이상한 사람으로 오해를 받고는 하지만, 실제로는 다정하고 따뜻한 소녀이다.",
+    "인간 세상의 자유를 동경하여 안내자 일을 그만두었지만, 자주 명계로 옛 친구들을 찾아가곤 한다."
+  ],
+  "birthday": "?",
+  "height": "169cm",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_116//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_116//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_116//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_116//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_116//round.png",
+      "square": "/ui/imagesets/localization/role/char_116//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_116//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_116//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_116//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_116//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_116//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_116//round.png",
+      "square": "/ui/imagesets/localization/role/char_116//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_116//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char116",
+        "url": "/overseas_live2d/char116"
+      }
+    },
+    {
+      "id": 911603,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_116_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_116_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_116_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_116_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_116_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_116_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char116_break",
+        "url": "/overseas_live2d/char116_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 61162,
+      "type": "assist"
+    },
+    {
+      "id": 61161,
+      "type": "contract"
+    },
+    {
+      "id": 61162,
+      "type": "contract"
+    },
+    {
+      "id": 511601,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95116,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1137
+}

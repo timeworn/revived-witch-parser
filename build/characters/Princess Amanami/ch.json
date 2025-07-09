@@ -1,0 +1,140 @@
+{
+  "id": 102,
+  "name": "脱解公主",
+  "title": "回忆花语",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 5,
+  "affiliation": 40001,
+  "age": "16",
+  "artist": "久賀フーナ",
+  "artistOverseas": "久賀フーナ",
+  "backstories": [
+    "深受人民爱戴的公主，和严肃的女王不同，虽然尚显稚嫩，开始热心于政事。最近以关心人民疾苦的理由，经常走出宫殿，深入村落田间。",
+    "作为女王的继承人，每天都要接受精英教育，处理大量的政务。从未表现出不满的神色，出色地履行了职责，被周围的人所敬仰。",
+    "脱解的舞蹈据说源自神明的祝福，作为现世之神的继承人，将神明的恩惠广布子民。\n为了能够在神明祭上献上舞蹈，脱解在每日的政事结束后，仍然要拖着疲惫的身躯，在院中练习舞蹈。\n红日西斜，如火的残阳映射在衣袖上，步态轻盈，歌咏婉转，美妙之极，目睹此景的侍女无不感动得流下眼泪。",
+    "草色青青，薤露未消时，脱解走出宫殿，和随从侍女一起去野外踏青。长发飘动，轻抚枝头的花瓣，举袖拭去感伤。在漫天的花雨中，合着侍女的唱声，脱解翩翩起舞，让人不禁怀疑如此绝美并非尘世所有，实在是天仙化人。"
+  ],
+  "birthday": "8月8日",
+  "height": "153cm",
+  "hobby": "诗歌、舞蹈",
+  "race": "Human",
+  "sex": "？",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_102//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_102//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102//round.png",
+      "square": "/ui/imagesets/localization/role/char_102//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_102//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_102//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102//round.png",
+      "square": "/ui/imagesets/localization/role/char_102//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char102",
+        "url": "/overseas_live2d/char102"
+      }
+    },
+    {
+      "id": 910203,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_102_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_102_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char102_break",
+        "url": "/overseas_live2d/char102_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 61022,
+      "type": "assist"
+    },
+    {
+      "id": 61021,
+      "type": "contract"
+    },
+    {
+      "id": 61022,
+      "type": "contract"
+    },
+    {
+      "id": 510201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95102,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1112
+}

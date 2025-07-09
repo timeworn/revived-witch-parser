@@ -1,0 +1,140 @@
+{
+  "id": 66,
+  "name": "Hauen",
+  "title": "Rabbit of Fairyland",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "Aちき",
+  "artistOverseas": "Aちき",
+  "backstories": [
+    "A girl who claims to be from Fairyland on the edge of the Kingdom of Lochaber. A mythical figure from fairytales. She is leaving home for the first time, and is curious about what lies beyond.",
+    "Her small stature and cute-looking wand often cause her to be mistaken for a child, but she doesn't mind. It appears that Hauen is not her real name, but one given to her by her companions in the Fairyland. Everyone around her feels indebted to her because she always brings them luck.",
+    "Despite her curiosity about this new world, she has no experience dealing with people and is too shy to speak in front of strangers.",
+    "She used to be a cute white rabbit from Fairyland. Even though she has taken a human form now, her long rabbit ears would still protrude from her head whenever she feels frightened, and then she would quickly hide in a corner, burying her head in her arms, trembling. Recently, however, she seems to have made her first friend in the outside world and is often seen playing with Ardisia."
+  ],
+  "birthday": "Jan 1",
+  "height": "150cm",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906601,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906602,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066",
+        "url": "/overseas_live2d/char066"
+      }
+    },
+    {
+      "id": 906603,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_066_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_066_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066_break",
+        "url": "/overseas_live2d/char066_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60661,
+      "type": "assist"
+    },
+    {
+      "id": 60661,
+      "type": "contract"
+    },
+    {
+      "id": 60662,
+      "type": "contract"
+    },
+    {
+      "id": 506601,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95066,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1090
+}

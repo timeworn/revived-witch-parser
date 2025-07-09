@@ -1,0 +1,120 @@
+{
+  "id": 76,
+  "name": "Mortimer",
+  "title": "Heart of Rose",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "17",
+  "artist": "不可燃物",
+  "artistOverseas": "不可燃物",
+  "backstories": [
+    "She used to be the director of the largest garden in Lunia. \n\nThe plants in the garden piqued her interest more than humans.",
+    "In the moonlit nights, the garden was silent, only Mortimer laying alone amongst the flowers. \n\nEntangled by the thorns, she absorbed the essence of the roses, which could be turned into her magic.",
+    "When Lunia was once again in the throes of war, Princess Eulalia traveled around to help the civilians who had suffered during the war. \n\nMortimer's unique healing magic was appreciated by Eulalia, and so she was invited to join Eulalia to save the injured that blanketed the war-torn land.",
+    "Mortimer herself certainly enjoyed the travels, which gave her more opportunities to get close to nature and absorb the essence of flowers. \n\nDespite being called the \"Thorny Rose\" by some, most people know this mischievous child as a helpful and gentle girl and called her \"Heart of Rose\". \n\nTogether with Eulalia, she is seen as a gift from God to the land of Lunia."
+  ],
+  "birthday": "May. 12",
+  "height": "157cm",
+  "hobby": "Flower cultivation/Mischief/Sprucing up.",
+  "race": "Human",
+  "sex": "?",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907601,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_076.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_76.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_076.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_076.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_76.png",
+      "square": "/ui/imagesets/headphotos//hp_076.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_076.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907602,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_076.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_76.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_076.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_076.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_76.png",
+      "square": "/ui/imagesets/headphotos//hp_076.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_076.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char076",
+        "url": "/overseas_live2d/char076"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60761,
+      "type": "assist"
+    },
+    {
+      "id": 60761,
+      "type": "contract"
+    },
+    {
+      "id": 60762,
+      "type": "contract"
+    },
+    {
+      "id": 507601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1086
+}

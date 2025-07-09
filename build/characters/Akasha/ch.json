@@ -1,0 +1,160 @@
+{
+  "id": 13,
+  "name": "阿卡莎",
+  "title": "星屑之剑",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "PHI",
+  "artistOverseas": "夜ノみつき",
+  "backstories": [
+    "只在远古书籍中记录的剑圣，据说是意识之剑的持有者。\n\n曾用星屑般华丽的剑技，消灭了上古时代的魔神高迪亚，拯救了世界。\n\n关于她的相貌，没有留下任何记载，只知道是一位女性，和湖之女神达娜以及冥界的管理者一起击败了魔神高迪亚，\n\n从那以后，再也无法在史籍中找到星屑之剑的名字。",
+    "据说阿卡莎是意识之剑的名字，而持有者也以此自称。\n\n人们相信意识之剑中注入了持有者的意志，永不朽坏，意识之剑的持有者也会受到庇佑，永远不会衰老。\n\n所以现在的持有者可能和千年前的是同一个人。\n\n有目击者声称见过意识之剑的持有者，但没人能确定她是否就是最初消灭魔神而拯救世界的剑圣。\n\n也有孩童提供证言，她经常会躺在花田中，那澄澈透明的瞳孔仿佛与天空融为了一体，没有人能确认她的身份。",
+    "不少人猜测阿卡莎早已离开人世，毕竟已经过去上千年的时光，不过最近上层出现了一位自称是她的弟子的剑士。\n\n根据这位弟子的说法，阿卡莎已经不再拔剑，独自一人隐居，远离外界的纷乱。\n\n不过这位弟子也证实了，躺在花田里的女性就是星屑之剑阿卡莎，而且已经在世上度过了漫长的岁月。\n\n好奇的人们追问弟子是否能再现如同彗星般闪耀的剑技时，\n她只能摆摆手。\n\n阿卡莎并没有把最擅长的流星斩教给她，人类的身体难以承受招式带来的巨大负担。",
+    "虽然嘴上从来不说，但是私下非常在意可爱的事物。\n\n有人偷偷看见她在花田中东张西望，确认周围没有人后，才小心翼翼地将小兔子抱在怀中，用脸颊去享受兔毛带来的快乐。\n\n不过一旦被发现，阿卡莎就会立刻拉下脸，用难以置信的敏捷接近路人，然后将路人打晕，迅速跑开。\n\n目睹这一切的人目瞪口呆，完全无法相信眼前发生的变化，更加怀疑这迅速跑开的女生是否就是传说中击败魔神拯救世界的星屑之剑。"
+  ],
+  "birthday": "？",
+  "height": "174cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012",
+        "url": "/overseas_live2d/char012"
+      }
+    },
+    {
+      "id": 901303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_012b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12b.png",
+      "square": "/ui/imagesets/headphotos//hp_012b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_break",
+        "url": "/overseas_live2d/char012_break"
+      }
+    },
+    {
+      "id": 901311,
+      "name": "沙滩假日",
+      "description": "消灭了上古时代的魔神后，在海滩放松，穿着稍显大胆的少女",
+      "artist": "PHI",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/cards//Card_012v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12v1.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12v1.png",
+      "square": "/ui/imagesets/headphotos//hp_012v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_v1",
+        "url": "/overseas_live2d/char012_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60132,
+      "type": "assist"
+    },
+    {
+      "id": 60131,
+      "type": "contract"
+    },
+    {
+      "id": 60132,
+      "type": "contract"
+    },
+    {
+      "id": 501301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95013,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1012
+}

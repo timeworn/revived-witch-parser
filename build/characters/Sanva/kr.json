@@ -1,0 +1,140 @@
+{
+  "id": 109,
+  "name": "산화",
+  "title": "명계의 탄식",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "Nekojira",
+  "artistOverseas": "Nekojira",
+  "backstories": [
+    "명계 입구의 안내자인 산화는 다른 동료들과는 달리 인간의 영혼을 명계로 보내는 일을 맡지 않았다.",
+    "산화는 명계의 관리자의 명령에 따르고, 명계의 평화를 책임지며, 흉악한 악령은 무정할 정도로 차갑게 처리한다.",
+    "산화 손에 들려 있는 우산은 명계의 강바닥에서 수천 년 동안 셀 수 없이 많은 망령의 한을 흡수했다고 한다.",
+    "형식상 키폰 부하로 있지만, 실제로는 키폰의 명령을 따르지 않고 아케론테에게 충성한다. 키폰의 게으른 태도에 불만을 품고, 아케론테에게 따로 불평한 적이 있다."
+  ],
+  "birthday": "7월 15일",
+  "height": "？",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910901,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Nekojira",
+      "overseasArtist": "Nekojira",
+      "card": "/ui/imagesets/localization/role/char_109//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_109//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_109//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_109//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_109//round.png",
+      "square": "/ui/imagesets/localization/role/char_109//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_109//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910902,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Nekojira",
+      "overseasArtist": "Nekojira",
+      "card": "/ui/imagesets/localization/role/char_109//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_109//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_109//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_109//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_109//round.png",
+      "square": "/ui/imagesets/localization/role/char_109//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_109//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char109",
+        "url": "/overseas_live2d/char109"
+      }
+    },
+    {
+      "id": 910903,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Nekojira",
+      "overseasArtist": "Nekojira",
+      "card": "/ui/imagesets/localization/role/char_109_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_109_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_109_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_109_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_109_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_109_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char109_break",
+        "url": "/overseas_live2d/char109_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 61092,
+      "type": "assist"
+    },
+    {
+      "id": 61091,
+      "type": "contract"
+    },
+    {
+      "id": 61092,
+      "type": "contract"
+    },
+    {
+      "id": 510901,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95109,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1125
+}

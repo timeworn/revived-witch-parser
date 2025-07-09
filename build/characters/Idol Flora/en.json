@@ -1,0 +1,140 @@
+{
+  "id": 95,
+  "name": "Idol Flora",
+  "title": "Dream Stage",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Hum",
+  "artistOverseas": "Hum",
+  "backstories": [
+    "A mysterious girl from the Forest of Elves. This was her first time away from home, so she kept a cautious distance from strangers. But she was curious all the same and carefully observed everything going on around her.",
+    "For generations, the Forest of Elves had been the peaceful abode of the High Elves, but then the rise of the Floating Isles of Cassiel shattered the peace. $B$$B$Excessive exposure to sunlight caused the trees to stop growing, and withering crept in from the forest's edge. Worse, monsters began flying up from the ground to invade the forest. $B$$B$The downfall of the Forest of Elves seemed inevitable...",
+    "Seeing all this, Flora realized that the Elves alone would never bring salvation. $B$$B$They required the help of that which they most despised—Humans. They needed manpower to provide magic, as well as the money to build sunlight-abating facilities. Only then could tranquility be restored to the Forest of Elves.",
+    "For Flora, that was too long a shot. But still, she set aside her misgivings and joined the team—she would get on the Dazzling Stage and become an idol. $B$$B$She trained hard every day toward that end. But things didn't go as smoothly as she had hoped. Difficulties abounded. A gloomy future awaited Forest of Elves..."
+  ],
+  "birthday": "？",
+  "height": "165cm",
+  "hobby": "Playing the harp/ Singing",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909501,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "snow_is",
+      "overseasArtist": "Hum",
+      "card": "/ui/imagesets/localization/role/char_095//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_095//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_095//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095//round.png",
+      "square": "/ui/imagesets/localization/role/char_095//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909502,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "snow_is",
+      "overseasArtist": "Hum",
+      "card": "/ui/imagesets/localization/role/char_095//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_095//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_095//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095//round.png",
+      "square": "/ui/imagesets/localization/role/char_095//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char095",
+        "url": "/overseas_live2d/char095"
+      }
+    },
+    {
+      "id": 909511,
+      "name": "Happy Melody",
+      "description": "A handmade gift for fans. A sweet surprise.",
+      "artist": "sagiri",
+      "overseasArtist": "sagiri",
+      "card": "/ui/imagesets/localization/role/char_095_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_095_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_095_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char095_v1",
+        "url": "/overseas_live2d/char095_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60951,
+      "type": "assist"
+    },
+    {
+      "id": 60951,
+      "type": "contract"
+    },
+    {
+      "id": 60952,
+      "type": "contract"
+    },
+    {
+      "id": 509501,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95095,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1102
+}

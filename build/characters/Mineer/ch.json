@@ -1,0 +1,140 @@
+{
+  "id": 70,
+  "name": "米奈厄",
+  "title": "夜之庇佑",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Alov",
+  "artistOverseas": "Alov",
+  "backstories": [
+    "生活在精灵湖畔的少女。\n\n喜欢在夜里来到精灵湖边上。静静地沐浴在月光之中，向精灵湖畔共同的庇护者-湖之女神达娜献上祈祷。",
+    "沉睡在精灵湖底的湖之女神达娜感受到了她的虔诚，引导倾洒在湖面的月光凝聚成了一头海豚，并将操纵月光的能力与月光海豚一起赐予了她。\n\n在月光之中，她感受到了湖之女神的声音。\n\n在女神沉睡时，她会和伙伴一起维护精灵之森的安宁，直到湖之女神归来。",
+    "经常和芙洛莱一起在湖边玩耍，肩负着守护芙洛莱的任务。\n\n任何不怀好意企图接近芙洛莱的人，都会受到魔法的制裁。",
+    "知晓达娜过去的伤感经历。\n\n不过，米奈厄和玛娅维尔不同，似乎知道人类男性离开达娜的原因。\n\n因此私下似乎和人类男性保持着秘密联系，会把外界的新事物带入精灵之森。\n\n玛娅维尔对这一切一无所知，还会把米奈厄带来的新曲子教给芙洛莱。\n\n看上去举止优雅，实际上对音乐的领悟力非常低，五音不全。\n\n每次把新曲子带给玛娅维尔时，总是会出纰漏，支支吾吾地避开玛娅维尔的问话，完全没有平时冷酷的形象。\n\n好在玛娅维尔并没有过多疑心，只是好奇为什么她每次都能找到如此优秀的音乐作品。"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Alov",
+      "overseasArtist": "Alov",
+      "card": "/ui/imagesets/cards//Card_070.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_70.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_070.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_070.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_70.png",
+      "square": "/ui/imagesets/headphotos//hp_070.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_070.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Alov",
+      "overseasArtist": "Alov",
+      "card": "/ui/imagesets/cards//Card_070.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_70.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_070.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_070.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_70.png",
+      "square": "/ui/imagesets/headphotos//hp_070.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_070.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char070",
+        "url": "/overseas_live2d/char070"
+      }
+    },
+    {
+      "id": 907011,
+      "name": "幽兰春晖",
+      "description": "在新年来临之际换上了新衣服，在湖畔悠然而坐，静静地等待新年的日出",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/localization/role/char_070_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_070_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_070_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_070_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_070_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_070_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char070_v1",
+        "url": "/overseas_live2d/char070_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60702,
+      "type": "assist"
+    },
+    {
+      "id": 60702,
+      "type": "contract"
+    },
+    {
+      "id": 60701,
+      "type": "contract"
+    },
+    {
+      "id": 507001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95070,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1078
+}

@@ -1,0 +1,180 @@
+{
+  "id": 17,
+  "name": "艾拉",
+  "title": "龙之少女",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40007,
+  "age": "988",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "外表看上去是可爱的小萝莉，实际是即将迎来千岁生日的古老种族的后裔。\n\n已经在人类的世界中旅行了上百年，走过世界的各个角落，见多识广。\n\n平常以人类的形象示人，不愿意破坏自己可爱的形象，只有在真正生气的时候，才会变回龙的形态。",
+    "喜欢恶作剧，尤其喜欢在恶作剧后观察人类的各种尴尬反应。\n\n不会遵守人类的道德观念，做事完全随着自己的性子。\n\n因为性格乖张，周围没有什么朋友。能和她一起玩的，只有同样拥有奇怪性格的诺忒娜和梅莫菲斯。\n\n三个人虽然性格都有脱线的部分，但是意外地却能玩到一起，关系十分融洽。",
+    "作为龙族的艾拉，据说已在世间度过了近千年的时光，\n\n但是本人却非常介意这件事情，讨厌别人提及自己的年龄。\n\n大概是因为她长期混迹于人类社会，形成了和人类女生一样的价值观吧。",
+    "曾经和自己的族人一样躲在远离人烟之处。\n\n当艾拉向父母提出想要离开龙之巢穴去外面的世界时，父母气得像是火山爆发。\n\n——外面太危险了，人类都是坏心眼，想尽办法捕捉我们这些古老的种族。这种事情，爸爸和妈妈绝对不允许！\n\n尽管被父母再三叮嘱，对外面世界的期待与好奇还是充满了艾拉的内心。\n\n终于，艾拉从龙之巢穴跑了出来，来到人类社会。繁华的街道，来往的人流，一切都让她兴奋不已。\n\n艾拉隐藏了自己的原形，保持着小女孩的姿态，兴奋地跑向了新的世界。"
+  ],
+  "birthday": "？",
+  "height": "140cm",
+  "hobby": "恶作剧",
+  "race": "Dragon",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901701,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_024.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_024.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24.png",
+      "square": "/ui/imagesets/headphotos//hp_024.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901702,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_024.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_024.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24.png",
+      "square": "/ui/imagesets/headphotos//hp_024.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024",
+        "url": "/overseas_live2d/char024"
+      }
+    },
+    {
+      "id": 901703,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_024b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24b.png",
+      "square": "/ui/imagesets/headphotos//hp_024b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_break",
+        "url": "/overseas_live2d/char024_break"
+      }
+    },
+    {
+      "id": 901711,
+      "name": "高贵的血脉",
+      "description": "意识到自身的行为不符合高贵的身份，决定有所改变",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_024v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24v1.png",
+      "square": "/ui/imagesets/headphotos//hp_024v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_v1",
+        "url": "/overseas_live2d/char024_v1"
+      }
+    },
+    {
+      "id": 901712,
+      "name": "华诞之夜",
+      "description": "满载礼物，为大家带来节日的惊喜。",
+      "artist": "木马",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/localization/role/char_024_v2//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_024_v2//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_024_v2//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_024_v2//round.png",
+      "square": "/ui/imagesets/localization/role/char_024_v2//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_024_v2//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_v2",
+        "url": "/overseas_live2d/char024_v2"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 60171,
+      "type": "assist"
+    },
+    {
+      "id": 60171,
+      "type": "contract"
+    },
+    {
+      "id": 60172,
+      "type": "contract"
+    },
+    {
+      "id": 501701,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95017,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1025
+}

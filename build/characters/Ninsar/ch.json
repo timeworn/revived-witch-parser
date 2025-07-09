@@ -1,0 +1,160 @@
+{
+  "id": 103,
+  "name": "凝莎",
+  "title": "林间笑语",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "昌未",
+  "artistOverseas": "昌未",
+  "backstories": [
+    "在森林中中长大的精灵女孩，从未去过外面的世界。每天都会去林间的空地，投喂鸽子。",
+    "原本怕人的鸽子，意外地对凝莎非常亲近，经常可以看见她用脸颊亲密地蹭鸽子的羽毛。",
+    "和大部分高等精灵不同，并不讨厌人类，非常羡慕可以自由飞翔的鸽子，憧憬着外面的世界。\n是芙洛莱的仰慕者之一，最大的愿望就是能和芙洛莱共同演奏一曲。",
+    "最近偶然得知芙洛莱弹奏的曲子都是玛娅维尔教授的，于是每天都会去缠着玛娅维尔央求她也教给自己，为此没少挨斥责，不过本人似乎并不在意，甚至萌生了偷偷溜出森林，去人类的城镇学习音乐的想法。"
+  ],
+  "birthday": "6月3日",
+  "height": "？",
+  "hobby": "音乐",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "昌未",
+      "overseasArtist": "昌未",
+      "card": "/ui/imagesets/localization/role/char_103//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_103//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_103//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_103//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_103//round.png",
+      "square": "/ui/imagesets/localization/role/char_103//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_103//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "昌未",
+      "overseasArtist": "昌未",
+      "card": "/ui/imagesets/localization/role/char_103//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_103//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_103//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_103//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_103//round.png",
+      "square": "/ui/imagesets/localization/role/char_103//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_103//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char103",
+        "url": "/overseas_live2d/char103"
+      }
+    },
+    {
+      "id": 910303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "昌未",
+      "overseasArtist": "昌未",
+      "card": "/ui/imagesets/localization/role/char_103_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_103_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_103_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_103_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_103_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_103_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char103_break",
+        "url": "/overseas_live2d/char103_break"
+      }
+    },
+    {
+      "id": 910311,
+      "name": "异域装扮",
+      "description": "尝试换上异域风格的服饰，不知这身装扮是否适合活泼可爱的少女。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_103_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_103_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_103_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_103_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_103_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_103_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char103_v1",
+        "url": "/overseas_live2d/char103_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 61032,
+      "type": "assist"
+    },
+    {
+      "id": 61031,
+      "type": "contract"
+    },
+    {
+      "id": 61032,
+      "type": "contract"
+    },
+    {
+      "id": 510301,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95103,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1111
+}

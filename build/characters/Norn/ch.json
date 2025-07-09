@@ -1,0 +1,157 @@
+{
+  "id": 43,
+  "name": "诺伦",
+  "title": "永恒神官",
+  "rarity": 3,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40011,
+  "age": "600？",
+  "artist": "Angye",
+  "artistOverseas": "Angye",
+  "backstories": [
+    "来自西方小岛弗摩尔，是六神官之首柯谢家族的继承人。$B$$B$看上去是活泼可爱的少女，据说已经在世上度过了数百年的时光。",
+    "司掌“心”的柯谢家族，被认为是上古时期守护大地万物的有翼人的后裔。\n\n诺伦继承了优秀的血统，能够用魔力控制自己的外貌，达到青春永驻。",
+    "她最让人畏惧的是掌握生死的能力，据说身体已经完全不会变化，到了不死不灭的境界。\n\n通常到达了这种境界的生物，会阅尽世界，无聊到失去自身的意识。\n\n然而诺伦却不同，经历了漫长的岁月，依然保持着少女之心，慈爱地守护着她的族人，不停寻找新的兴趣。\n\n“生、生、生、生，生的开始即是黑暗。“\n\n”死、死、死、死，死的终结即是幽冥。”",
+    "最近受到了未来的影响，开始在意自己的打扮。\n\n虽然在世上度过了漫长的时光，但是从没有改变过自己的外在形象，毕竟她的身体不会产生污垢，而且她本人也没有想要打扮自己给别人看的需求。\n\n虽然有想过向别人请教如何打扮自己，但是身为六神官之首的自尊让她无法放下身段。\n\n这份困扰甚至让她在主持祭祀的过程中都无法安下心来，会一个人从会场偷偷跑出来，躲在角落里，用双手捂住涨红的脸。\n\n这少女化的行为没有逃过由依的双眼，似乎已经偷偷地计入了她的小本子，用途暂时不明。"
+  ],
+  "birthday": "？",
+  "height": "151cm",
+  "hobby": "无忧无虑地玩耍",
+  "race": "Angel",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055",
+        "url": "/overseas_live2d/char055"
+      }
+    },
+    {
+      "id": 904303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55b.png",
+      "square": "/ui/imagesets/headphotos//hp_055b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055b.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904311,
+      "name": "治愈的小恶魔♪啾",
+      "description": "偶尔尝试大胆装扮，融入诱惑之夜，治愈孤独的心灵♪啾~~",
+      "artist": "Angye ",
+      "overseasArtist": "Angye ",
+      "card": "/ui/imagesets/cards//Card_055v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55v1.png",
+      "square": "/ui/imagesets/headphotos//hp_055v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055_v1",
+        "url": "/overseas_live2d/char055_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60431,
+      "type": "assist"
+    },
+    {
+      "id": 60431,
+      "type": "contract"
+    },
+    {
+      "id": 60432,
+      "type": "contract"
+    },
+    {
+      "id": 504301,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95043,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1049
+}

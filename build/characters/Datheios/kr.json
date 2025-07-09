@@ -1,0 +1,140 @@
+{
+  "id": 25,
+  "name": "다시오스",
+  "title": "균형의 집행자",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "성역 출신의 집행자이자 가장 존경받는 재판관이다. 지금은$B$$B$'예전의 나는 진실을 추구했고, 지금의 나는 정의를 받든다.'는 맹세를 지키기 위해 $B$$B$각지를 유랑하고 있다는 소문이 있다.",
+    "그가 뜨거운 여름에 부는 시원한 바람 같다는 사람도 있지만, $B$엄동설한의 서리처럼 차갑다는 사람도 있다. $B$$B$그 누구도 그의 얼굴에 표정이 스치는 것을 보지 못했다.",
+    "수호자가 상당히 신뢰한다고 하는데, $B$각지를 돌아다니는 것도 수호자의 의뢰를 받아 $B$각지의 분쟁을 처리하고 불공정을 해소하기 위함이라고 한다.",
+    "자신의 선택을 정의라고 생각한다. $B$상층부 귀족이 하층부 사람들을 착취하는 게 불공평하다고는 생각하지만, $B$수호자에게 한 맹세를 어길 수 없어서 고뇌한다."
+  ],
+  "birthday": "10월 2일",
+  "height": "186cm",
+  "hobby": "권선징악",
+  "race": "Human",
+  "sex": "남자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902501,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902502,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023",
+        "url": "/overseas_live2d/char023"
+      }
+    },
+    {
+      "id": 902503,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_023b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_023b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_023b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23b.png",
+      "square": "/ui/imagesets/headphotos//hp_023b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023_break",
+        "url": "/overseas_live2d/char023_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 128,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60251,
+      "type": "assist"
+    },
+    {
+      "id": 60251,
+      "type": "contract"
+    },
+    {
+      "id": 60252,
+      "type": "contract"
+    },
+    {
+      "id": 502501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1030
+}

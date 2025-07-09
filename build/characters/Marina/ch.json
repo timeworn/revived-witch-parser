@@ -1,0 +1,117 @@
+{
+  "id": 40,
+  "name": "麻里奈",
+  "title": "人偶使",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "20",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "来自精灵湖畔的人偶使，$B$似乎和深闺公主凯多尼娅保持着不错的关系。",
+    "不喜欢和外人接触，$B$在湖畔的房屋里制作新的人偶，$B$常常是几个星期都不会出门。",
+    "她坚信人偶能够代替自己处理一切，$B$不仅仅局限于简单的家务。$B$$B$精心制作的人偶在她的操纵下，$B$能够完成各种精细的动作，$B$让人不禁怀疑这些人偶被赋予了生命。",
+    "最初只是想要用人偶替代自己完成各种繁杂的家务，$B$某种意义上也是懒人才会开发的技艺。$B$$B$据说薇奥拉就是她的最高杰作，$B$在制作完成后，$B$麻里奈为了测试人偶的自主能力，就把薇奥拉直接放入了人类社会。"
+  ],
+  "birthday": "11月26日",
+  "height": "163cm",
+  "hobby": "制作人偶、被人撒娇",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_059.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_059.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_059.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_059.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_59.png",
+      "square": "/ui/imagesets/headphotos//hp_059.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_059.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_059.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_059.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_059.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_059.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_59.png",
+      "square": "/ui/imagesets/headphotos//hp_059.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_059.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 123,
+    "def": 21,
+    "hp": 396,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.39,
+    "def": 2.16,
+    "hp": 39.69,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.39,
+    "def": 2.16,
+    "hp": 39.69,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60401,
+      "type": "assist"
+    },
+    {
+      "id": 60401,
+      "type": "contract"
+    },
+    {
+      "id": 60402,
+      "type": "contract"
+    },
+    {
+      "id": 504001,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1046
+}

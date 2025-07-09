@@ -1,0 +1,140 @@
+{
+  "id": 25,
+  "name": "",
+  "title": "",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "186cm",
+  "hobby": "",
+  "race": "Human",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902501,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902502,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_23.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_023.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_023.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23.png",
+      "square": "/ui/imagesets/headphotos//hp_023.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023",
+        "url": "/overseas_live2d/char023"
+      }
+    },
+    {
+      "id": 902503,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_023b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_023b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_023b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_23b.png",
+      "square": "/ui/imagesets/headphotos//hp_023b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_023b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char023_break",
+        "url": "/overseas_live2d/char023_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 128,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.83,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60251,
+      "type": "assist"
+    },
+    {
+      "id": 60251,
+      "type": "contract"
+    },
+    {
+      "id": 60252,
+      "type": "contract"
+    },
+    {
+      "id": 502501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1030
+}

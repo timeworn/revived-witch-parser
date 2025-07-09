@@ -1,0 +1,160 @@
+{
+  "id": 71,
+  "name": "玛特薇芙",
+  "title": "蓝移观测者",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40007,
+  "age": "14",
+  "artist": "Rosuuri",
+  "artistOverseas": "Rosuuri",
+  "backstories": [
+    "玛特薇芙出生在蒙特尼亚的一个贵族家庭，不同于其他热衷于礼仪和交际的贵族姑娘，玛特薇芙喜欢一个人在阳台上仰望星空，出神地望着星河，直到深夜。\n\n周围的人把她视作怪人，在背后议论纷纷，不过她本人并不在意。",
+    "直到有一天，她听见有一个神秘的声音在呼唤着她：“年轻的女孩，加入我们吧。在这里，你将了解到世界的真谛。”\n\n未知对于她有着莫大的吸引力，她决定不和任何人打招呼，一个人离开故乡，跟随神秘声音的指引，踏上了冒险的旅途。",
+    "在玛特薇芙失踪后，人们猜测她可能是去野外看星星迷了路，或者是和哪个平民男孩私奔了。渐渐地，人们忘记了这个奇怪的女孩。\n\n几年后，人们惊讶地发现玛特薇芙回到了蒙特尼亚，不过，从她的眼神中，人们嗅到了一丝恐惧的气息。她的眼睛能够控制万物的波长频率，高频的辐射可以轻而易举地摧毁眼前的一切事物。",
+    "公国的高层很快就找到了玛特薇芙，他们迫切地希望找到正面对抗潘诺尼亚王国的怪物——存在抹杀者的方法。显然，拥有异常能力的玛特薇芙就是他们的答案。\n\n“意识总会出现偏差，我所要做的，就是不断地修正它并制造新的偏差。”"
+  ],
+  "birthday": "12月22日",
+  "height": "154cm",
+  "hobby": "仰望星空、探求真理",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907101,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_071.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_071.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71.png",
+      "square": "/ui/imagesets/headphotos//hp_071.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907102,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_071.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_071.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71.png",
+      "square": "/ui/imagesets/headphotos//hp_071.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071",
+        "url": "/overseas_live2d/char071"
+      }
+    },
+    {
+      "id": 907103,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_071b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71b.png",
+      "square": "/ui/imagesets/headphotos//hp_071b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071_break",
+        "url": "/overseas_live2d/char071_break"
+      }
+    },
+    {
+      "id": 907111,
+      "name": "星之约定",
+      "description": "仅在瓦伦丁节期间出售的限定款式，玛特薇芙被精巧的设计吸引，决定买下这款礼服",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/role/char_071_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_071_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_071_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_071_v1//round.png",
+      "square": "/ui/imagesets/role/char_071_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_071_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071_v1",
+        "url": "/overseas_live2d/char071_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60711,
+      "type": "assist"
+    },
+    {
+      "id": 60711,
+      "type": "contract"
+    },
+    {
+      "id": 60712,
+      "type": "contract"
+    },
+    {
+      "id": 507101,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95071,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1087
+}

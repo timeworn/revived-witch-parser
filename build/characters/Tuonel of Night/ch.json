@@ -1,0 +1,120 @@
+{
+  "id": 108,
+  "name": "夜之托奈兰",
+  "title": "回忆公主",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40016,
+  "age": "15",
+  "artist": "IrvineQ",
+  "artistOverseas": "IrvineQ",
+  "backstories": [
+    "来自圣域的女生，似乎很难融入人类社会，一直被排挤，目前居住在下层的村子里。$B$$B$精通常见的治愈魔法，在村子里担任药剂师。",
+    "平时很少出门，只会和熟悉的村民交流。$B$$B$因为医术精湛，深受村民的欢迎，村民们也会把自己种植的各类农作物送给她。$B$$B$这种简单平静的生活大概就是托奈兰所期待的吧。",
+    "临近新年，善良的村民把村子精心地装扮了一番。$B$$B$尽管不太擅长和其他人交流，但托奈兰还是非常渴望融入新年的节日气氛中，一点点尝试融入人类社会。",
+    "不过令人担心的是，最近魔物开始频繁入侵下层。$B$$B$为了保护村民，托奈兰从箱底取出了母亲留给她的守护恶魔。$B$$B$不过守护恶魔似乎因为在黑暗中闷了很久，一旦苏醒，就会大闹一番，这点让托奈兰头疼不已。"
+  ],
+  "birthday": "2月1日",
+  "height": "149cm",
+  "hobby": "治疗受伤的人、缝纫、园艺",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "IrvineQ",
+      "overseasArtist": "IrvineQ",
+      "card": "/ui/imagesets/role/char_108//card.png",
+      "diamond": "/ui/imagesets/role/char_108//diamond.png",
+      "gacha": "/ui/imagesets/role/char_108//gacha.png",
+      "longCard": "/ui/imagesets/role/char_108//longcard.png",
+      "round": "/ui/imagesets/role/char_108//round.png",
+      "square": "/ui/imagesets/role/char_108//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_108//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "IrvineQ",
+      "overseasArtist": "IrvineQ",
+      "card": "/ui/imagesets/role/char_108//card.png",
+      "diamond": "/ui/imagesets/role/char_108//diamond.png",
+      "gacha": "/ui/imagesets/role/char_108//gacha.png",
+      "longCard": "/ui/imagesets/role/char_108//longcard.png",
+      "round": "/ui/imagesets/role/char_108//round.png",
+      "square": "/ui/imagesets/role/char_108//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_108//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char108",
+        "url": "/overseas_live2d/char108"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 601081,
+      "type": "assist"
+    },
+    {
+      "id": 601081,
+      "type": "contract"
+    },
+    {
+      "id": 601082,
+      "type": "contract"
+    },
+    {
+      "id": 510801,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95108,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1106
+}

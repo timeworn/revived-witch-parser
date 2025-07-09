@@ -1,0 +1,120 @@
+{
+  "id": 99,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "？",
+  "hobby": "",
+  "race": "Ancient God",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909901,
+      "name": "",
+      "description": "",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_099//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_099//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_099//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_099//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_099//round.png",
+      "square": "/ui/imagesets/localization/role/char_099//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_099//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909902,
+      "name": "",
+      "description": "",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/localization/role/char_099//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_099//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_099//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_099//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_099//round.png",
+      "square": "/ui/imagesets/localization/role/char_099//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_099//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char099",
+        "url": "/overseas_live2d/char099"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60992,
+      "type": "assist"
+    },
+    {
+      "id": 60991,
+      "type": "contract"
+    },
+    {
+      "id": 60992,
+      "type": "contract"
+    },
+    {
+      "id": 509901,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95099,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1108
+}

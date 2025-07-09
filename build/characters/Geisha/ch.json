@@ -1,0 +1,140 @@
+{
+  "id": 124,
+  "name": "瑰夏",
+  "title": "翡翠之心",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40009,
+  "age": "？",
+  "artist": "森林长椅",
+  "artistOverseas": "森林长椅",
+  "backstories": [
+    "出身于贝尔吉卡王国的著名美食城市埃斯梅拉达，或许是因为血脉特殊，对甜食的品鉴有着独一无二的天赋。",
+    "据说，凡是能够得到瑰夏认可的店铺，都会迎来辉煌与繁荣，因此有人猜测这是精灵的祝福。",
+    "在节日到来之际，贝尔吉卡王国内所有城市的甜品店店主都在打听瑰夏的行踪，希望能够有幸得到瑰夏的点评和认可。",
+    "最近，瑰夏得知有人要在节日的祭典上捣乱，显然，她决不允许其他人影响大家享受美食。"
+  ],
+  "birthday": "？",
+  "height": "151cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 912401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_124//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_124//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_124//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_124//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_124//round.png",
+      "square": "/ui/imagesets/localization/role/char_124//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_124//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 912402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_124//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_124//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_124//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_124//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_124//round.png",
+      "square": "/ui/imagesets/localization/role/char_124//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_124//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char124",
+        "url": "/overseas_live2d/char124"
+      }
+    },
+    {
+      "id": 912403,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_124_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_124_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_124_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_124_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_124_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_124_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char124_break",
+        "url": "/overseas_live2d/char124_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61242,
+      "type": "assist"
+    },
+    {
+      "id": 61241,
+      "type": "contract"
+    },
+    {
+      "id": 61242,
+      "type": "contract"
+    },
+    {
+      "id": 512401,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95124,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1136
+}

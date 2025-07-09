@@ -1,0 +1,137 @@
+{
+  "id": 54,
+  "name": "가르디티스",
+  "title": "낙원의 시인",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40016,
+  "age": "32",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "원래는 성역의 문지기였던 아발렌과 파르페의 오빠이다.$B$$B$하지만 일에는 전혀 관심이 없고, 음악과 시가 창작에 빠져 있다.",
+    "일은 열심히 하지 않지만 어째서인지 수호자에게 신임 받는다.$B$$B$하지만 어느 날 갑자기 가르디티스는$B$이곳에서는 창작의 영감이 떠오르지 않는다는 이유로 성역을 떠났다.$B$$B$본인의 말에 의하면 자신의 최고 걸작은$B$정령의 호수에서 완성한 것이라고 한다.",
+    "하층부에서 떠돌던 가르디티스는 음유시인이 되어 각지에서 그가 가장 좋아하는 선율을 연주했다.$B$$B$다른 상층부 귀족 마법사와는 다르게 가르디티스는 하층부 주민들과 사이가 상당히 좋았는데,$B$심지어 그들을 초대해 함께 공연을 하기도 했다.",
+    "정령의 숲에서 여러 차례 그를 봤다는 사람이 있었는데,$B$그는 숲 입구에서만 서성일 뿐 숲에 들어가지는 않는다고 한다.$B$뭔가 걱정이 있는 듯하다.$B$$B$정령의 숲에 접근할 때마다 마야우엘에게 질책을 받았다.$B$마야우엘은 매번 다짜고짜 그를 쫓아내고는 했는데 그를 매우 싫어하는 것 같다."
+  ],
+  "birthday": "9월 16일",
+  "height": "183cm",
+  "hobby": "시가, 영감 얻기",
+  "race": "Holy Spirit",
+  "sex": "남자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_056.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_056.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56.png",
+      "square": "/ui/imagesets/headphotos//hp_056.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_056.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_056.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56.png",
+      "square": "/ui/imagesets/headphotos//hp_056.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char056",
+        "url": "/overseas_live2d/char056"
+      }
+    },
+    {
+      "id": 905403,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_056b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56b.png",
+      "square": "/ui/imagesets/headphotos//hp_056b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056b.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 89,
+    "def": 22,
+    "hp": 406,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.98,
+    "def": 2.28,
+    "hp": 40.61,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.98,
+    "def": 2.28,
+    "hp": 40.61,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60541,
+      "type": "assist"
+    },
+    {
+      "id": 60541,
+      "type": "contract"
+    },
+    {
+      "id": 60542,
+      "type": "contract"
+    },
+    {
+      "id": 505401,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1062
+}

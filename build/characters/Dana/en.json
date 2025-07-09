@@ -1,0 +1,120 @@
+{
+  "id": 45,
+  "name": "Dana",
+  "title": "Goddess of the Lake",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Sola",
+  "artistOverseas": "Sola",
+  "backstories": [
+    "She's the goddess worshiped by the creatures of the Elf Lakeside, and also the leader of the High Elves. $B$$B$She led the creatures of the Elf Lakeside to defend against the invasion of the ancient demongod Gordia and finally, with the help of Sword Maiden of Shooting Stars, she eliminated the demongod and saved the world.",
+    "It is said that Dana has been sleeping at the bottom of the Lake since then, and only when her people are in grave danger will she again awaken to guard the Forest of Elves and her people. $B$But someone claimed that a noble lady appearing by the lake a few decades ago looked quite like the legendary Goddess Dana.",
+    "After Dana fell into a slumber, her maid, Mayahuel, is given the task of guarding the Forest of Elves and taking care of Flora. $B$$B$Another maid Mineer is responsible for guarding the Elf Lake. $B$They perform their own duties separately but manage the Elf Lakeside together, isolating the Lakeside from the outside world.",
+    "Flora has inherited the noblest bloodline of the High Elves. $B$From her description, it can easily tell that her mother is Dana. $B$$B$However, as to the identity of Flora's father, no one dares to talk about it, which seems to be taboo. $B$$B$Rhythm of the Lake is the aria that Dana played to lead elves and eradicate the Demongod, and before she sank into sleep, she passed it on to Flora."
+  ],
+  "birthday": "Oct. 20",
+  "height": "172cm",
+  "hobby": "Playing the harp/ Poetry",
+  "race": "Elf",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904501,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "feng",
+      "overseasArtist": "Sola",
+      "card": "/ui/imagesets/cards//Card_045.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_045.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_045.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_045.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_45.png",
+      "square": "/ui/imagesets/headphotos//hp_045.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_045.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904502,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "feng",
+      "overseasArtist": "Sola",
+      "card": "/ui/imagesets/cards//Card_045.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_045.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_045.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_045.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_45.png",
+      "square": "/ui/imagesets/headphotos//hp_045.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_045.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char045",
+        "url": "/overseas_live2d/char045"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 21,
+    "hp": 405,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.15,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.15,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60452,
+      "type": "assist"
+    },
+    {
+      "id": 60451,
+      "type": "contract"
+    },
+    {
+      "id": 60452,
+      "type": "contract"
+    },
+    {
+      "id": 504501,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1052
+}

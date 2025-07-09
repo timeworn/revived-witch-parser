@@ -1,0 +1,137 @@
+{
+  "id": 54,
+  "name": "嘉代提斯",
+  "title": "天之乐章",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40016,
+  "age": "32",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "原本是圣域的守门人，是爱珐怜和辛妮的兄长。$B$$B$虽然肩负重任，但对工作完全不感兴趣，醉心于乐曲和诗歌的创作。",
+    "虽然对工作并不上心，但是不知为何却深受守护者的信任。$B$$B$突然有一天，嘉代提斯以缺少创作的灵感为由，离开了圣域。$B$$B$根据本人的说法，$B$自己最杰出的作品是在精灵湖畔创作完成的。",
+    "在下层游荡的嘉代提斯成为了吟游诗人，在各地演奏他最爱的旋律。$B$$B$和其他上层的贵族不同，$B$嘉代提斯和下层的居民关系非常融洽，甚至邀请他们一起参与演出。",
+    "多次在精灵之森出现，$B$不过只是在森林的入口徘徊，并未进入森林，$B$似乎有什么顾虑。$B$$B$经常被玛娅维尔斥责，每次都会不由分说地把他赶走。"
+  ],
+  "birthday": "9月16日",
+  "height": "183cm",
+  "hobby": "诗歌、寻找灵感",
+  "race": "Holy Spirit",
+  "sex": "男",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_056.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_056.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56.png",
+      "square": "/ui/imagesets/headphotos//hp_056.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_056.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_056.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56.png",
+      "square": "/ui/imagesets/headphotos//hp_056.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char056",
+        "url": "/overseas_live2d/char056"
+      }
+    },
+    {
+      "id": 905403,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_056b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_56b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_056b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_56b.png",
+      "square": "/ui/imagesets/headphotos//hp_056b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_056b.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 89,
+    "def": 22,
+    "hp": 406,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.98,
+    "def": 2.28,
+    "hp": 40.61,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.98,
+    "def": 2.28,
+    "hp": 40.61,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60541,
+      "type": "assist"
+    },
+    {
+      "id": 60541,
+      "type": "contract"
+    },
+    {
+      "id": 60542,
+      "type": "contract"
+    },
+    {
+      "id": 505401,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1062
+}

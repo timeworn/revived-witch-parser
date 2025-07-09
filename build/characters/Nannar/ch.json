@@ -1,0 +1,180 @@
+{
+  "id": 63,
+  "name": "南奈尔",
+  "title": "镜之守护",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40022,
+  "age": "16",
+  "artist": "welchino",
+  "artistOverseas": "緜/wata",
+  "backstories": [
+    "虚空之境的人身兼守护这片土地的使命，$B$因此大部分族人都是强势地驱逐那些入侵者。$B$$B$然而南奈尔却不同，看上去有些畏畏缩缩的，$B$用服饰尽量遮住自己，不想被其他人看见。",
+    "虽然看上去弱不禁风，$B$但事实上她是虚空一族的后裔，体内的魔力超过常人的想象。$B$$B$一族之人千百年来，$B$一直孤独地守护着通往虚空之境的传送门，$B$南奈尔从没和族人以外之人交流过。",
+    "一旦遇见陌生人，南奈尔就会躲入镜中世界，$B$等陌生人离开后，再从镜中穿越而出。",
+    "似乎很喜欢料理，但是也为没有可以评价料理的对象而苦恼。$B$$B$比起正面交谈了解对方，似乎更愿意躲在暗中观察，$B$在确定没有恶意后才会现身人前。$B$$B$\n“你是……不认识的人呢。$B$南奈尔一直在镜中睡觉，不清楚外面的事情。”"
+  ],
+  "birthday": "2月3日",
+  "height": "159cm",
+  "hobby": "暗中观察、睡觉、料理",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "welchino",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063//round.png",
+      "square": "/ui/imagesets/localization/role/char_063//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "welchino",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063//round.png",
+      "square": "/ui/imagesets/localization/role/char_063//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063",
+        "url": "/overseas_live2d/char063"
+      }
+    },
+    {
+      "id": 906303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "门徒",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_063_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_063_break//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_063_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_063_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_break",
+        "url": "/overseas_live2d/char063_break"
+      }
+    },
+    {
+      "id": 906311,
+      "name": "梦",
+      "description": "每当南奈尔熟睡，都会说出可爱的梦话",
+      "artist": "门徒",
+      "overseasArtist": "门徒",
+      "card": "/ui/imagesets/cards//Card_063v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_063v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_063v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_63v1.png",
+      "square": "/ui/imagesets/headphotos//hp_063v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_063v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_v1",
+        "url": "/overseas_live2d/char063_v1"
+      }
+    },
+    {
+      "id": 906312,
+      "name": "水沫幻夏",
+      "description": "少女决定用自己的方式，为美好的夏日画上独特的句号。",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_063_v2//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_063_v2//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_063_v2//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_063_v2//round.png",
+      "square": "/ui/imagesets/localization/role/char_063_v2//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_063_v2//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char063_v2",
+        "url": "/overseas_live2d/char063_v2"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 396,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4,
+    "hp": 90,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 3.6
+  },
+  "skills": [
+    {
+      "id": 60631,
+      "type": "assist"
+    },
+    {
+      "id": 60631,
+      "type": "contract"
+    },
+    {
+      "id": 60632,
+      "type": "contract"
+    },
+    {
+      "id": 506301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95063,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1071
+}

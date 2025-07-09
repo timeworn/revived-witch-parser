@@ -1,0 +1,140 @@
+{
+  "id": 79,
+  "name": "Symbriette",
+  "title": "Sea Guardian",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40001,
+  "age": "18",
+  "artist": "あれっくす",
+  "artistOverseas": "あれっくす",
+  "backstories": [
+    "A mysterious woman who only appears at the shore during summer. Clad in an exotic swimsuit, she frolics in the water as if there is no one around.$B$$B$In the presence of strangers, she becomes self-conscious and distant.$B$$B$She is rumored to be an elf tasked with guarding the ocean, but no one can be sure.$B$$B$She always darts away and swims out into the deep the moment someone strikes up a conversation.",
+    "Symbriette wasn't much of a conversationalist.$B$$B$Some have said that her shy and introverted nature has led to a natural fear of socialization. Others have guessed at some major trauma from a past attempt to connect with someone, leaving wounds that still haven't healed. Some even say that she only speaks some unknown Elven tongue, and is incapable of communicating with humans.",
+    "Symbriette's mother once told her a story about clear bottles filled with sand, dropped on the beach by visiting Sea Elves. It is said that those who collected these bottles would be richly rewarded by the Sea Elves.$B$$B$Insisting on the truth behind the legend, Symbriette often paces the beach in the hopes of finding one such bottle.",
+    "Though honored to be named the creatures in her wildest dreams, Symbriette was nonetheless shocked by her moniker of \"Sea Elf\". The Sea Elves, if they did exist, were shrouded in mystery.$B$$B$If they did turn up, Symbriette would be first in line to visit them."
+  ],
+  "birthday": "44260",
+  "height": "165cm",
+  "hobby": "Reading/ Daydreaming",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "?",
+  "skins": [
+    {
+      "id": 907901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79.png",
+      "square": "/ui/imagesets/headphotos//hp_079.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79.png",
+      "square": "/ui/imagesets/headphotos//hp_079.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char079",
+        "url": "/overseas_live2d/char079"
+      }
+    },
+    {
+      "id": 907903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "あれっくす",
+      "overseasArtist": "あれっくす",
+      "card": "/ui/imagesets/cards//Card_079b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_79b.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_079.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_079b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_79b.png",
+      "square": "/ui/imagesets/headphotos//hp_079b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_079b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char079_break",
+        "url": "/overseas_live2d/char079_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 60792,
+      "type": "assist"
+    },
+    {
+      "id": 60791,
+      "type": "contract"
+    },
+    {
+      "id": 60792,
+      "type": "contract"
+    },
+    {
+      "id": 507901,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95079,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1098
+}

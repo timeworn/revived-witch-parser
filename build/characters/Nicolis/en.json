@@ -1,0 +1,140 @@
+{
+  "id": 119,
+  "name": "Nicolis",
+  "title": "Divine Prayer",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40005,
+  "age": "17",
+  "artist": "長浜めぐみ",
+  "artistOverseas": "長浜めぐみ",
+  "backstories": [
+    "Nicolis is the youngest member of the core staff at the Holy Church. Repulsed by church politics, she skips all sorts of meetings under the pretext of doing farm work.",
+    "Her casual way of living changes when she meets Anemone, her first friend, who is the only person that can soften Nicolis' bad temper.",
+    "In order to minimize Anemone's exposure to the dark side of the Holy Church, Nicolis starts to accept missions that she previously considered unpalatable and even begins to frequently show up at high-level meetings at the church. Shocked by her change of behavior, the church leadership sends people to spy on her.",
+    "Clearly, the church leadership and Nicolis have different agendas: The former, hoping to use Anemone to tie Nicolis down, sends Fellagood to manipulate Anemone; the latter, however, is secretly planning an escape with Anemone from the church and its surveillance.\n\"I heard you and Anemone are good friends. That's good. Let's make this place your burial ground, shall we?\""
+  ],
+  "birthday": "June 18",
+  "height": "160cm",
+  "hobby": "Farm work, everything about Anemone",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "長浜めぐみ",
+      "overseasArtist": "長浜めぐみ",
+      "card": "/ui/imagesets/localization/role/char_119//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_119//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_119//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_119//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_119//round.png",
+      "square": "/ui/imagesets/localization/role/char_119//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_119//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "長浜めぐみ",
+      "overseasArtist": "長浜めぐみ",
+      "card": "/ui/imagesets/localization/role/char_119//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_119//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_119//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_119//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_119//round.png",
+      "square": "/ui/imagesets/localization/role/char_119//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_119//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char119",
+        "url": "/overseas_live2d/char119"
+      }
+    },
+    {
+      "id": 911903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "長浜めぐみ",
+      "overseasArtist": "長浜めぐみ",
+      "card": "/ui/imagesets/localization/role/char_119_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_119_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_119_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_119_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_119_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_119_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char119_break",
+        "url": "/overseas_live2d/char119_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 141,
+    "def": 21,
+    "hp": 472,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 61192,
+      "type": "assist"
+    },
+    {
+      "id": 61191,
+      "type": "contract"
+    },
+    {
+      "id": 61192,
+      "type": "contract"
+    },
+    {
+      "id": 511901,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95119,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1129
+}

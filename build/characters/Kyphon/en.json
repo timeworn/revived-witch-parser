@@ -1,0 +1,160 @@
+{
+  "id": 48,
+  "name": "Kyphon",
+  "title": "Deliverer of the Underworld",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She is the leader of the deliverers working at the entrance to the Underworld, but her behaviors make her unworthy of her title. \n\nHer main duty is to command her underlings to deliver wandering souls to the next life. \n\nIf there are any defiled spirits nearby, she will use her giant scythe to destroy them without mercy.",
+    "Though wearing a serious look on her face, she is a careless girl, not active in her work at all. \n\nShe often gets distracted and slacks off. Fortunately, her companions can always complete the work dutifully. \n\nGoorveig, in particular, does not like her lazy attitude and often criticizes her. However, Kyphon does not mind it at all.",
+    "A deliverer's duty is to guide ghosts to the next life, and prevent them from hurting the living. \n\nHer former companion Goorveig violated the duty and reaped the souls of the living. In order to hunt her down, Kyphon stepped into the Chrono Tower.",
+    "She is often reported by fellow deliverers for being lazy. But Acheronte, ruler of the Underworld doesn't punish her for that, and Kyphon herself is not willing to make any change. \n\nSometimes, she can be found lying by the River of the Underworld and resting like there's no one around. \n\nGoorveig once made a detector that could wake up Kyphon as soon as it found her sleeping. But after Goorveig left there, Kyphon is back to lazy mode again.\n\n\"Oh? A new soul? Ah, never mind. I'll leave it to the others.\""
+  ],
+  "birthday": "Feb. 9",
+  "height": "162cm",
+  "hobby": "Slacking off",
+  "race": "Renditionist",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904801,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_033.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_33.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_033.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_033.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_33.png",
+      "square": "/ui/imagesets/headphotos//hp_033.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_033.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904802,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_033.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_33.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_033.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_033.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_33.png",
+      "square": "/ui/imagesets/headphotos//hp_033.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_033.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033",
+        "url": "/overseas_live2d/char033"
+      }
+    },
+    {
+      "id": 904803,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "门徒",
+      "overseasArtist": "门徒",
+      "card": "/ui/imagesets/role/char_033_break//card.png",
+      "diamond": "/ui/imagesets/role/char_033_break//diamond.png",
+      "gacha": "/ui/imagesets/role/char_033_break//gacha.png",
+      "longCard": "/ui/imagesets/role/char_033_break//longcard.png",
+      "round": "/ui/imagesets/role/char_033_break//round.png",
+      "square": "/ui/imagesets/role/char_033_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_033_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033_break",
+        "url": "/overseas_live2d/char033_break"
+      }
+    },
+    {
+      "id": 904811,
+      "name": "Festive Mood",
+      "description": "Inspired by the festive atmosphere in the human world, the Deliverer decided to dress up a bit to welcome the Spring Festival.",
+      "artist": "门徒",
+      "overseasArtist": "门徒",
+      "card": "/ui/imagesets/role/char_033_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_033_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_033_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_033_v1//round.png",
+      "square": "/ui/imagesets/role/char_033_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_033_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033_v1",
+        "url": "/overseas_live2d/char033_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 28,
+    "hp": 598,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85
+  },
+  "skills": [
+    {
+      "id": 60482,
+      "type": "assist"
+    },
+    {
+      "id": 60481,
+      "type": "contract"
+    },
+    {
+      "id": 60482,
+      "type": "contract"
+    },
+    {
+      "id": 504801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95048,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1055
+}

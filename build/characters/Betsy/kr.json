@@ -1,0 +1,140 @@
+{
+  "id": 90,
+  "name": "베스티",
+  "title": "어둠을 걸친 자",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40007,
+  "age": "12",
+  "artist": "HIROKAZU",
+  "artistOverseas": "HIROKAZU",
+  "backstories": [
+    "할로윈 데이가 다가옴에 따라 도시에는 점점 축제 분위기가 짙어져 갔다. 하지만 최근 보안관에게 정성껏 준비한 음식이 모두 사라져 버렸다는 신고가 자주 들어왔고, 이런 사건들은 모두 예외 없이 어두운 밤중에 일어났다고 한다. 어떤 사람은 털이 복슬복슬한 검은색 형체를 보았다고 하고, 또 어떤 사람은 몸놀림이 민첩한 소녀라고 했다. 점점 신고가 잦아지자 도시의 보안관들은 가만히 있을 수 없었다. 노점에 맛있는 음식들을 차려두고 감시하기로 했고, 야심한 밤이 되자 신비로운 검은색 그림자가 모습을 드러냈다.",
+    "\"괘씸한 놈, 드디어 왔나……\"\n\n본래 체포하려는 목적으로 접근한 보안관은 대상이 비록 귀가 특이하지만 귀여운 여자아이라는 것을 알게 되었다. 허겁지겁 음식을 먹던 여자아이를 붙잡았지만, 보안관은 그저 맛있는 음식이 먹고 싶었다는 말을 듣고, 여자아이가 나쁜 사람이 아니라는 느낌이 들었다. \n\n여자아이와 간단한 대화를 나눈 후 보안관은 그녀가 그저 인간 사회의 규율이 생소할 뿐 나쁜 의도가 있었던 것은 아니라는 것을 알게 되었고, 체포하지 않고, 자신의 집에 초대하였다. 그렇게 베스티는 보안관의 딸과 친구가 되었다.",
+    "베스티는 원래 자신의 부족과 함께 인간 사회에 떨어져 깊은 산속에 살고 있었다. 베스티는 어릴 적부터 부모님으로부터 인간은 귀가 작아서 남의 말을 귀담아듣지 않고, 고귀한 일족인 자신들을 애완동물로 삼고 싶어 하는 무례한 종족이라는 말을 듣고 자라왔다. 하지만 이런 부모님의 말씀은 오히려 베스티의 호기심을 자극하였고, 인간 사회에 발을 딛게 하는 도화선이 되었다.",
+    "마침내, 호기심을 이기지 못한 베스티는 부모님의  거듭된 설득에도 불구하고, 부족과 산림을 떠라 자신이 동경하는 인간 사회로 달려갔다.\n\n눈앞에 번화한 도시, 오가는 행인들이 펼쳐졌고, 이 모든 것이 천진난만한 고양이 소녀에게는 신선한 재미로 느껴졌다."
+  ],
+  "birthday": "？",
+  "height": "150cm",
+  "hobby": "장난치기, 먹기",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_090.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_090.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90.png",
+      "square": "/ui/imagesets/headphotos//hp_090.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_090.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_090.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90.png",
+      "square": "/ui/imagesets/headphotos//hp_090.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char090",
+        "url": "/overseas_live2d/char090"
+      }
+    },
+    {
+      "id": 909003,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/cards//Card_090b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_90b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_090b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_90b.png",
+      "square": "/ui/imagesets/headphotos//hp_090b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_090b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char090_break",
+        "url": "/overseas_live2d/char090_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 60902,
+      "type": "assist"
+    },
+    {
+      "id": 60901,
+      "type": "contract"
+    },
+    {
+      "id": 60902,
+      "type": "contract"
+    },
+    {
+      "id": 509001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95090,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1100
+}

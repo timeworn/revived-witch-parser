@@ -1,0 +1,140 @@
+{
+  "id": 112,
+  "name": "葛淑丝",
+  "title": "浮空船长",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40016,
+  "age": "20",
+  "artist": "6音",
+  "artistOverseas": "6音",
+  "backstories": [
+    "原本是嘉庇艾尔上层的贵族魔法师，因为看不惯同僚欺侮下层的平民，愤然离开上层的魔法卫队，跑到下层。",
+    "完全放下了上层贵族的身段，不停地号召下层的平民团结起来，反抗上层的暴政。团结在少女周围的人们齐心协力制作了一艘浮空船，少女将风之魔法的结晶作为驱动，指挥人们驾驶这艘浮空船穿越在上层和下层之间，袭击上层的运输队，将战利品分发给饱受压迫的下层平民。",
+    "虽然经常帮助下层的平民，但是并不主张用暴力推翻上层的统治。加入反抗同盟似乎只是因为希望让浮岛回到地面，这样她就能开启新的冒险。",
+    "深得船员的信任，她的命令在舰队中就是绝对，所有人必须无条件执行。性格也因此变得越来越粗犷，完全忘记了自己曾经的贵族身份。"
+  ],
+  "birthday": "10月29日",
+  "height": "175cm",
+  "hobby": "寻宝",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_112//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_112//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_112//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_112//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_112//round.png",
+      "square": "/ui/imagesets/localization/role/char_112//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_112//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_112//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_112//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_112//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_112//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_112//round.png",
+      "square": "/ui/imagesets/localization/role/char_112//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_112//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char112",
+        "url": "/overseas_live2d/char112"
+      }
+    },
+    {
+      "id": 911203,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_112_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_112_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_112_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_112_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_112_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_112_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char112_break",
+        "url": "/overseas_live2d/char112_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4.06,
+    "hp": 90,
+    "magicDef": 4.06,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 61122,
+      "type": "assist"
+    },
+    {
+      "id": 61121,
+      "type": "contract"
+    },
+    {
+      "id": 61122,
+      "type": "contract"
+    },
+    {
+      "id": 511201,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95112,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1120
+}

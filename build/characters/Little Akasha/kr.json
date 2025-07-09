@@ -1,0 +1,140 @@
+{
+  "id": 92,
+  "name": "유년 아카샤",
+  "title": "검희의 길",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "夜ノみつき",
+  "artistOverseas": "夜ノみつき",
+  "backstories": [
+    "명문가 출신의 소녀, 가문의 모두가 성역의 유명한 마법 검사로, 소녀는 어려서부터 아버지의 지도 아래 검술연습을 시작했다.",
+    "하지만, 아직 어린 소녀에게는 무미건조한 검을 휘두르는 연습보다 예쁜 꽃과 밭의 작은 동물들이 더 매력적으로 느껴졌다.",
+    "하루하루 연습에 매진하며 검술을 연마했지만 검을 휘두르는 의미를 깨닫지 못했다.",
+    "고대 마신 가디아의 출현은 세계의 평온을 깨뜨렸다. 소녀의 가문은 마신과의 전투에 참여하였고, 소녀 주변의 사람들이 하나둘씩 쓰러져가자 소녀는 무력감에 하루 종일 눈물로 지새웠다. 그러던 어느 날 성역의 수호자가 소녀의 앞에 나타나 마지막 희망인 의식의 검을 선물한다."
+  ],
+  "birthday": "?",
+  "height": "？",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909201,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_092//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_092//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092//round.png",
+      "square": "/ui/imagesets/localization/role/char_092//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909202,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_092//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_092//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092//round.png",
+      "square": "/ui/imagesets/localization/role/char_092//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char092",
+        "url": "/overseas_live2d/char092"
+      }
+    },
+    {
+      "id": 909203,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "夜ノみつき",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/localization/role/char_092_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_092_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_092_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_092_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_092_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_092_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char092_break",
+        "url": "/overseas_live2d/char092_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 133,
+    "def": 30,
+    "hp": 598,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.39,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.39,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 60922,
+      "type": "assist"
+    },
+    {
+      "id": 60921,
+      "type": "contract"
+    },
+    {
+      "id": 60922,
+      "type": "contract"
+    },
+    {
+      "id": 509201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95092,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1110
+}

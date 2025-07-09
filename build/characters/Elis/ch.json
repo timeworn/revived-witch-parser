@@ -1,0 +1,120 @@
+{
+  "id": 32,
+  "name": "伊利斯",
+  "title": "森林女王",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40002,
+  "age": "25",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "一族的人从小就在丛林中长大，伊利斯也不例外，与丛林中的动物共生，学习狩猎技巧。",
+    "伊利斯是天生的战士，刻在基因中的野性力量使她很快就脱颖而出，成为一族中最出色的狩猎者，被推举为首领。\n\n再凶猛的野兽，在她的面前也不敢放肆。\n\n她只要一瞪眼，即便是凶狠的老虎也会变得像宠物一样温顺。",
+    "虽然坚信着强者生存的自然法则，但和一族的其他人不同，对于森林的入侵者，伊利斯还是没有赶尽杀绝。\n\n或许，对于森林女王来说，他们只不过是一群不值一提的弱者罢了。",
+    "原本和族人一起生活在丛林里，但是外来者不断入侵森林，为了守护森林的和平，伊利斯和族人选择向守护者效忠。\n\n在守护者的庇护下，再也没有人敢轻易入侵森林。"
+  ],
+  "birthday": "8月20日",
+  "height": "168cm",
+  "hobby": "狩猎",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ツナ",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_039.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_39.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_039.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_039.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_39.png",
+      "square": "/ui/imagesets/headphotos//hp_039.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_039.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ツナ",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_039.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_39.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_039.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_039.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_39.png",
+      "square": "/ui/imagesets/headphotos//hp_039.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_039.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char039",
+        "url": "/overseas_live2d/char039"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 15,
+    "hp": 340,
+    "magicDef": 15,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 1.57,
+    "hp": 34.02,
+    "magicDef": 1.57,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 1.57,
+    "hp": 34.02,
+    "magicDef": 1.57
+  },
+  "skills": [
+    {
+      "id": 60322,
+      "type": "assist"
+    },
+    {
+      "id": 60321,
+      "type": "contract"
+    },
+    {
+      "id": 60322,
+      "type": "contract"
+    },
+    {
+      "id": 503201,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1038
+}

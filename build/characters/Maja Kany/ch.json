@@ -1,0 +1,140 @@
+{
+  "id": 98,
+  "name": "玛嘉·茜姬",
+  "title": "异次元游商",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40009,
+  "age": "？",
+  "artist": "Kurot",
+  "artistOverseas": "Kurot",
+  "backstories": [
+    "行走于各地的旅行商人，携带着各类稀奇的货物，没有人知道她是从哪里获得这些珍品的。",
+    "自称幼年时家境很差，小时候就追随一位性情怪僻的商人师傅外出闯荡，在某日师傅不知所终后继承其财产与衣钵，开创了自己的事业。",
+    "虽然喜欢赚钱，但是作为商人的口碑意外的好，很多贵族甚至会向她订购珍奇货物。",
+    "十几年的阅历和风霜让她早已熟稔人情世故，有着自己独特的一套生意经，而且穿着非常朴素，很快就能赢得镇子上人们的好感，背包内的商品往往被客人们抢购一空。"
+  ],
+  "birthday": "1月3日",
+  "height": "？",
+  "hobby": "收集珍品",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_098//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_098//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098//round.png",
+      "square": "/ui/imagesets/localization/role/char_098//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_098//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_098//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098//round.png",
+      "square": "/ui/imagesets/localization/role/char_098//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char098",
+        "url": "/overseas_live2d/char098"
+      }
+    },
+    {
+      "id": 909803,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_098_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_098_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char098_break",
+        "url": "/overseas_live2d/char098_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60982,
+      "type": "assist"
+    },
+    {
+      "id": 60981,
+      "type": "contract"
+    },
+    {
+      "id": 60982,
+      "type": "contract"
+    },
+    {
+      "id": 509801,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95098,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1127
+}

@@ -1,0 +1,140 @@
+{
+  "id": 121,
+  "name": "夕音",
+  "title": "吉兔呈祥",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "ヨシモト",
+  "artistOverseas": "ヨシモト",
+  "backstories": [
+    "原本是洛哈伯边境森林里的一只普通小白兔，因不小心误食了魔法药剂而变成人类，但依旧保留了部分兔子的特征。",
+    "和同伴荷恩一样，虽然对外界充满了好奇，但并没有和人类交流的经验。",
+    "为了能填饱肚子，夕音找到附近的村镇，尝试融入人类社会。时值新年，村镇的热闹深深地吸引了夕音，尽管自己被鞭炮的爆炸吓得躲到墙角，抱着头发抖。",
+    "听说自己的同伴荷恩已经交到了人类的朋友，夕音决定前往海边寻找同伴，去结交人类的朋友。"
+  ],
+  "birthday": "？",
+  "height": "152cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 912101,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ヨシモト",
+      "overseasArtist": "ヨシモト",
+      "card": "/ui/imagesets/localization/role/char_121//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_121//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_121//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_121//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_121//round.png",
+      "square": "/ui/imagesets/localization/role/char_121//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_121//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 912102,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ヨシモト",
+      "overseasArtist": "ヨシモト",
+      "card": "/ui/imagesets/localization/role/char_121//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_121//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_121//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_121//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_121//round.png",
+      "square": "/ui/imagesets/localization/role/char_121//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_121//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char121",
+        "url": "/overseas_live2d/char121"
+      }
+    },
+    {
+      "id": 912103,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "ヨシモト",
+      "overseasArtist": "ヨシモト",
+      "card": "/ui/imagesets/localization/role/char_121_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_121_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_121_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_121_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_121_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_121_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char121_break",
+        "url": "/overseas_live2d/char121_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61212,
+      "type": "assist"
+    },
+    {
+      "id": 61211,
+      "type": "contract"
+    },
+    {
+      "id": 61212,
+      "type": "contract"
+    },
+    {
+      "id": 512101,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95121,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1133
+}

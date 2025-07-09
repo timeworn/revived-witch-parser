@@ -1,0 +1,140 @@
+{
+  "id": 52,
+  "name": "尤妲娅",
+  "title": "娇小治愈使",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40011,
+  "age": "10",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "西方小岛弗摩尔出生的小女孩。\n\n尤妲娅继承了六神官中司掌“指”的夏姆家族的血脉。",
+    "不同于其他神官家族，夏姆家族放弃追求更强的力量，转而希望用指尖的治愈之术，缓解人民的痛苦。",
+    "生性善良的尤妲娅从不和别人发生冲突，但也不和其他人过多交流。\n\n她的朋友只有由依和未来姐妹，希望打扮得和她们一样可爱。\n\n不过幼小的体型，似乎并不适合成熟类型的衣服。",
+    "在她这个年纪，田间的花草虫蝶远比复杂繁琐的祭祀仪式更具有吸引力。\n\n因此她经常翘掉重要的祭祀仪式，去森林里嬉戏玩耍。\n\n最近突然对料理产生了浓厚的兴趣，制作了许多奇奇怪怪的料理，常去找未来，让她品尝自己的作品。\n\n尽管未来不喜欢，但每次都会捏着鼻子，把这些失败作吃完。看到每次的作品都被吃完，误以为自己的料理水平一直在进步。\n\n本人似乎对此十分骄傲，不顾未来的劝说，酝酿着把自信作献给敬仰的神官诺伦。"
+  ],
+  "birthday": "1月9日",
+  "height": "136cm",
+  "hobby": "花、可爱的服装、甜食",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_053.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_053.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53.png",
+      "square": "/ui/imagesets/headphotos//hp_053.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_053.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_053.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53.png",
+      "square": "/ui/imagesets/headphotos//hp_053.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char053",
+        "url": "/overseas_live2d/char053"
+      }
+    },
+    {
+      "id": 905211,
+      "name": "元气满满",
+      "description": "翘掉重要的祭祀仪式偷偷跑去海边的尤妲娅，和她的伙伴们一起玩耍",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_053v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53v1.png",
+      "square": "/ui/imagesets/headphotos//hp_053v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char053_v1",
+        "url": "/overseas_live2d/char053_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 19,
+    "hp": 405,
+    "magicDef": 19,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 1.94,
+    "hp": 40.5,
+    "magicDef": 1.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 1.94,
+    "hp": 40.5,
+    "magicDef": 1.94
+  },
+  "skills": [
+    {
+      "id": 60522,
+      "type": "assist"
+    },
+    {
+      "id": 60521,
+      "type": "contract"
+    },
+    {
+      "id": 60522,
+      "type": "contract"
+    },
+    {
+      "id": 505201,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1060
+}

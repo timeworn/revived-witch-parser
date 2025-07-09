@@ -1,0 +1,120 @@
+{
+  "id": 100,
+  "name": "Amorai",
+  "title": "Emotional Therapist",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "26",
+  "artist": "Angye",
+  "artistOverseas": "Angye",
+  "backstories": [
+    "Amorai runs her own clinic in a small town in the Principality of Lunia.$B$$B$According to the townsfolk, every drug she prescribes is made by herself. All sorts of bizarre medical conditions could be cured by her.",
+    "Whenever someone tries to engage her in a friendly chat, she swerves off to an irrelevant subject and ends the conversation prematurely.$B$$B$Over time, people talk to her less and less. $B$$B$As a result, even though her medical skills are widely praised across town, her personal life remains little known.",
+    "Despite her eccentricities, Amorai is lauded as one of the most talented researchers in Lunia.$B$$B$Her academic accomplishments even made a splash among old scholars. $B$$B$But instead of being distracted by the accolades, Amorai buries herself in the study of medicine and arcane occultism.",
+    "There is a rumor in town that Amorai once raised a homeless girl as her own daughter and addressed her lovingly as \"Honey.\"$B$$B$Her assistant disclosed that during that time Amorai pissed her off less often than she usually did. $B$$B$Although the girl verbally protested being called \"Honey\", she did what Amorai told her and went to school in town."
+  ],
+  "birthday": "Jun. 6",
+  "height": "157cm",
+  "hobby": "Medicine/ Occultism",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910001,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/localization/role/char_100//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_100//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_100//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_100//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_100//round.png",
+      "square": "/ui/imagesets/localization/role/char_100//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_100//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910002,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/localization/role/char_100//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_100//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_100//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_100//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_100//round.png",
+      "square": "/ui/imagesets/localization/role/char_100//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_100//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char100",
+        "url": "/overseas_live2d/char100"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 405,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 61001,
+      "type": "assist"
+    },
+    {
+      "id": 61001,
+      "type": "contract"
+    },
+    {
+      "id": 61002,
+      "type": "contract"
+    },
+    {
+      "id": 510001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95100,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1103
+}

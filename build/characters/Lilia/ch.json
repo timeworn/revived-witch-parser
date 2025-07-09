@@ -1,0 +1,157 @@
+{
+  "id": 35,
+  "name": "莉莉娅",
+  "title": "极光公主",
+  "rarity": 5,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40014,
+  "age": "18",
+  "artist": "snow_is",
+  "artistOverseas": "緜/wata",
+  "backstories": [
+    "来自极北之地的霍尔姆加德公国。\n\n虽然是继承公国的公主，却十分讨厌城堡内的生活。\n\n经常因偷溜出城堡而被父亲斥责，不过本人却并不放在心上。",
+    "经常被误会是冰美人。\n\n其实性格天真烂漫，是国内人气最高的少女。\n\n每次溜出城堡前都要乔装打扮一番，不然立刻就会被认出。",
+    "喜欢在夜晚时分坐在湖畔，欣赏那美丽的星空。\n\n和诗集中记载的一样，璀璨的星河上方，指引着北天穹的北极星最为耀眼。\n\n霍尔姆加德的人们依靠它辨认方向，而占卜者依靠它去预言国家的未来。",
+    "莉莉娅非常向往自由的生活。\n\n于是偷偷地离开故乡，开始了期待已久的旅行。但是又舍不得故乡，这种复杂的感情在旅途中一直萦绕在她心头。\n\n“这里和我的故乡有什么不同吗？是啊，故乡那绚丽的极光，被称为神之色彩的绝景……”"
+  ],
+  "birthday": "12月24日",
+  "height": "161cm",
+  "hobby": "旅游、仰望星空、异国的料理、诗集",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903501,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "snow_is",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/cards//Card_040.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_40.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_040.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_040.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_40.png",
+      "square": "/ui/imagesets/headphotos//hp_040.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_040.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903502,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "snow_is",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/cards//Card_040.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_40.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_040.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_040.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_40.png",
+      "square": "/ui/imagesets/headphotos//hp_040.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_040.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char040",
+        "url": "/overseas_live2d/char040"
+      }
+    },
+    {
+      "id": 903503,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "緜/wata",
+      "overseasArtist": "緜/wata",
+      "card": "/ui/imagesets/localization/role/char_040_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_040_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_040_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_040_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_040_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_040_break//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903511,
+      "name": "生意盎然",
+      "description": "和冰雪覆盖的故乡不同，花园内四季如春，花草丛生，生机勃勃。",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_040_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_040_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_040_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_040_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_040_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_040_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char040_v1",
+        "url": "/overseas_live2d/char040_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60351,
+      "type": "assist"
+    },
+    {
+      "id": 60352,
+      "type": "contract"
+    },
+    {
+      "id": 60351,
+      "type": "contract"
+    },
+    {
+      "id": 503501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95035,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1041
+}

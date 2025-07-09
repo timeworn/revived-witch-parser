@@ -1,0 +1,160 @@
+{
+  "id": 11,
+  "name": "칼레도니아",
+  "title": "세상과 단절된 공주",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40015,
+  "age": "18",
+  "artist": "トモセシュンサク",
+  "artistOverseas": "トモセシュンサク",
+  "backstories": [
+    "다른 사람에게 자신의 처지를 알리기 싫어하는 소녀이며, 남쪽 정령의 호수에서 온 고귀한 공주라고 한다.\n \n그녀에게 엘프의 피가 흐른다고 추측하는 사람도 있었는데 본인이 부인했다.\n \n동물과 대화할 수 있는 특수한 능력을 가지고 있어 어렸을 때부터 정령의 숲에 가서 각종 동물을 탐구하는 것을 좋아했고, 그곳에서 전설의 성수를 만난 적 있다고 한다.\n \n전설에 따르면, 마음이 깨끗한 사람만이 성수의 인정을 받을 수 있다고 한다.",
+    "정령의 숲 주민처럼 자연을 두려워하여, 그녀가 숲의 수호신을 따른다고 생각하는 사람도 있었다.\n \n어려서부터 궁전에서 생활해 주변의 시녀와 귀족을 제외한 다른 사람과 교류해본 적이 없어서, 낯선 사람과 말을 섞는 것을 어색해한다.\n \n정령의 숲의 포크로어가 유일한 친구이며, 두 사람은 종종 호숫가를 산책하곤 하는데, 다른 사람이 끼어들 틈이 보이지 않을 정도로 사이가 좋다.",
+    "원래는 성수도 정령의 숲의 원주민으로, 호수의 여신 다나의 탈것이었다. 본래 상당히 거만해서 인간의 지배를 받지도, 인간과 가까이 지내지도 않지만, \n \n이 성수는 상식을 완전히 깨고 인간인 칼레도니아와 친하게 지내는데, 심지어 칼레도니아가 고귀함의 상징으로 여겨지는 뿔을 만지는 것까지도 용납한다.\n \n칼레도니아가 가장 좋아하는 것은 보름달 아래 빛나는 호수에서 조용히 성수에게 기대 부드러운 털을 쓰다듬는 것이다.\n \n가끔은 성수의 털을 꼼꼼히 빗고 남은 물기를 지긋하게 닦아주며 정리해 주기도 한다.",
+    "비록 지금까지는 사복에 별 신경을 쓰지 않았지만, 화려하게 단장한 모습을 포크로어에게 보인 후부터는 점점 치장에 신경을 쓰기 시작했고,\n \n심지어 전에는 멀리했던 귀족의 복장을 적극적으로 입어 보기 시작했다.\n \n이 변화를 지켜본 성수는 꽤 불만이 많아 보였다.\n \n칼레도니아가 귀족의 옷으로 갈아입고 성수를 타면 성수는 일정 시간마다 몸을 세차게 흔들어 칼레도니아를 떨어뜨리려 하며 불만을 표하곤 했다."
+  ],
+  "birthday": "10월 27일",
+  "height": "162cm",
+  "hobby": "동물들과 놀기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901101,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "snow_is",
+      "overseasArtist": "トモセシュンサク",
+      "card": "/ui/imagesets/cards//Card_015.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_15.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_015.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_015.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_15.png",
+      "square": "/ui/imagesets/headphotos//hp_015.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_015.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901102,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "snow_is",
+      "overseasArtist": "トモセシュンサク",
+      "card": "/ui/imagesets/cards//Card_015.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_15.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_015.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_015.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_15.png",
+      "square": "/ui/imagesets/headphotos//hp_015.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_015.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char015",
+        "url": "/overseas_live2d/char015"
+      }
+    },
+    {
+      "id": 901103,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "snow_is",
+      "overseasArtist": "トモセシュンサク",
+      "card": "/ui/imagesets/cards//Card_015b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_15b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_015b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_15b.png",
+      "square": "/ui/imagesets/headphotos//hp_015b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_015b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char015_break",
+        "url": "/overseas_live2d/char015_break"
+      }
+    },
+    {
+      "id": 901111,
+      "name": "윈터 러브 스토리",
+      "description": "유행하는 옷으로 갈아입고 마음에 둔 사람을 초대해서 함께 성수를 타고 하늘을 날아다닌다.",
+      "artist": "snow_is",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/localization/role/char_015_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_015_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_015_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_015_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_015_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_015_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char015_v1",
+        "url": "/overseas_live2d/char015_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 396,
+    "speed": 17.5
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4,
+    "hp": 90,
+    "magicDef": 2.4,
+    "speed": 1.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 3.6
+  },
+  "skills": [
+    {
+      "id": 60112,
+      "type": "assist"
+    },
+    {
+      "id": 60112,
+      "type": "contract"
+    },
+    {
+      "id": 60111,
+      "type": "contract"
+    },
+    {
+      "id": 501101,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95011,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1015
+}

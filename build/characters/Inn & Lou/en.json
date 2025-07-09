@@ -1,0 +1,160 @@
+{
+  "id": 55,
+  "name": "Inn & Lou",
+  "title": "Twin Executors",
+  "rarity": 3,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40024,
+  "age": "12",
+  "artist": "Namie",
+  "artistOverseas": "Namie",
+  "backstories": [
+    "Inn and Lou are twin sisters. They were born in the Sanctuary, but due to their poor magic talent, they were regarded by the Ruler of the Sanctuary as defectives.\n\nNaturally, they were treated coldly by other people there. These two sisters endured the pain they should not have suffered at their age.",
+    "The twins struggled to survive in the corners of the Sanctuary. And the day finally came for them to meet the turning point in their lives.\n\nDue to the monster invasion and the intensified conflicts between the Upper and Lower Domain, the Protector decided to make some use of the useless twins. She gave the twins the most humble work in the Sanctuary.\n\nThe so-called work is actually some shady work to deal with lower-class civilians or lower-level monsters. It didn't need too much magic to deal with those, after all.",
+    "As if a ray of sunlight shot into the darkness, Inn and Lou came out of the shadows and became honored residents of Sanctuary who could serve the Protector.\n\nThey have no thoughts of their own, but mechanically carry out the orders from the Protector, eliminating the targets on the list, and then moving on to the next.",
+    "The sisters' petite figures are their best cover. No one would have guessed that the seemingly innocent twins are the most cold-blooded assassins.\n\nThe two of them have an amazingly destructive power that does not match their appearance at all. When together, Inn and Lou never fail an assassination.\n\nHere they got another order from the Protector. This time the target is the leader of the Alliance of the Rebellions."
+  ],
+  "birthday": "May. 29",
+  "height": "135cm",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905501,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Namie",
+      "overseasArtist": "Namie",
+      "card": "/ui/imagesets/cards//Card_065.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_65.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_065.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_065.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_65.png",
+      "square": "/ui/imagesets/headphotos//hp_065.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_065.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905502,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Namie",
+      "overseasArtist": "Namie",
+      "card": "/ui/imagesets/cards//Card_065.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_65.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_065.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_065.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_65.png",
+      "square": "/ui/imagesets/headphotos//hp_065.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_065.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char065",
+        "url": "/overseas_live2d/char065"
+      }
+    },
+    {
+      "id": 905503,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Namie",
+      "overseasArtist": "Namie",
+      "card": "/ui/imagesets/cards//Card_065b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_065b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_065b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_65b.png",
+      "square": "/ui/imagesets/headphotos//hp_065b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_065b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char065_break",
+        "url": "/overseas_live2d/char065_break"
+      }
+    },
+    {
+      "id": 905511,
+      "name": "Starlit Memory",
+      "description": "The two sisters snuggle up against each other in the moonlight, taking refuge from life's hardships.",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_065_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_065_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_065_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_065_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_065_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_065_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char065_v1",
+        "url": "/overseas_live2d/char065_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 146,
+    "def": 16,
+    "hp": 331,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.68,
+    "def": 1.68,
+    "hp": 33.17,
+    "magicDef": 1.68,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.68,
+    "def": 1.68,
+    "hp": 33.17,
+    "magicDef": 1.68
+  },
+  "skills": [
+    {
+      "id": 60552,
+      "type": "assist"
+    },
+    {
+      "id": 60551,
+      "type": "contract"
+    },
+    {
+      "id": 60552,
+      "type": "contract"
+    },
+    {
+      "id": 505501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1063
+}

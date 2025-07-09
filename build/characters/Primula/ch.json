@@ -1,0 +1,120 @@
+{
+  "id": 9,
+  "name": "普利姆拉",
+  "title": "花间采集者",
+  "rarity": 1,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40016,
+  "age": "18",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "普利姆拉是在花田中长大的乡村少女，代替去世的父亲，成为治疗村民疾病的药剂师。\n\n不过目前还不是独当一面的药剂师，跟随托奈兰修行中。\n\n每天都在努力修行，学习识别各类药草，制作不同的药剂。\n\n有时候为了分辨药性，甚至会自己服下配制的药剂。\n\n但这种举动太过危险，没几天就被托奈兰发现，阻止了她以身试药的行为。",
+    "坚信自己会成为和父亲一样独当一面的药剂师，为更多人减轻病痛。\n\n而她的决心也得到了村民的支持，大家的鼓励也更坚定了她的信心。\n\n每次出发去采药前，甚至有村民在村口为她加油鼓气，本人似乎不太擅长应对这些。",
+    "经常跟随托奈兰去野外学习辨别药草，累了就躺在一望无际的花田中，\n\n会不甚明显地轻轻握住托奈兰的手，一起憧憬着未来的生活，幻想自己成为主妇后的样子。\n\n本人非常喜欢小孩子，每次都会从野外采摘鲜花，编织成花环，送给村里的孩子。",
+    "为了成为合格的主妇，最近在热心的村民的指导下，开始了料理的修行。\n\n但因为食物种类匮乏，并没有得到很好的练习，普利姆拉似乎非常在意这点，一直想去城镇采购更多的素材。\n\n想去邻近的城镇就要穿过魔物出没的平原，她一个人是非常危险的，虽然非常不甘心，但也只能作罢。"
+  ],
+  "birthday": "3月2日",
+  "height": "155cm",
+  "hobby": "采花、制作草药",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900901,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_020.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_20.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_020.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_020.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_20.png",
+      "square": "/ui/imagesets/headphotos//hp_020.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_020.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900902,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_020.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_20.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_020.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_020.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_20.png",
+      "square": "/ui/imagesets/headphotos//hp_020.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_020.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char020",
+        "url": "/overseas_live2d/char020"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 76,
+    "def": 20,
+    "hp": 382,
+    "magicDef": 2,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 0.2,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 0.2
+  },
+  "skills": [
+    {
+      "id": 60092,
+      "type": "assist"
+    },
+    {
+      "id": 60091,
+      "type": "contract"
+    },
+    {
+      "id": 60092,
+      "type": "contract"
+    },
+    {
+      "id": 500901,
+      "type": "contract"
+    },
+    {
+      "id": 3001,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1019
+}

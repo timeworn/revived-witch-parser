@@ -1,0 +1,120 @@
+{
+  "id": 22,
+  "name": "古尔薇格",
+  "title": "献祭深渊的少女",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "amatou",
+  "artistOverseas": "山椒魚",
+  "backstories": [
+    "原本和奇芬一样，同为冥川的引渡人，肩负着引导灵魂前往冥界的使命。\n\n和消极怠工的奇芬不同，古尔薇格积极地完成了阿鵺伦分配给她各项工作。",
+    "突然从冥界消失，即便是引渡人同伴，也不知道她的去向。\n\n有人证实曾经看见古尔薇格偷偷地练习一些奇怪的召唤魔法。\n\n奇洛拉最近经常发生亡灵猎取活人灵魂的事件。\n\n同为冥途引渡人的奇芬奉命前来调查，发现曾经的同伴古尔薇格似乎和这件事有关。",
+    "再次出现在故人面前的古尔薇格像是变成了另一个人，性格发生了巨大的变化。\n\n她挂着笑容，舔着手指，一切痛苦和邪恶，对她来说都是快乐的源泉。",
+    "在引渡人时期就和奇芬合不来，看不惯奇芬偷懒的态度。\n\n为此，她多次找到冥界的管理者阿鵺伦，表达自己的不满，\n阿鵺伦却并不在意这些事情。\n\n心怀不满的古尔薇格决定自己动手，制作了叫醒奇芬的探测装置。一旦发现奇芬在冥川之畔睡觉，探测装置就会立刻发出警报声音，吵醒偷懒的奇芬。\n\n两人的矛盾由来已久，因此当得知在时之塔内发生的猎魂事件可能和古尔薇格有关时，一直没有干劲的奇芬一反常态，\n主动提出自己去追捕古尔薇格，\n\n比起责任心，大概报复的成分更多一些吧。"
+  ],
+  "birthday": "？",
+  "height": "163cm",
+  "hobby": "禁忌",
+  "race": "Renditionist",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_028.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_28.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_028.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_028.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_28.png",
+      "square": "/ui/imagesets/headphotos//hp_028.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_028.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_028.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_28.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_028.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_028.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_28.png",
+      "square": "/ui/imagesets/headphotos//hp_028.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_028.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char028",
+        "url": "/overseas_live2d/char028"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 28,
+    "hp": 495,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.88,
+    "hp": 49.5,
+    "magicDef": 2.88,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.88,
+    "hp": 49.5,
+    "magicDef": 2.88
+  },
+  "skills": [
+    {
+      "id": 60222,
+      "type": "assist"
+    },
+    {
+      "id": 60222,
+      "type": "contract"
+    },
+    {
+      "id": 60221,
+      "type": "contract"
+    },
+    {
+      "id": 502201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1027
+}

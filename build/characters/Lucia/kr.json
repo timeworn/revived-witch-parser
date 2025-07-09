@@ -1,0 +1,117 @@
+{
+  "id": 26,
+  "name": "루시아",
+  "title": "핏빛 시녀",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 0,
+  "age": "14",
+  "artist": "PixelNeko",
+  "artistOverseas": "やすも",
+  "backstories": [
+    "어려서부터 고아원에서 자랐고, $B$다섯 살이 되던 해 왕국에서 가장 권세 높은 귀족에게 입양되어 $B$다른 20명의 아이들과 함께 킬러로서 길러졌다.",
+    "지옥 같은 훈련 후, $B$20명 중 홀로 살아남은 루시아는 $B$귀족이 가장 신뢰하는 부하가 되었고, 정치적 견해가 다른 자를 암살했다.",
+    "평소 루시아는 수행 시녀 신분으로 귀족의 저택에서 생활했는데, $B$주인의 일상생활을 돌보는 동시에 주인의 안전을 지켰다. $B$$B$평소의 루시아는 명랑한 성격이지만, $B$덤벙대는 바람에 주인의 물건을 엎지르거나 깨뜨리고는 했다.",
+    "성격이 여린 루시아가 생사의 경계에 서게 되면 $B$'언니'가 나타나서 루시아의 난관을 극복하게 돕는다. $B$$B$사실 '언니'는 루시아의 잠재의식이 자신을 보호하기 위해 $B$공포 속에서 각성한 제2의 인격인데, 가면을 통해 전환할 수 있다. $B$$B$이 인격의 루시아는 임무 완수가 전부인 살인 기계다."
+  ],
+  "birthday": "？",
+  "height": "150cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_026.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_26.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_026.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_026.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_26.png",
+      "square": "/ui/imagesets/headphotos//hp_026.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_026.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_026.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_26.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_026.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_026.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_26.png",
+      "square": "/ui/imagesets/headphotos//hp_026.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_026.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 16,
+    "hp": 324,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 1.62,
+    "hp": 32.4,
+    "magicDef": 1.62,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 1.62,
+    "hp": 32.4,
+    "magicDef": 1.62
+  },
+  "skills": [
+    {
+      "id": 60261,
+      "type": "assist"
+    },
+    {
+      "id": 60261,
+      "type": "contract"
+    },
+    {
+      "id": 60262,
+      "type": "contract"
+    },
+    {
+      "id": 502601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1031
+}

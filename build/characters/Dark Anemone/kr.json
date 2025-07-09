@@ -1,0 +1,140 @@
+{
+  "id": 89,
+  "name": "밤의 아네모네",
+  "title": "흑야의 집행자",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40005,
+  "age": "？",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "아네모네는 상투스 교회의 일원이 되었지만, 여전히 모두가 아네모네의 힘을 두려워하였고 상투스 교회에서 따돌림을 당한다. 아네모네는 예전과 같은 외로움과 쓸쓸함을 느끼며 항상 말없이 벽 모퉁이에 웅크려 있곤 했다.",
+    "목사 펠라굿은 이 소녀의 특별함을 빠르게 알아챘다.$B$$B$그는 보물을 얻은 듯, 상투스 교회 고위층을 설득해 아네모네로 하여금 자신을 따라다니게 했다.$B$$B$야망을 가진 펠라굿은 아네모네에게 그 어떤 것도 가르치지 않았고, 아네모네를 유용한 도구로 여기고 끊임없이 그녀에게 온갖 어두운 일을 하도록 지시했다.",
+    "천성이 착한 아네모네는 이런 어두운 일과는 어울리지 않았다. 매번 실패에는 끊임없는 매질과 학대가 따라왔다. 펠라굿은 금기의 약까지 구해 아네모네의 원소의 마력을 깨우려 하였고, 이에 괴로움을 삼키던 아네모네는 점점 세상을 혐오하게 된다. 아네모네가 바라보는 세상에는 차가운 절망만이 남게 되었고, 결국 아네모네의 정신은 완전히 무너지고 말았다.",
+    "정신이 완전히 무너진 아네모네는 펠라굿이 제일 아끼는 작품으로 그의 명령에 따라 모든 방해물을 정리하는 데 주저하지 않았다. 상투스 교회의 고위층조차 아네모네를 완전히 통제할 수 없었다. \n\n일찍이 상투스 교회에 불만을 품고 있단 펠라굿은 마침내 고대 유물의 실마리를 알아내었고, 그는 금기의 약의 투약을 늘려 아네모네를 완전히 마력에 통제된 자신의 종으로 만들려고 한다. 모든 준비를 마친 펠라굿은 아네모네를 데리고 금기의 타워 크로노타워로 향했다."
+  ],
+  "birthday": "6월 19일",
+  "height": "155cm",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908901,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_089.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_089.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89.png",
+      "square": "/ui/imagesets/headphotos//hp_089.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908902,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_089.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_089.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89.png",
+      "square": "/ui/imagesets/headphotos//hp_089.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char089",
+        "url": "/overseas_live2d/char089"
+      }
+    },
+    {
+      "id": 908903,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_089b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89b.png",
+      "square": "/ui/imagesets/headphotos//hp_089b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char089_break",
+        "url": "/overseas_live2d/char089_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60891,
+      "type": "assist"
+    },
+    {
+      "id": 60891,
+      "type": "contract"
+    },
+    {
+      "id": 60892,
+      "type": "contract"
+    },
+    {
+      "id": 508901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95089,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1099
+}

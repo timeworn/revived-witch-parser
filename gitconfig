@@ -1,3 +1,0 @@
-[filter "ignore-sections"]
-    clean = "sed '/\/\/ IGNORE_START/,/\/\/ IGNORE_END/d'"
-    smudge = cat

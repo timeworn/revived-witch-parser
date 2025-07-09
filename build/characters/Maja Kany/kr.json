@@ -1,0 +1,140 @@
+{
+  "id": 98,
+  "name": "마가 첸시",
+  "title": "이계의 유랑 상인",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40009,
+  "age": "？",
+  "artist": "Kurot",
+  "artistOverseas": "Kurot",
+  "backstories": [
+    "각지를 누비는 유랑 상인들은 각종 신기한 물건들을 가지고 다닌다고 한다. 그 누구도 그녀가 어디에서 이런 진귀한 물건을 얻었는지 모른다.",
+    "가난한 집안 형편 때문에 어릴 적부터 괴팍한 상인을 스승으로 모시며 세상을 돌아다녔다고하며. 어느 날 스승이 재산과 옷가지를 남기고 홀연히 사라졌고, 그것으로 자신만의 사업을 시작했다.",
+    "돈을 밝혔지만, 많은 귀족들에게 진기한 물건을 주문받을 정도로 상인으로서 평판은 의외로 좋은 편이었다.",
+    "십여 년의 수많은 경험으로 세상 물정을 일찍 알게 되어 자신만의 사업 노하우가 있다. 꾸밈없는 모습으로 마을 사람들에게 쉽게 호감을 사 배낭 속 물건들은 금방 동이 나곤 했다."
+  ],
+  "birthday": "1월 3일",
+  "height": "？",
+  "hobby": "귀중품 수집",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909801,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_098//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_098//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098//round.png",
+      "square": "/ui/imagesets/localization/role/char_098//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909802,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_098//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_098//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098//round.png",
+      "square": "/ui/imagesets/localization/role/char_098//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char098",
+        "url": "/overseas_live2d/char098"
+      }
+    },
+    {
+      "id": 909803,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_098_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_098_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_098_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_098_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_098_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_098_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char098_break",
+        "url": "/overseas_live2d/char098_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60982,
+      "type": "assist"
+    },
+    {
+      "id": 60981,
+      "type": "contract"
+    },
+    {
+      "id": 60982,
+      "type": "contract"
+    },
+    {
+      "id": 509801,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95098,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1127
+}

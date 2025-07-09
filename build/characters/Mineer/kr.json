@@ -1,0 +1,140 @@
+{
+  "id": 70,
+  "name": "미나이어",
+  "title": "밤의 가호",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Alov",
+  "artistOverseas": "Alov",
+  "backstories": [
+    "정령의 호숫가에 사는 소녀.\n \n밤이 되면 호숫가에서 조용하게 달빛을 맞으며 함께 정령의 호수를 지키는 호수의 여신 다나에게 기도를 올리기를 좋아한다.",
+    "정령의 호수 바닥에 잠들어 있던 호수의 여신 다나는 그녀의 정성을 느끼고는, 호수면에 쏟아지는 달빛을 모아 만든 돌고래 한 마리와, 달빛을 조종하는 능력을 그녀에게 하사했다.\n \n달빛 속에서 그녀는 호수의 여신의 목소리를 느낄 수 있었고, 호수의 여신이 잠든 후에는 여신이 깨어날 때까지 동료와 함께 정령의 숲의 안녕을 지켰다.",
+    "종종 포크로어와 함께 호숫가에서 놀며, 포크로어를 보호하는 임무를 맡고 있다.\n \n나쁜 마음을 품고 포크로어에게 접근하려는 사람들은 모두 미나이어의 마법 제재를 받는다.",
+    "과거에 다나가 상처받았던 일에 대해 알고 있었지만,\n \n미나이어는 마야우엘과 달랐고, 마치 그 인간 남자가 마야우엘을 떠난 이유를 아는 것 같았다.\n \n이 때문에 사적으로 인간 남자와 비밀리에 연락을 유지하며 외부의 새로운 물건을 정령의 숲으로 가져왔다.\n \n마야우엘은 이에 대해 까맣게 모른 채, 심지어 미나이어가 가져온 새로운 곡을 포크로어에게 알려주기까지 했다.\n \n겉보기엔 우아해 보이지만 곡 습득 능력이 상당히 떨어지며, 음치라서 마야우엘에게 새로운 곡을 가져다줄 때마다 실수투성이였고,\n \n우물쭈물하며 마야우엘의 질문을 피할 때면 평소의 냉정한 이미지는 전혀 찾아볼 수 없다.\n \n다행스러운 건 마야우엘도 크게 의심하지 않고, 단지 그녀는 어떻게 매번 이렇게 좋은 음악 작품을 찾을 수 있는지만 궁금해했다."
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Alov",
+      "overseasArtist": "Alov",
+      "card": "/ui/imagesets/cards//Card_070.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_70.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_070.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_070.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_70.png",
+      "square": "/ui/imagesets/headphotos//hp_070.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_070.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Alov",
+      "overseasArtist": "Alov",
+      "card": "/ui/imagesets/cards//Card_070.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_70.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_070.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_070.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_70.png",
+      "square": "/ui/imagesets/headphotos//hp_070.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_070.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char070",
+        "url": "/overseas_live2d/char070"
+      }
+    },
+    {
+      "id": 907011,
+      "name": "봄볕의 난초",
+      "description": "새해를 맞아 새 옷을 입고, 호숫가에 앉아 조용히 새해의 일출을 기다린다.",
+      "artist": "HIROKAZU",
+      "overseasArtist": "HIROKAZU",
+      "card": "/ui/imagesets/localization/role/char_070_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_070_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_070_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_070_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_070_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_070_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char070_v1",
+        "url": "/overseas_live2d/char070_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60702,
+      "type": "assist"
+    },
+    {
+      "id": 60702,
+      "type": "contract"
+    },
+    {
+      "id": 60701,
+      "type": "contract"
+    },
+    {
+      "id": 507001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95070,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1078
+}

@@ -1,0 +1,137 @@
+{
+  "id": 73,
+  "name": "Ruda",
+  "title": "Starlight Collector",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "美和野らぐ",
+  "artistOverseas": "美和野らぐ",
+  "backstories": [
+    "She is a sorcerer from the Kingdom of Lochaber. $B$$B$She can absorb the magic power from the stars and use it to heal the sick.",
+    "Self-assured for her beauty, she takes others' admiration for granted. $B$$B$She quite enjoys the feeling of being flattered.",
+    "To resupply the power of her magic, she often climbs to the mountain top at night to collect the magic power of the stars. $B$$B$Rumors say that such power is the key to her beauty. $B$$B$However, all who try to copy her every move end up with a blank.",
+    "She hates being touched by others. $B$$B$According to her, the power of stars is attached to her skin. $B$$B$Anyone who touches her skin will take away the magic, which will cause her skin to age. $B$$B$However, skin aging shouldn't be a problem for a maiden like her."
+  ],
+  "birthday": "?",
+  "height": "143cm",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char073",
+        "url": "/overseas_live2d/char073"
+      }
+    },
+    {
+      "id": 907303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_073b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73b.png",
+      "square": "/ui/imagesets/headphotos//hp_073b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073b.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60732,
+      "type": "assist"
+    },
+    {
+      "id": 60731,
+      "type": "contract"
+    },
+    {
+      "id": 60732,
+      "type": "contract"
+    },
+    {
+      "id": 507301,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1083
+}

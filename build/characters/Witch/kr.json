@@ -1,0 +1,134 @@
+{
+  "id": 1,
+  "name": "Witch",
+  "title": "공허한 마녀",
+  "rarity": 2,
+  "element": 4,
+  "vocation": 7,
+  "affiliation": 0,
+  "age": "？",
+  "artist": "不可燃物",
+  "artistOverseas": "不可燃物",
+  "backstories": [
+    "호수 숲에서 깨어난 마녀, 기억을 잃은 것 같다."
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "?",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900101,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_Player1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_Player1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_Player1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_Player1.png",
+      "square": "/ui/imagesets/headphotos//hp_Player1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_Player1.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900102,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_Player1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_Player1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_Player1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_Player1.png",
+      "square": "/ui/imagesets/headphotos//hp_Player1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_Player1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "player1",
+        "url": "/overseas_live2d/player1"
+      }
+    },
+    {
+      "id": 900111,
+      "name": "멋진 선글라스",
+      "description": "선글라스를 쓴 마녀",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_Player1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_Player1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_Player1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_Player1.png",
+      "square": "/ui/imagesets/headphotos//hp_Player1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_Player1.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 27,
+    "hp": 405,
+    "magicDef": 27,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.15,
+    "def": 2.7,
+    "hp": 40.5,
+    "magicDef": 2.7,
+    "speed": 0
+  },
+  "breakStats": {
+    "attack": 12.15,
+    "def": 2.7,
+    "hp": 40.5,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60011,
+      "type": "assist"
+    },
+    {
+      "id": 60011,
+      "type": "contract"
+    },
+    {
+      "id": 60003,
+      "type": "contract"
+    },
+    {
+      "id": 500101,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1
+}

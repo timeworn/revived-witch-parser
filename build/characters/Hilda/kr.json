@@ -1,0 +1,120 @@
+{
+  "id": 74,
+  "name": "힐다",
+  "title": "왕실의 검",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "16",
+  "artist": "irvineQ",
+  "artistOverseas": "irvineQ",
+  "backstories": [
+    "러카버 왕실을 수호하는 근위 대장.$B$러카버 왕실에 과할 정도로 충성해 왕실을 위협하는 사람은 그 누구라도 그녀의 제재에서 벗어날 수 없다.",
+    "왕궁의 모든 병사들이 그녀의 명령에 따르며, 심지어 군대의 장군조차도 그녀의 의견을 좀처럼 무시할 수 없다.$B$$B$말로 상대를 설득하기보다는 손에 든 쌍검으로 상대방을 복종시킨다.$B$$B$설령 목숨을 잃게 된다고 해도 러카버의 땅을 지키는 것이 최고의 영광이라고 굳게 믿고 있다.",
+    "힐다는 사실 러카버 왕실의 계승권을 가진 공주였지만,$B$편안한 환경을 포기하고 자신의 쌍검으로 왕실을 지키는 것을 선택했다.$B$$B$이 때문에 하층부 병사들은 그녀를 매우 존경하며,$B$그녀의 지시를 왕실의 명령이라고 생각한다.",
+    "왕실 출신이며 상당히 오만한 성격으로, 오로지 자신의 힘을 증명하기 위해 검을 휘두른다.$B$$B$임무 수행 중 적의 함정에 빠지는 바람에, 동료이자 가장 친한 친구가 그녀를 구하기 위해 목숨을 잃었다.$B$$B$이에 크게 충격을 입은 힐다는 자신의 행동을 반성하고 친구의 뜻을 이어받기로 하고, 친구의 검을 허리춤에 차고는, 이후부터는 타인을 지키기 위해서만 검을 휘두르겠다고 맹세한다."
+  ],
+  "birthday": "？",
+  "height": "180cm",
+  "hobby": "검술 수행",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char074",
+        "url": "/overseas_live2d/char074"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 120,
+    "def": 27,
+    "hp": 510,
+    "magicDef": 27,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60741,
+      "type": "assist"
+    },
+    {
+      "id": 60741,
+      "type": "contract"
+    },
+    {
+      "id": 60742,
+      "type": "contract"
+    },
+    {
+      "id": 507401,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1084
+}

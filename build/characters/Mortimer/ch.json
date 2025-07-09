@@ -1,0 +1,120 @@
+{
+  "id": 76,
+  "name": "莫尔提茉",
+  "title": "蔷薇之心",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "17",
+  "artist": "不可燃物",
+  "artistOverseas": "不可燃物",
+  "backstories": [
+    "原本是露尼亚最大的花园的管理者。\n\n比起人类，花园里的植物更能提起她的兴趣。",
+    "月夜的花园寂静无声，只有莫尔提茉独自一人。\n\n躺在花丛之中，任凭荆棘缠身，尽情地吸吮蔷薇的精华，化作自己的魔力。",
+    "露尼亚再次陷入战火之时，优丽雅公主奔波于各地，救助饱尝战争伤痛的平民。\n\n而莫尔提茉独特的治愈魔法也被优丽雅看中。因此，她跟随优丽雅，救治各地受伤的人。",
+    "莫尔提茉本人并不感到麻烦，往来各地能够有更多的机会去亲近自然，吸收花儿的精华。\n\n虽然她喜欢捉弄人，但大家都知道她是位乐于助人的温柔女性，尽管有人把她称作“带刺的蔷薇”，不过人们更愿意称她为“蔷薇之心”。\n\n而她也和优丽雅一起，被视作神对露尼亚这片土地的恩赐。"
+  ],
+  "birthday": "5月12日",
+  "height": "157cm",
+  "hobby": "花卉培养、恶作剧、打扮",
+  "race": "Human",
+  "sex": "？",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_076.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_76.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_076.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_076.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_76.png",
+      "square": "/ui/imagesets/headphotos//hp_076.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_076.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "不可燃物",
+      "overseasArtist": "不可燃物",
+      "card": "/ui/imagesets/cards//Card_076.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_76.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_076.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_076.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_76.png",
+      "square": "/ui/imagesets/headphotos//hp_076.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_076.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char076",
+        "url": "/overseas_live2d/char076"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60761,
+      "type": "assist"
+    },
+    {
+      "id": 60761,
+      "type": "contract"
+    },
+    {
+      "id": 60762,
+      "type": "contract"
+    },
+    {
+      "id": 507601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1086
+}

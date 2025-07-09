@@ -1,0 +1,140 @@
+{
+  "id": 59,
+  "name": "루안",
+  "title": "붉은 깃털의 봉황",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40018,
+  "age": "22",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "태양을 신앙하는 나라 럼니에서 가장 환영받는 소녀,\n \n화려한 옷을 입고 행동이 우아해 사람들은 그녀가 귀족의 딸인 것 같다고 추측했다.",
+    "그녀는 일찍이 잊혀진 마법을 사용했는데,\n \n그 불타는 화염은 태양처럼 눈이 부셔서 사람들은 그녀를 빛의 상징으로 여겼다.",
+    "전설에 나오는 태양을 상징하는 새의 이름을 따서, 루안이라 자칭한다.\n \n어떤 피해를 입어도 불길 속에서 다시 살아나는 그녀를 사람들은 럼니를 수호하는 소녀이자, 그 전설의 새가 이 세상에 강림한 거로 여겼다.\n \n하지만 그녀는 이에 동의한 적이 없었다. 루안은 사람들의 기대에 부응하는 것보다는 자유롭게 장난을 치고, 사뿐히 땅을 밟거나 바람 타고 구름 끝에서 나풀나풀 춤을 추는 걸 더 좋아했다.",
+    "그녀는 어린아이를 좋아하는데, 어린 그들에게는 미래가 있고 자신처럼 크게 빛을 발할 수 있을 거라고 생각했다.\n \n한 번은 눈치 없는 한 녀석이 껄렁거리며 루안에게 다가가 웃으며 \"그렇게 아이가 좋으면 한 명 낳으면 되잖아?\"라고 한 적이 있었다.\n \n무례했던 그 녀석은 바로 루안의 다른 모습을 보게 되었는데, 눈앞엔 항상 미소를 띠고 있던 소녀가 아니었다.\n \n얼마 지나지 않아 사람들이 성 밖에서 길가에 버려진 그 재수 없는 녀석을 발견했다.\n \n그의 옷은 온통 찢겨 있었고 흠씬 얻어터져 원래 모습을 찾아볼 수가 없었으며, 몸에는 화상이 가득하고 몇 군데는 뼈가 부러져 있었다. 미약한 숨소리만 들리는 것으로 보아 아직 살아있다는 걸 판단할 수 있었다."
+  ],
+  "birthday": "12월 8일",
+  "height": "168cm",
+  "hobby": "화려한 복장, 채소, 햇빛",
+  "race": "?",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905901,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_060.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_60.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_060.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_060.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_60.png",
+      "square": "/ui/imagesets/headphotos//hp_060.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_060.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905902,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_060.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_60.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_060.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_060.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_60.png",
+      "square": "/ui/imagesets/headphotos//hp_060.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_060.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char060",
+        "url": "/overseas_live2d/char060"
+      }
+    },
+    {
+      "id": 905903,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/localization/role/char_060_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_060_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_060_break//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_060_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_060_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_060_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_060_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char060_break",
+        "url": "/overseas_live2d/char060_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 57,
+    "def": 627,
+    "hp": 855,
+    "magicDef": 376.2,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.7,
+    "def": 3.8,
+    "hp": 85.5,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.7,
+    "def": 5.7,
+    "hp": 85.5,
+    "magicDef": 3.42
+  },
+  "skills": [
+    {
+      "id": 60592,
+      "type": "assist"
+    },
+    {
+      "id": 60591,
+      "type": "contract"
+    },
+    {
+      "id": 60592,
+      "type": "contract"
+    },
+    {
+      "id": 505901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1067
+}

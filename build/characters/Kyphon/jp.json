@@ -1,0 +1,160 @@
+{
+  "id": 48,
+  "name": "",
+  "title": "",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40022,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "162cm",
+  "hobby": "",
+  "race": "Renditionist",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904801,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_033.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_33.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_033.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_033.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_33.png",
+      "square": "/ui/imagesets/headphotos//hp_033.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_033.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904802,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_033.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_33.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_033.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_033.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_33.png",
+      "square": "/ui/imagesets/headphotos//hp_033.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_033.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033",
+        "url": "/overseas_live2d/char033"
+      }
+    },
+    {
+      "id": 904803,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/role/char_033_break//card.png",
+      "diamond": "/ui/imagesets/role/char_033_break//diamond.png",
+      "gacha": "/ui/imagesets/role/char_033_break//gacha.png",
+      "longCard": "/ui/imagesets/role/char_033_break//longcard.png",
+      "round": "/ui/imagesets/role/char_033_break//round.png",
+      "square": "/ui/imagesets/role/char_033_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_033_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033_break",
+        "url": "/overseas_live2d/char033_break"
+      }
+    },
+    {
+      "id": 904811,
+      "name": "",
+      "description": "",
+      "artist": "门徒",
+      "overseasArtist": "门徒",
+      "card": "/ui/imagesets/role/char_033_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_033_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_033_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_033_v1//round.png",
+      "square": "/ui/imagesets/role/char_033_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_033_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char033_v1",
+        "url": "/overseas_live2d/char033_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 28,
+    "hp": 598,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85
+  },
+  "skills": [
+    {
+      "id": 60482,
+      "type": "assist"
+    },
+    {
+      "id": 60481,
+      "type": "contract"
+    },
+    {
+      "id": 60482,
+      "type": "contract"
+    },
+    {
+      "id": 504801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95048,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1055
+}

@@ -1,0 +1,120 @@
+{
+  "id": 6,
+  "name": "Vedare",
+  "title": "Dance of Passion",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40018,
+  "age": "20",
+  "artist": "影法师",
+  "artistOverseas": "影法师",
+  "backstories": [
+    "This gorgeous girl is hailed as Rumni's topmost dancer but no one knows her origin. $B$Both nobles and commoners yearn for the slightest glimpse of her dances. When she dances, even butterflies are attracted to flutter around her, which is quite amazing.",
+    "Her nobility shows in every gesture. Maybe she was born in a noble family but this is a topic she seems not to be willing to talk about. $B$Once someone mentions that, she will stop talking and leave immediately. Yet, being wilful also constitutes a part of her charm.",
+    "Vedare is not only a favorite of the upper class, but also a down-to-earth dancer who graces the city streets, charming passers-by. $B$$B$According to herself, she seems not to like the nobles, but prefers to visit the towns and villages to dance for the common people.",
+    "She has an extraordinary passion for dance and a strong desire for the strong. $B$$B$If you were strong enough to win her admiration, she'd be happy to join your team and offer you a beautiful dance of blessing. $B$$B$But before that, you will be challenged to dance with her to test whether you can keep up."
+  ],
+  "birthday": "Nov. 12",
+  "height": "175cm",
+  "hobby": "Dancing/ Divining",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900601,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "影法师",
+      "overseasArtist": "影法师",
+      "card": "/ui/imagesets/cards//Card_005.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_05.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_005.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_005.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_05.png",
+      "square": "/ui/imagesets/headphotos//hp_005.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_005.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900602,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "影法师",
+      "overseasArtist": "影法师",
+      "card": "/ui/imagesets/cards//Card_005.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_05.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_005.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_005.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_05.png",
+      "square": "/ui/imagesets/headphotos//hp_005.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_005.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char005",
+        "url": "/overseas_live2d/char005"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 25,
+    "hp": 450,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60061,
+      "type": "assist"
+    },
+    {
+      "id": 60061,
+      "type": "contract"
+    },
+    {
+      "id": 60062,
+      "type": "contract"
+    },
+    {
+      "id": 500601,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95006,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1003
+}

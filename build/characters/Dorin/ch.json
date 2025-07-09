@@ -1,0 +1,140 @@
+{
+  "id": 68,
+  "name": "多琳",
+  "title": "神之馈赠",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40024,
+  "age": "14",
+  "artist": "マトリ",
+  "artistOverseas": "マトリ",
+  "backstories": [
+    "出生于上层的贵族家庭，自小就对魔法充满兴趣，被视作天才。$B$$B$老来得女的伯爵父亲，请来上层著名的魔法师，尽全力培养多琳。",
+    "逐渐长大的多琳，不再满足于单纯学习书本上的知识。$B$$B$无视老师的劝阻，多琳搭建了自己的魔法工坊，开始了期待已久的魔法实验。",
+    "和传统的魔法研究不同，多琳的研究更随心所欲，甚至研究了提升魔力的药剂，并亲自担任实验对象。$B$$B$老伯爵常常为此头疼不已，多次阻止女儿的危险实验。$B$$B$不过多琳并不在意，对于她来说，和探索未知魔法的刺激相比，这些都算不上问题。",
+    "最近，多琳迷上了魔法傀儡的研究，常常一个人待在魔法工坊中，整夜不归，醉心于制作新的魔法傀儡。$B$$B$老伯爵为了改变女儿的生活方式，决定把自己负责的闪耀舞台项目交给女儿，让她走出工坊，主持这次的大会。"
+  ],
+  "birthday": "6月20日",
+  "height": "145cm",
+  "hobby": "魔法研究",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_068.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_068.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068.png",
+      "square": "/ui/imagesets/headphotos//hp_068.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_068.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_068.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068.png",
+      "square": "/ui/imagesets/headphotos//hp_068.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char068",
+        "url": "/overseas_live2d/char068"
+      }
+    },
+    {
+      "id": 906803,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "マトリ",
+      "overseasArtist": "マトリ",
+      "card": "/ui/imagesets/cards//Card_068b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_068b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_068b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_068b.png",
+      "square": "/ui/imagesets/headphotos//hp_068b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_068b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char068_break",
+        "url": "/overseas_live2d/char068_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 76,
+    "def": 20,
+    "hp": 382,
+    "magicDef": 20,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04
+  },
+  "skills": [
+    {
+      "id": 60681,
+      "type": "assist"
+    },
+    {
+      "id": 60681,
+      "type": "contract"
+    },
+    {
+      "id": 60682,
+      "type": "contract"
+    },
+    {
+      "id": 506801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1092
+}

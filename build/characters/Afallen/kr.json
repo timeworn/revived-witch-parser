@@ -1,0 +1,160 @@
+{
+  "id": 8,
+  "name": "아발렌",
+  "title": "성령의 파수꾼",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "Kurot",
+  "artistOverseas": "Kurot",
+  "backstories": [
+    " '성령의 파수꾼'으로 불린다. 성역에서 가장 순수한 혈통을 계승했으며 오빠 가르디티스를 대신해 성역의 문지기가 되었다.\n \n어리지만 성역을 침입하려 하는 외부인을 쫓아내는 중책을 맡았다.\n \n하지만 아발렌에게는 꽃과 여러 가지 동물들이 더 매력적이였기 때문에 책임감 없이 종종 자리를 이탈하곤 했고,\n \n가끔은 성역을 벗어나 하층부로 놀러 가기도 했다.",
+    "항상 쿠션을 들고 다니다가 피곤하면 잔디밭에 누워 금세 달콤한 꿈나라로 떠난다. 그렇다고 해도 그 누구도 감히 멋대로 아발렌에게 접근하지 못했는데,\n \n놀라서 잠에서 깬 아발렌은 잠을 방해한 사람을 침입자로 간주하고 베개를 던져 공격하기 때문이다.\n \n잠자는 그녀를 깨울 수 있는 유일한 사람은 그녀의 오빠인 가르디티스와 동생인 파르페뿐일 것 같다.",
+    "겉보기와는 다르게 침입자에게 그녀는 성역의 철벽과도 같다.\n \n모든 마법 공격은 쿠션에 흡수당해 그녀에게 피해를 입힐 수 없다.\n \n경악하는 사람들의 시선 속에서도 이 귀여운 여자아이는 아끼는 쿠션을 탁탁 두드리고는 계속해서 꿀 같은 낮잠을 즐긴다.",
+    "최근에 유행하는 레몬 파이에 푹 빠져 있는데, 시큼하기는 하지만 의외로 상층부 귀족에게 사랑받고 있다.\n \n하지만 단 음식을 좋아하는 파르페는 레몬 파이를 싫어해서 두 사람은 종종 의견 차이로 싸우고는 한다.\n \n아발렌은 수호자에게 레몬 파이를 바쳐서 레몬 파이의 성역에서의 정통적인 지위를 확립하기로 한다."
+  ],
+  "birthday": "9월 12일",
+  "height": "135cm",
+  "hobby": "게으름 피우기, 잠자기, 놀기",
+  "race": "?",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900801,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900802,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018",
+        "url": "/overseas_live2d/char018"
+      }
+    },
+    {
+      "id": 900803,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_break",
+        "url": "/overseas_live2d/char018_break"
+      }
+    },
+    {
+      "id": 900811,
+      "name": "스위트 메모리",
+      "description": "행복이 가득한 기념일, 늘 당신의 사랑을 받고 있는 아발렌이, 당신을 위해 정성껏 선물을 준비했습니다.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_018_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_v1",
+        "url": "/overseas_live2d/char018_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 396,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 20
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 2.4,
+    "hp": 90,
+    "magicDef": 4,
+    "speed": 0
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 3.6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 60082,
+      "type": "assist"
+    },
+    {
+      "id": 60081,
+      "type": "contract"
+    },
+    {
+      "id": 60082,
+      "type": "contract"
+    },
+    {
+      "id": 500801,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95008,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1018
+}

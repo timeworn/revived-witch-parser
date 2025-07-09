@@ -1,0 +1,140 @@
+{
+  "id": 89,
+  "name": "Dark Anemone",
+  "title": "Executor of Darkness",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40005,
+  "age": "？",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "After being taken in by the Holy Church, Anemone was still as lonely as ever. Everyone feared her powers.$B$$B$Ostracized, the poor girl was often seen curled up in the corner.",
+    "The priest Fellagood soon noticed her and her special abilities and felt like he hit the jackpot.$B$$B$With a hidden agenda in mind, he convinced the Holy Church leadership to let him take Anemone with him to clean out heretics.$B$$B$He never taught her anything about the world, and only used her as a pawn to do his dirty work.",
+    "The kind-hearted Anemone was obviously not cut out for that kind of work. Every time she returned from a failed mission, she was met with brutal punishment. Fellagood even used a forbidden drug on her in an attempt to bring out her elemental powers.$B$$B$All this torment and suffering filled her with hatred of this world—of the indifference and despair pervading it.$B$$B$Finally, a mental breakdown, coupled with the onset of her elemental powers, transformed Anemone into a mindless puppet at the beck and call of the Holy Church.",
+    "Anemone, now with her soul broken, was regarded by Fellagood as his proudest work. She blindly followed his orders and slaughtered her targets without batting an eye. The church leadership had little control over her.$B$$B$Fellagood, who had long held resentment against the church, finally located the Sacred Relic. His plan, which had been years in the making, was close to being fulfilled. He upped the dosage of the forbidden drug to kill what little humanity remained in Anemone and turn her into his slave.$B$$B$When all was set, he took her into the forbidden Chrono Tower."
+  ],
+  "birthday": "Jun. 19",
+  "height": "155cm",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_089.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_089.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89.png",
+      "square": "/ui/imagesets/headphotos//hp_089.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_089.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_089.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89.png",
+      "square": "/ui/imagesets/headphotos//hp_089.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char089",
+        "url": "/overseas_live2d/char089"
+      }
+    },
+    {
+      "id": 908903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_089b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_89b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_089b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_89b.png",
+      "square": "/ui/imagesets/headphotos//hp_089b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_089b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char089_break",
+        "url": "/overseas_live2d/char089_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60891,
+      "type": "assist"
+    },
+    {
+      "id": 60891,
+      "type": "contract"
+    },
+    {
+      "id": 60892,
+      "type": "contract"
+    },
+    {
+      "id": 508901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95089,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1099
+}

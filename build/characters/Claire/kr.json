@@ -1,0 +1,140 @@
+{
+  "id": 105,
+  "name": "콜레이어",
+  "title": "샤이닝걸",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40024,
+  "age": "17",
+  "artist": "Hitoto*",
+  "artistOverseas": "Hitoto*",
+  "backstories": [
+    "성역에서 온 여자아이. 전통적인 스타일은 도무지 어울리지 않아 마음에 드는 옷을 사러 자주 쇼핑을 나가곤 했다.",
+    "지난 샤이닝 걸스 대회에서 1등을 하여 사람들의 뜨거운 관심을 받았고, 여자아이들이 닮고 싶어 하는 탑 아이돌이다.",
+    "하지만 본인은 아이돌보다 천재 마법사라고 불리는 것을 좋아하며, 가장 화려하고 강한 마법사가 되고 싶어 했다. 마법을 할 때 금발머리를 휘날리며 번개 빛이 반짝이는 모습은, 멀리서 보면 숨이 막힐 정도로 아름다웠다.",
+    "아이돌은 자신과 어울리지 않다고 생각했고, 수호자에게 마법사로서 인정받길 원했다. 개인적으로 혹독한 마법 수행을 하며 수호자를 도와 지상에서 날아오는 마물을 처치했다.\n아름다운 금발머리는 비에 젖고, 옷은 진흙에 뒤덮였으며, 하얀 피부에 난 상처엔 아직도 피가 흐르고 있었지만, 소녀는 전투의 기쁨을 즐기고 있었다.\n“비와 진흙은 내 최고의 장식이야. 마법이 반짝이며 빛나는 게 느껴지거든. 더워…… 불타오르고 있어. 여기가 바로 내 빛나는 무대야.\""
+  ],
+  "birthday": "10월 19일",
+  "height": "163cm",
+  "hobby": "노래, 춤, 꾸미기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910501,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Hitoto*",
+      "overseasArtist": "Hitoto*",
+      "card": "/ui/imagesets/localization/role/char_105//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_105//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_105//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_105//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_105//round.png",
+      "square": "/ui/imagesets/localization/role/char_105//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_105//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910502,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Hitoto*",
+      "overseasArtist": "Hitoto*",
+      "card": "/ui/imagesets/localization/role/char_105//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_105//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_105//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_105//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_105//round.png",
+      "square": "/ui/imagesets/localization/role/char_105//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_105//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char105",
+        "url": "/overseas_live2d/char105"
+      }
+    },
+    {
+      "id": 910503,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Hitoto*",
+      "overseasArtist": "Hitoto*",
+      "card": "/ui/imagesets/localization/role/char_105_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_105_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_105_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_105_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_105_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_105_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char105_break",
+        "url": "/overseas_live2d/char105_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 141,
+    "def": 24,
+    "hp": 472,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.18,
+    "def": 2.4,
+    "hp": 47.25,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 61052,
+      "type": "assist"
+    },
+    {
+      "id": 61051,
+      "type": "contract"
+    },
+    {
+      "id": 61052,
+      "type": "contract"
+    },
+    {
+      "id": 510501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95105,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1130
+}

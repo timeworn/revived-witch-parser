@@ -1,0 +1,160 @@
+{
+  "id": 8,
+  "name": "Afallen",
+  "title": "Defender of Holiness",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "Kurot",
+  "artistOverseas": "Kurot",
+  "backstories": [
+    "As the Defender of Holiness, she has inherited the purest bloodline of the Sanctuary, succeeding her older brother Garditis as the gatekeeper. \n\nYoung as she is, she has been given the important task of expelling those outsiders who try to invade the Sanctuary. \n\nHowever, she has no sense of responsibility at all. She prefers playing with flowers and small animals to doing the tedious work. \n\nTherefore, she often leaves her post and sometimes even goes to the Lower Domain.",
+    "Carrying a pillow around, she often lies down on the grass and quickly falls to sleep when she is too tired to play.\n\nEven so, no one dares to approach her because anyone disturbing her slumber will be identified as an intruder and be hit straight at with the pillow. \n\nOnly her brother Garditis and sister Parfait dare to wake her up.",
+    "She looks harmless, but in the eyes of the invaders, she is the unbreakable wall of the Sanctuary. \n\nAny magic attacks will be instantly absorbed by her pillow, leaving her completely unharmed. \n\nAnd to others' surprise, after the combat, this lovely girl will just pat her beloved pillow and continue to enjoy an afternoon of peaceful sleep.",
+    "She likes eating lemon pie, which is sour but unexpectedly gaining popularity among the nobles. However, her sister Parfait, a fan of sweet taste, hates this pie so much. \n\nDue to the division of opinion, they fight a lot. \n\nAfallen decides to offer the lemon pie to the Protector, which could be an opportunity to determine the orthodox status of the lemon pie in the Sanctuary."
+  ],
+  "birthday": "Sep. 12",
+  "height": "135cm",
+  "hobby": "Slacking/ Sleeping /Playing",
+  "race": "?",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900801,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900802,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018",
+        "url": "/overseas_live2d/char018"
+      }
+    },
+    {
+      "id": 900803,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_break",
+        "url": "/overseas_live2d/char018_break"
+      }
+    },
+    {
+      "id": 900811,
+      "name": "Sweet Memories",
+      "description": "On this special day, Afallen has prepared a gift for you, as a token of appreciation for your constant care.",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_018_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_v1",
+        "url": "/overseas_live2d/char018_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 396,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 20
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 2.4,
+    "hp": 90,
+    "magicDef": 4,
+    "speed": 0
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 3.6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 60082,
+      "type": "assist"
+    },
+    {
+      "id": 60081,
+      "type": "contract"
+    },
+    {
+      "id": 60082,
+      "type": "contract"
+    },
+    {
+      "id": 500801,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95008,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1018
+}

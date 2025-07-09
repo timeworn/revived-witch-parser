@@ -1,0 +1,140 @@
+{
+  "id": 19,
+  "name": "Mikoto",
+  "title": "Follower of Destiny",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40001,
+  "age": "20",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "She is an exorcist from Sunrise Island in the east. \n\nHer dressing is completely different from that of the Chilora continent, and her mysterious magic is also beyond the knowledge of the continent's inhabitants.",
+    "Setting out from the distant island, she has subdued many monsters during her journey but she never accepts gratitude from others, insisting that cleansing evil is her mission. She is often considered an eccentric for this peculiarity.",
+    "She said that it's the will of god that guides her to the end of the continent to fulfill her destiny.\n\nAll creatures that stand in her way will be considered evil and cleansed in the name of god.\n\nIt is said that Mikos can acquire the Revelation of god through the Oracle, and they act according to the guidance of the god. Being a Champion of justice is their mission that has been passed on for generations.",
+    "She met Tama on her journey, who also comes from Sunrise Island.\n\nDifferent from her being pious, Tama has lost the hope of life, just muddling through day by day. As a Miko, she felt obliged to get Tama back on the right track so she prayed to god for guidance.\n\nSoon she received the revelation of god and firmly believed that. The revelation said the lost one should be taken to the west where life's meaning and future's hope both lie ahead.\n\nHaving been told this, Tama seemed to see a silver lining in her dark life and agreed to be Mikoto's companion, together heading to the west."
+  ],
+  "birthday": "Oct. 6",
+  "height": "164cm",
+  "hobby": "Cooking/ Praying",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901901,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_027.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_27.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_027.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_027.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_27.png",
+      "square": "/ui/imagesets/headphotos//hp_027.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_027.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901902,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_027.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_27.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_027.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_027.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_27.png",
+      "square": "/ui/imagesets/headphotos//hp_027.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_027.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char027",
+        "url": "/overseas_live2d/char027"
+      }
+    },
+    {
+      "id": 901903,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_027b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_27b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_027b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_27b.png",
+      "square": "/ui/imagesets/headphotos//hp_027b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_027b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char027_break",
+        "url": "/overseas_live2d/char027_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 89,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.91,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.91,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60191,
+      "type": "assist"
+    },
+    {
+      "id": 60191,
+      "type": "contract"
+    },
+    {
+      "id": 60192,
+      "type": "contract"
+    },
+    {
+      "id": 501901,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1023
+}

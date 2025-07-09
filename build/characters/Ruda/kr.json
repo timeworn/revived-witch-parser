@@ -1,0 +1,137 @@
+{
+  "id": 73,
+  "name": "루다",
+  "title": "별빛을 모으는 자",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "美和野らぐ",
+  "artistOverseas": "美和野らぐ",
+  "backstories": [
+    "러카버 왕국 출신의 마법사, 별빛에 들어 있는 마력을 흡수해$B$치유 마법으로 전환하는 능력을 지녔다.",
+    "자신의 미모에 상당한 자부심을 가지고 있어$B$주변 사람들의 추앙을 당연하게 생각하며, 인기를 즐긴다.",
+    "계속 자신의 마력을 유지하기 위해 밤에 자주 산꼭대기에 올라가 별빛의 마력을 수집한다.$B$$B$이게 오랜시간 미모를 유지하는 비결이라고 하는데,$B$그녀의 방식을 따라 해본 사람도 있었지만 한 명의 예외도 없이 모두 실패했다.",
+    "다른 사람이 자신의 피부에 닿는 것을 매우 싫어하는데,$B$본인의 말에 의하면 별빛의 힘이 피부에 덮여 있는데, 누군가 닿게 되면 마력을 흡수당해서 피부가 노화가 된다고 한다.$B$$B$하지만 정말 이 나이의 소녀라면 피부가 노화하진 않지 않을까."
+  ],
+  "birthday": "？",
+  "height": "143cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907301,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907302,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char073",
+        "url": "/overseas_live2d/char073"
+      }
+    },
+    {
+      "id": 907303,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_073b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73b.png",
+      "square": "/ui/imagesets/headphotos//hp_073b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073b.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60732,
+      "type": "assist"
+    },
+    {
+      "id": 60731,
+      "type": "contract"
+    },
+    {
+      "id": 60732,
+      "type": "contract"
+    },
+    {
+      "id": 507301,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1083
+}

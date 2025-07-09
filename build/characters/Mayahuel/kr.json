@@ -1,0 +1,160 @@
+{
+  "id": 69,
+  "name": "마야우엘",
+  "title": "숲의 은혜",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Pixel Neko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "원래는 호수의 여신 다나의 시녀였고, 다나가 잠들기 전 그녀에게 정령의 숲을 수호하는 임무를 맡겼다.\n \n다나를 매우 존경해 오랫동안 다나의 지시에 따라 정령의 숲의 안녕을 지키고 있었다.",
+    "자연 마법에 능통하며, 숲을 파괴하는 침입자에게는 자비가 없다.\n \n하지만 그냥 숲에 들어갔을 뿐이고, 악의가 없다면 공격하지 않는다.\n \n그러나 그녀는 모든 남성이 숲에 들어가는 걸 금지했고, 언젠가 그녀가 숲에 들어가려던 가르디티스를 공격하며, 하이엘프라는 신분에도 불구하고 가르디티스에게 호되게 욕을 퍼부어대는 걸 목격한 사람이 있었다.",
+    "포크로어를 세심하게 돌봐주며 종종 새로운 곡을 가르쳐 주곤 했다.\n \n하지만 정작 본인은 곡 창작에는 소질이 없었는데, 미나이어의 증언에 따르면 누군가 정기적으로 정령의 숲에 와서 마야우엘에게 새로운 곡을 전수해 주는 것 같다고 한다.",
+    "전에 한 인간 남자를 좋아했는데, 그 남성은 자신이 가장 존경하는 사람이 사랑하는 사람이었기에, 마야우엘은 포기하기로 마음먹고 그들을 축복했다.\n \n하지만 그 사랑은 끝까지 가지 못했고, 인간 남자는 마야우엘이 가장 존경하는 사람을 버리고 숲을 떠나버렸다.\n \n이걸 목격한 마야우엘은 모든 남자를 증오하기 시작했고, 절대 어떤 남자도 정령의 숲에 들어오지 못하게 해야겠다고 맹세했다."
+  ],
+  "birthday": "5월 29일",
+  "height": "167cm",
+  "hobby": "？",
+  "race": "Elf",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906901,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "amatou",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_069.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_69.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_069.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_069.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_69.png",
+      "square": "/ui/imagesets/headphotos//hp_069.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_069.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906902,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "amatou",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_069.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_69.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_069.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_069.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_69.png",
+      "square": "/ui/imagesets/headphotos//hp_069.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_069.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char069",
+        "url": "/overseas_live2d/char069"
+      }
+    },
+    {
+      "id": 906903,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/localization/role/char_069_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_069_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_069_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_069_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_069_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_069_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char069_break",
+        "url": "/overseas_live2d/char069_break"
+      }
+    },
+    {
+      "id": 906911,
+      "name": "아득한 옛날의 숲",
+      "description": "다나와 함께 고대 마신에 맞서 정령의 숲을 지켜라.",
+      "artist": "KT",
+      "overseasArtist": "KT",
+      "card": "/ui/imagesets/localization/role/char_069_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_069_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_069_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_069_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_069_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_069_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char069_v1",
+        "url": "/overseas_live2d/char069_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 23,
+    "hp": 448,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.18,
+    "def": 2.39,
+    "hp": 44.89,
+    "magicDef": 2.17,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.18,
+    "def": 2.39,
+    "hp": 44.89,
+    "magicDef": 2.17
+  },
+  "skills": [
+    {
+      "id": 60691,
+      "type": "assist"
+    },
+    {
+      "id": 60692,
+      "type": "contract"
+    },
+    {
+      "id": 60691,
+      "type": "contract"
+    },
+    {
+      "id": 506901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95069,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1077
+}

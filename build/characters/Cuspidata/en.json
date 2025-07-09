@@ -1,0 +1,140 @@
+{
+  "id": 36,
+  "name": "Cuspidata",
+  "title": "Red Pupils of Madness",
+  "rarity": 1,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40011,
+  "age": "17",
+  "artist": "Pixel Neko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "Cuspidata is a young girl of high standing in Fomoire. \n\nSeemingly timid, she is the successor of the Mad-eyes, who is just reluctant to look others in the eye.",
+    "In Fomoire, the Six Ovates are in the highest position, respectively from six different families. \n\nThe Ovates inheriting the bloodlines of their own families all possess some marvelous powers. \n\nCuspidata, the Ovate in charge of the \"Sùil (Eye)\", has inherited the most precious legacy of the Tasius family—Mad-eyes. \n\nAnyone who looks directly into her eyes will be controlled by her until they're mentally deranged.",
+    "She is feared by everyone, all alone without any friends. \n\nOnly the doll in her hand keeps her company, which is said to be sewn by herself. She cherishes it very much. \n\n\"The moonlight tonight reeks of madness.\" \n\n\"That's why you don't hide from me, right?\"",
+    "Tasius is such a special family that all members more or less have some non-human traits in their blood, thus all having a short lifespan. \n\nNormally dormant, the trait would awaken only under extraordinary circumstances. \n\nCuspidata had a quite peaceful childhood just like others but as her younger brother suddenly got his inhuman traits awakened and went mad till death, she couldn't handle her sadness which finally awakened her non-human trait. \n\nLuckily, Cuspidata has a great command of the magic so she can freely manipulate the Mad-eyes without ending up in the same dire madness as other family members."
+  ],
+  "birthday": "Apr. 15",
+  "height": "152cm",
+  "hobby": "Collecting dolls/ Dressing",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903601,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "nano",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_051.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_51.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_051.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_051.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_51.png",
+      "square": "/ui/imagesets/headphotos//hp_051.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_051.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903602,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "nano",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_051.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_51.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_051.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_051.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_51.png",
+      "square": "/ui/imagesets/headphotos//hp_051.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_051.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char051",
+        "url": "/overseas_live2d/char051"
+      }
+    },
+    {
+      "id": 903603,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/localization/role/char_051_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_051_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_051_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_051_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_051_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_051_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char051_break",
+        "url": "/overseas_live2d/char051_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 114,
+    "def": 20,
+    "hp": 382,
+    "magicDef": 20,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 11.48,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 11.48,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 2.04
+  },
+  "skills": [
+    {
+      "id": 60361,
+      "type": "assist"
+    },
+    {
+      "id": 60361,
+      "type": "contract"
+    },
+    {
+      "id": 60362,
+      "type": "contract"
+    },
+    {
+      "id": 503601,
+      "type": "contract"
+    },
+    {
+      "id": 3001,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1042
+}

@@ -1,0 +1,157 @@
+{
+  "id": 43,
+  "name": "Norn",
+  "title": "Immortal Ovate",
+  "rarity": 3,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40011,
+  "age": "600？",
+  "artist": "Angye",
+  "artistOverseas": "Angye",
+  "backstories": [
+    "As the heir of the Koshchey family, she's the head of the Six Ovates in Fomoire. $B$$B$Looking like a lively and lovely maiden, she is said to have spent hundreds of years in this world.",
+    "House Koshchey, which is in charge of the \"Cridhe (Heart)\", is believed to be the descendants of the winged people who guarded all the living souls on earth in ancient times. \n\nNorn inherited an excellent lineage, able to control her appearance with magic to achieve eternal youth.",
+    "What is most intimidating about her is her ability to master life and death. Her body is said to have never changed due to her immortality. \n\nBeings that have reached this state will become bored to the point of insanity due to seeing through the veils of this world for too many years. \n\nYet Norn is different. Through the long years, she still maintains the heart of a maiden, lovingly guarding her people and constantly looking for new fun. \n\n\"Life, life starts from the darkness.\" \n\n\"Death, death ends at the Liminal Field.\"",
+    "Lately under the influence of Miku, she has become more concerned with her appearance. \n\nPreviously, she had never thought of changing her appearance because her body stays unchanged and there is no need for her to dress up for others. \n\nShe has considered asking others how to dress up but as the head of the Six Ovates, she finds it hard to drop her pride, which has bothered her so much that she even couldn't set her mind on presiding over the sacrifice. \n\nShe sneaked out from the ritual and hid in a corner alone with hands covering her blushing face. \n\nThis girlish behavior was seen by Yui and recorded in her little book quietly for an unknown purpose."
+  ],
+  "birthday": "?",
+  "height": "151cm",
+  "hobby": "Playing merrily",
+  "race": "Angel",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055",
+        "url": "/overseas_live2d/char055"
+      }
+    },
+    {
+      "id": 904303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/cards//Card_055b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55b.png",
+      "square": "/ui/imagesets/headphotos//hp_055b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055b.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904311,
+      "name": "Healing Imps ♪sing",
+      "description": "A bold look to try occasionally; blend into a night of temptation to heal lonely minds. ♪sing~",
+      "artist": "Angye ",
+      "overseasArtist": "Angye ",
+      "card": "/ui/imagesets/cards//Card_055v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55v1.png",
+      "square": "/ui/imagesets/headphotos//hp_055v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055_v1",
+        "url": "/overseas_live2d/char055_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60431,
+      "type": "assist"
+    },
+    {
+      "id": 60431,
+      "type": "contract"
+    },
+    {
+      "id": 60432,
+      "type": "contract"
+    },
+    {
+      "id": 504301,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95043,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1049
+}

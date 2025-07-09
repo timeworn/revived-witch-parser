@@ -1,0 +1,160 @@
+{
+  "id": 16,
+  "name": "奥塔薇娅",
+  "title": "疾风剑士",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "17",
+  "artist": "ピナケス",
+  "artistOverseas": "ピナケス",
+  "backstories": [
+    "来自圣域的少女，不同于圣域的其他贵族，奥塔薇娅比起魔法更喜欢剑术的修行。\n\n因此她被视为异类，被家族驱逐出门。\n\n虽然很少进行魔法修行，但是奥塔薇娅和其他不会魔法的剑士不同，她继承了家族的魔力血脉，能够将自然之力附着在剑上，大大提升剑术的威力。",
+    "敏捷的身手和令人眼花缭乱的剑技，让奥塔薇娅在决斗中未尝败绩，她的名字很快就传遍了嘉庇艾尔的上层。\n\n上层的魔法卫队邀请她加入，她却拒绝了，因为除了提升自己的剑技，她对其他的事物毫无兴趣。",
+    "未尝败绩的疾风剑士不断向强者发出挑战，而一次次的胜利也证明了她的强大，直到在一次决斗中败给了另一位女性。\n\n显然，奥塔薇娅不接受这一切。\n\n直到她听到了那位女性的名字——\n\n阿卡莎\n\n是的，那是传说中英雄的名字。\n\n奥塔薇娅决定向星屑之剑学习剑技，为此她远离圣域，和师父一样过起了隐居的生活。",
+    "和阿卡莎的相遇改变了奥塔薇娅，过去的她曾经是优等生，\n尽管曾因为不修习魔法，而被家族排斥。\n\n但是凭借自己的努力和取得的成果，重新获得了上层的认可。\n\n连战连胜的奥塔薇娅站在了顶点，早已忘记带给自己荣耀的是手中的剑，逐渐习惯了傲慢。\n\n这一切被阿卡莎看在眼里。\n\n尽管已经放弃了挥剑，阿卡莎还是决定让她重拾对剑的追求。\n\n两人的对决没有观众，阿卡莎并没有拔剑，但是奥塔薇娅很快就意识到自己和阿卡莎的巨大差距。\n\n“剑已钝，因为你抛弃了它。”\n\n被他人冷眼对待后挥洒汗水训练的身影浮现在奥塔薇娅的眼前，一次次地重复挥剑的动作，只为了变得更强。\n\n“一定是因为一直获胜所以才会骄傲吧，坚信自己不会被任何人击败，只要挥剑就能轻松获胜……”\n\n“真正重要的，明明是手中的剑……”\n\n奥塔薇娅毫不犹豫地追上了转身准备离开的阿卡莎，请求成为弟子，重新开始修行。\n\n“现在的我只剩下变强的渴望。”\n\n“我存在的意义就是挥剑，此外无他。”"
+  ],
+  "birthday": "4月30日",
+  "height": "159cm",
+  "hobby": "剑术修行",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002",
+        "url": "/overseas_live2d/char002"
+      }
+    },
+    {
+      "id": 901603,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_002b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02b.png",
+      "square": "/ui/imagesets/headphotos//hp_002b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_break",
+        "url": "/overseas_live2d/char002_break"
+      }
+    },
+    {
+      "id": 901611,
+      "name": "甜蜜的时光",
+      "description": "亲手烤制了美味的蛋糕，两个人一起享受这甜蜜的时光",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/localization/role/char_016_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_016_v1//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_016_v1//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_016_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_016_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_016_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_016_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_v1",
+        "url": "/overseas_live2d/char002_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 109,
+    "def": 28,
+    "hp": 567,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84
+  },
+  "skills": [
+    {
+      "id": 60162,
+      "type": "assist"
+    },
+    {
+      "id": 60161,
+      "type": "contract"
+    },
+    {
+      "id": 60162,
+      "type": "contract"
+    },
+    {
+      "id": 501601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1021
+}

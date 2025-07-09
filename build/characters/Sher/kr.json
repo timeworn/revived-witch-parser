@@ -1,0 +1,160 @@
+{
+  "id": 72,
+  "name": "샤르",
+  "title": "운명을 기다리는 자",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40024,
+  "age": "18",
+  "artist": "Lirica",
+  "artistOverseas": "Lirica",
+  "backstories": [
+    "상냥하긴 하지만 사람들과 교류가 많지 않다.$B$$B$성역 소속이 아니기에 성역에서는 외부인으로 간주하지만$B$$B$그의 강력한 마력은 성역의 호감을 사게 되어 사람들에게 배척당하진 않았다.",
+    "자신을 샤르라고 하였고, 힘겨운 운명을 지니고 있어서 그녀가 이곳에 나타난 거라고 한다.$B$$B$그녀의 신분에 대해 어떤 일 때문에 이곳까지 도망쳐 온 대마법사라고 추측하는 사람들이 있는가 하면,$B$망국의 엘프 공주라고 추측하는 사람도 있었는데,$B$그녀는 항상 사람들과 일정한 거리를 유지하며 과거를 말하지 않기에 정확한 것은 알 수 없다.",
+    "벌써 백 년 가까이 계속 성역의 예배당에 있었다.$B$$B$그녀가 가끔 이국의 언어로 혼잣말을 하는 것을 본 사람이 있는데, 주변 사람들이 알아듣지 못하게 하려는 것이다.$B$$B$아케론테와는 옛 친구인데, 샤르는 그녀의 진짜 이름이 아니라고 전에 아케론테가 말했었다.$B$$B$하지만 제 잘난 척하는 명계의 강의 통치자마저도,$B$그녀를 언급할 땐 경어를 사용하는 걸 보면 고귀한 신분이라는 걸 쉽게 알 수 있다.$B$$B$\"제가 우러러보던 사람이 마침내 하늘의 은혜를 입고, 죄를 씻어내면 제 영혼 운명의 종장에 들어서게 될 겁니다.\"-아케론테",
+    "유성의 검희 아카샤와 호수의 여신 다나를 아는 것 같은데, 세상 사람들에게 있어서 두 사람 모두 전설 속에만 존재하는 사람이다. 그 때문에 어떤 사람은 샤르가 세간에서 긴 세월을 살아왔을 것이라 추측했다. 키폰이 말하길, 아케론테 이전의 명계의 관리자는 샤르였다고 한다. 하지만 어떤 이유로 인해 명계를 떠났고, 이 때문에 계속 기다려지는 사람이 되었다고 한다."
+  ],
+  "birthday": "11월 24일",
+  "height": "168cm",
+  "hobby": "요리, 기도, 그림",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907201,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_072.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_072.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72.png",
+      "square": "/ui/imagesets/headphotos//hp_072.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907202,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_072.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_072.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72.png",
+      "square": "/ui/imagesets/headphotos//hp_072.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072",
+        "url": "/overseas_live2d/char072"
+      }
+    },
+    {
+      "id": 907203,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_072b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72b.png",
+      "square": "/ui/imagesets/headphotos//hp_072b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072_break",
+        "url": "/overseas_live2d/char072_break"
+      }
+    },
+    {
+      "id": 907211,
+      "name": "깨어난 기억",
+      "description": "만물이 깨어나는 계절, 추억의 그림이 스쳐 지나간다.",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/localization/role/char_072_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_072_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_072_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_072_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_072_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_072_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072_v1",
+        "url": "/overseas_live2d/char072_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 405,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60721,
+      "type": "assist"
+    },
+    {
+      "id": 60721,
+      "type": "contract"
+    },
+    {
+      "id": 60722,
+      "type": "contract"
+    },
+    {
+      "id": 507201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95072,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1080
+}

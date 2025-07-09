@@ -1,0 +1,180 @@
+{
+  "id": 17,
+  "name": "엘라",
+  "title": "용의 소녀",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40007,
+  "age": "988",
+  "artist": "夜ノみつき",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "겉보기에는 귀여운 소녀지만 사실 곧 천 번째 생일을 맞이하는 오래된 종족의 후예이다.\n \n인간 세계에서 백 년 이상을 여행하며 세계 구석구석을 돌아보아 식견이 넓다.\n \n평소에는 자신의 귀여운 이미지를 잃고 싶지 않아 해서 인간의 모습을 하고 있으며, 정말 화가 났을 때만 드래곤의 모습으로 변한다.",
+    "장난을 좋아하는데, 특히 장난을 친 후 인간의 여러 가지 떨떠름한 반응을 보는 것을 즐기며,\n \n인간의 도덕관념을 지키지 않고 제멋대로 행동한다.\n \n성격이 나빠서 주변에 별다른 친구가 없다. 그녀와 놀 수 있는 건 똑같이 성격이 이상한 녹투르나와 메타모포스 뿐이었다.\n \n세 사람 모두 신경질적인 부분이 있지만 의외로 사이좋게 잘 어울렸다.",
+    "드래곤인 엘라는 세상에서 천년이라는 시간을 보냈다고 한다.\n \n하지만 본인은 그 점을 상당히 신경 쓰며 누군가 자신의 나이에 대해 이야기하는 것을 싫어한다.\n \n오랫동안 인간 사회에 섞여 살다 보니 인간 여성과 같은 가치관이 형성되었기 때문일 것이다.",
+    "자신의 종족과 함께 인적이 드문 곳에 숨어 있었다.\n \n엘라가 부모님께 레어를 떠나 바깥세상에 가고 싶다고 이야기했을 때, 부모님은 불같이 화를 냈다.\n \n\"바깥은 너무 위험해. 인간들은 다 나쁜 놈들이라 우리 종족을 잡을 생각만 하지. 아빠 엄마는 절대 용납 못 해!\"\n \n부모님이 신신당부했음에도 불구하고 엘라의 마음속에는 바깥세상에 대한 기대와 호기심이 가득했다.\n \n결국 엘라는 레어를 뛰쳐나와 인간 사회에 들어갔다. 번화한 길과 오가는 인파, 모든 것이 그녀를 흥분케 했고,\n \n엘라는 자신의 원래 모습을 숨기고 어린 소녀의 모습을 한 채 신이 나서 새로운 세계로 달려갔다."
+  ],
+  "birthday": "？",
+  "height": "140cm",
+  "hobby": "장난",
+  "race": "Dragon",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901701,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_024.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_024.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24.png",
+      "square": "/ui/imagesets/headphotos//hp_024.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901702,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_024.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_024.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24.png",
+      "square": "/ui/imagesets/headphotos//hp_024.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024",
+        "url": "/overseas_live2d/char024"
+      }
+    },
+    {
+      "id": 901703,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_024b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24b.png",
+      "square": "/ui/imagesets/headphotos//hp_024b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_break",
+        "url": "/overseas_live2d/char024_break"
+      }
+    },
+    {
+      "id": 901711,
+      "name": "고귀한 혈맥",
+      "description": "자신의 행동이 고귀한 신분에 어울리지 않는다는 것을 깨닫고 바꾸기로 마음먹었다.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_024v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_24v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_024v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_24v1.png",
+      "square": "/ui/imagesets/headphotos//hp_024v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_024v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_v1",
+        "url": "/overseas_live2d/char024_v1"
+      }
+    },
+    {
+      "id": 901712,
+      "name": "성탄의 밤",
+      "description": "선물을 가득담아 기념일의 놀라움과 기쁨을 선사한다.",
+      "artist": "木马",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/localization/role/char_024_v2//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_024_v2//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_024_v2//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_024_v2//round.png",
+      "square": "/ui/imagesets/localization/role/char_024_v2//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_024_v2//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char024_v2",
+        "url": "/overseas_live2d/char024_v2"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 60171,
+      "type": "assist"
+    },
+    {
+      "id": 60171,
+      "type": "contract"
+    },
+    {
+      "id": 60172,
+      "type": "contract"
+    },
+    {
+      "id": 501701,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95017,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1025
+}

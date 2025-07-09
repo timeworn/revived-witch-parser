@@ -1,0 +1,160 @@
+{
+  "id": 33,
+  "name": "시네티아",
+  "title": "고통의 찬가",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "17",
+  "artist": "日向あずり",
+  "artistOverseas": "日向あずり",
+  "backstories": [
+    "원래는 루니아 공국 수도 병원의 간호사였지만 성격에 중대한 결함이 있어 환자와의 접촉을 금지당해 병원 청소만을 담당하던 어느 날, 병원을 시찰하던 에우랄리아 공주가 그녀의 치료 재능을 발견하게 된다.\n\n이후 에우랄리아의 말에 매료당한 그녀는, 에우랄리아를 따라 각지를 돌며 다친 평민들을 치료하겠다 마음먹게 되었다.",
+    "원래부터 남을 돌보는 것을 좋아하는 성격이었다.\n \n하지만 고통에 대한 인식이 비뚤어져 있었고, 다른 사람의 요구를 거절하는 법이 없어서 어떤 의미에서는 상당히 위험한 인물이다.\n \n고통에 몸부림치는 환자들에게 시네티아는 심적 부담을 더하는 존재였다.",
+    "다른 사람들과는 다르게 에우랄리아는 시네티아의 이상한 성격을 지적하지 않았고, 그녀의 모든 것을 포용했다.\n \n그로부터 시네티아는 공주님을 곤란하게 만들 수 없다는 단순한 생각에 이상한 성격을 감추고 에우랄리아의 환자 치료를 도왔다.",
+    "그러다가도, 가끔은 본성을 드러내기도 했는데, 심지어 환자 앞에서 붕대를 풀고 새로운 붕대를 예쁘게 감으며 이상한 웃음소리를 냈다.\n \n하지만 의외로 특정 사람들에겐 상당히 인기가 있었고, 이 점은 에우랄리아를 아주 곤혹스럽게 했다."
+  ],
+  "birthday": "6월 30일",
+  "height": "161cm",
+  "hobby": "통증, 다른 사람 돌보기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903301,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/cards//Card_049.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_49.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_049.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_049.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_49.png",
+      "square": "/ui/imagesets/headphotos//hp_049.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_049.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903302,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/cards//Card_049.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_49.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_049.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_049.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_49.png",
+      "square": "/ui/imagesets/headphotos//hp_049.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_049.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049",
+        "url": "/overseas_live2d/char049"
+      }
+    },
+    {
+      "id": 903303,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/localization/role/char_049_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_049_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_049_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_049_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_049_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_049_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_049_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049_break",
+        "url": "/overseas_live2d/char049_break"
+      }
+    },
+    {
+      "id": 903311,
+      "name": "순백의 색",
+      "description": "밸런타인데이 기간에만 판매하는 한정 코스튬, 시네티아는 칭찬을 받고 싶어 하는 듯 하다.",
+      "artist": "MUGENUP",
+      "overseasArtist": "MUGENUP",
+      "card": "/ui/imagesets/role/char_049_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_049_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_049_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_049_v1//round.png",
+      "square": "/ui/imagesets/role/char_049_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_049_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049_v1",
+        "url": "/overseas_live2d/char049_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 15,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 1.6,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 1.6
+  },
+  "skills": [
+    {
+      "id": 60332,
+      "type": "assist"
+    },
+    {
+      "id": 60331,
+      "type": "contract"
+    },
+    {
+      "id": 60332,
+      "type": "contract"
+    },
+    {
+      "id": 503301,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95033,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1039
+}

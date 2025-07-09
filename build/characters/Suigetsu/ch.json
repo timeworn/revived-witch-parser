@@ -1,0 +1,140 @@
+{
+  "id": 78,
+  "name": "水月",
+  "title": "夏日之约",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40001,
+  "age": "17",
+  "artist": "たん旦",
+  "artistOverseas": "たん旦",
+  "backstories": [
+    "来自东方的华光之岛，人们传统印象中，华光之岛的居民都是端庄的女性，但是水月却不同，完全不拘小节，性格外向开朗，喜欢结交新的朋友。",
+    "听说华光之岛以南的海域上，有一处无名海岛，那里流传着海之精灵现身的消息。$B$$B$富有冒险精神的水月，从商队处听到这条消息后，她仿佛找到了什么新乐趣般跃跃欲试。",
+    "终于等到适合出海的日子，早已做好远行准备的水月，背上行李，乘上了那艘带来消息的商船。$B$$B$尽管船长提醒过她，他们并不会在那个无名海岛逗留，这意味着她将独自一人探索海岛。$B$水月听后却毫不在意，能到达海岛她就心满意足了。",
+    "无名海岛渐渐进入水月的视野，商船不久后就可以靠岸了。$B$$B$天气晴朗，是个适合探险的好日子。$B$$B$商船已靠岸，船长再三叮嘱水月，前方是未知的危险，但这一切并不会影响水月的兴致。她对探险充满信心，表示能够保证自身安危。$B$$B$船长见她意志坚定，只得道别后起航离去。$B$$B$水月要开始她向往已久的冒险了。"
+  ],
+  "birthday": "8月27日",
+  "height": "167cm",
+  "hobby": "和朋友一起玩",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "?",
+  "skins": [
+    {
+      "id": 907801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "たん旦",
+      "overseasArtist": "たん旦",
+      "card": "/ui/imagesets/cards//Card_078.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_78.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_078.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_078.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_78.png",
+      "square": "/ui/imagesets/headphotos//hp_078.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_078.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "たん旦",
+      "overseasArtist": "たん旦",
+      "card": "/ui/imagesets/cards//Card_078.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_78.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_078.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_078.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_78.png",
+      "square": "/ui/imagesets/headphotos//hp_078.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_078.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char078",
+        "url": "/overseas_live2d/char078"
+      }
+    },
+    {
+      "id": 907803,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "たん旦",
+      "overseasArtist": "たん旦",
+      "card": "/ui/imagesets/cards//Card_078b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_78b.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_078.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_078b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_78b.png",
+      "square": "/ui/imagesets/headphotos//hp_078b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_078b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char078_break",
+        "url": "/overseas_live2d/char078_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 28,
+    "hp": 598,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 2.85,
+    "hp": 59.85,
+    "magicDef": 2.85
+  },
+  "skills": [
+    {
+      "id": 60782,
+      "type": "assist"
+    },
+    {
+      "id": 60781,
+      "type": "contract"
+    },
+    {
+      "id": 60782,
+      "type": "contract"
+    },
+    {
+      "id": 507801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1097
+}

@@ -1,0 +1,140 @@
+{
+  "id": 91,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "？",
+  "hobby": "",
+  "race": "Ancient God",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909101,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909102,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char091",
+        "url": "/overseas_live2d/char091"
+      }
+    },
+    {
+      "id": 909103,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_091_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_091_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_091_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char091_break",
+        "url": "/overseas_live2d/char091_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 130,
+    "def": 30,
+    "hp": 617,
+    "magicDef": 29,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 61.74,
+    "magicDef": 2.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 61.74,
+    "magicDef": 2.94
+  },
+  "skills": [
+    {
+      "id": 60912,
+      "type": "assist"
+    },
+    {
+      "id": 60911,
+      "type": "contract"
+    },
+    {
+      "id": 60912,
+      "type": "contract"
+    },
+    {
+      "id": 509101,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95091,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1065
+}

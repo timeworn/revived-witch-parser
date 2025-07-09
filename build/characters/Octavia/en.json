@@ -1,0 +1,160 @@
+{
+  "id": 16,
+  "name": "Octavia",
+  "title": "Swordswoman of Squall",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "17",
+  "artist": "ピナケス",
+  "artistOverseas": "ピナケス",
+  "backstories": [
+    "Octavia is a young girl from the Sanctuary, but unlike other nobles, she prefers the practice of swordplay rather than magic. \n\nThus she is seen as an anomaly and thrown out of the home. \n\nHaving inherited her family's magic bloodline, she is able to attach the power of nature to her sword and greatly enhance her swordplay, although she rarely practices magic.",
+    "Her agility and dazzling swordplay have made her an undefeated duelist and her name soon spread throughout the Upper Domain of Cassiel. \n\nThe Magical Guards there invited her to join their ranks but she promptly declined because she had no interest in anything other than improving her swordsmanship.",
+    "This unbeaten Swordswoman of Squall kept challenging the strong ones and each victory has proven her strong ability. \n\nYet in a duel, she lost to a lady. \n\nShe couldn't accept this until she heard the lady's name—Akasha, the name of the legendary Sword Maiden of Shooting Stars. \n\nThen she decided to learn swordsmanship from this heroine, for which she stayed away from the Sanctuary to live a reclusive life with her master.",
+    "The encounter with Akasha has completely changed Octavia.\nOctavia used to be a top swordswoman. Though she was rejected by her family due to her unwillingness to practice magic, she has already won the recognition of the Upper Domain through her efforts and achievements. \n\nYet, as the winning streak earned her a high position, she became arrogant and gradually forgot it's her sword that brought her glory. \n\nAll these were seen by Akasha so she decided to help Octavia regain her passion for swordplay.\n\nTheir battle was started with no audience. Akasha didn't even draw her sword but Octavia soon realized the huge gap between herself and Akasha. \n\n\"The sword has long been blunt since you ditched it.\"\n\nIt occurred to Octavia that each time others turned their back on her, she would train hard and wield her sword repeatedly just in hope of getting stronger.\n\n\"The streak winning has blinded me so much that I believe no one can beat me and the victory shall come easily just by wielding my sword...\"\n\n\"But the only thing that really matters is the sword itself in my hand.\"\n\nAfter figuring out the essence of the swordplay, she caught up with Akasha who had turned to leave and asked to be the apprentice of Akasha, restarting the practice.\n\n\"All I have now is my desire to get stronger.\" \n\n\"All I live for is nothing but wielding the sword.\""
+  ],
+  "birthday": "Apr. 30",
+  "height": "159cm",
+  "hobby": "Swordplay Practice",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901601,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901602,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002",
+        "url": "/overseas_live2d/char002"
+      }
+    },
+    {
+      "id": 901603,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_002b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02b.png",
+      "square": "/ui/imagesets/headphotos//hp_002b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_break",
+        "url": "/overseas_live2d/char002_break"
+      }
+    },
+    {
+      "id": 901611,
+      "name": "Sweet Time",
+      "description": "A sweet homemade cake that leads the two of you to a world in perfect harmony.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/localization/role/char_016_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_016_v1//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_016_v1//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_016_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_016_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_016_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_016_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_v1",
+        "url": "/overseas_live2d/char002_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 109,
+    "def": 28,
+    "hp": 567,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84
+  },
+  "skills": [
+    {
+      "id": 60162,
+      "type": "assist"
+    },
+    {
+      "id": 60161,
+      "type": "contract"
+    },
+    {
+      "id": 60162,
+      "type": "contract"
+    },
+    {
+      "id": 501601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1021
+}

@@ -1,0 +1,120 @@
+{
+  "id": 56,
+  "name": "脱解",
+  "title": "辉轮公主",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40001,
+  "age": "16",
+  "artist": "lunacle",
+  "artistOverseas": "lunacle",
+  "backstories": [
+    "遥远东方华光之岛的公主。\n\n她的母亲是统治这片土地的女王。\n\n举手投足之间，无不流露出宫中的高雅之风。",
+    "被视作现世之神的继承人，从小就接受精英教育。\n\n学习政务，研习礼仪，精通各类咒术。",
+    "每年的神明祭上都会献上舞蹈，轻盈舞步，优雅的姿态，所见之人无不叹服。\n\n据说这是只有继承人才能学习的舞蹈，被称作“青海波”。\n\n就像是广阔的海面上荡漾起层层波纹，神明大人的恩惠无处不在，宽广无限。\n\n而身为继承人的脱解，会将子民对于平安的祈愿和未来的祝福融合在舞蹈之中，为祝福这片大地的神明献上。",
+    "虽然是被所有人羡慕的公主，私下却讨厌被束缚在宫廷中，希望能去宫殿外尽情地玩耍。\n\n经常趴在宫殿的栏杆上，遥望着远方：\n\n“外面的世界是怎样的呢？”\n\n不过限于身份，不能和外界过多的接触，因此常常陷入苦恼之中。当内心的苦闷无法排解时，就会在庭院练习舞蹈。\n\n伴随着脱解的舞步，她头上所插的红叶，在翩翩起舞时全都随风飘落。\n\n原本已是绝美的红叶，仿佛自知不能与她的美貌匹敌而退避似的，目睹此景的人无不感叹，几疑此非人世间所有。"
+  ],
+  "birthday": "8月8日",
+  "height": "153cm",
+  "hobby": "诗歌、舞蹈",
+  "race": "Human",
+  "sex": "？",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "lunacle",
+      "overseasArtist": "lunacle",
+      "card": "/ui/imagesets/cards//Card_058.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_58.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_058.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_058.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_58.png",
+      "square": "/ui/imagesets/headphotos//hp_058.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_058.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "lunacle",
+      "overseasArtist": "lunacle",
+      "card": "/ui/imagesets/cards//Card_058.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_58.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_058.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_058.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_58.png",
+      "square": "/ui/imagesets/headphotos//hp_058.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_058.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char058",
+        "url": "/overseas_live2d/char058"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60561,
+      "type": "assist"
+    },
+    {
+      "id": 60561,
+      "type": "contract"
+    },
+    {
+      "id": 60562,
+      "type": "contract"
+    },
+    {
+      "id": 505601,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95056,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1064
+}

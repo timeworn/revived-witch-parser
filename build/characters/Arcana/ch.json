@@ -1,0 +1,160 @@
+{
+  "id": 30,
+  "name": "阿迦娜",
+  "title": "命运占卜者",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40002,
+  "age": "30",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "原本在城市的路边摆摊，以占卜为生。$B$$B$因为极其灵验，很快就进入了元老院的视线之中。$B$$B$元老院立刻邀请她为他们服务，占卜政事和国家的未来。",
+    "尽管她因此成为了出入上流场所的名媛，然而却更怀念路边摆摊的市井生活。\n\n对于阿迦娜来说，上流社会的家伙，只是普通的顾客，并没有特殊照顾的必要。\n\n金钱和名誉对她来说并不重要。",
+    "偶尔能在街边的酒馆中，看到这位格格不入的高贵女性。\n\n双颊微红，举起酒杯，邀你坐下同饮：\n\n“喝下这杯，你也会为自己的命运而陶醉。”",
+    "伊敏瑟伦是她的故乡，在奇洛拉出现的似乎只是她的幻象。\n\n暂不清楚是谁将她的幻象投射到奇洛拉，背后似乎隐藏着什么秘密。"
+  ],
+  "birthday": "2月5日",
+  "height": "169cm",
+  "hobby": "略带苦味的食物、占卜",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_037.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_037.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_037.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37.png",
+      "square": "/ui/imagesets/headphotos//hp_037.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_037.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_037.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_037.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37.png",
+      "square": "/ui/imagesets/headphotos//hp_037.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037",
+        "url": "/overseas_live2d/char037"
+      }
+    },
+    {
+      "id": 903003,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_037b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_037b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37b.png",
+      "square": "/ui/imagesets/headphotos//hp_037b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037_break",
+        "url": "/overseas_live2d/char037_break"
+      }
+    },
+    {
+      "id": 903011,
+      "name": "祝福的晚宴",
+      "description": "经过一天忙碌的工作后，阿迦娜来到了自己心仪的酒馆，小酌一杯",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_037v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_037v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37v1.png",
+      "square": "/ui/imagesets/headphotos//hp_037v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037_v1",
+        "url": "/overseas_live2d/char037_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60302,
+      "type": "assist"
+    },
+    {
+      "id": 60302,
+      "type": "contract"
+    },
+    {
+      "id": 60301,
+      "type": "contract"
+    },
+    {
+      "id": 503001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95030,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1036
+}

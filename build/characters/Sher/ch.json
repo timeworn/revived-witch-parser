@@ -1,0 +1,160 @@
+{
+  "id": 72,
+  "name": "夏尔",
+  "title": "等待命运之人",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40024,
+  "age": "18",
+  "artist": "Lirica",
+  "artistOverseas": "Lirica",
+  "backstories": [
+    "虽然很温柔，但是并不会和其他人有过多的交流。$B$$B$不属于圣域，被圣域视为外来者。$B$$B$但拥有强大的魔力，被圣域所欣赏，$B$因此并没有被其他人排斥。",
+    "称呼自己为夏尔，据说出现在这里是因为背负了艰难的命运。$B$$B$有人猜测她是为了逃避某些事情而逃到此地的大魔法师，$B$也有猜测说是亡国的精灵公主，$B$不过并没有确切的答案，$B$因为她总是和其他人隔着一定的距离，不让别人了解她的过去。",
+    "一直待在圣域的礼拜堂中，已经接近百年。$B$$B$也有目击者称，她偶尔会用异国的语言说出心里话，$B$但并不打算让周围人听懂。$B$$B$和阿鵺伦是旧识，阿鵺伦曾经透露夏尔并不是她的真名。$B$$B$不过，$B$连自视甚高的冥途之川的统治者提及她时，都会使用敬语，$B$不难猜测出她身份高贵。$B$$B$\n“妾身仰视之人，若终得天之恩赐，$B$洗去浸染之罪，妾身之灵魂亦将步入命运的终章。”$B$$B$——阿鵺伦",
+    "似乎认识星屑之剑阿卡莎和湖之女神达娜，对于世上的人来说，二者都是只存在于传说中的人。因此也有人推测，夏尔应该也在世上度过了漫长的岁月。奇芬曾经透露，在阿鵺伦之前，夏尔曾经是冥界的管理者，但是因为某些原因，离开了冥界，从此成为一直等待之人。"
+  ],
+  "birthday": "11月24日",
+  "height": "168cm",
+  "hobby": "料理、祈祷、绘画",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_072.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_072.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72.png",
+      "square": "/ui/imagesets/headphotos//hp_072.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_072.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_072.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72.png",
+      "square": "/ui/imagesets/headphotos//hp_072.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072",
+        "url": "/overseas_live2d/char072"
+      }
+    },
+    {
+      "id": 907203,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/cards//Card_072b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_072b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_072b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_72b.png",
+      "square": "/ui/imagesets/headphotos//hp_072b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_072b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072_break",
+        "url": "/overseas_live2d/char072_break"
+      }
+    },
+    {
+      "id": 907211,
+      "name": "复苏的回忆",
+      "description": "万物复苏的季节，眼前闪过回忆的画面。",
+      "artist": "Lirica",
+      "overseasArtist": "Lirica",
+      "card": "/ui/imagesets/localization/role/char_072_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_072_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_072_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_072_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_072_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_072_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char072_v1",
+        "url": "/overseas_live2d/char072_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 405,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60721,
+      "type": "assist"
+    },
+    {
+      "id": 60721,
+      "type": "contract"
+    },
+    {
+      "id": 60722,
+      "type": "contract"
+    },
+    {
+      "id": 507201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95072,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1080
+}

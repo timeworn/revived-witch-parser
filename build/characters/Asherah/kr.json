@@ -1,0 +1,140 @@
+{
+  "id": 84,
+  "name": "아세라타",
+  "title": "이르민술의 수호자",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40010,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "PixelNeko",
+  "backstories": [
+    "먼 옛날 수호자 전쟁에서 승리하고 이르민술에 평화를 되돌렸으며, 수호자로서 수천 년 동안 이땅을 지켜왔다.",
+    "생명 연구에 대해 열정이 남달랐고, 이로 인해 이르민술의 곳곳이 생명력으로 가득 차곤 했다. 이르민술의 사람들은 그 덕분에 대부분 장수했다.",
+    "이 땅에 이변과 사랑하는 이르민술이 시들어가고 있음을 느낀 아세라타는 세상을 구하기 위해 잠시 접어두었던 마법 연구를 통해 이르민술의 운명을 바꿀 방법을 찾으려 한다.",
+    "연구에 몰두하는 아세라타를 본 지 오래였고, 그녀에게 충성하는 영광스러운 기사와 사제라도 연구에 참견하는 것이 허락되지 않았다."
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908401,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/localization/role/char_084//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_084//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_084//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_084//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_084//round.png",
+      "square": "/ui/imagesets/localization/role/char_084//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_084//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908402,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/localization/role/char_084//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_084//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_084//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_084//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_084//round.png",
+      "square": "/ui/imagesets/localization/role/char_084//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_084//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char084",
+        "url": "/overseas_live2d/char084"
+      }
+    },
+    {
+      "id": 908403,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_084_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_084_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_084_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_084_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_084_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_084_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char084_break",
+        "url": "/overseas_live2d/char084_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60842,
+      "type": "assist"
+    },
+    {
+      "id": 60841,
+      "type": "contract"
+    },
+    {
+      "id": 60842,
+      "type": "contract"
+    },
+    {
+      "id": 508401,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95084,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1113
+}

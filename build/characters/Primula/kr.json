@@ -1,0 +1,120 @@
+{
+  "id": 9,
+  "name": "프리뮬라",
+  "title": "꽃의 약사",
+  "rarity": 1,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40016,
+  "age": "18",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "프리뮬라는 꽃밭에서 자란 시골 소녀로 돌아가신 아버지를 대신해 마을 주민의 병을 치료하는 약제사가 되었다.\n \n하지만 아직은 뛰어난 약제사는 아니라서 현재는 투오넬을 따라 수행하는 중이다.\n \n매일 열심히 수행하며 각종 약초를 구분하는 법과 여러 약을 만드는 법을 공부하고 있다.\n \n가끔은 약효를 확인하기 위해 조제한 약을 직접 먹어보기도 하지만 며칠 지나지 않아 이와 같은 위험천만한 행동은 투오넬에게 들켜 약물 실험을 저지당했다.",
+    "프리뮬라는 자신이 아버지와 같은 뛰어난 약제사가 되어 더 많은 사람들에게 병으로 인한 고통을 덜어줄 수 있으리라 굳게 믿었다.\n \n이러한 그녀의 결심은 마을 사람들의 지지를 받았는데, 사람들의 지지와 격려가 그녀의 자신감을 한층 더 단단하게 만들었다.\n \n심지어 어떤 주민은 매번 약을 채집하러 가기 전에 마을 입구에서 응원을 해주기도 하는데 본인은 상당히 껄끄러워하는 것 같다.",
+    "종종 투오넬을 따라 야외에 나가 약초를 구분하는 법을 배웠고, 쉴 때면 끝없이 펼쳐진 꽃밭에 누워\n \n은근슬쩍 투오넬의 손을 잡은 채 함께 앞으로의 생활을 그려보며 자신이 주부가 된 모습을 상상했다.\n \n아이를 좋아해서 야외에 나가 꽃을 딸 때마다 화환을 만들어 마을 아이들에게 선물하곤 한다.",
+    "최근에는 좋은 주부가 되기 위해 마을 주민의 가르침을 받아 요리 수행을 시작했다.\n \n하지만 재료 가짓수가 부족한 탓에 제대로 연습할 수가 없었고, 프리뮬라도 그 점이 신경 쓰이는 듯 도시에 가서 더 많은 재료를 사고 싶어 한다.\n \n하지만 가까운 도시에 가려면 마물이 출몰하는 평원을 지나야 하는데, 혼자서는 너무 위험하기 때문에 어쩔 수 없이 포기할 수밖에 없었다."
+  ],
+  "birthday": "3월 2일",
+  "height": "155cm",
+  "hobby": "꽃 채집, 약 제조",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900901,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_020.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_20.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_020.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_020.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_20.png",
+      "square": "/ui/imagesets/headphotos//hp_020.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_020.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900902,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_020.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_20.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_020.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_020.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_20.png",
+      "square": "/ui/imagesets/headphotos//hp_020.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_020.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char020",
+        "url": "/overseas_live2d/char020"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 76,
+    "def": 20,
+    "hp": 382,
+    "magicDef": 2,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 0.2,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 7.65,
+    "def": 2.04,
+    "hp": 38.25,
+    "magicDef": 0.2
+  },
+  "skills": [
+    {
+      "id": 60092,
+      "type": "assist"
+    },
+    {
+      "id": 60091,
+      "type": "contract"
+    },
+    {
+      "id": 60092,
+      "type": "contract"
+    },
+    {
+      "id": 500901,
+      "type": "contract"
+    },
+    {
+      "id": 3001,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1019
+}

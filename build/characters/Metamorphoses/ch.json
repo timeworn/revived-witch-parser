@@ -1,0 +1,157 @@
+{
+  "id": 38,
+  "name": "梅莫菲斯",
+  "title": "灵魂操纵者",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40007,
+  "age": "15",
+  "artist": "amatou",
+  "artistOverseas": "山椒魚",
+  "backstories": [
+    "月圆之夜才会出现的灵者，$B$自称没有任何感情，通过操纵面具来控制周围人的感情。$B$$B$常常被误认为是危险的妖怪，被其他人敬而远之。$B$$B$不过她本人却毫不在意。$B$$B$也有说法是因为她从不表露感情，$B$没有人能猜测她内心的想法，所以才会让人畏惧。",
+    "关于她的文字记载非常少，$B$只知道她被称为梅莫菲斯——$B$$B$永远捕捉不到痕迹的变形者。$B$$B$有时能看见她和诺忒娜、$B$艾拉一起在月下玩耍，$B$不过没有人敢随意接近他们。$B$$B$虽然诺忒娜和艾拉都是个性十足，$B$但是三人意外地合得来。",
+    "没人知道她此刻到底在想些什么，$B$没人能通过那张毫无表情的脸来解读她。$B$$B$反而是她会观察眼前的人，$B$她的目光似乎早已看穿了一切。$B$$B$\n“让我来读取你的灵魂，轻盈而优雅。”",
+    "虽然看上去对所有事情都漠不关心，$B$但是诺忒娜却能准确地感受到她微弱的情绪变化。$B$$B$诺忒娜最近迷上了苹果，$B$但是城镇里的人看到诺忒娜就会惊叫着跑开，$B$诺忒娜很讨厌这样，所以就拉上梅莫菲斯，$B$多次趁夜色潜入城镇，去水果仓库内大快朵颐。$B$$B$很快，诺忒娜就察觉到梅莫菲斯细小的感情变化，$B$显然，她对这种偷盗行为十分不满，$B$甚至会在回去的路上换上面目狰狞的假面。$B$$B$不过诺忒娜对此并不在意，毕竟能吃到美味的苹果更重要。"
+  ],
+  "birthday": "7月21日",
+  "height": "151cm",
+  "hobby": "观察别人",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_048.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_48.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_048.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_048.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_48.png",
+      "square": "/ui/imagesets/headphotos//hp_048.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_048.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_048.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_48.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_048.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_048.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_48.png",
+      "square": "/ui/imagesets/headphotos//hp_048.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_048.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char048",
+        "url": "/overseas_live2d/char048"
+      }
+    },
+    {
+      "id": 903803,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/localization/role/char_048_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_048_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_048_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_048_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_048_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_048_break//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903811,
+      "name": "浩瀚星辰",
+      "description": "徜徉于浩瀚星海，寻求万物的根源。",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_048_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_048_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_048_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_048_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_048_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_048_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char048_v1",
+        "url": "/overseas_live2d/char048_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60382,
+      "type": "assist"
+    },
+    {
+      "id": 60381,
+      "type": "contract"
+    },
+    {
+      "id": 60382,
+      "type": "contract"
+    },
+    {
+      "id": 503801,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95038,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1044
+}

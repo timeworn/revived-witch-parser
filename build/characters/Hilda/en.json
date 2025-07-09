@@ -1,0 +1,120 @@
+{
+  "id": 74,
+  "name": "Hilda",
+  "title": "The Royal Sword",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "16",
+  "artist": "irvineQ",
+  "artistOverseas": "irvineQ",
+  "backstories": [
+    "She is the captain of the Royal Guard of Lochaber. $B$$B$Her loyalty to the royal family of Lochaber is absolute. $B$$B$Anyone that tends to threaten the royal family will face her blades.",
+    "Maiden as she is, her authority is respected by all royal soldiers. Even the generals won't take her suggestions lightly. $B$$B$She prefers using the double swords in her hands to subdue the opponent rather than using the words to convince them. $B$$B$She believes guarding Lochaber is the ultimate glory worth dying for.",
+    "She was born the princess of Lochaber, who has the right to the throne. $B$$B$But she gave up the luxury life as a princess and chose to guard the royal family with her own hands. $B$$B$She earned the admiration among the soldiers, who would identify her orders as those from the throne.",
+    "With a royal background, she was very arrogant. She once had the attitude that she would only wield her sword to prove her prowess. $B$$B$Once on a quest, her arrogance led her into the enemies' trap. She got rescued later, but her companion, who was also her best friend, was killed during the action. $B$$B$This was a heavy hit to Hilda, which led her started to reflect on her reckless behaviors. To pass on her friend's will, she carries her friend's sword on the waist and swears that her swords will only be drawn to protect."
+  ],
+  "birthday": "?",
+  "height": "180cm",
+  "hobby": "Swordplay Practice",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907401,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907402,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char074",
+        "url": "/overseas_live2d/char074"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 120,
+    "def": 27,
+    "hp": 510,
+    "magicDef": 27,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60741,
+      "type": "assist"
+    },
+    {
+      "id": 60741,
+      "type": "contract"
+    },
+    {
+      "id": 60742,
+      "type": "contract"
+    },
+    {
+      "id": 507401,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1084
+}

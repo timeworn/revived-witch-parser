@@ -1,0 +1,120 @@
+{
+  "id": 74,
+  "name": "希尔达",
+  "title": "王室之剑",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "16",
+  "artist": "irvineQ",
+  "artistOverseas": "irvineQ",
+  "backstories": [
+    "守护洛哈伯王室的近卫队长，$B$对洛哈伯王室抱有异常高的忠心，$B$任何威胁到王室的人，都逃不过她的制裁。",
+    "虽然是女性，$B$但是王城的士兵全部听从她的命令，$B$甚至连军队中的将军也不敢轻易无视她的建议。$B$$B$比起用言语去说服对方，更崇尚用手中的双剑去让对方服从。$B$$B$坚信守护洛哈伯这片土地是最高的荣耀，即便为此失去性命。",
+    "其实是拥有继承权的洛哈伯王室的公主，$B$但是放弃了温室环境，$B$选择用自己的双剑去守护王室，$B$因此下层的士兵们非常尊敬她，并且把她的指示视作王室的命令。",
+    "因为王室的出身，性格十分高傲，挥剑只是为了证明自己的强大。$B$$B$在执行任务的过程中，陷入了敌人的圈套，$B$同伴也是她最好的朋友为了救她，献出了生命。$B$$B$深受打击的希尔达开始反思自己的行为，决定继承朋友的意志，$B$将朋友的剑配在腰间，发誓以后只为守护他人而挥剑。"
+  ],
+  "birthday": "？",
+  "height": "180cm",
+  "hobby": "剑术修行",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "irvineQ",
+      "overseasArtist": "irvineQ",
+      "card": "/ui/imagesets/cards//Card_074.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_074.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_074.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_074.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_74.png",
+      "square": "/ui/imagesets/headphotos//hp_074.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_074.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char074",
+        "url": "/overseas_live2d/char074"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 120,
+    "def": 27,
+    "hp": 510,
+    "magicDef": 27,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.05,
+    "def": 2.7,
+    "hp": 51.03,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60741,
+      "type": "assist"
+    },
+    {
+      "id": 60741,
+      "type": "contract"
+    },
+    {
+      "id": 60742,
+      "type": "contract"
+    },
+    {
+      "id": 507401,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1084
+}

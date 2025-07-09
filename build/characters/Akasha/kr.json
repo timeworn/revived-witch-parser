@@ -1,0 +1,160 @@
+{
+  "id": 13,
+  "name": "아카샤",
+  "title": "유성의 검희",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "PHI",
+  "artistOverseas": "夜ノみつき",
+  "backstories": [
+    "오래된 서적에만 기록되어 있는 검성.\n \n의식의 검을 가졌던 자는 별처럼 반짝이는 검술을 사용해 고대의 마신 가디아를 처치하고 세계를 구했다고 한다.\n \n그녀의 외모에 관해서는 아무 기록도 남아있지 않고, 알려진 건 오직 여성이라는 것과 호수의 여신 다나 및 명계의 관리자와 함께 마신 가디아를 처치했다는 것뿐이다.\n \n그 후로부터는, 사적에서 다시는 유성의 검희의 이름을 찾을 수 없었다.",
+    "아카샤는 의식의 검의 이름이었는데, 소유자도 자신을 그렇게 불렀다.\n \n사람들은 의식의 검에 소유자의 의지를 주입하면 영원히 부서지지 않으며, 검 소유자도 비호를 받아 영원히 늙지 않는다 믿었다.\n \n그렇기 때문에 현재 소유자는 천 년 전과 동일 인물일 수 있다.\n \n의식의 검의 소유자를 본 적 있다는 목격자가 있었는데, 정말 최초로 마신을 처치하고 세계를 구한 검성인지는 그 누구도 단언할 수 없다.\n \n어떤 어린아이의 증언에 따르면 그녀는 종종 꽃밭에 누워 있었는데, 그 맑고 투명한 동공은 마치 하늘과 하나가 된 것 같다고 했다. 하지만, 아무도 그녀의 신분을 확인할 수 없었다.",
+    "어쨌든 이미 천년이 넘는 시간이 흘렀으니, 수많은 사람이 아카샤는 진작 세상을 떠났을 것이라고 생각했다. 하지만 최근 상층부에서 자칭 그녀의 제자라는 검사가 나타났다.\n \n그 제자의 말에 따르면 아카샤는 더이상 검에 손대지 않고 세상의 분쟁을 멀리하고 홀로 은거하고 있다고 한다.\n \n그 제자는 꽃밭에 누워 있는 여성이 바로 유성의 검희 아카샤라는 것, 그리고, 이 세상에서 이미 아주 오랜 세월을 살았다는 것을 증명했다.\n \n호기심이 생긴 사람들이 제자에게 별의 반짝임 같은 검술을 다시 볼 수 있냐고 캐물으면, 그는 손을 내저을 뿐이었다.\n \n아카샤가 자신이 가장 잘 다루는 유성참은 그녀에게 가르쳐주지 않았는데, 그건, 인간의 신체로는 그 기술의 엄청난 부담을 감당할 수 없었기 때문이다.",
+    "입 밖으로 꺼내진 않았지만, 사실 귀여운 것을 상당히 좋아한다.\n \n그녀가 꽃밭에서 두리번거리며 주변에 사람이 없는지 확인을 한 후, 토끼를 품에 안고서 뺨을 토끼털에 비비적대는 것을 암암리에 본 사람이 있다.\n \n하지만 들키면 바로 표정을 바꾸고, 놀라운 속도로 행인에게 다가가, 기절시키고는 신속하게 도망친다.\n \n이를 목격한 사람은 눈이 휘둥그레진다. 눈앞에서 일어난 변화를 믿을 수가 없는 데다 빠르게 도망 쳐버린 여성이 전설 속의, 마신을 처치하고 세계를 구한 유성의 검희가 맞는지 의심되었기 때문이다."
+  ],
+  "birthday": "？",
+  "height": "174cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901301,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901302,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012",
+        "url": "/overseas_live2d/char012"
+      }
+    },
+    {
+      "id": 901303,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "夜ノみつき",
+      "card": "/ui/imagesets/cards//Card_012b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_012b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12b.png",
+      "square": "/ui/imagesets/headphotos//hp_012b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_break",
+        "url": "/overseas_live2d/char012_break"
+      }
+    },
+    {
+      "id": 901311,
+      "name": "해변가에서의 휴일",
+      "description": "고대 마신을 처치하고, 해변에서 휴식을 즐기는 듯한 대담한 옷차림을 한 소녀",
+      "artist": "PHI",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/cards//Card_012v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12v1.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12v1.png",
+      "square": "/ui/imagesets/headphotos//hp_012v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_v1",
+        "url": "/overseas_live2d/char012_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60132,
+      "type": "assist"
+    },
+    {
+      "id": 60131,
+      "type": "contract"
+    },
+    {
+      "id": 60132,
+      "type": "contract"
+    },
+    {
+      "id": 501301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95013,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1012
+}

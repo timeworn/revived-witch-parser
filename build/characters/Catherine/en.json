@@ -1,0 +1,140 @@
+{
+  "id": 23,
+  "name": "Catherine",
+  "title": "The Miracle",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40002,
+  "age": "17",
+  "artist": "mitha",
+  "artistOverseas": "mitha",
+  "backstories": [
+    "She is the hero who stood up to fight against her country's invaders. $B$She saved people from despair and took the first charge against the enemy, bringing glory and honor back to this land once again.",
+    "\"I know nothing of God's attitude toward these invaders. $B$$B$All I know is that all invaders will be expelled from our homeland and leave nothing but corpses.\"$B$$B$\nThe people were more convinced that this maiden of unknown origin was in fact an emissary of God, and the soldiers who had been defeated for years regrouped under her banner of glory, extolling her saving grace. $B$$B$Even the prince prayed for her miracles and put all his troops under her command, begging her to save the country in the name of God.",
+    "The maiden's banner became the faith of the country and the only light in the darkness. All people regarded her as a Saintess, following her unswervingly and treating her victories as the Miracles.",
+    "After her army supported the prince to storm the fallen capital, the prince knelt before her, asking her for holy grace to crown him.$B$$B$\n\"If I have not received holy grace, may the Lord grant it to me; $B$if I have received it, may the Lord grant it to my motherland.\""
+  ],
+  "birthday": "Nov. 25",
+  "height": "160cm",
+  "hobby": "Pray",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "mitha",
+      "overseasArtist": "mitha",
+      "card": "/ui/imagesets/cards//Card_032.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_32.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_032.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_032.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_32.png",
+      "square": "/ui/imagesets/headphotos//hp_032.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_032.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "mitha",
+      "overseasArtist": "mitha",
+      "card": "/ui/imagesets/cards//Card_032.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_32.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_032.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_032.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_32.png",
+      "square": "/ui/imagesets/headphotos//hp_032.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_032.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char032",
+        "url": "/overseas_live2d/char032"
+      }
+    },
+    {
+      "id": 902311,
+      "name": "Glamorous Feast",
+      "description": "Even away from her homeland and war, the girl is still protecting the people around her in her own way.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_032_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_032_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_032_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_032_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_032_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_032_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char032_v1",
+        "url": "/overseas_live2d/char032_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 660,
+    "hp": 900,
+    "magicDef": 396,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 4,
+    "hp": 90,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 6,
+    "hp": 90,
+    "magicDef": 3.6
+  },
+  "skills": [
+    {
+      "id": 60232,
+      "type": "assist"
+    },
+    {
+      "id": 60231,
+      "type": "contract"
+    },
+    {
+      "id": 60232,
+      "type": "contract"
+    },
+    {
+      "id": 502301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95023,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1028
+}

@@ -1,0 +1,120 @@
+{
+  "id": 28,
+  "name": "Viola",
+  "title": "Clockwork-Doll",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "Viola, the best work of Doll Master, has strong self-awareness and learning ability. \n\nShe was taken to a theatrical troupe by Marina and then started to tour around with the troupe.",
+    "Her delicate and flexible joints, long blond hair, and beautiful dancing posture quickly made her the focus of the troupe. \n\nHer Waltz of soulful dance steps always hit the heart of the audience so just a brief mentioning of Viola's Waltz was enough to make the townsfolk shell out.",
+    "Unlike the other dolls, she was restless and tired of performing day in and day out. \n\nOne night, she finally picked up her courage, blended into the crowd, and escaped from the troupe at the end of the show.",
+    "Though knowing nothing about the outside world, she is not worried. \n\n\"It's okay. I possess the most powerful core.\" \n\n\"I'm sure I can go further.\""
+  ],
+  "birthday": "?",
+  "height": "145cm",
+  "hobby": "Learning/ Imitating human behavior",
+  "race": "Machinery",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902801,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_031.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_31.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_031.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_031.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_31.png",
+      "square": "/ui/imagesets/headphotos//hp_031.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_031.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902802,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "姬乃",
+      "overseasArtist": "姬乃",
+      "card": "/ui/imagesets/cards//Card_031.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_31.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_031.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_031.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_31.png",
+      "square": "/ui/imagesets/headphotos//hp_031.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_031.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char031",
+        "url": "/overseas_live2d/char031"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 115,
+    "def": 23,
+    "hp": 448,
+    "magicDef": 23,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 11.54,
+    "def": 2.39,
+    "hp": 44.89,
+    "magicDef": 2.39,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 11.54,
+    "def": 2.39,
+    "hp": 44.89,
+    "magicDef": 2.39
+  },
+  "skills": [
+    {
+      "id": 60281,
+      "type": "assist"
+    },
+    {
+      "id": 60281,
+      "type": "contract"
+    },
+    {
+      "id": 60282,
+      "type": "contract"
+    },
+    {
+      "id": 502801,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1034
+}

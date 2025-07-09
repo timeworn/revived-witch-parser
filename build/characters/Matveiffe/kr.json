@@ -1,0 +1,160 @@
+{
+  "id": 71,
+  "name": "마터웨이브",
+  "title": "청색이동 관측자",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40007,
+  "age": "14",
+  "artist": "Rosuuri",
+  "artistOverseas": "Rosuuri",
+  "backstories": [
+    "문테니아 공국의 어느 한 귀족 집안에서 태어난 마터웨이브는 예절과 사교를 좋아하는 여느 귀족 처녀들과는 달리 베란다에서 홀로 별을 보고 밤늦게까지 은하를 보는 것을 좋아한다.\n\n주변에서 그녀를 보고 괴짜라고 부르며, 이상한 소문이 무성했지만 정작 본인은 개의치 않아 한다.",
+    "그러던 어느 날, 마터웨이브는 신비한 목소리를 듣게 된다.\n\n\"젊은 여자여, 우리와 함께 하세요. 이 자리에서 당신은 세상의 참뜻을 알게 될 것입니다.\"\n\n신비한 목소리는 마터웨이브에게 매력적으로 느껴졌고, 그녀는 아무도 모르게 고향을 떠나 신비한 목소리를 따라 모험의 길을 걷게 된다.",
+    "마터웨이브가 사라진 뒤, 별을 보다가 길을 잃었거나, 어느 남자아이와 사랑에 빠져 도망친 것이 아니냐는 추측이 나돌았다. 하지만 시간이 흐르자 사람들은 그녀를 점차 잊어 갔다.\n\n몇 년 뒤 문테니아 공국으로 돌아온 마터웨이브의 눈빛에는 공포의 기운이 서려있었다. 그녀의 눈은 만물의 파장을 제어할 수 있었으며, 그녀의 고주파수는 눈앞의 모든 사물을 쉽게 파괴할 수 있었다. ",
+    "문테니아 공국의 고위층은 판노니아 왕국의 괴물인 존재의 말살자를 대적할 방법을 찾는 데 급급했다. 이런 상황에서 때마침 나타난 이상한 능력을 가진 마터웨이브는 그들에게 해답을 가져다줄 존재가 분명했다.\n\n\"의식에는 항상 오차가 발생하죠. 제가 해야 할 일은 그걸 수정하고, 올바른 방향으로 이끄는 거예요.\""
+  ],
+  "birthday": "12월 22일",
+  "height": "154cm",
+  "hobby": "별자리 관찰, 진리 탐구",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907101,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_071.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_071.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71.png",
+      "square": "/ui/imagesets/headphotos//hp_071.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907102,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_071.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_071.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71.png",
+      "square": "/ui/imagesets/headphotos//hp_071.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071",
+        "url": "/overseas_live2d/char071"
+      }
+    },
+    {
+      "id": 907103,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/cards//Card_071b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_071b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_071b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_71b.png",
+      "square": "/ui/imagesets/headphotos//hp_071b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_071b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071_break",
+        "url": "/overseas_live2d/char071_break"
+      }
+    },
+    {
+      "id": 907111,
+      "name": "별의 서약",
+      "description": "밸런타인데이 기간에만 판매하는 한정 코스튬, 마터웨이브가 드레스의 정교한 디자인에 매료되어 구매하기로 결정했다.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/role/char_071_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_071_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_071_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_071_v1//round.png",
+      "square": "/ui/imagesets/role/char_071_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_071_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char071_v1",
+        "url": "/overseas_live2d/char071_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60711,
+      "type": "assist"
+    },
+    {
+      "id": 60711,
+      "type": "contract"
+    },
+    {
+      "id": 60712,
+      "type": "contract"
+    },
+    {
+      "id": 507101,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95071,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1087
+}

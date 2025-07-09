@@ -1,0 +1,160 @@
+{
+  "id": 29,
+  "name": "瑟兰雅",
+  "title": "苍穹疾风",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40012,
+  "age": "18",
+  "artist": "amatou",
+  "artistOverseas": "えびら",
+  "backstories": [
+    "祖父和父亲都是村落里最杰出的猎手，$B$而瑟兰雅也继承了他们的血脉。$B$$B$从小就开始练习射箭，甚至在黑夜之中也能感受到猎物的气息，$B$不是凭借视觉，而是直接通过体感侦测目标。",
+    "对自己的箭术有着绝对的自信，$B$自称“一箭入魂，无需二发”。$B$$B$事实上，$B$她的自信源自绝对的实力，把自己想象成是一支箭，$B$没有情感，不会思考，只会一直向目标飞去。",
+    "自尊心极高，$B$因为一直没有可以匹敌的对手，十分空虚。$B$$B$和父亲银弓一样，渴望能和更强大的家伙对战。$B$$B$如果找到传说中的恶神，既能试试自己的身手，$B$又能找到让风雪停止的方法。$B$$B$——抱着这样单纯的想法，$B$瑟兰雅决定独自一人，$B$背着心爱的长弓，$B$踏上了前往山顶的道路。",
+    "虽然一直声称没有对手，$B$实际上一直把自己的父亲银弓视为目标。$B$$B$一直追随着父亲的身影，$B$模仿父亲的狩猎训练。$B$$B$但是很快她就发现，$B$这样只不过会走上和父亲一样的道路，自己是无法超越父亲的。$B$$B$意识到这点的瑟兰雅迷失了自我，$B$开始讨厌自己的弱小。$B$$B$\n这些变化当然没有逃过银弓的眼睛，$B$银弓并没有说什么，只是把女儿带到箭靶前，$B$用布蒙上了她的双眼。$B$$B$“能感受到箭靶吗？”瑟兰雅点了点头。$B$$B$“那么，往后退十步吧。”$B$$B$“还能感受到箭靶吗？”$B$$B$“往后再退十步吧。”$B$$B$\n如此往复，瑟兰雅取下蒙眼布时，$B$惊讶地发现自己已经在箭靶的百步之外。$B$$B$\n看吧，这就是你的才能——$B$$B$瑟兰雅至今还记得父亲的话，$B$从那以后，瑟兰雅放弃了所有力量的训练，专心提升自己的箭技，$B$舍弃一切杂念，成为了一直没有感情的箭。"
+  ],
+  "birthday": "11月23日",
+  "height": "171cm",
+  "hobby": "狩猎、缝纫",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902901,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/cards//Card_035.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_035.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_035.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35.png",
+      "square": "/ui/imagesets/headphotos//hp_035.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902902,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "amatou",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/cards//Card_035.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_035.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_035.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35.png",
+      "square": "/ui/imagesets/headphotos//hp_035.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035",
+        "url": "/overseas_live2d/char035"
+      }
+    },
+    {
+      "id": 902903,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "えびら",
+      "overseasArtist": "えびら",
+      "card": "/ui/imagesets/localization/role/char_035_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_035_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_035_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_035_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_035_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_035_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035_break",
+        "url": "/overseas_live2d/char035_break"
+      }
+    },
+    {
+      "id": 902911,
+      "name": "节日庆典",
+      "description": "为了一年中最重要的祭典而精心打扮，尽情享受节日的欢乐",
+      "artist": "amatou",
+      "overseasArtist": "哈奈鲁",
+      "card": "/ui/imagesets/cards//Card_035v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_35v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_035v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_35v1.png",
+      "square": "/ui/imagesets/headphotos//hp_035v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_035v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char035_v1",
+        "url": "/overseas_live2d/char035_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 352,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.89,
+    "hp": 35.28,
+    "magicDef": 1.89,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.89,
+    "hp": 35.28,
+    "magicDef": 1.89
+  },
+  "skills": [
+    {
+      "id": 60291,
+      "type": "assist"
+    },
+    {
+      "id": 60291,
+      "type": "contract"
+    },
+    {
+      "id": 60292,
+      "type": "contract"
+    },
+    {
+      "id": 502901,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95029,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1035
+}

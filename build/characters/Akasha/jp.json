@@ -1,0 +1,160 @@
+{
+  "id": 13,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "夜ノみつき",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "174cm",
+  "hobby": "",
+  "race": "Human",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901301,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901302,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_012.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12.png",
+      "square": "/ui/imagesets/headphotos//hp_012.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012",
+        "url": "/overseas_live2d/char012"
+      }
+    },
+    {
+      "id": 901303,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_012b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_012b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12b.png",
+      "square": "/ui/imagesets/headphotos//hp_012b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_break",
+        "url": "/overseas_live2d/char012_break"
+      }
+    },
+    {
+      "id": 901311,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "木马",
+      "card": "/ui/imagesets/cards//Card_012v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_12v1.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_012.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_012v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_12v1.png",
+      "square": "/ui/imagesets/headphotos//hp_012v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_012v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char012_v1",
+        "url": "/overseas_live2d/char012_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 60132,
+      "type": "assist"
+    },
+    {
+      "id": 60131,
+      "type": "contract"
+    },
+    {
+      "id": 60132,
+      "type": "contract"
+    },
+    {
+      "id": 501301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95013,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1012
+}

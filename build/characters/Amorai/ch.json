@@ -1,0 +1,120 @@
+{
+  "id": 100,
+  "name": "阿墨莱",
+  "title": "情感诊疗师",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "26",
+  "artist": "Angye",
+  "artistOverseas": "Angye",
+  "backstories": [
+    "本人在露尼亚公国的一个小镇中，经营着自己的诊所。$B$$B$据小镇居民所说，阿墨莱用于治疗的药品，似乎都是她亲手制作的。各种疑难杂症只要经阿墨莱之手，病情都会得到缓解。",
+    "每当热情的居民试图与她攀谈时，她总会说些不知所云的内容转移话题，并擅自结束交流。$B$$B$由于经常出现这种情况，识趣的居民就不再与她过多接触了。$B$$B$虽然镇上的居民对她的医术赞不绝口，却对医生本人的事情知之甚少。",
+    "实际上，阿墨莱虽然言行举止有些奇怪，但仍然被誉为露尼亚最有才华的研究者之一。$B$$B$她在学术研究上的成就，一度引起老学者们的注意。$B$$B$但阿墨莱本人并不在意这些成就，相反，她一头扎进了医学和旁人无法理解的神秘学研究之中。",
+    "小镇居民中有传言称，阿墨莱曾抚养过一个无家可归的女孩，并且亲切地称呼她为女儿。$B$$B$从阿墨莱的助手处听闻，那段时间阿墨莱惹恼助手的次数明显少了。$B$$B$虽然那位女孩不喜欢被称呼为“女儿”，经常会嘴上说着讨厌，但还是会听从阿墨莱的要求，去镇上学校认真学习。"
+  ],
+  "birthday": "6月6日",
+  "height": "157cm",
+  "hobby": "医学研究、神秘学",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/localization/role/char_100//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_100//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_100//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_100//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_100//round.png",
+      "square": "/ui/imagesets/localization/role/char_100//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_100//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Angye",
+      "overseasArtist": "Angye",
+      "card": "/ui/imagesets/localization/role/char_100//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_100//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_100//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_100//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_100//round.png",
+      "square": "/ui/imagesets/localization/role/char_100//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_100//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char100",
+        "url": "/overseas_live2d/char100"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 405,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 40.5,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 61001,
+      "type": "assist"
+    },
+    {
+      "id": 61001,
+      "type": "contract"
+    },
+    {
+      "id": 61002,
+      "type": "contract"
+    },
+    {
+      "id": 510001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95100,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1103
+}

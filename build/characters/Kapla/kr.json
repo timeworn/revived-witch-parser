@@ -1,0 +1,140 @@
+{
+  "id": 110,
+  "name": "카프라",
+  "title": "신년 맹수",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40007,
+  "age": "16",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "문테니아 공국 출신으로 일족과 함께 숲속에서 살고 있던 카프라는 바깥세상에 대해 호기심이 가득했다. 그러던 어느 날 인간 세계에 가장 중요한 명절이 다가오고 있다는 말을 듣고, 명절의 시끌벅적한 도시를 보기 위해 숲을 뛰쳐나왔다.",
+    "숲속에서만 살던 카프라에게 도시의 모든 것이 신기했고, 다양한 새해의 물건과 풍미가 가득한 산해진미는 카프라의 이목을 끌기에 충분했다.$B$$B$카프라는 마구잡이로 음식들을 먹어댔지만, 인간 사회에 대한 지식과 경험이 없던 터라 주인의 계산 요구에 온 얼굴에 물음표만 맴돌았다.",
+    "카프라에게 돈을 요구하는 수많은 장사꾼들이 어리둥절하는 카프라를 우습게 여겼고, 둘러싸인 카프라가 고함을 지르자 불쌍한 주민들은 비명을 지르며 도망갔다.",
+    "카프라는 천진난만한 성격 때문에 종종 이상한 행동을 하지만 본성은 착한 아이였다.$B$$B$한동안 마을에 머무르며 사람들을 귀찮게 굴기도 하고 장난을 치기도 했다. 사랑스러운 말썽쟁이 카프라는 그렇게 마을 축제에 녹아들었다."
+  ],
+  "birthday": "4월14일",
+  "height": "146cm",
+  "hobby": "사냥, 장난",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/localization/role/char_110//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_110//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_110//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_110//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_110//round.png",
+      "square": "/ui/imagesets/localization/role/char_110//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_110//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/localization/role/char_110//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_110//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_110//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_110//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_110//round.png",
+      "square": "/ui/imagesets/localization/role/char_110//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_110//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char110",
+        "url": "/overseas_live2d/char110"
+      }
+    },
+    {
+      "id": 911003,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/localization/role/char_110_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_110_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_110_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_110_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_110_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_110_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char110_break",
+        "url": "/overseas_live2d/char110_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 31,
+    "hp": 661,
+    "magicDef": 31,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3.15,
+    "hp": 66.15,
+    "magicDef": 3.15
+  },
+  "skills": [
+    {
+      "id": 601102,
+      "type": "assist"
+    },
+    {
+      "id": 601101,
+      "type": "contract"
+    },
+    {
+      "id": 601102,
+      "type": "contract"
+    },
+    {
+      "id": 511001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95110,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1107
+}

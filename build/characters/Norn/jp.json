@@ -1,0 +1,157 @@
+{
+  "id": 43,
+  "name": "",
+  "title": "",
+  "rarity": 3,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40011,
+  "age": "600？",
+  "artist": "Angye",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "151cm",
+  "hobby": "",
+  "race": "Angel",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904301,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904302,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_055.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_055.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_055.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55.png",
+      "square": "/ui/imagesets/headphotos//hp_055.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055",
+        "url": "/overseas_live2d/char055"
+      }
+    },
+    {
+      "id": 904303,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_055b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55b.png",
+      "square": "/ui/imagesets/headphotos//hp_055b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055b.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904311,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "Angye ",
+      "card": "/ui/imagesets/cards//Card_055v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_55v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_055v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_55v1.png",
+      "square": "/ui/imagesets/headphotos//hp_055v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_055v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char055_v1",
+        "url": "/overseas_live2d/char055_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60431,
+      "type": "assist"
+    },
+    {
+      "id": 60431,
+      "type": "contract"
+    },
+    {
+      "id": 60432,
+      "type": "contract"
+    },
+    {
+      "id": 504301,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95043,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1049
+}

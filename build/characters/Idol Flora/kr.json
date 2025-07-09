@@ -1,0 +1,140 @@
+{
+  "id": 95,
+  "name": "아이돌 포크로어",
+  "title": "꿈의 무대",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Hum",
+  "artistOverseas": "Hum",
+  "backstories": [
+    "정령의 숲에서 온 신비로운 여성, 정령의 숲을 처음 벗어나 낯선 사람과 접촉하는 것이 두려우면서도 주위의 모든 것이 신기해 조심스럽게 바깥세상을 바라본다.",
+    "정령의 숲은 원래 하이엘프의 평온한 삶의 터전이었지만, 둥둥섬의 카스피엘이 계속 상승하면서 정령의 숲은 더 이상 평온하지 않았다.$B$$B$강렬한 햇빛 때문에 나무가 시들게 되고, 지상의 마물들이 둥둥섬으로 날아올라 숲으로 침입하기 시작했으며, 숲 외곽의 나무들은 이미 타들어 가기 했다.$B$$B$정령의 숲은 점점 쇠망의 길을 걸어가고 있다.",
+    "포크로어는 이 모든 상황을 보았고, 엘프 힘만으로는 부족하다는 것을 깨달았다.$B$$B$비록 엘프가 인간을 싫어하지만, 정령의 숲을 구하기 위해서는 더 많은 사람들에게 도움을 청하고, 더 많은 마력과 자금을 모아 햇빛을 약하게 하는 시설을 만들어야만 다시금 정령의 숲에 평온을 가져올 수 있었다.",
+    "이 모든 것이 포크로어에게는 불안한 미지의 이야기지만, 그녀는 그룹에 합류하여 대즐링 스테이지에서 아이돌이 되기로 결심한다.$B$$B$최종 무대에 오르기 위해 매일 땀을 흘리며 열심히 연습하지만 순탄치 않은 듯 그녀의 눈앞에 놓인 상황과 정령의 숲의 미래에 컴컴한 먹구름이 드리워져 있다."
+  ],
+  "birthday": "?",
+  "height": "165cm",
+  "hobby": "연주, 노래 부르기",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909501,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "snow_is",
+      "overseasArtist": "Hum",
+      "card": "/ui/imagesets/localization/role/char_095//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_095//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_095//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095//round.png",
+      "square": "/ui/imagesets/localization/role/char_095//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909502,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "snow_is",
+      "overseasArtist": "Hum",
+      "card": "/ui/imagesets/localization/role/char_095//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_095//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_095//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095//round.png",
+      "square": "/ui/imagesets/localization/role/char_095//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char095",
+        "url": "/overseas_live2d/char095"
+      }
+    },
+    {
+      "id": 909511,
+      "name": "행복의 소리",
+      "description": "팬들을 위해 선물을 직접 만들어 즐거움을 선사한다.",
+      "artist": "sagiri",
+      "overseasArtist": "sagiri",
+      "card": "/ui/imagesets/localization/role/char_095_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_095_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_095_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_095_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_095_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_095_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char095_v1",
+        "url": "/overseas_live2d/char095_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60951,
+      "type": "assist"
+    },
+    {
+      "id": 60951,
+      "type": "contract"
+    },
+    {
+      "id": 60952,
+      "type": "contract"
+    },
+    {
+      "id": 509501,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95095,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1102
+}

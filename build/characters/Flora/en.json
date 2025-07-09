@@ -1,0 +1,140 @@
+{
+  "id": 10,
+  "name": "Flora",
+  "title": "Melody of the Lake",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40015,
+  "age": "？",
+  "artist": "Pixel Neko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She is a mysterious girl who appears at the fountain every time the sun sets. No one knows exactly where she came from. \n\nSome say she came from the Forest of Elves, and may even be one of the legendary elves. She seems scared of connecting with humans though. \n\nEven in stormy weather, she also appears at the fountain on time. The sky clears again as her song ends. \n\nWhen people are still stunned by such a miracle, she has quietly departed, leaving behind a wanting for more...",
+    "People are indulged in her beautiful songs, accompanied by the beautiful melody from her harp. Perhaps this is the so-called heavenly sound. \n\nIt is said that she often learns new tunes from Mayahuel, who guards the Forest of Elves. \n\nAs a High Elf, Mayahuel should only know elven music; however, Flora keeps playing new tunes that celebrate the happy life of humans. It can therefore be assumed that she must have other ways of learning new songs.",
+    "Flora is guarded by Mayahuel and served by Mineer, both of whom are not technically her friends. \n\nHer only friend is Caledonia. The two often play by the lake. \n\nSometimes Flora even wades into the water to help Caledonia groom her Sacred Beast. This is a rare moment when Flora wears a smile.",
+    "It is said that she inherited the noblest elven bloodline, and even Mayahuel, who guards the Forest of Elves, uses honorific titles with her. \n\nSome people speculate that she is the daughter of Dana, Goddess of the Lake, but no one dares to mention this kind of topic in front of the High Elves. \n\nThe topic about Flora's father is even considered taboo by Mayahuel, and once mentioned, Mayahuel's mood will sour into aggression, making those around her tremble."
+  ],
+  "birthday": "Dec. 23",
+  "height": "165cm",
+  "hobby": "Playing the harp/ Singing",
+  "race": "?",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901001,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "snow_is",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_016.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_16.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_016.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_016.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_16.png",
+      "square": "/ui/imagesets/headphotos//hp_016.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_016.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901002,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "snow_is",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_016.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_16.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_016.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_016.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_16.png",
+      "square": "/ui/imagesets/headphotos//hp_016.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_016.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char016",
+        "url": "/overseas_live2d/char016"
+      }
+    },
+    {
+      "id": 901011,
+      "name": "To Mother",
+      "description": "Visions of her sealed mother flicker by. She plucks the strings, and slips into remembrance.",
+      "artist": "snow_is",
+      "overseasArtist": "NAJI柳田",
+      "card": "/ui/imagesets/cards//Card_016v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_16v1.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_016.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_016v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_16v1.png",
+      "square": "/ui/imagesets/headphotos//hp_016v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_016v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char016_v1",
+        "url": "/overseas_live2d/char016_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 25,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.52,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60101,
+      "type": "assist"
+    },
+    {
+      "id": 60101,
+      "type": "contract"
+    },
+    {
+      "id": 60102,
+      "type": "contract"
+    },
+    {
+      "id": 501001,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95010,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1016
+}

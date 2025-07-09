@@ -1,0 +1,140 @@
+{
+  "id": 86,
+  "name": "费吉亚",
+  "title": "青蛙骑士",
+  "rarity": 3,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40010,
+  "age": "？",
+  "artist": "PixelNeko",
+  "artistOverseas": "PixelNeko",
+  "backstories": [
+    "咋看之下只是个穿着骑士装束的奇怪生物，原本是侍奉守护者埃舍雷的高贵骑士，发誓要用剑守护伊敏瑟伦。",
+    "在魔力外泄的灾难中，身体异变成了青蛙的模样。\n似乎还不适应青蛙的身体，在活动一段时间后，就会感到疲劳。",
+    "变成青蛙的模样后，一直随身携带着酒壶，常常坐在路边，借酒消愁。",
+    "在与埃舍雷的战斗后意外获得了穿越空间的能力，来到了其他世界，努力地寻找能解除魔法诅咒的方法，期待着有一天伊敏瑟伦能回归正常"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "男",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/role/char_086//card.png",
+      "diamond": "/ui/imagesets/role/char_086//diamond.png",
+      "gacha": "/ui/imagesets/role/char_086//gacha.png",
+      "longCard": "/ui/imagesets/role/char_086//longcard.png",
+      "round": "/ui/imagesets/role/char_086//round.png",
+      "square": "/ui/imagesets/role/char_086//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_086//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/role/char_086//card.png",
+      "diamond": "/ui/imagesets/role/char_086//diamond.png",
+      "gacha": "/ui/imagesets/role/char_086//gacha.png",
+      "longCard": "/ui/imagesets/role/char_086//longcard.png",
+      "round": "/ui/imagesets/role/char_086//round.png",
+      "square": "/ui/imagesets/role/char_086//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_086//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char086",
+        "url": "/overseas_live2d/char086"
+      }
+    },
+    {
+      "id": 908603,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "猫咪的守望",
+      "overseasArtist": "猫咪的守望",
+      "card": "/ui/imagesets/role/char_086_break//card.png",
+      "diamond": "/ui/imagesets/role/char_086_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_086_break//longcard.png",
+      "round": "/ui/imagesets/role/char_086_break//round.png",
+      "square": "/ui/imagesets/role/char_086_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_086_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char086_break",
+        "url": "/overseas_live2d/char086_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 146,
+    "def": 16,
+    "hp": 331,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.68,
+    "def": 1.68,
+    "hp": 33.17,
+    "magicDef": 1.68,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.68,
+    "def": 1.68,
+    "hp": 33.17,
+    "magicDef": 1.68
+  },
+  "skills": [
+    {
+      "id": 60861,
+      "type": "assist"
+    },
+    {
+      "id": 60861,
+      "type": "contract"
+    },
+    {
+      "id": 60862,
+      "type": "contract"
+    },
+    {
+      "id": 508601,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1109
+}

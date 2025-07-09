@@ -1,0 +1,160 @@
+{
+  "id": 8,
+  "name": "爱珐怜",
+  "title": "圣灵守卫",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 1,
+  "affiliation": 40024,
+  "age": "？",
+  "artist": "小吃_chill",
+  "artistOverseas": "Kurot",
+  "backstories": [
+    "被称作“圣灵守卫”，继承了圣域最纯正的血统，接替兄长嘉代提斯成为圣域的看门人。\n\n尽管年幼，却被赋予重任，奉命驱逐那些试图入侵圣域的外来者。不过爱珐怜本人却毫无责任感。\n\n毕竟对于这个年龄的孩子来说，鲜花和各种小动物似乎更有吸引力。\n\n因此她经常脱离岗位，有时甚至会跑出圣域，去下层玩耍。",
+    "随身携带着抱枕，玩累了就躺在草地上，很快就会进入甜美的梦乡。即便如此，也没人敢轻易接近她，一旦把她惊醒，\n\n被认定为入侵者，她就会把抱枕直接扔过来，攻击打扰她的好梦的人。\n\n唯一能在她睡着时叫醒她的，应该就只有她的哥哥嘉代提斯和妹妹辛妮了。",
+    "虽然看起来人畜无害，但在入侵者眼里，她就是圣域的铁壁。\n\n任何魔法攻击都会被抱枕吸收，完全无法对她造成伤害。\n\n而这个可爱的女孩子，也会在众人惊讶的目光中，拍拍自己心爱的抱枕，继续享受午后的恬睡。",
+    "热衷于吃最近流行的柠檬派，虽然口感很酸，但是意外受到上层贵族的欢迎。\n\n不过喜爱甜食的妹妹辛妮非常讨厌柠檬派，两人的意见完全无法统一，经常吵架。\n\n爱珐怜决定把柠檬派献给守护者大人，以此确定柠檬派在圣域的正统地位。"
+  ],
+  "birthday": "9月12日",
+  "height": "135cm",
+  "hobby": "偷懒、睡觉、玩耍",
+  "race": "?",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900801,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "小吃_chill",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900802,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "小吃_chill",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/cards//Card_018.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_18.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_018.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_018.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_18.png",
+      "square": "/ui/imagesets/headphotos//hp_018.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_018.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018",
+        "url": "/overseas_live2d/char018"
+      }
+    },
+    {
+      "id": 900803,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "小吃_chill",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_018_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_break",
+        "url": "/overseas_live2d/char018_break"
+      }
+    },
+    {
+      "id": 900811,
+      "name": "甜蜜回忆",
+      "description": "在幸福的节日，一直受到你关照的爱珐怜，也为你精心准备了礼物",
+      "artist": "Kurot",
+      "overseasArtist": "Kurot",
+      "card": "/ui/imagesets/localization/role/char_018_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_018_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_018_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_018_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_018_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_018_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char018_v1",
+        "url": "/overseas_live2d/char018_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 60,
+    "def": 396,
+    "hp": 900,
+    "magicDef": 660,
+    "speed": 20
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6,
+    "def": 2.4,
+    "hp": 90,
+    "magicDef": 4,
+    "speed": 0
+  },
+  "breakStats": {
+    "attack": 6,
+    "def": 3.6,
+    "hp": 90,
+    "magicDef": 6
+  },
+  "skills": [
+    {
+      "id": 60082,
+      "type": "assist"
+    },
+    {
+      "id": 60081,
+      "type": "contract"
+    },
+    {
+      "id": 60082,
+      "type": "contract"
+    },
+    {
+      "id": 500801,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95008,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1018
+}

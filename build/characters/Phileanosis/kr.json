@@ -1,0 +1,140 @@
+{
+  "id": 97,
+  "name": "필레노시스",
+  "title": "과거의 시간",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40007,
+  "age": "？",
+  "artist": "Rosuuri",
+  "artistOverseas": "Rosuuri",
+  "backstories": [
+    "최근 갑자기 크로노 타워에 나타난 떠돌이 학자, 신비로운 시간의 마법을 다루는 듯하다.",
+    "필레노시스는 원래 시공의 수호자의 충실한 신도였으나, 시공의 수호자가 봉인되면서, 신앙을 잃고 세계 곳곳을 떠돌기 시작했다. 시간이 흐르며 모든 것이 책에 기록되어 역사가 되는 것을 바라본다.",
+    "크로노 타워가 다시 나타났다는 소식을 들은 필레노시스는 기나긴 기다림 속에서 다시 희망의 불을 지폈다. 어쩌면 시공의 수호자를 다시 만날 수 있다는 희망을 가진 채 크로노 타워로 들어서게 된다.",
+    "원래 인간 학자였던 필레노시스는 학문적 호기심 때문에 시공의 수호자와 가까워지면서 신도가 되었다. 시공의 수호자에게 깊은 신뢰를 받았고 시간 마법을 익혀, 자신의 시간의 흐름을 멈추었고 시공의 수호자를 마주할 때의 모습을 영원히 유지하고 있다."
+  ],
+  "birthday": "?",
+  "height": "？",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909701,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_097//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_097//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097//round.png",
+      "square": "/ui/imagesets/localization/role/char_097//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909702,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_097//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_097//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097//round.png",
+      "square": "/ui/imagesets/localization/role/char_097//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char097",
+        "url": "/overseas_live2d/char097"
+      }
+    },
+    {
+      "id": 909703,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_097_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_097_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char097_break",
+        "url": "/overseas_live2d/char097_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 25,
+    "hp": 450,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60972,
+      "type": "assist"
+    },
+    {
+      "id": 60971,
+      "type": "contract"
+    },
+    {
+      "id": 60972,
+      "type": "contract"
+    },
+    {
+      "id": 509701,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95097,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1118
+}

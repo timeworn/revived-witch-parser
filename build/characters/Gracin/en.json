@@ -1,0 +1,140 @@
+{
+  "id": 93,
+  "name": "Gracin",
+  "title": "Calamity Doctor",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "？",
+  "artist": "木野花",
+  "artistOverseas": "木野花",
+  "backstories": [
+    "A doctor who travels around the world. Shunned by people because of her strange attire.",
+    "Gracin is often seen gathering exotic herbs in the forest and brewing them into potions. Because of the unpleasant smell of her potions, her patients often have to pinch their noses while drinking them.",
+    "Though her medical techniques are frowned upon by those esteemed doctors in Lunia, Gracin has been doing a great job of healing up underprivileged patients, earning her a reputation among the downtrodden.",
+    "Lunia, fresh out of a war, is now in shambles. Its people are displaced and suffering from a spreading plague. Gracin, a traveling doctor, is summoned for an audience with Princess Eulalia. Moved by the princess' kindness, Gracin decides to stay at her side to dole out healing where it's needed."
+  ],
+  "birthday": "?",
+  "height": "181cm",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "木野花",
+      "overseasArtist": "木野花",
+      "card": "/ui/imagesets/localization/role/char_093//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_093//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_093//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_093//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_093//round.png",
+      "square": "/ui/imagesets/localization/role/char_093//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_093//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "木野花",
+      "overseasArtist": "木野花",
+      "card": "/ui/imagesets/localization/role/char_093//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_093//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_093//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_093//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_093//round.png",
+      "square": "/ui/imagesets/localization/role/char_093//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_093//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char093",
+        "url": "/overseas_live2d/char093"
+      }
+    },
+    {
+      "id": 909303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "木野花",
+      "overseasArtist": "木野花",
+      "card": "/ui/imagesets/localization/role/char_093_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_093_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_093_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_093_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_093_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_093_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char093_break",
+        "url": "/overseas_live2d/char093_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60931,
+      "type": "assist"
+    },
+    {
+      "id": 60931,
+      "type": "contract"
+    },
+    {
+      "id": 60932,
+      "type": "contract"
+    },
+    {
+      "id": 509301,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95093,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1138
+}

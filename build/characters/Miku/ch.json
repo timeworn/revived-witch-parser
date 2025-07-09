@@ -1,0 +1,120 @@
+{
+  "id": 3,
+  "name": "未来",
+  "title": "断魔灵者",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40011,
+  "age": "14",
+  "artist": "welchino",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "来自西方小岛弗摩尔的少女，姐姐由依是欧琳迪克家族的继承人，身为六神官之一，司掌“魂”。\n\n和姐姐一样，未来也继承了家族的破魔幻兽之力，曾经害怕自己体内的强大魔力。\n\n一直躲在姐姐身后，不敢和其他人说话。因为憧憬姐姐，所以和姐姐一样把枪作为自己的武器。",
+    "六神官的家族中，只有一人能继承神官的职位，在姐姐由依继承了神官之位后，未来只能离开小岛，去其他地方修行。\n\n为了争夺神官之位，其他家族都发生过血腥的争夺，但是未来完全没有想过这种事情。\n\n她衷心地祝福姐姐，同时也暗下决心，修行归来后，要在姐姐身旁，一同守护这片土地。",
+    "和只关注战斗的姐姐不同，未来更喜欢料理的修行，能够用各类食材做出美味佳肴。\n\n虽然本人并不觉得这有什么了不起的，但她内心其实非常渴望自己的努力能得到姐姐的认可。\n\n尽管十分怕生，但是却意外的体贴别人。\n\n嘴上虽然不会说出来，其实非常在意自己的外表，据说一直在偷偷地模仿姐姐的穿着和打扮。\n\n然而不能因为未来的可爱就忽视了她的实力，欧琳迪克的血脉让她能轻易地操纵幻兽，撕碎怀有敌意的入侵者。",
+    "除了姐姐之外，能敞开心怀一起玩耍的朋友，只有尤妲娅了。\n\n同为料理的爱好者，两人经常一起去森林中寻找各类食材，\n树上的苹果，枯草堆下的蘑菇，都能成为她们料理的新灵感。\n\n不过尤妲娅显然还处于学习阶段，经常会做出一些奇怪的作品。尽管未来不喜欢，但每次都会捏着鼻子把这些失败作吃完。"
+  ],
+  "birthday": "6月2日",
+  "height": "156cm",
+  "hobby": "料理、可爱的衣服、姐姐的一切",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "welchino",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_003.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_03.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_003.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_003.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_03.png",
+      "square": "/ui/imagesets/headphotos//hp_003.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_003.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "welchino",
+      "overseasArtist": "Pixel Neko",
+      "card": "/ui/imagesets/cards//Card_003.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_03.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_003.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_003.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_03.png",
+      "square": "/ui/imagesets/headphotos//hp_003.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_003.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char003",
+        "url": "/overseas_live2d/char003"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 114,
+    "def": 27,
+    "hp": 567,
+    "magicDef": 27,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 11.48,
+    "def": 2.7,
+    "hp": 56.7,
+    "magicDef": 2.7,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 11.48,
+    "def": 2.7,
+    "hp": 56.7,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60031,
+      "type": "assist"
+    },
+    {
+      "id": 60031,
+      "type": "contract"
+    },
+    {
+      "id": 60032,
+      "type": "contract"
+    },
+    {
+      "id": 500301,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1008
+}

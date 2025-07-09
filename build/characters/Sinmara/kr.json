@@ -1,0 +1,140 @@
+{
+  "id": 82,
+  "name": "신마라",
+  "title": "지옥의 불꽃",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40012,
+  "age": "？",
+  "artist": "welchino",
+  "artistOverseas": "玲汰 ",
+  "backstories": [
+    "신마라는 본래 존경받던 학자로 시공의 수호자의 이상을 접하고는 따르기로 결심하였고, 시공의 수호자가 가장 신임하는 부하가 되었다.",
+    "시공의 수호자와 함께 수호자 전쟁에 참전하였지만, 참패 후 모든 힘을 잃고 존경하는 시공의 수호자가 봉인되는 것을 지켜볼 수밖에 없었다. 자신의 무력함을 뼈저리게 느끼곤, 극한의 힘을 추구하며 자신의 주인을 위한 복수를 다짐한다.",
+    "힘을 얻기 위해 갖가지 마법 연구를 진행하며, 연구는 점차 위험해졌고, 신마라 또한 증오에 물들어가며 점점 일그러져 갔다.",
+    "스네구로치카의 비밀을 알게 된 신마라는 자신의 복수가 마침내 실현될 수 있음을 깨닫는다. 복수의 첫걸음으로 스네구로치카를 완전히 파괴하려 하는데……"
+  ],
+  "birthday": "?",
+  "height": "180cm",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908201,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "玲汰 ",
+      "card": "/ui/imagesets/localization/role/char_082//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_082//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_082//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_082//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_082//round.png",
+      "square": "/ui/imagesets/localization/role/char_082//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_082//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908202,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "玲汰 ",
+      "card": "/ui/imagesets/localization/role/char_082//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_082//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_082//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_082//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_082//round.png",
+      "square": "/ui/imagesets/localization/role/char_082//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_082//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char082",
+        "url": "/overseas_live2d/char082"
+      }
+    },
+    {
+      "id": 908203,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "玲汰 ",
+      "card": "/ui/imagesets/localization/role/char_082_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_082_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_082_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_082_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_082_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_082_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char082_break",
+        "url": "/overseas_live2d/char082_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 130,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 63,
+    "magicDef": 2.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.01,
+    "def": 3.06,
+    "hp": 63,
+    "magicDef": 2.94
+  },
+  "skills": [
+    {
+      "id": 60822,
+      "type": "assist"
+    },
+    {
+      "id": 60821,
+      "type": "contract"
+    },
+    {
+      "id": 60822,
+      "type": "contract"
+    },
+    {
+      "id": 508201,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95082,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1135
+}

@@ -1,0 +1,140 @@
+{
+  "id": 102,
+  "name": "아마나미 공주",
+  "title": "기억의 꽃말",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 5,
+  "affiliation": 40001,
+  "age": "16",
+  "artist": "久賀フーナ",
+  "artistOverseas": "久賀フーナ",
+  "backstories": [
+    "사람들의 사랑을 받던 공주는 엄숙한 여왕과는 달리 아직 앳된 모습이지만, 정사에 열중하기 시작했다. 최근에는 사람들의 고통에 관심을 가지며, 궁궐을 나와 마을로 들어가는 일이 잦아졌다.",
+    "여왕의 후계자로서 매일 엘리트 교육을 받아야 하고 많은 일을 처리 해야 하지만, 아마나미는 불평하는 기색도 보이지 않고 훌륭하게 직무를 수행해 주위의 존경을 받았다.",
+    "아마나미의 춤은 신의 축복에서 비롯되었다고 하며, 현세의 신의 계승자로서 신의 은혜를 사람들에게 널리 알리고 있다.\n\n아마나미는 신명제에 춤을 바치기 위해, 매일 정사가 끝난 후에도 지친 몸을 이끌고 나가 무용 연습을 하곤 한다.\n\n서쪽으로 기우는 붉은 해와 불길 같은 석양이 비치는 옷소매, 가벼운 걸음걸이와 완곡한 노랫가락이 어우러져 아름다움이 극에 달하면 그 장면을 보는 사람들은 눈물을 흘리지 않을 수가 없다.",
+    "풀빛이 푸르고 염교가 채 가시지 않았을 때, 아마나미는 궁궐을 나와 수행 시녀와 함께 야외로 나갔다. 긴 머리카락이 흩날리며 가지 끝의 꽃잎을 가볍게 쓸어내리고 소매를 걷으며 감상에 젖는다. 꽃비가 내리는 가운데 시녀의 노랫소리에 맞춰 춤을 추는 모습이 이토록 아름다운 것을 보니, 속세를 떠난 하늘 선인의 화신이 아닌지를 의심케 한다."
+  ],
+  "birthday": "8월 8일",
+  "height": "153cm",
+  "hobby": "시가, 무용",
+  "race": "Human",
+  "sex": "？",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910201,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_102//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_102//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102//round.png",
+      "square": "/ui/imagesets/localization/role/char_102//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910202,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_102//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_102//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102//round.png",
+      "square": "/ui/imagesets/localization/role/char_102//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char102",
+        "url": "/overseas_live2d/char102"
+      }
+    },
+    {
+      "id": 910203,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "久賀フーナ",
+      "overseasArtist": "久賀フーナ",
+      "card": "/ui/imagesets/localization/role/char_102_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_102_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_102_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_102_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_102_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_102_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char102_break",
+        "url": "/overseas_live2d/char102_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 61022,
+      "type": "assist"
+    },
+    {
+      "id": 61021,
+      "type": "contract"
+    },
+    {
+      "id": 61022,
+      "type": "contract"
+    },
+    {
+      "id": 510201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95102,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1112
+}

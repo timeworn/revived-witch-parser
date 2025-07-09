@@ -1,0 +1,140 @@
+{
+  "id": 113,
+  "name": "Shiroi",
+  "title": "Hidden Shadow at Sea",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "緜",
+  "artistOverseas": "緜",
+  "backstories": [
+    "As one of the few last remaining mermaids, she lives at the bottom of the sea and rarely ventures beyond it.",
+    "There was a time when the mermaids lived freely at the bottom of the sea—they would occasionally emerge from the surface and even engage in activities on the shore. Then a catastrophe struck, wiping out a majority of their kind. The few that survived cut themselves off from the outside world and stuck to the seabed.",
+    "Shiroi is a good-natured girl, and she has a slight fear of humans after hearing all the bad things her fellow mermaids say about them. Still, she itches to go out to the surface and see the outside world. However, every time she wants to do that, she would immediately be talked down by her kin.",
+    "Her only friend is Ardisia, someone who can live in the sea like an elf. She envies her freedom to run and frolic on the beach and constantly pesters her to tell her about what happens out there."
+  ],
+  "birthday": "?",
+  "height": "？",
+  "hobby": "?",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_113//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_113//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113//round.png",
+      "square": "/ui/imagesets/localization/role/char_113//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_113//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_113//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113//round.png",
+      "square": "/ui/imagesets/localization/role/char_113//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char113",
+        "url": "/overseas_live2d/char113"
+      }
+    },
+    {
+      "id": 911303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "緜",
+      "overseasArtist": "緜",
+      "card": "/ui/imagesets/localization/role/char_113_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_113_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_113_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_113_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_113_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_113_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char113_break",
+        "url": "/overseas_live2d/char113_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 141,
+    "def": 21,
+    "hp": 472,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.18,
+    "def": 2.16,
+    "hp": 47.25,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 61132,
+      "type": "assist"
+    },
+    {
+      "id": 61131,
+      "type": "contract"
+    },
+    {
+      "id": 61132,
+      "type": "contract"
+    },
+    {
+      "id": 511301,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95113,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1124
+}

@@ -1,0 +1,160 @@
+{
+  "id": 33,
+  "name": "Cynetia",
+  "title": "Warped Hymn",
+  "rarity": 3,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40003,
+  "age": "17",
+  "artist": "日向あずり",
+  "artistOverseas": "日向あずり",
+  "backstories": [
+    "Cynetia used to be a nurse at the Capital Hospital of the Principality of Lunia, but got prohibited from engaging with any patient due to her character defects, so only cleaning work in the hospital fell upon her. \n\nAs Princess Eulalia visited the hospital, Cynetia's healing talent was discovered, and then she was asked to follow Eulalia traveling around to cure injured civilians. Out of her admiration for Eulalia, she assented gladly.",
+    "She is a considerate and caring girl but has a distorted perception of pain. \n\nShe never refuses the needs of others, to the point that it makes her dangerous. \n\nFor patients who are suffering from pain, Cynetia adds to their psychological burden.",
+    "Unlike others, Eulalia never blames Cynetia for her eccentricity and accepts everything about her. \n\nWith a simple thought that she shouldn't cause trouble for the Princess, Cynetia puts away the morbid part in her personality and assists Eulalia to cure the injured.",
+    "She occasionally shows her true nature, even removing bandages in front of patients, then skillfully replacing them with new ones and meanwhile letting out strange laughter. \n\nCuriously, she enjoys high popularity among certain circles, which also perplexes Eulalia."
+  ],
+  "birthday": "Jun. 30",
+  "height": "161cm",
+  "hobby": "Pain/ Caring",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903301,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/cards//Card_049.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_49.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_049.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_049.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_49.png",
+      "square": "/ui/imagesets/headphotos//hp_049.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_049.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903302,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/cards//Card_049.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_49.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_049.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_049.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_49.png",
+      "square": "/ui/imagesets/headphotos//hp_049.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_049.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049",
+        "url": "/overseas_live2d/char049"
+      }
+    },
+    {
+      "id": 903303,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "welchino",
+      "overseasArtist": "日向あずり",
+      "card": "/ui/imagesets/localization/role/char_049_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_049_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_049_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_049_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_049_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_049_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_049_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049_break",
+        "url": "/overseas_live2d/char049_break"
+      }
+    },
+    {
+      "id": 903311,
+      "name": "Pure White",
+      "description": "A limited-edition style only sold on Valentine's Day. Don't refrain from praising Cynetia when she has put it on.",
+      "artist": "MUGENUP",
+      "overseasArtist": "MUGENUP",
+      "card": "/ui/imagesets/role/char_049_v1//card.png",
+      "diamond": "/ui/imagesets/role/char_049_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_049_v1//longcard.png",
+      "round": "/ui/imagesets/role/char_049_v1//round.png",
+      "square": "/ui/imagesets/role/char_049_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_049_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char049_v1",
+        "url": "/overseas_live2d/char049_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 15,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 1.6,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 1.6
+  },
+  "skills": [
+    {
+      "id": 60332,
+      "type": "assist"
+    },
+    {
+      "id": 60331,
+      "type": "contract"
+    },
+    {
+      "id": 60332,
+      "type": "contract"
+    },
+    {
+      "id": 503301,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95033,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1039
+}

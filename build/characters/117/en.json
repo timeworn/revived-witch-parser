@@ -1,0 +1,140 @@
+{
+  "id": 117,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "150cm",
+  "hobby": "",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911701,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911702,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117",
+        "url": "/overseas_live2d/char117"
+      }
+    },
+    {
+      "id": 911703,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_117_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_117_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_117_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117_break",
+        "url": "/overseas_live2d/char117_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.75,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3,
+    "hp": 66.15,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 61172,
+      "type": "assist"
+    },
+    {
+      "id": 61171,
+      "type": "contract"
+    },
+    {
+      "id": 61172,
+      "type": "contract"
+    },
+    {
+      "id": 511701,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95117,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1131
+}

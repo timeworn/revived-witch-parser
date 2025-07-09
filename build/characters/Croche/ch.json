@@ -1,0 +1,120 @@
+{
+  "id": 2,
+  "name": "柯萝谢",
+  "title": "钟塔侍女",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40007,
+  "age": "20",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "原本是贝尔吉卡修道院收养的孤儿，从小在修道院长大，经常被其他人欺凌，甚至被修道院的院长虐待。\n\n没有人愿意站出来帮助柯萝谢，她只能一个人躲在墙角偷偷哭泣。\n\n在深夜时修道院的钟楼经常会发出奇怪的声音，人们都害怕进入这个闹鬼之地。\n\n于是每天敲钟的任务就落在了这个年轻女孩的肩上。\n\n她日复一日地提灯走上钟楼，在半夜敲响楼顶之钟。",
+    "然而，人们渐渐发现少女再也不是过去那个躲在墙角啜泣的孩子。已经没有人敢接近她了。\n\n她的身上散发出非人的气息，人们在背后纷纷议论，似乎这个少女已经和钟楼恶魔定下了契约。",
+    "和恶魔定下了契约，灵灯中储存着钟楼恶魔的魔力。\n\n但柯萝谢并没有完全按照恶魔的指示，用魔力去伤害其他人，而是用这魔力去治愈别人的伤痛。",
+    "白天饱受欺凌，夜晚时分只能在钟楼顶一个人哭泣时，唤醒了在黑暗中沉睡的恶魔。\n\n黑暗中的恶魔向她伸出手，而她也接受了恶魔的力量，把这份力量的实感看作是唯一的温暖。\n\n虽然接受了恶魔的力量，但是她并没有失去自己的意识，\n对于恶魔的指示，她并没有完全执行。\n\n作为惩罚，恶魔给予她身体上的痛苦，她的皮肤渐渐苍白。\n\n为了不让其他人看见病态的自己，她在腿上更是缠上了厚厚的绷带。"
+  ],
+  "birthday": "12月29日",
+  "height": "170cm",
+  "hobby": "家务",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_004.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_04.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_004.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_004.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_04.png",
+      "square": "/ui/imagesets/headphotos//hp_004.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_004.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "彩阳",
+      "overseasArtist": "彩阳",
+      "card": "/ui/imagesets/cards//Card_004.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_04.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_004.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_004.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_04.png",
+      "square": "/ui/imagesets/headphotos//hp_004.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_004.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char004",
+        "url": "/overseas_live2d/char004"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 405,
+    "magicDef": 21,
+    "speed": 20
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16,
+    "speed": 0
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 40.5,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60022,
+      "type": "assist"
+    },
+    {
+      "id": 60021,
+      "type": "contract"
+    },
+    {
+      "id": 60022,
+      "type": "contract"
+    },
+    {
+      "id": 500201,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1004
+}

@@ -1,0 +1,120 @@
+{
+  "id": 50,
+  "name": "Cortana",
+  "title": "Justice Bringer",
+  "rarity": 4,
+  "element": 4,
+  "vocation": 2,
+  "affiliation": 0,
+  "age": "？",
+  "artist": "?",
+  "artistOverseas": "クレタ",
+  "backstories": [
+    "Lv.1 Bond Story",
+    "Lv.2 Bond Story",
+    "Lv.3 Bond Story",
+    "Lv.4 Bond Story"
+  ],
+  "birthday": "?",
+  "height": "？",
+  "hobby": "?",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905001,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "?",
+      "overseasArtist": "?",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905002,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "?",
+      "overseasArtist": "?",
+      "card": "/ui/imagesets/localization/role/char_091//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_091//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_091//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_091//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_091//round.png",
+      "square": "/ui/imagesets/localization/role/char_091//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_091//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char091",
+        "url": "/overseas_live2d/char091"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 127,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.75,
+    "def": 3,
+    "hp": 63,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.75,
+    "def": 3,
+    "hp": 63,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 60501,
+      "type": "assist"
+    },
+    {
+      "id": 60501,
+      "type": "contract"
+    },
+    {
+      "id": 60502,
+      "type": "contract"
+    },
+    {
+      "id": 505001,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1065
+}

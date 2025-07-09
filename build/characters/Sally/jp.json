@@ -1,0 +1,120 @@
+{
+  "id": 106,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40003,
+  "age": "24",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "171cm",
+  "hobby": "",
+  "race": "Ancient God",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910601,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_106//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_106//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_106//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_106//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_106//round.png",
+      "square": "/ui/imagesets/localization/role/char_106//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_106//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910602,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/localization/role/char_106//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_106//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_106//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_106//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_106//round.png",
+      "square": "/ui/imagesets/localization/role/char_106//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_106//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char106",
+        "url": "/overseas_live2d/char106"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61061,
+      "type": "assist"
+    },
+    {
+      "id": 61061,
+      "type": "contract"
+    },
+    {
+      "id": 61062,
+      "type": "contract"
+    },
+    {
+      "id": 510601,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95106,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1104
+}

@@ -1,0 +1,157 @@
+{
+  "id": 38,
+  "name": "메타모포스",
+  "title": "영혼의 조종자",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40007,
+  "age": "15",
+  "artist": "山椒魚",
+  "artistOverseas": "山椒魚",
+  "backstories": [
+    "보름달이 뜬 밤에만 나타나는 영혼, 스스로는 감정이 없다고 하며 가면을 조종해 주변 사람의 감정을 조종한다. 종종 위험한 요괴로 오해를 받고 사람들이 기피하기도 한다. 하지만 본인은 전혀 신경 쓰지 않는 것 같다. 감정을 드러내지 않기 때문에 생각을 알 수가 없어 그녀가 무섭다는 말도 있다.",
+    "그녀에 관해서는 기록이 상당히 적다. 그저 알 수 있는 것은 그녀가 메타모포스, 영원히 흔적을 찾을 수 없는 변형자라고 불린다는 것뿐이다. 때때로 녹투르나, 엘라와 함께 달빛 아래에서 노는 것을 볼 수 있지만, 아무도 그들에게 쉽사리 다가가지 못한다. 녹투르나와 엘라 모두 각자 개성이 강하지만, 의외로 세 사람은 죽이 잘 맞는다.",
+    "아무도 그녀가 무슨 생각을 하는지 알 수 없었고, 그 무표정한 얼굴을 읽어낼 수도 없었다. 되려 그녀가 앞에 있는 사람을 관찰할 때, 그 눈빛은 모든 것을 간파하는 듯하다. \n\n\"제가 당신의 영혼을 읽어볼게요. 가볍고 우아하게요.\"",
+    "메타모포스는 모든 일에 무관심한 것처럼 보이지만, 녹투르나는 그녀의 작은 감정의 변화까지도 정확하게 느낄 수 있었다. \n\n녹투르나는 최근 사과에 푹 빠져있는데, 마을 사람들은 녹투르나를 보기만 하면 놀라서 도망쳐버렸다. 그게 싫었던 녹투르나는 메타모포스를 이끌고 밤사이에 마을에 숨어들었고, 과일 창고에서 한껏 포식을 했다. 얼마 지나지 않아 녹투르나는 메타모포스의 작은 감정의 변화를 느낄 수 있었는데, 메타모포스는 이 도둑질이 불만스러운 것이 분명했다. 심지어 돌아가는 길에는 험상궂은 가면으로 바꿔 쓰기까지 했지만 녹투르나는 전혀 개의치 않았다. 맛있는 사과를 먹는 게 더 중요했기 때문이다."
+  ],
+  "birthday": "7월 21일",
+  "height": "151cm",
+  "hobby": "다른 사람 관찰하기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903801,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_048.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_48.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_048.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_048.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_48.png",
+      "square": "/ui/imagesets/headphotos//hp_048.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_048.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903802,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/cards//Card_048.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_48.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_048.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_048.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_48.png",
+      "square": "/ui/imagesets/headphotos//hp_048.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_048.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char048",
+        "url": "/overseas_live2d/char048"
+      }
+    },
+    {
+      "id": 903803,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "amatou",
+      "overseasArtist": "山椒魚",
+      "card": "/ui/imagesets/localization/role/char_048_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_048_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_048_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_048_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_048_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_048_break//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903811,
+      "name": "은하의 별빛",
+      "description": "광활한 별바다를 거닐며, 만물의 근원을 찾고자 한다.",
+      "artist": "6音",
+      "overseasArtist": "6音",
+      "card": "/ui/imagesets/localization/role/char_048_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_048_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_048_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_048_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_048_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_048_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char048_v1",
+        "url": "/overseas_live2d/char048_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60382,
+      "type": "assist"
+    },
+    {
+      "id": 60381,
+      "type": "contract"
+    },
+    {
+      "id": 60382,
+      "type": "contract"
+    },
+    {
+      "id": 503801,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95038,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1044
+}

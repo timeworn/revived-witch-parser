@@ -1,0 +1,140 @@
+{
+  "id": 97,
+  "name": "菲莱诺希丝",
+  "title": "流逝之殇",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40007,
+  "age": "？",
+  "artist": "Rosuuri",
+  "artistOverseas": "Rosuuri",
+  "backstories": [
+    "最近突然在时之塔内出现的流浪学者，似乎能使用神秘的时间魔法。",
+    "菲莱诺希丝原本是时空守护者的忠实信徒，后因时空守护者被封印，失去了信仰的她开始在世界各地流浪。目睹着时间的流逝，一切成为书中记载的历史。",
+    "听闻时之塔再度出现的菲莱诺希丝，像是在漫长的等待之中再次点燃了希望的光芒。或许能再次见到时空守护者大人，抱着这样的希望，她进入了时之塔。",
+    "原本是人类的学者，因为学术上的好奇心接近时空守护者，并逐渐成为信徒。深得时空守护者的信任，因此学会时间魔法，暂停了自身时间的流动，永远维持着和时空守护者相遇时的模样。"
+  ],
+  "birthday": "？",
+  "height": "？",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 909701,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_097//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_097//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097//round.png",
+      "square": "/ui/imagesets/localization/role/char_097//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 909702,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_097//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_097//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097//round.png",
+      "square": "/ui/imagesets/localization/role/char_097//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char097",
+        "url": "/overseas_live2d/char097"
+      }
+    },
+    {
+      "id": 909703,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Rosuuri",
+      "overseasArtist": "Rosuuri",
+      "card": "/ui/imagesets/localization/role/char_097_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_097_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_097_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_097_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_097_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_097_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char097_break",
+        "url": "/overseas_live2d/char097_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 25,
+    "hp": 450,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60972,
+      "type": "assist"
+    },
+    {
+      "id": 60971,
+      "type": "contract"
+    },
+    {
+      "id": 60972,
+      "type": "contract"
+    },
+    {
+      "id": 509701,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95097,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1118
+}

@@ -1,0 +1,140 @@
+{
+  "id": 24,
+  "name": "Czerni",
+  "title": "Angel of Deception",
+  "rarity": 2,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40002,
+  "age": "18",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "Said to be a noble lady from the Kingdom of Celtica, Czerni often hangs out in the street and has long since abandoned the ways of the nobility, completely integrating into an ordinary life.",
+    "It's said that she left the nobles' lands because of her boredom with the hedonistic life. \n\nUnder her ladylike appearance is the strong urge to pursue danger. \n\nOut of her thirst for the thrill of risk, she has participated in various forms of adventures and grown deeply intoxicated by the thrill.",
+    "She is convinced that her luck will lead from one victory to another and it often does. \n\nThough people attribute it to her somehow rigging the games, no one can see through her act. \n\nAccusations without any proof mutate into rumors. \n\nHowever, she is still the most unwanted person in all casinos of Celtica where her portrait has been put up almost everywhere. \n\nNo one wants to sit at the same table with her because that means the game is doomed to lose even if it hasn't started.",
+    "After hearing that the ruins of Fomoire hide ancient treasures, \n\nshe steps into this forbidden land with one thought — \n\n\"The ultimate pleasure I seek may exist there.\" \n\nShe doesn't even care a fig about the Six Ovates guarding the Fomoire. \n\n\"The Six Ovates? Just a bunch of old fellows, can they catch up with me?\""
+  ],
+  "birthday": "Apr. 7",
+  "height": "155cm",
+  "hobby": "Adventuring",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902401,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_022.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_022.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_022.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22.png",
+      "square": "/ui/imagesets/headphotos//hp_022.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902402,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_022.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_022.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_022.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22.png",
+      "square": "/ui/imagesets/headphotos//hp_022.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char022",
+        "url": "/overseas_live2d/char022"
+      }
+    },
+    {
+      "id": 902403,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_022b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_22b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_022b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_22b.png",
+      "square": "/ui/imagesets/headphotos//hp_022b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_022b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char022_break",
+        "url": "/overseas_live2d/char022_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 20,
+    "hp": 405,
+    "magicDef": 20,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.05,
+    "hp": 40.5,
+    "magicDef": 2.05,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.05,
+    "hp": 40.5,
+    "magicDef": 2.05
+  },
+  "skills": [
+    {
+      "id": 60242,
+      "type": "assist"
+    },
+    {
+      "id": 60241,
+      "type": "contract"
+    },
+    {
+      "id": 60242,
+      "type": "contract"
+    },
+    {
+      "id": 502401,
+      "type": "contract"
+    },
+    {
+      "id": 1002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1029
+}

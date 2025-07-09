@@ -1,0 +1,172 @@
+{
+  "id": 62,
+  "name": "",
+  "title": "",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40014,
+  "age": "？",
+  "artist": "ゆきさめ",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "173cm",
+  "hobby": "",
+  "race": "Ancient God",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906201,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906202,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60621,
+      "type": "assist"
+    },
+    {
+      "id": 60621,
+      "type": "contract"
+    },
+    {
+      "id": 60622,
+      "type": "contract"
+    },
+    {
+      "id": 506201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1070
+}yTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60801,
+      "type": "assist"
+    },
+    {
+      "id": 60801,
+      "type": "contract"
+    },
+    {
+      "id": 60802,
+      "type": "contract"
+    },
+    {
+      "id": 508001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95080,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1105
+}

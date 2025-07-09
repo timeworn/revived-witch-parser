@@ -1,0 +1,140 @@
+{
+  "id": 52,
+  "name": "Yothaya",
+  "title": "Petite Healer",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 5,
+  "affiliation": 40011,
+  "age": "10",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She was born in Fomoire, an island in the west.\n\nShe inherited the bloodline of the Siam family, taking charge of the \"Corrag (Finger)\" among the Six Ovates.",
+    "Unlike other Ovate families, the Siam family gave up the pursuit of greater power. They only wish to use the healing magic at their fingertips to relieve the suffering of their people.",
+    "The good-natured Yothaya never gets into conflicts with others, nor even interacts much with them. \n\nHer only friends are Yui and Miku, and she always wants to dress as cute as they do. \n\nHer petite figure seems to fit into the cute clothing style.",
+    "At her age, the flowers, plants, insects, and butterflies in the fields are far more attractive than the complicated and tedious rituals. \n\nTherefore, she often skips some important rituals to go play in the forest. \n\nShe recently has developed a strong interest in cooking. She makes a lot of strange dishes and asks Miku to have a taste of them. \n\nThough Miku doesn't like those dishes, she still struggles to finish them. This gives Yothaya a wrong impression that her cooking skill is getting better all the time. \n\nAs her confidence gets boosted, she is thinking about giving her dishes to the Ovate Norn, but Miku has kept trying to stop her from doing that."
+  ],
+  "birthday": "Jan. 9",
+  "height": "136cm",
+  "hobby": "Flowers/ Cute clothes/ Sweets",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 905201,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_053.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_053.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53.png",
+      "square": "/ui/imagesets/headphotos//hp_053.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 905202,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_053.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_053.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53.png",
+      "square": "/ui/imagesets/headphotos//hp_053.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char053",
+        "url": "/overseas_live2d/char053"
+      }
+    },
+    {
+      "id": 905211,
+      "name": "High Spirited",
+      "description": "After skipping an important ritual, Yothaya is playing with her friends on the beach.",
+      "artist": "薛定谔的食铁兽",
+      "overseasArtist": "薛定谔的食铁兽",
+      "card": "/ui/imagesets/cards//Card_053v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_53v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_053v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_53v1.png",
+      "square": "/ui/imagesets/headphotos//hp_053v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_053v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char053_v1",
+        "url": "/overseas_live2d/char053_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 19,
+    "hp": 405,
+    "magicDef": 19,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 1.94,
+    "hp": 40.5,
+    "magicDef": 1.94,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 1.94,
+    "hp": 40.5,
+    "magicDef": 1.94
+  },
+  "skills": [
+    {
+      "id": 60522,
+      "type": "assist"
+    },
+    {
+      "id": 60521,
+      "type": "contract"
+    },
+    {
+      "id": 60522,
+      "type": "contract"
+    },
+    {
+      "id": 505201,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1060
+}

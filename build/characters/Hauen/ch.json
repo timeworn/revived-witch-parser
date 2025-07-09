@@ -1,0 +1,140 @@
+{
+  "id": 66,
+  "name": "荷恩",
+  "title": "幻境之兔",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "Aちき",
+  "artistOverseas": "Aちき",
+  "backstories": [
+    "自称来自洛哈伯王国边境的幻境世界，在童话传说中留下记录的神秘女生。第一次离开幻境世界，对外面的一切充满了好奇。",
+    "身材娇小，手里还握着可爱的魔杖，经常被误会成小孩，不过本人并不在意。荷恩似乎不是她的本名，是童话幻境中的同伴对她的称呼。因为她总是给身边的人带来好运，所以大家都觉得收到了她的恩惠。",
+    "虽然对眼前的未知世界充满了好奇，但是并没有和外人交流的经验，十分胆小，甚至不敢在陌生人面前出声。",
+    "原本是童话世界中一只可爱的白兔，即使幻化成人的形态，一旦受到惊吓，头上就会冒出长长的耳朵，快速地躲到墙角，抱着头发抖。不过最近似乎交到了外面世界的第一个朋友，经常有人看见她和爱迪希亚在一起玩耍。"
+  ],
+  "birthday": "1月1日",
+  "height": "150cm",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066",
+        "url": "/overseas_live2d/char066"
+      }
+    },
+    {
+      "id": 906603,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_066_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_066_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066_break",
+        "url": "/overseas_live2d/char066_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60661,
+      "type": "assist"
+    },
+    {
+      "id": 60661,
+      "type": "contract"
+    },
+    {
+      "id": 60662,
+      "type": "contract"
+    },
+    {
+      "id": 506601,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95066,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1090
+}

@@ -1,0 +1,160 @@
+{
+  "id": 41,
+  "name": "乌斯庇娅",
+  "title": "沙漠女王",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40019,
+  "age": "25",
+  "artist": "PHI",
+  "artistOverseas": "PHI",
+  "backstories": [
+    "沙漠部落联盟安帝斯的统治者。\n\n臣服于她高艳美貌下的人不计其数。\n\n雷厉风行的手段，比起男人有过之而无不及。",
+    "沙漠部落原本四分五裂，部落间为了争夺水源连年征战。\n\n用雷霆手段统一了所有部落的正是乌斯庇娅。\n\n仅仅用了数年的时间，她就率领部众横扫整个沙漠，所有部落最终都奉她为王。",
+    "她的敌人把她描述为蛇蝎美人，甚至放出她毒死部落的前任首领，篡夺权力的流言。\n\n然而，乌斯庇娅本人从不回应这些。\n\n她的敌人畏惧她对毒术的精通。\n\n任何妄图反抗的人，都会成为她的牺牲品。",
+    "幼年时曾经是奴隶，饱受饥苦。\n\n因此对所有人都抱有极强的戒心，执着追求自己君临于所有人之上的形式。\n\n“臣服于妾身吧，献上汝之所有，成为妾身的收藏。”"
+  ],
+  "birthday": "8月16日",
+  "height": "179cm",
+  "hobby": "权力、毒物、财富、珠宝",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 904101,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_043.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_43.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_043.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_043.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_43.png",
+      "square": "/ui/imagesets/headphotos//hp_043.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_043.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 904102,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_043.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_43.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_043.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_043.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_43.png",
+      "square": "/ui/imagesets/headphotos//hp_043.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_043.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char043",
+        "url": "/overseas_live2d/char043"
+      }
+    },
+    {
+      "id": 904103,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "PHI",
+      "overseasArtist": "PHI",
+      "card": "/ui/imagesets/cards//Card_043b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_43b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_043b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_43b.png",
+      "square": "/ui/imagesets/headphotos//hp_043b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_043b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char043_break",
+        "url": "/overseas_live2d/char043_break"
+      }
+    },
+    {
+      "id": 904111,
+      "name": "炽夏焦点",
+      "description": "欢呼雀跃吧，乌斯庇娅的到来势必会让这火热的夏日氛围再升一度！",
+      "artist": "ヨシモト",
+      "overseasArtist": "ヨシモト",
+      "card": "/ui/imagesets/localization/role/char_043_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_043_v1//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_043_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_043_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_043_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_043_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char043_v1",
+        "url": "/overseas_live2d/char043_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 125,
+    "def": 21,
+    "hp": 436,
+    "magicDef": 23,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.57,
+    "def": 2.17,
+    "hp": 43.61,
+    "magicDef": 2.39,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.57,
+    "def": 2.17,
+    "hp": 43.61,
+    "magicDef": 2.39
+  },
+  "skills": [
+    {
+      "id": 60411,
+      "type": "assist"
+    },
+    {
+      "id": 60411,
+      "type": "contract"
+    },
+    {
+      "id": 60412,
+      "type": "contract"
+    },
+    {
+      "id": 504101,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95041,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1047
+}

@@ -1,0 +1,117 @@
+{
+  "id": 26,
+  "name": "露西亚",
+  "title": "血色女仆",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 0,
+  "age": "14",
+  "artist": "PixelNeko",
+  "artistOverseas": "やすも",
+  "backstories": [
+    "从小在孤儿院长大，$B$在5岁那年被王国最有权势的贵族收养，$B$并和另外20个孩子一起作为杀手进行培养。",
+    "地狱般的训练后，$B$20个孩子中仅有露西亚活了下来，$B$成为了贵族最信赖的手下，暗中除去和自己政见不和的反对者。",
+    "露西亚平时以主人贴身女仆的身份生活在贵族的宅邸中，$B$服饰主人的饮食起居的同时保护主人的安全。$B$$B$平时的露西亚性格开朗，$B$做事笨手笨脚，经常打翻、打碎主人的东西。",
+    "每当性格软弱的露西亚处于生死边缘，$B$“姐姐”便会出现，帮助露西亚度过难关。$B$$B$实际上“姐姐”是露西亚潜意识中为了保护自己，$B$在恐惧中觉醒的第二个人格，通过面具进行切换。$B$$B$在这个人格下，露西亚便会化身为只知完成任务的杀人机器。"
+  ],
+  "birthday": "？",
+  "height": "150cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902601,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_026.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_26.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_026.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_026.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_26.png",
+      "square": "/ui/imagesets/headphotos//hp_026.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_026.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902602,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_026.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_26.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_026.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_026.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_26.png",
+      "square": "/ui/imagesets/headphotos//hp_026.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_026.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 16,
+    "hp": 324,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 1.62,
+    "hp": 32.4,
+    "magicDef": 1.62,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 1.62,
+    "hp": 32.4,
+    "magicDef": 1.62
+  },
+  "skills": [
+    {
+      "id": 60261,
+      "type": "assist"
+    },
+    {
+      "id": 60261,
+      "type": "contract"
+    },
+    {
+      "id": 60262,
+      "type": "contract"
+    },
+    {
+      "id": 502601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1031
+}

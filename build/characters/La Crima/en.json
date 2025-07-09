@@ -1,0 +1,120 @@
+{
+  "id": 65,
+  "name": "La Crima",
+  "title": "Tear of Gems",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40014,
+  "age": "15",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "She is a young girl born in a collateral branch of the royal family from the Principality of Holmgard in the Far North. She inherits the royal bloodline just like Lilia. \n\nWith outstanding magic power, she serves as a disciple of the Scarce Mage Nasha.",
+    "Unlike her mentor, she retains the heart of a virtuous maiden. \n\nShe's cute and gentle, but sometimes quite clumsy. She often falls into emotional fits of self-blame for making too many mistakes.",
+    "However, Nasha loves this disciple so much that she decided to teach Gem Magic to this weeping child. \n\nOnly the tears of a kind-hearted maiden can condense into magic quartz and the tears also serve as the very medium for releasing higher Gem Magic. \n\nAfter mastering the delicate Gem Magic, La Crima remains unchanged, still a timid girl who won't take the initiative to attack others with magic.",
+    "When she was a child, she had witnessed that her parents were drawn into the disputes over the royal succession and reduced to death so she was afraid of interacting with others and often made strange sounds alone. \n\nHer mentor Nasha used to help her learn how to fit in the society but the several attempts all ended in failure. \n\nBorn in a collateral branch of the royal family, La Crima lived in a castle of the capital and was required to attend social gatherings. A person who has anthropophobia is apparently unable to adapt to such an environment so she sneaked out of the castle. \n\nSomeone said she showed up on the tundra of Snegurochka and it's also said the Frost Chivalric Order is looking for her. \n\nPersonally she is not willing to have too much contact with others so she may be hiding in a corner and immersed in her own world at this moment."
+  ],
+  "birthday": "Feb. 19",
+  "height": "150cm",
+  "hobby": "Handcraft",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906501,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_062.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_62.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_062.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_062.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_62.png",
+      "square": "/ui/imagesets/headphotos//hp_062.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_062.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906502,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_062.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_62.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_062.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_062.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_62.png",
+      "square": "/ui/imagesets/headphotos//hp_062.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_062.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char062",
+        "url": "/overseas_live2d/char062"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 68,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 6.84,
+    "def": 2.51,
+    "hp": 42.75,
+    "magicDef": 2.51,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 6.84,
+    "def": 2.51,
+    "hp": 42.75,
+    "magicDef": 2.51
+  },
+  "skills": [
+    {
+      "id": 60652,
+      "type": "assist"
+    },
+    {
+      "id": 60651,
+      "type": "contract"
+    },
+    {
+      "id": 60652,
+      "type": "contract"
+    },
+    {
+      "id": 506501,
+      "type": "contract"
+    },
+    {
+      "id": 3003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1073
+}

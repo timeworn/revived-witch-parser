@@ -1,0 +1,140 @@
+{
+  "id": 117,
+  "name": "珂莉俄丝",
+  "title": "晨星光耀",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "森林长椅",
+  "artistOverseas": "森林长椅",
+  "backstories": [
+    "珂莉俄丝出生于洛哈伯王国，原本是魔法学院里的学生，但却对剑术展现出格外的兴趣。",
+    "不喜欢在整天坐在教室里学习知识，经常提出各种各样古怪的问题，学院的教师们将她视作问题少女。最终，珂莉俄丝一个人偷偷离开了学校。",
+    "不过，周围的人并没有忘记少女，在珂莉俄丝失踪一段时间后，他又回到了学校。人们惊讶地发现，她不仅已经能够熟练运用星辰的力量，还随身携带着两柄从未有人见过的武器。",
+    "据她本人介绍，长剑名为祈日，刺剑名为侍月，它们都蕴藏着强大的星辰之力。\n“听凭心引，我一定会触摸到夜空之上的星辰！”"
+  ],
+  "birthday": "？？",
+  "height": "150cm",
+  "hobby": "？？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911701,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911702,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117",
+        "url": "/overseas_live2d/char117"
+      }
+    },
+    {
+      "id": 911703,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_117_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_117_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117_break",
+        "url": "/overseas_live2d/char117_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.75,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3,
+    "hp": 66.15,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 61172,
+      "type": "assist"
+    },
+    {
+      "id": 61171,
+      "type": "contract"
+    },
+    {
+      "id": 61172,
+      "type": "contract"
+    },
+    {
+      "id": 511701,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95117,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1131
+}

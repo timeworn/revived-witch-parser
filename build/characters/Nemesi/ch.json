@@ -1,0 +1,140 @@
+{
+  "id": 14,
+  "name": "奈茉茜",
+  "title": "夜刃送葬者",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40016,
+  "age": "14",
+  "artist": "戏言咸咸",
+  "artistOverseas": "戏言咸咸",
+  "backstories": [
+    "出生在嘉庇艾尔的下层，从小就失去父母，流浪街头。\n\n为了生存，加入了犯罪集团，做过很多肮脏的工作，在城市最灰暗的角落里练就了顶尖的暗杀技能。",
+    "她的身手对于上层的贵族来说，大有用处，因此贵族们收留了她，派她执行各种暗杀任务，而她也从未失手过。\n\n名单上的家伙，全部都去地狱报道了，人们畏惧于她的称号——夜刃送葬者。",
+    "沉寂了一段时间后，人们发现她已经脱离了上层的控制，加入了下层的反抗同盟，成为了反抗同盟首领最信任的同伴。",
+    "在反抗同盟中，担任首领的护卫。\n\n得益于之前的暗杀经验，她为首领制定的保护方案堪称完美。\n\n而她无论在任何状况下都能保持冷静的优秀能力，更为首领所倚重。"
+  ],
+  "birthday": "10月8日",
+  "height": "151cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901401,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_014.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_014.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14.png",
+      "square": "/ui/imagesets/headphotos//hp_014.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901402,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_014.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_014.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14.png",
+      "square": "/ui/imagesets/headphotos//hp_014.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char014",
+        "url": "/overseas_live2d/char014"
+      }
+    },
+    {
+      "id": 901411,
+      "name": "恬静假日",
+      "description": "难得的假期，奈茉茜懒洋洋地瘫在沙发上",
+      "artist": "戏言咸咸",
+      "overseasArtist": "戏言咸咸",
+      "card": "/ui/imagesets/cards//Card_014v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_14v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_014v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_14v1.png",
+      "square": "/ui/imagesets/headphotos//hp_014v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_014v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char014_v1",
+        "url": "/overseas_live2d/char014_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 148,
+    "def": 16,
+    "hp": 226,
+    "magicDef": 16,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 14.85,
+    "def": 1.62,
+    "hp": 22.68,
+    "magicDef": 1.62,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 14.85,
+    "def": 1.62,
+    "hp": 22.68,
+    "magicDef": 1.62
+  },
+  "skills": [
+    {
+      "id": 60141,
+      "type": "assist"
+    },
+    {
+      "id": 60141,
+      "type": "contract"
+    },
+    {
+      "id": 60143,
+      "type": "contract"
+    },
+    {
+      "id": 501401,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1014
+}

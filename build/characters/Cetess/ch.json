@@ -1,0 +1,120 @@
+{
+  "id": 27,
+  "name": "凯忒丝",
+  "title": "赤色战姬",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 1,
+  "affiliation": 40013,
+  "age": "20",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "比骑士团里的任何人都更忠实地信仰守护者瑟希薇，愿意为守护者献上自己的一切。\n\n一丝不苟地完成骑士团的工作，被视为骑士的楷模。",
+    "最初仅仅是冰雪骑士团的一名普通的士兵，在战场上勇敢战斗的姿态被一旁的守护者瑟希薇看见，瑟希薇鼓励的话语成为她努力的动力。\n\n凯忒丝比其他同伴付出了更多的努力，其他人结束了一天的训练离开时，凯忒丝的加练才刚刚开始。\n\n凯忒丝惊人的毅力支撑她完成常人难以想象的训练，\n她的努力也收到了回报。\n\n凭借自己的实力赢得了守护者瑟希薇的认可，被任命为冰雪骑士团的副团长。",
+    "由于在作战时永远冲锋在前，砍倒一个又一个的敌人，被其他骑士称作“赤色战姬”。\n\n据说本人挺喜欢这个称号，而对敌人来说，在战场听到这个称号就意味着血色终焉的来临。",
+    "被守护者派去执行特别的使命。\n\n但似乎遇上了什么事故，出发后再也没有人见过她。"
+  ],
+  "birthday": "7月29日",
+  "height": "173cm",
+  "hobby": "武具",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 902701,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_030.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_30.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_030.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_030.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_30.png",
+      "square": "/ui/imagesets/headphotos//hp_030.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_030.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 902702,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "剑风",
+      "overseasArtist": "剑风",
+      "card": "/ui/imagesets/cards//Card_030.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_30.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_030.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_030.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_30.png",
+      "square": "/ui/imagesets/headphotos//hp_030.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_030.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char030",
+        "url": "/overseas_live2d/char030"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 54,
+    "def": 594,
+    "hp": 810,
+    "magicDef": 356.4,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 5.4,
+    "def": 3.6,
+    "hp": 81,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 5.4,
+    "def": 5.4,
+    "hp": 81,
+    "magicDef": 3.24
+  },
+  "skills": [
+    {
+      "id": 60271,
+      "type": "assist"
+    },
+    {
+      "id": 60271,
+      "type": "contract"
+    },
+    {
+      "id": 60272,
+      "type": "contract"
+    },
+    {
+      "id": 502701,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "1;8",
+  "shapeID": 1032
+}

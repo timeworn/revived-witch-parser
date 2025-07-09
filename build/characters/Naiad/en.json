@@ -1,0 +1,140 @@
+{
+  "id": 107,
+  "name": "Naiad",
+  "title": "Soul Blade",
+  "rarity": 4,
+  "element": 3,
+  "vocation": 3,
+  "affiliation": 40001,
+  "age": "15",
+  "artist": "めばる",
+  "artistOverseas": "めばる",
+  "backstories": [
+    "The personal guard of Princess Amanami, conscientious and straightforward. A little foolhardy, but able to handle crises with a cool head.",
+    "Been staying at the Princess's side, dedicated to her job. Capable of enchanting her blade with souls and using it to cut down anyone who threatens to harm the Princess.",
+    "Grew up with Amanami. Determined to give the Princess everything she has. Never lets up in her martial training.",
+    "Like Amanami, she never set foot outside her hometown, but neither does she have any curiosity about what lies beyond—she believes the outside world will bring nothing but danger to the island. She has nothing in common with other girls her age, so she is always misunderstood and seen as a freak."
+  ],
+  "birthday": "Aug. 7",
+  "height": "165cm",
+  "hobby": "Sweets",
+  "race": "Human",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 910701,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_107//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_107//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107//round.png",
+      "square": "/ui/imagesets/localization/role/char_107//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 910702,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_107//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_107//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107//round.png",
+      "square": "/ui/imagesets/localization/role/char_107//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char107",
+        "url": "/overseas_live2d/char107"
+      }
+    },
+    {
+      "id": 910703,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "めばる",
+      "overseasArtist": "めばる",
+      "card": "/ui/imagesets/localization/role/char_107_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_107_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_107_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_107_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_107_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_107_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char107_break",
+        "url": "/overseas_live2d/char107_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 150,
+    "def": 18,
+    "hp": 360,
+    "magicDef": 18,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 15,
+    "def": 1.8,
+    "hp": 36,
+    "magicDef": 1.8
+  },
+  "skills": [
+    {
+      "id": 61072,
+      "type": "assist"
+    },
+    {
+      "id": 61071,
+      "type": "contract"
+    },
+    {
+      "id": 61072,
+      "type": "contract"
+    },
+    {
+      "id": 510701,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95107,
+  "gifts": [
+    31014,
+    31015,
+    31016
+  ],
+  "roleEquipType": "3;8",
+  "shapeID": 1128
+}

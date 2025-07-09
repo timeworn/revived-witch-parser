@@ -1,0 +1,160 @@
+{
+  "id": 16,
+  "name": "옥타비아",
+  "title": "질풍의 검사",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40024,
+  "age": "17",
+  "artist": "ピナケス",
+  "artistOverseas": "ピナケス",
+  "backstories": [
+    "성역에서 온 소녀. 다른 귀족과는 다르게 마법보다는 검술 수행을 좋아해, 그 때문에 별종 취급을 받아 가문에서 쫓겨났다. 마법 수행은 잘 하지 않지만 마력의 혈통을 계승한 옥타비아는, 마법을 다룰 줄 모르는 다른 검사들과는 달리 검에 자연의 힘을 부여해 검술의 위력을 대폭 상승시킬 수 있다.",
+    "옥타비아 민첩한 몸과 눈부신 검술로 결투에서 패한 적이 없었고, 그녀의 명성은 금세 카스피엘의 상층부까지 전해져서, 상층부의 마법 위병대에서 그녀를 초청했으나 그녀는 거절했다.\n \n그녀는 자신의 검술을 향상하는 것 외 다른 것에는 전혀 흥미가 없었기 때문이다.",
+    "패배해본 적이 없는 질풍의 검사는 계속해서 강자에게 도전했고, 승리를 거듭하며 그녀의 강함을 증명했다.\n \n그러던 중, 옥타비아가 다른 한 여성에게 패하게 되었는데\n \n그 여성의 이름이 아카샤라는 것을 듣기 전까지는 인정하지 않는 듯했다.\n \n아카샤는 바로 그 전설의 영웅의 이름이었다.\n \n옥타비아는 유성의 검희 아카샤에게 검술을 배우기로 하고 성역을 떠나 스승님처럼 은거 생활을 시작했다.",
+    "아카샤와의 만남은 옥타비아를 뒤바꿔놨다. 과거의 옥타비아는 우등생이었으나, 마법을 배우지 않아서 가문에서 배척당하였고,\n \n자신의 노력과 얻은 성과로 다시 상층부의 인정을 받았다. \n \n백전백승을 한 옥타비아는 정상에 올라섰고, 자신에게 영광을 가져다주었던 검은 잊고 점차 오만함에 익숙해지기 시작했다.\n \n이 모든 걸 지켜보던 아카샤는 비록 이미 검을 포기하긴 했지만 옥타비아에게 검에 대한 열망을 되찾아주기로 한 것이다.\n \n두 사람의 대결엔 관중이 없었다. 아카샤가 검을 뽑지 않았지만, 옥타비아는 아카샤와 자신의 엄청난 실력 차를 금세 느낄 수 있었다. \n \n\"검이 무뎌졌구나. 네가 버려둬서 그런 거야.\"\n \n차가운 눈빛을 마주한 옥타비아의 눈앞엔 땀을 흘리며 훈련하는 모습이 그려졌다. 오로지 강해지기 위해서 계속 반복해서 검을 휘두르고 있었다.\n \n\"계속 승리만 하다 보니 오만해진 거겠지. 그 누구에게도 지지 않는다고, 검만 휘두르면 쉽게 이길 수 있을 거라고 굳게 믿고서 말이야…… 정말 중요한 건 손에 든 검인데……\"\n \n옥타비아는 일말의 망설임 없이 돌아서서 가려던 아카샤를 쫓아갔고, 제자로 받아 주기를 청해 다시 수행을 시작했다.\n \n\"지금 제게 남은 건 강해지고 싶다는 갈망뿐, 검을 휘두르는 것이 바로 존재의 의미입니다. 다른 것은 없습니다.\""
+  ],
+  "birthday": "4월 30일",
+  "height": "159cm",
+  "hobby": "검술 수행",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_002.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_002.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02.png",
+      "square": "/ui/imagesets/headphotos//hp_002.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002",
+        "url": "/overseas_live2d/char002"
+      }
+    },
+    {
+      "id": 901603,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/cards//Card_002b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_02b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_002b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_02b.png",
+      "square": "/ui/imagesets/headphotos//hp_002b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_002b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_break",
+        "url": "/overseas_live2d/char002_break"
+      }
+    },
+    {
+      "id": 901611,
+      "name": "달콤한 시간",
+      "description": "직접 구운 달콤한 케이크, 단둘이서 보내는 달콤한 시간.",
+      "artist": "ピナケス",
+      "overseasArtist": "ピナケス",
+      "card": "/ui/imagesets/localization/role/char_016_v1//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_016_v1//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_016_v1//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_016_v1//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_016_v1//round.png",
+      "square": "/ui/imagesets/localization/role/char_016_v1//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_016_v1//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char002_v1",
+        "url": "/overseas_live2d/char002_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 109,
+    "def": 28,
+    "hp": 567,
+    "magicDef": 28,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 10.9,
+    "def": 2.84,
+    "hp": 56.7,
+    "magicDef": 2.84
+  },
+  "skills": [
+    {
+      "id": 60162,
+      "type": "assist"
+    },
+    {
+      "id": 60161,
+      "type": "contract"
+    },
+    {
+      "id": 60162,
+      "type": "contract"
+    },
+    {
+      "id": 501601,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1021
+}

@@ -1,0 +1,137 @@
+{
+  "id": 12,
+  "name": "艾妮萌",
+  "title": "元素使",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40005,
+  "age": "？",
+  "artist": "snow_is",
+  "artistOverseas": "夜ノみつき",
+  "backstories": [
+    "跟随牧师一起进入时之塔的女生，自称是击退各种怪物和邪恶势力的正义使者。\n\n可以切换不同元素的魔法，性格好像也会因此发生变化。\n\n虽然看上去拥有美丽可爱的外表，但是一开口后，就会让人头疼不已。经常会说出一些爆炸性的发言，而且高高在上的态度也让人暗暗叹气。",
+    "原本是北方某地的普通女生，可是在某天却成为了祭司的转生体，继承了自然之力，能够使用各类元素魔法。\n\n由于力量过于强大，被周围的人畏惧、排挤。\n\n艾妮萌承受了本不属于她这个年纪的负面情感，这些负面情感让她越来越害怕。\n\n最终，她决定离开故乡，远离那些曾经伤害她的人。",
+    "离开故乡之地后，艾妮萌被圣教会发现。\n\n她体内强大的魔力立刻吸引了圣教会的上层人物，他们收留了她，试图将她培养成清理异端和各种禁忌的重要工具。\n\n但是，艾妮萌的性格显然不适合这些灰暗的工作。\n\n教会为了让她成为有用的工具，决定引导出她体内的火元素之力，将她原本柔弱的性格隐藏，操纵元素之力超越魔力本身的界限，成为影响她人格的精神力量。\n\n蜕变后的艾妮萌完全变了一个人，强势而且机械地执行圣教会的命令。",
+    "圣教会在得知有人前往塔内寻找禁忌的魔法，就派艾妮萌去清除那些试图染指禁忌魔法的人。\n\n但艾妮萌体内强大的魔力，对于圣教会的上层来说，也同样存在风险，于是便命令牧师费拉古德监视并限制艾妮萌的行动。\n\n艾妮萌对于自己讨厌的事物会毫不掩饰地表达厌恶之情，\n和生性寡言的德亚丝无论如何都合不来，一见面就会吵起来。\n\n不过自身并没有恶意，更像是小女生的斗气，自尊心极高。\n\n一旦觉得自己受到伤害，就会随意地发泄自己的情绪，这点让操纵她的费拉古德非常头痛。"
+  ],
+  "birthday": "6月19日",
+  "height": "155cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 901201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "snow_is",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/cards//Card_NPC_7.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_npc_7.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_npc_7.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_npc_7.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_npc_7.png",
+      "square": "/ui/imagesets/headphotos//hp_npc_7.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_npc_7.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 901202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "snow_is",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/cards//Card_NPC_7.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_npc_7.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_npc_7.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_npc_7.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_npc_7.png",
+      "square": "/ui/imagesets/headphotos//hp_npc_7.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_npc_7.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "n001",
+        "url": "/overseas_live2d/n001"
+      }
+    },
+    {
+      "id": 901203,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "snow_is",
+      "overseasArtist": "チーズパン",
+      "card": "/ui/imagesets/localization/role/char_007_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_007_break//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_007_break//longcard.png",
+      "longCard": "/ui/imagesets/localization/role/char_007_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_007_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_007_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_007_break//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 27.5
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.2
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60121,
+      "type": "assist"
+    },
+    {
+      "id": 60121,
+      "type": "contract"
+    },
+    {
+      "id": 60122,
+      "type": "contract"
+    },
+    {
+      "id": 501201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1007
+}

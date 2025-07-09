@@ -1,0 +1,140 @@
+{
+  "id": 117,
+  "name": "코리어스",
+  "title": "빛나는 샛별",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "森林长椅",
+  "artistOverseas": "森林长椅",
+  "backstories": [
+    "러카버 왕국에서 태어난 코리어스는 마법 학원의 학생이었지만, 검술에 남다른 관심을 보이곤 했다.",
+    "하루 종일 교실에 앉아 공부만 하는 게 싫었고, 이상한 질문으로 학원 선생님들을 곤란하게 하곤 해서 학원에서 코리어스를 문제아로 여겼다. 결국 코리어스는 혼자 몰래 학원을 떠났다.",
+    "코리어스가 학원을 떠났음에도 주변 사람들은 코리어스를 잊지 않았고, 별의 힘을 능숙하게 다루며 아무도 본 적 없는 두 자루의 검을 지닌 채 다시 돌아온 코리어스를 보고 놀라움을 금치 못했다. ",
+    "코리어스의 말에 따르면, 장검의 이름은 기일, 자검의 이름은 시월이라고 하는데 모두 강력한 별의 힘을 지니고 있다고 한다.\n\"마음 가는 대로라면, 난 밤하늘의 별을 만지러 갈 거야\""
+  ],
+  "birthday": "??",
+  "height": "150cm",
+  "hobby": "??",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 911701,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 911702,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_117//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_117//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117//round.png",
+      "square": "/ui/imagesets/localization/role/char_117//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117",
+        "url": "/overseas_live2d/char117"
+      }
+    },
+    {
+      "id": 911703,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "森林长椅",
+      "overseasArtist": "森林长椅",
+      "card": "/ui/imagesets/localization/role/char_117_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_117_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_117_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_117_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_117_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_117_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char117_break",
+        "url": "/overseas_live2d/char117_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 121,
+    "def": 30,
+    "hp": 630,
+    "magicDef": 30,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 12.75,
+    "def": 3,
+    "hp": 59.85,
+    "magicDef": 3,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 12.11,
+    "def": 3,
+    "hp": 66.15,
+    "magicDef": 3
+  },
+  "skills": [
+    {
+      "id": 61172,
+      "type": "assist"
+    },
+    {
+      "id": 61171,
+      "type": "contract"
+    },
+    {
+      "id": 61172,
+      "type": "contract"
+    },
+    {
+      "id": 511701,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95117,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1131
+}

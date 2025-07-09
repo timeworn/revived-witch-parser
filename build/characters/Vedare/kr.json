@@ -1,0 +1,120 @@
+{
+  "id": 6,
+  "name": "베데어",
+  "title": "정열의 춤",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40018,
+  "age": "20",
+  "artist": "影法师",
+  "artistOverseas": "影法师",
+  "backstories": [
+    "아무도 정체를 모르는 아름다운 무희로 럼니 제일의 무희로 불린다. \n귀족 평민 할 것 없이 그녀를 보고자 했다. 춤을 출 때 곁에서 나비가 함께 팔랑거리며 춤을 추는 듯하여 칭찬이 자자했다.",
+    "동작 하나하나가 고귀함을 발산하는데 아마 원래 어떤 명문 귀족 가문 출신이었기 때문일 것이다.\n하지만 정작 본인은 그 이야기를 하기 싫어하는 듯한 눈치로 누군가 언급하면 이야기를 멈추고 불쾌한 듯 가버리곤 했다. 하지만 이런 제멋대로인 성격조차도 그녀의 매력 중 하나였다.",
+    "상류 사회의 사랑을 받는 베데어는 종종 시장에서 춤을 추곤 했는데, 그 춤을 본 지나가던 행인들은 그녀의 자태에 넋을 잃곤 했다. 본인의 말에 의하면 그녀는 귀족을 싫어해서 그들의 앞에서 공연하는 것보다 새로운 도시에 가서 사람들에게 춤을 보여주는 것이 더 좋다고 한다.",
+    "춤에 대한 열정과 강자에 대한 갈망이 상당하다. 당신이 마음에 들면 그녀는 흔쾌히 당신의 팀에 합류해 아름다운 축복의 춤을 춰줄 것이다.\n하지만 그녀의 마음에 든 사람은 먼저 그녀의 초대에 응하고, 함께 춤을 추며 그녀의 춤사위를 따라갈 수 있을지 시험을 받아야 한다."
+  ],
+  "birthday": "11월 12일",
+  "height": "175cm",
+  "hobby": "춤추기, 점치기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "影法师",
+      "overseasArtist": "影法师",
+      "card": "/ui/imagesets/cards//Card_005.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_05.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_005.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_005.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_05.png",
+      "square": "/ui/imagesets/headphotos//hp_005.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_005.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "影法师",
+      "overseasArtist": "影法师",
+      "card": "/ui/imagesets/cards//Card_005.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_05.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_005.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_005.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_05.png",
+      "square": "/ui/imagesets/headphotos//hp_005.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_005.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char005",
+        "url": "/overseas_live2d/char005"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 94,
+    "def": 25,
+    "hp": 450,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9.45,
+    "def": 2.52,
+    "hp": 45,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60061,
+      "type": "assist"
+    },
+    {
+      "id": 60061,
+      "type": "contract"
+    },
+    {
+      "id": 60062,
+      "type": "contract"
+    },
+    {
+      "id": 500601,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95006,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1003
+}

@@ -1,0 +1,137 @@
+{
+  "id": 73,
+  "name": "露达",
+  "title": "星光采集者",
+  "rarity": 2,
+  "element": 3,
+  "vocation": 5,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "美和野らぐ",
+  "artistOverseas": "美和野らぐ",
+  "backstories": [
+    "洛哈伯王国出身的魔法师，$B$能够摄取星光中蕴藏的魔力，$B$将它换成治愈伤痛的魔法。",
+    "对自己的美貌有着极高的自负心，$B$把周围人的崇拜视作理所当然的事，$B$十分享受被众人追捧的感觉。",
+    "为了维持自身的魔力供给，$B$经常在夜晚时登上山顶，收集星光的魔力。$B$$B$据说这也是能够长期保持美貌的秘诀，$B$不过也有人尝试模仿她的做法，$B$无一例外，全部失败了。",
+    "非常讨厌其他人触碰到自己的肌肤，$B$根据本人的说法，自己将星光之力覆在肌肤上，$B$一旦有人触摸，就会吸走魔力，导致肌肤的衰老。$B$$B$不过这个年纪的少女，皮肤应该不会衰老吧。"
+  ],
+  "birthday": "？",
+  "height": "143cm",
+  "hobby": "？",
+  "race": "Human",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 907301,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 907302,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_073.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_073.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73.png",
+      "square": "/ui/imagesets/headphotos//hp_073.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char073",
+        "url": "/overseas_live2d/char073"
+      }
+    },
+    {
+      "id": 907303,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "美和野らぐ",
+      "overseasArtist": "美和野らぐ",
+      "card": "/ui/imagesets/cards//Card_073b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_073b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_073b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_73b.png",
+      "square": "/ui/imagesets/headphotos//hp_073b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_073b.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 21,
+    "hp": 364,
+    "magicDef": 21,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.51,
+    "def": 2.16,
+    "hp": 36.45,
+    "magicDef": 2.16
+  },
+  "skills": [
+    {
+      "id": 60732,
+      "type": "assist"
+    },
+    {
+      "id": 60731,
+      "type": "contract"
+    },
+    {
+      "id": 60732,
+      "type": "contract"
+    },
+    {
+      "id": 507301,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "5;8",
+  "shapeID": 1083
+}

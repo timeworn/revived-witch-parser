@@ -1,0 +1,140 @@
+{
+  "id": 66,
+  "name": "하은",
+  "title": "환상세계의 토끼",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40006,
+  "age": "？",
+  "artist": "Aちき",
+  "artistOverseas": "Aちき",
+  "backstories": [
+    "러카버 왕국 국경의 환상 세계에서 왔다고 전해지며, 전설 동화 속에 기록을 남겼다고 알려진 신비한 여자아이. 처음 환상 세계를 벗어났으며, 바깥세상의 모든 것에 궁금증을 가진다.",
+    "하은이라는 이름은 그녀의 본명이 아니며, 환상 동화 속의 동반자 호칭이다. 작은 체구에 귀여운 지팡이를 쥐고 있어 어린아이로 오해를 받을 때가 많지만 정작 본인은 개의치 않는 듯하다. 주변 사람들에게 항상 행운을 가져다주기 때문에 다들 그녀에게 은혜를 입었다고 생각한다.",
+    "코앞의 미지의 세계에 대한 궁금증은 커져갔지만 외부인과 만나본 적이 없는 하은은 낯선 사람 앞에서 소리조차 내지 못할 정도로 겁이 많았다.",
+    "동화 속의 이 사랑스러운 흰토끼는 사람의 모습으로 변신을 했어도 놀라면 머리에 긴 귀가 튀어나와 재빨리 담장 모서리로 숨어서 머리를 감싸며 떨곤 하였다. 하지만 요즘은 바깥세상의 첫 친구를 사귄 듯 아르디시아와 함께 노는 모습이 종종 보이곤 한다."
+  ],
+  "birthday": "1월 1일",
+  "height": "150cm",
+  "hobby": "？",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906601,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906602,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066//diamond.png",
+      "gacha": "/ui/imagesets/localization/role/char_066//gacha.png",
+      "longCard": "/ui/imagesets/localization/role/char_066//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066//round.png",
+      "square": "/ui/imagesets/localization/role/char_066//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066",
+        "url": "/overseas_live2d/char066"
+      }
+    },
+    {
+      "id": 906603,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "Aちき",
+      "overseasArtist": "Aちき",
+      "card": "/ui/imagesets/localization/role/char_066_break//card.png",
+      "diamond": "/ui/imagesets/localization/role/char_066_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/localization/role/char_066_break//longcard.png",
+      "round": "/ui/imagesets/localization/role/char_066_break//round.png",
+      "square": "/ui/imagesets/localization/role/char_066_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/localization/role/char_066_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char066_break",
+        "url": "/overseas_live2d/char066_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 90,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 9,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60661,
+      "type": "assist"
+    },
+    {
+      "id": 60661,
+      "type": "contract"
+    },
+    {
+      "id": 60662,
+      "type": "contract"
+    },
+    {
+      "id": 506601,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95066,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1090
+}

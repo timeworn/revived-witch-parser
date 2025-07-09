@@ -1,0 +1,120 @@
+{
+  "id": 3,
+  "name": "미쿠",
+  "title": "단마의 창",
+  "rarity": 2,
+  "element": 2,
+  "vocation": 2,
+  "affiliation": 40011,
+  "age": "14",
+  "artist": "朝日川日和",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "서쪽의 작은 섬 포모르 출신의 소녀, 언니 유이는 올린딕 가문의 후계자로 여섯 신관 중 한 명으로서 '혼'을 관장하였고 미쿠도 언니처럼 가문으로부터 악마를 퇴치하는 환수의 힘을 이어받았다.\n \n전에는 자기 안에 있는 강력한 마력이 두려워 계속 언니의 뒤에 숨어서는 다른 사람과 말도 못했다.\n \n그러던 그녀는 자신이 동경하는 언니를 따라 창을 무기로 삼았다.",
+    "여섯 신관의 가문 중 오직 한 명만이 신관의 직위를 이어받을 수 있다. 언니가 신관이 되자, 미쿠는 섬을 떠나 다른 지역에서 수행을 할 수밖에 없었다.\n \n다른 가문에서는 신관 자리를 두고 피비린내 나는 싸움이 벌어졌지만 미쿠는 그런 일은 꿈에도 생각한 적이 없었고, 진심으로 언니를 축복했다.\n\n그리고 수행에서 돌아온 후에 언니의 곁에서 함께 이 땅을 지키겠노라 남몰래 결심했다.",
+    "미쿠는 전투에만 관심을 가지는 언니와는 다르게 요리 연습을 하는 것을 좋아했는데, 각종 식재료를 이용해 다양한 맛있는 음식을 만들 수 있었다.\n \n본인은 그게 별로 대단한 일은 아니라고 생각하면서도 내심 언니가 자신의 노력을 인정해 주길 바랬다.\n \n낯가림이 심한데도 불구하고 의외로 남을 살뜰하게 챙겼다.\n \n말은 하지 않았지만 외모에 상당히 많은 신경을 썼는데, 줄곧 몰래 언니의 옷차림과 화장을 따라 했다고 한다.\n \n이렇게나 귀여운 미쿠지만, 올린딕 혈통으로 손쉽게 환수를 조종해 적의를 품고 있는 침입자를 찢어버리기 때문에 실력을 얕볼 수 없다.",
+    "언니를 제외하고 마음을 터놓고 함께 놀 수 있는 친구는 유타야 뿐이다.\n \n같은 요리 애호가인 두 사람은 종종 숲에서 여러 가지 식재료를 찾곤 했는데, 나무에 열린 사과와 짚더미 아래에 핀 버섯이 그들의 요리에 새로운 영감을 주곤 했다.\n \n하지만 유타야는 아직 배우는 단계라 종종 이상한 작품을 만들어내곤 했는데, 미쿠는 맛이 없어도 코를 막고서 그 실패작을 다 먹어 치우곤 했다."
+  ],
+  "birthday": "6월 2일",
+  "height": "156cm",
+  "hobby": "요리, 귀여운 옷, 언니의 모든 것",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900301,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_003.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_03.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_003.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_003.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_03.png",
+      "square": "/ui/imagesets/headphotos//hp_003.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_003.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900302,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "welchino",
+      "overseasArtist": "PixelNeko",
+      "card": "/ui/imagesets/cards//Card_003.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_03.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_003.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_003.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_03.png",
+      "square": "/ui/imagesets/headphotos//hp_003.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_003.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char003",
+        "url": "/overseas_live2d/char003"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 114,
+    "def": 27,
+    "hp": 567,
+    "magicDef": 27,
+    "speed": 25
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 11.48,
+    "def": 2.7,
+    "hp": 56.7,
+    "magicDef": 2.7,
+    "speed": 2
+  },
+  "breakStats": {
+    "attack": 11.48,
+    "def": 2.7,
+    "hp": 56.7,
+    "magicDef": 2.7
+  },
+  "skills": [
+    {
+      "id": 60031,
+      "type": "assist"
+    },
+    {
+      "id": 60031,
+      "type": "contract"
+    },
+    {
+      "id": 60032,
+      "type": "contract"
+    },
+    {
+      "id": 500301,
+      "type": "contract"
+    },
+    {
+      "id": 2002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "2;8",
+  "shapeID": 1008
+}

@@ -1,0 +1,160 @@
+{
+  "id": 30,
+  "name": "아르카나",
+  "title": "운명을 점치는 자",
+  "rarity": 3,
+  "element": 1,
+  "vocation": 4,
+  "affiliation": 40002,
+  "age": "30",
+  "artist": "PixelNeko",
+  "artistOverseas": "Pixel Neko",
+  "backstories": [
+    "원래는 도시의 길가 노점에서 점을 치며 생활했다.$B$$B$상당히 영험했던 덕인지 금세 원로원의 눈에 들게 되었고,$B$$B$원로원은 즉시 그녀를 초청해 정사와 국가의 미래를 점치도록 했다.",
+    "이 때문에 상류 사회에서 이름이 알려졌지만, 아르카나는 길거리 노점에서의 생활을 그리워했다.\n \n그녀에게는 상류 사회 사람들도 일반 고객일 뿐, 특별 대우를 할 필요가 없었고,\n \n그녀에게는 금전도 명예도 중요한 것이 아니었다.",
+    "가끔 거리의 술집에서 이 전혀 어울리지 않는 고귀한 여성을 볼 수 있다.\n \n양 뺨은 살짝 발그레해져서 술잔을 들고 당신을 술자리에 초청하며말한다.\n \n\"이번 잔을 마시면 당신도 자신의 운명에 취할 거예요.\"",
+    "이르민술은 그녀의 고향이다. 칠롤라에서 출현한 것은 그녀의 환상일 뿐,\n \n누가 그녀의 환상을 칠롤라에 투영한 것인지는 알 수 없지만 배후에 어떤 비밀이 숨어있는 것 같다."
+  ],
+  "birthday": "2월 5일",
+  "height": "169cm",
+  "hobby": "약간 쓴맛이 나는 음식, 점치기",
+  "race": "Human",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 903001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_037.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_037.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_037.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37.png",
+      "square": "/ui/imagesets/headphotos//hp_037.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 903002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_037.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_037.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_037.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37.png",
+      "square": "/ui/imagesets/headphotos//hp_037.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037",
+        "url": "/overseas_live2d/char037"
+      }
+    },
+    {
+      "id": 903003,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_037b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_037b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37b.png",
+      "square": "/ui/imagesets/headphotos//hp_037b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037_break",
+        "url": "/overseas_live2d/char037_break"
+      }
+    },
+    {
+      "id": 903011,
+      "name": "축복의 연회",
+      "description": "바쁜 하루 일과를 마친 아르카나는 단골 술집에서 간단하게 한잔했다.",
+      "artist": "观月诗乃",
+      "overseasArtist": "观月诗乃",
+      "card": "/ui/imagesets/cards//Card_037v1.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_37v1.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_037v1.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_37v1.png",
+      "square": "/ui/imagesets/headphotos//hp_037v1.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_037v1.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char037_v1",
+        "url": "/overseas_live2d/char037_v1"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60302,
+      "type": "assist"
+    },
+    {
+      "id": 60302,
+      "type": "contract"
+    },
+    {
+      "id": 60301,
+      "type": "contract"
+    },
+    {
+      "id": 503001,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95030,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1036
+}

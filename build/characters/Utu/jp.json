@@ -1,0 +1,117 @@
+{
+  "id": 5,
+  "name": "",
+  "title": "",
+  "rarity": 3,
+  "element": 4,
+  "vocation": 4,
+  "affiliation": 0,
+  "age": "？",
+  "artist": "",
+  "artistOverseas": "",
+  "backstories": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "birthday": "",
+  "height": "？",
+  "hobby": "",
+  "race": "Slime",
+  "sex": "",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 900501,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_009.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_09.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_009.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_09.png",
+      "square": "/ui/imagesets/headphotos//hp_009.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_009.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 900502,
+      "name": "",
+      "description": "",
+      "artist": "",
+      "overseasArtist": "",
+      "card": "/ui/imagesets/cards//Card_009.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_09.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_009.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_09.png",
+      "square": "/ui/imagesets/headphotos//hp_009.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_009.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 85,
+    "def": 22,
+    "hp": 427,
+    "magicDef": 22,
+    "speed": 17.5
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28,
+    "speed": 1.4
+  },
+  "breakStats": {
+    "attack": 8.55,
+    "def": 2.28,
+    "hp": 42.75,
+    "magicDef": 2.28
+  },
+  "skills": [
+    {
+      "id": 60051,
+      "type": "assist"
+    },
+    {
+      "id": 60051,
+      "type": "contract"
+    },
+    {
+      "id": 60052,
+      "type": "contract"
+    },
+    {
+      "id": 500501,
+      "type": "contract"
+    },
+    {
+      "id": 3002,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31008,
+    31009,
+    31010
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1009
+}
