@@ -1,0 +1,140 @@
+{
+  "id": 80,
+  "name": "나샤",
+  "title": "희대의 마법사",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40014,
+  "age": "？",
+  "artist": "ゆきさめ",
+  "artistOverseas": "ゆきさめ",
+  "backstories": [
+    "북쪽 끝의 홀름가드 공국의 마법사로, 이미 소실되었다고 전해지는 금기의 마법을 많이 사용하여 희대의 마녀로 불리운다. ",
+    "실제로 나샤는 악마와 계약을 맺어 강력한 마법을 사용하는 것이지만, 그 대가로 대대로 악마의 후손, 즉 홀름가드 공국의 왕실을 지켜야 하기 때문에 나샤는 '북쪽의 수호자'라고도 불리운다.",
+    "평소 왕실의 교사로 궁전을 드나들던 터라 남들과는 다르게 복장에서부터 그녀의 품위와 고귀함이 느껴진다.",
+    "나샤는 마법 연구에 항상 열중하였으며, 자신의 마법 정원에 머물면서 이미 소실된 마법들을 연구하는 경우가 많았다.\n\n릴리아 공주보다 또 다른 제자인 라 크리마를 더 좋아하는 듯이, 보석 마법을 전수해 주고 늘 라 크리마를 자신의 다과회로 끌고 다니곤 했다."
+  ],
+  "birthday": "？",
+  "height": "173cm",
+  "hobby": "마법 연구, 홍차",
+  "race": "Ancient God",
+  "sex": "여자",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908001,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/cards//Card_080.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_80.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_080.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_080.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_80.png",
+      "square": "/ui/imagesets/headphotos//hp_080.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_080.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908002,
+      "name": "기본 코스튬",
+      "description": "인형의 기본 코스튬.",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/cards//Card_080.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_80.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_080.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_080.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_80.png",
+      "square": "/ui/imagesets/headphotos//hp_080.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_080.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char080",
+        "url": "/overseas_live2d/char080"
+      }
+    },
+    {
+      "id": 908003,
+      "name": "돌파 코스튬",
+      "description": "인형의 돌파 코스튬.",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/role/char_080_break//card.png",
+      "diamond": "/ui/imagesets/role/char_080_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_080_break//longcard.png",
+      "round": "/ui/imagesets/role/char_080_break//round.png",
+      "square": "/ui/imagesets/role/char_080_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_080_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char080_break",
+        "url": "/overseas_live2d/char080_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60801,
+      "type": "assist"
+    },
+    {
+      "id": 60801,
+      "type": "contract"
+    },
+    {
+      "id": 60802,
+      "type": "contract"
+    },
+    {
+      "id": 508001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95080,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1105
+}

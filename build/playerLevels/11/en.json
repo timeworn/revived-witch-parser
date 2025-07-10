@@ -1,0 +1,11 @@
+{
+  "id": 11,
+  "exp": 1900,
+  "expTotal": 13900,
+  "charMaxLv": 170,
+  "strengthGet": 90,
+  "strengthLimit": 90,
+  "typeId": 1,
+  "unlockAfter": "Lv.12 Unlock: Main Story 3.5-1",
+  "unlockDungeon": 0
+}

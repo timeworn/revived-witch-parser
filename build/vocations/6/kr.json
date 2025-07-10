@@ -1,0 +1,15 @@
+{
+  "id": 6,
+  "name": "마도형",
+  "description": "다양한 마법으로 공격하는 인형",
+  "imgBackground": "/ui/imagesets/job//jobmodao.png",
+  "imgDescribe": "/ui/imagesets/component1/charmodao.png",
+  "imgDescribeBlue": "/ui/imagesets/component2/charmodao.png",
+  "imgDraw": "/ui/imagesets/maincontrol21/GachaMoDao.png",
+  "imgEX": "/ui/imagesets/component1/modao4.png",
+  "imgR": "/ui/imagesets/component1/modao1.png",
+  "imgSR": "/ui/imagesets/component1/modao2.png",
+  "imgSSR": "/ui/imagesets/component1/modao3.png",
+  "imgUR": "/ui/imagesets/component1/modao4.png",
+  "imgWhite": "/ui/imagesets/component1/shouhu1.png"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 18,
+  "exp": 2600,
+  "expTotal": 29300,
+  "charMaxLv": 230,
+  "strengthGet": 97,
+  "strengthLimit": 97,
+  "typeId": 1,
+  "unlockAfter": "Lv.20 Unlock: Mana Dreamland 6",
+  "unlockDungeon": 0
+}

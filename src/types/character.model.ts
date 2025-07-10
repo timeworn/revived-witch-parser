@@ -1,3 +1,56 @@
+export interface RawCharacter {
+  addatkspeed: number;
+  addattack: number;
+  adddef: number;
+  addhp: number;
+  addmagicDef: number;
+  addspeed: number;
+  assistSkillid: number;
+  atkspeed: number;
+  attack: number;
+  attackID: number;
+  breakMultiple: number[];
+  breakType: number;
+  breakaddattack: number;
+  breakadddef: number;
+  breakaddhp: number;
+  breakaddmagicDef: number;
+  comborate1: number;
+  comborate2: number;
+  contractskillid: number;
+  contractskillid2: number;
+  contractskillid3: number;
+  damagetype: number;
+  def: number;
+  defaultBuff: string;
+  element: number;
+  evolutionLimit: number;
+  evolutionType: number;
+  favourgift: number;
+  hitornothit: number;
+  hitproportion: number;
+  hp: number;
+  id: number;
+  magicDef: number;
+  name: string;
+  nameTextID: number;
+  rarity: number;
+  roleEquipType: string;
+  roleLine: string;
+  roleLineTextID: number;
+  shapeID: number;
+  silentFraps: number;
+  slackoffproportion: number;
+  speed: string;
+  titleTextID: number;
+  uniqueequipid: number;
+  uniqueequipidunlocktime: string;
+  victoryTalk: string;
+  victoryTalkTextID: number;
+  vocation: number;
+  yardskillid: number[];
+}
+
 export interface CharacterStats {
   atkspeed: number;
   attack: number;

@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "name": "마녀",
+  "description": "미지의 마법을 습득한 신비한 유형",
+  "imgBackground": "/ui/imagesets/job//jobmonv.png",
+  "imgDescribe": "/ui/imagesets/component1/charmonv.png",
+  "imgDescribeBlue": "/ui/imagesets/component2/charmonv.png",
+  "imgDraw": "/ui/imagesets/maincontrol21/GachaMoNv.png",
+  "imgEX": "/ui/imagesets/component1/monv4.png",
+  "imgR": "/ui/imagesets/component1/monv1.png",
+  "imgSR": "/ui/imagesets/component1/monv2.png",
+  "imgSSR": "/ui/imagesets/component1/monv3.png",
+  "imgUR": "/ui/imagesets/component1/monv4.png",
+  "imgWhite": "/ui/imagesets/component1/shouhu3.png"
+}

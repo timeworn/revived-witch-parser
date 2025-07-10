@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "exp": 1300,
+  "expTotal": 1100,
+  "charMaxLv": 60,
+  "strengthGet": 74,
+  "strengthLimit": 74,
+  "typeId": 1,
+  "unlockAfter": "Lv.4오픈：꿈속의 마나3",
+  "unlockDungeon": 1
+}

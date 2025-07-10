@@ -1,0 +1,11 @@
+{
+  "id": 19,
+  "exp": 2700,
+  "expTotal": 31900,
+  "charMaxLv": 230,
+  "strengthGet": 98,
+  "strengthLimit": 98,
+  "typeId": 1,
+  "unlockAfter": "Lv.20오픈：꿈속의 마나6",
+  "unlockDungeon": 0
+}

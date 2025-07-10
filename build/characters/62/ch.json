@@ -1,0 +1,117 @@
+{
+  "id": 62,
+  "name": "纳莎",
+  "title": "稀代魔法使",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40014,
+  "age": "？",
+  "artist": "ゆきさめ",
+  "artistOverseas": "ゆきさめ",
+  "backstories": [
+    "来自极北之地——霍尔姆加德公国的魔法使，被誉为“稀代的魔女”。$B$$B$能使用许多早已失传的禁忌魔法。",
+    "实际上是和恶魔定下了契约，能够使用强大的魔法。$B$$B$但是，作为代价，需要世世代代守护恶魔的后人，也就是霍尔姆加德公国的王室，因此纳莎也被称作“极北的守护使”。",
+    "平时以王族教师的身份出入王庭，因此她的品位不同于常人，从服饰上也能辨别出她的高贵身份。",
+    "她本人更热心于魔法的研究，更多时候是待在自己的魔法庭院之中，研究那些早已失传的魔法。$B$$B$\n比起公主莉莉娅，似乎更喜欢另一位弟子拉·柯莉玛，将宝石魔法悉数传授给了她，经常拉着她参加自己的茶会。"
+  ],
+  "birthday": "6月14日",
+  "height": "173cm",
+  "hobby": "魔法研究、红茶",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 906201,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 906202,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "？",
+      "overseasArtist": "？",
+      "card": "/ui/imagesets/cards//Card_034.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_34.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_034.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_34.png",
+      "square": "/ui/imagesets/headphotos//hp_034.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_034.png",
+      "pixelAnims": [],
+      "l2d": null
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 24,
+    "hp": 450,
+    "magicDef": 24,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.4,
+    "hp": 45,
+    "magicDef": 2.4
+  },
+  "skills": [
+    {
+      "id": 60621,
+      "type": "assist"
+    },
+    {
+      "id": 60621,
+      "type": "contract"
+    },
+    {
+      "id": 60622,
+      "type": "contract"
+    },
+    {
+      "id": 506201,
+      "type": "contract"
+    },
+    {
+      "id": 2003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 0,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1070
+}

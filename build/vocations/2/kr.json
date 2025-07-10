@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "파괴형",
+  "description": "정면돌파를 두려워하지 않는 인형",
+  "imgBackground": "/ui/imagesets/job//jobpohuai.png",
+  "imgDescribe": "/ui/imagesets/component1/charpohuai.png",
+  "imgDescribeBlue": "/ui/imagesets/component2/charpohuai.png",
+  "imgDraw": "/ui/imagesets/maincontrol21/GachaPoHuai.png",
+  "imgEX": "/ui/imagesets/component1/pohuai4.png",
+  "imgR": "/ui/imagesets/component1/pohuai1.png",
+  "imgSR": "/ui/imagesets/component1/pohuai2.png",
+  "imgSSR": "/ui/imagesets/component1/pohuai3.png",
+  "imgUR": "/ui/imagesets/component1/pohuai4.png",
+  "imgWhite": "/ui/imagesets/component1/pohuai3.png"
+}

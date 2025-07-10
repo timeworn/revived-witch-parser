@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "exp": 1700,
+  "expTotal": 10400,
+  "charMaxLv": 170,
+  "strengthGet": 86,
+  "strengthLimit": 86,
+  "typeId": 1,
+  "unlockAfter": "Lv.10 Unlock: Mana Dreamland 4",
+  "unlockDungeon": 0
+}

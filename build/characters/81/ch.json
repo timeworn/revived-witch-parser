@@ -1,0 +1,140 @@
+{
+  "id": 81,
+  "name": "神居",
+  "title": "真昼之子",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40001,
+  "age": "17",
+  "artist": "クレタ",
+  "artistOverseas": "クレタ",
+  "backstories": [
+    "出生在旭日之岛的一个普通村落中，从小就能和神明交流。$B$$B$随着年龄的增长，精神力量愈发强大，可以驱动念力驭使村中的一切事物。",
+    "少女的身体无法承受精神力量的巨大负担，最终，失去了对精神力的控制。$B$$B$失控的力量给村子带来了灭顶之灾，所有人的精神都被扭曲，在痛苦中死去。",
+    "失去了家乡的少女瞬间崩溃，她忘记了过去，人格具象化，分化成了两个不同的人——玉和神居。$B$$B$玉保留了少女的纯真，神居则继承了不详的精神力量。$B$$B$神居能凭借自己的意念，操纵目标，甚至将其精神完全扭曲。然而这可怕力量的背后，是早已疲惫不堪的身躯和濒临崩溃的精神。",
+    "尽管已经忘却过去，但并未缓解神居的痛苦，她的视力在渐渐衰退，意识也在一天天模糊。$B$$B$神居非常清楚，终有一天，自己的情绪会失去控制，再次给这片土地带来灾厄。$B$$B$与其这样，不如一个人静静地离开这个世界，怀着这个简单的想法，神居只带上了自己喜欢的书籍，离开了家乡。$B$$B$从此之后，再也没有人见过她，只剩下她曾经留给人们的痛苦回忆。"
+  ],
+  "birthday": "4月28日",
+  "height": "178cm",
+  "hobby": "读书",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908101,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_081.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_081.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81.png",
+      "square": "/ui/imagesets/headphotos//hp_081.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908102,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_081.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_081.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81.png",
+      "square": "/ui/imagesets/headphotos//hp_081.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char081",
+        "url": "/overseas_live2d/char081"
+      }
+    },
+    {
+      "id": 908103,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_081b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81b.png",
+      "square": "/ui/imagesets/headphotos//hp_081b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char081_break",
+        "url": "/overseas_live2d/char081_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 81,
+    "def": 25,
+    "hp": 495,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.1,
+    "def": 2.52,
+    "hp": 49.5,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.1,
+    "def": 2.52,
+    "hp": 49.5,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60811,
+      "type": "assist"
+    },
+    {
+      "id": 60811,
+      "type": "contract"
+    },
+    {
+      "id": 60812,
+      "type": "contract"
+    },
+    {
+      "id": 508101,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95081,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1068
+}

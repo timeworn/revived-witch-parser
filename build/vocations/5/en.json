@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "name": "Healer",
+  "description": "Dolls that provide recovery for the team.",
+  "imgBackground": "/ui/imagesets/job//jobhuifu.png",
+  "imgDescribe": "/ui/imagesets/component1/charhuifu.png",
+  "imgDescribeBlue": "/ui/imagesets/component2/charhuifu.png",
+  "imgDraw": "/ui/imagesets/maincontrol21/GachaHuiFu.png",
+  "imgEX": "/ui/imagesets/component1/huifu4.png",
+  "imgR": "/ui/imagesets/component1/huifu1.png",
+  "imgSR": "/ui/imagesets/component1/huifu2.png",
+  "imgSSR": "/ui/imagesets/component1/huifu3.png",
+  "imgUR": "/ui/imagesets/component1/huifu4.png",
+  "imgWhite": "/ui/imagesets/component1/shouhu3.png"
+}

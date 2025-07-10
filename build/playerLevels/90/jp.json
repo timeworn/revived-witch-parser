@@ -1,0 +1,11 @@
+{
+  "id": 90,
+  "exp": 76800,
+  "expTotal": 1953600,
+  "charMaxLv": 300,
+  "strengthGet": 125,
+  "strengthLimit": 125,
+  "typeId": 0,
+  "unlockAfter": null,
+  "unlockDungeon": 0
+}

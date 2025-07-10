@@ -1,4 +1,4 @@
-import { Localizer } from "src/utils/localizer";
+import { Localizer } from "src/utils/Localizer";
 import {
   Character,
   CharacterBuildAppearance,
@@ -7,16 +7,17 @@ import {
   CharacterBuildHandbook,
   CharacterBuildOther,
   CharacterSkin,
+  RawCharacter,
 } from "src/types/character.model";
-import { RawCharacter } from "src/types/character.type";
 import { logger } from "src/utils/logger";
 import roleConfigJson from "src/data/role/roleconfig.json";
-import { getAssetImage, getAssetName, getL2DImage } from "src/utils/assetUtils";
+import { getAssetImage, getAssetName, getL2DImage } from "src/utils/utils";
 import cCardRoleConfigJson from "src/data/handbook/ccardroleconfig_handbook.json";
 import cRoleSkinJson from "src/data/role/croleskin.json";
 import cSkinJson from "src/data/role/cskin.json";
 import nNpcShapeJson from "src/data/npc/cnpcshape.json";
 import cFavourPresentTypeJson from "src/data/role/cfavourpresenttype.json";
+import { BaseParser } from "src/utils/BaseParser";
 
 // Override specific character names
 const NAMES: Record<string, string> = {
@@ -50,16 +51,14 @@ const getCardRoleConfig = (
   return cCardRoleConfigJson.Data[id as unknown as keyof typeof cCardRoleConfigJson.Data];
 };
 
-export class CharacterParser {
-  private localizer: Localizer;
-
-  constructor(localizer: Localizer) {
-    this.localizer = localizer;
+export class CharacterParser extends BaseParser<RawCharacter, Character> {
+  static getRaw(id: number): RawCharacter | undefined {
+    const raws = CharacterParser.getRaws();
+    return raws.find((character) => character.id === id);
   }
 
-  parse(): Character[] {
-    const rawCharacters = CharacterParser.getRawCharacters();
-    return rawCharacters.map((raw) => this.transform(raw));
+  static getRaws(): RawCharacter[] {
+    return Object.values(roleConfigJson.Data);
   }
 
   transform(raw: RawCharacter): Character {
@@ -71,14 +70,6 @@ export class CharacterParser {
       ...this.getCombat(raw),
       ...this.getOther(raw),
     };
-  }
-
-  setLocalizer(localizer: Localizer): void {
-    this.localizer = localizer;
-  }
-
-  static getRawCharacters(): RawCharacter[] {
-    return Object.values(roleConfigJson.Data);
   }
 
   private getBase(raw: RawCharacter): CharacterBuildBase {

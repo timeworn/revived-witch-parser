@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "破坏型",
+  "description": "不畏惧正面对抗的人偶",
+  "imgBackground": "/ui/imagesets/job//jobpohuai.png",
+  "imgDescribe": "/ui/imagesets/component1/charpohuai.png",
+  "imgDescribeBlue": "/ui/imagesets/component2/charpohuai.png",
+  "imgDraw": "/ui/imagesets/maincontrol21/GachaPoHuai.png",
+  "imgEX": "/ui/imagesets/component1/pohuai4.png",
+  "imgR": "/ui/imagesets/component1/pohuai1.png",
+  "imgSR": "/ui/imagesets/component1/pohuai2.png",
+  "imgSSR": "/ui/imagesets/component1/pohuai3.png",
+  "imgUR": "/ui/imagesets/component1/pohuai4.png",
+  "imgWhite": "/ui/imagesets/component1/pohuai3.png"
+}

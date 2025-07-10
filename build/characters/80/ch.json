@@ -1,0 +1,140 @@
+{
+  "id": 80,
+  "name": "纳莎",
+  "title": "稀代魔法使",
+  "rarity": 4,
+  "element": 1,
+  "vocation": 6,
+  "affiliation": 40014,
+  "age": "？",
+  "artist": "ゆきさめ",
+  "artistOverseas": "ゆきさめ",
+  "backstories": [
+    "来自极北之地——霍尔姆加德公国的魔法使，被誉为“稀代的魔女”。$B$$B$能使用许多早已失传的禁忌魔法。",
+    "实际上是和恶魔定下了契约，能够使用强大的魔法。$B$$B$但是，作为代价，需要世世代代守护恶魔的后人，也就是霍尔姆加德公国的王室，因此纳莎也被称作“极北的守护使”。",
+    "平时以王族教师的身份出入王庭，因此她的品位不同于常人，从服饰上也能辨别出她的高贵身份。",
+    "她本人更热心于魔法的研究，更多时候是待在自己的魔法庭院之中，研究那些早已失传的魔法。$B$$B$\n比起公主莉莉娅，似乎更喜欢另一位弟子拉·柯莉玛，将宝石魔法悉数传授给了她，经常拉着她参加自己的茶会。"
+  ],
+  "birthday": "6月14日",
+  "height": "173cm",
+  "hobby": "魔法研究、红茶",
+  "race": "Ancient God",
+  "sex": "女",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908001,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/cards//Card_080.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_80.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_080.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_080.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_80.png",
+      "square": "/ui/imagesets/headphotos//hp_080.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_080.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908002,
+      "name": "原始造型",
+      "description": "人偶默认造型。",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/cards//Card_080.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_80.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_080.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_080.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_80.png",
+      "square": "/ui/imagesets/headphotos//hp_080.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_080.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char080",
+        "url": "/overseas_live2d/char080"
+      }
+    },
+    {
+      "id": 908003,
+      "name": "突破造型",
+      "description": "人偶突破造型。",
+      "artist": "ゆきさめ",
+      "overseasArtist": "ゆきさめ",
+      "card": "/ui/imagesets/role/char_080_break//card.png",
+      "diamond": "/ui/imagesets/role/char_080_break//diamond.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/role/char_080_break//longcard.png",
+      "round": "/ui/imagesets/role/char_080_break//round.png",
+      "square": "/ui/imagesets/role/char_080_break//square.png",
+      "stone": null,
+      "team": "/ui/imagesets/role/char_080_break//team.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char080_break",
+        "url": "/overseas_live2d/char080_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 2,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 135,
+    "def": 25,
+    "hp": 427,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 13.5,
+    "def": 2.52,
+    "hp": 42.75,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60801,
+      "type": "assist"
+    },
+    {
+      "id": 60801,
+      "type": "contract"
+    },
+    {
+      "id": 60802,
+      "type": "contract"
+    },
+    {
+      "id": 508001,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95080,
+  "gifts": [
+    31011,
+    31012,
+    31013
+  ],
+  "roleEquipType": "6;8",
+  "shapeID": 1105
+}

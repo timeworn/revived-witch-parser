@@ -1,0 +1,140 @@
+{
+  "id": 81,
+  "name": "Kamui",
+  "title": "Child of Noon",
+  "rarity": 4,
+  "element": 2,
+  "vocation": 4,
+  "affiliation": 40001,
+  "age": "17",
+  "artist": "クレタ",
+  "artistOverseas": "クレタ",
+  "backstories": [
+    "Born in an obscure village on Sunrise Island, Kamui could communicate with the god when she was little.$B$$B$As she got older, she has acquired psychic power strong enough to control everything around her with her mind.",
+    "But her power took a heavy toll on her body.$B$$B$Consequently, she lost control of it and wreaked havoc on her village, all the villagers dying in pain with their minds distorted.",
+    "Having lost her home, the girl suffered a mental breakdown that caused her to forget her past and gave her schizophrenia. And now she has two personalities living inside her—Tama and Kamui.$B$$B$Tama stays an innocent, harmless girl, while Kamui has inherited the ominous psychic power.$B$$B$Kamui can use her mind to manipulate people and even warp their psyches. But this dreaded power comes at the cost of a weary body and a nearly broken spirit.",
+    "The loss of memory did little to relieve her pain. Her vision was declining and her mind was growing fuzzy.$B$$B$She knew full well that one day she would lose control of her emotions and bring yet another disaster to this land.$B$$B$Instead of letting that happen, she thought she might as well make herself disappear, quietly. So she took her favorite books and left her village.$B$$B$No one has seen her ever since, and the only evidence of her existence is the painful memories she has left people with."
+  ],
+  "birthday": "Apr. 28",
+  "height": "178cm",
+  "hobby": "Reading",
+  "race": "Ancient God",
+  "sex": "Female",
+  "unlockCondition": [],
+  "weight": "？",
+  "skins": [
+    {
+      "id": 908101,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_081.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_081.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81.png",
+      "square": "/ui/imagesets/headphotos//hp_081.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081.png",
+      "pixelAnims": [],
+      "l2d": null
+    },
+    {
+      "id": 908102,
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81.png",
+      "gacha": "/ui/imagesets/headphotos//hpg_081.png",
+      "longCard": "/ui/imagesets/headphotos//hpl_081.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81.png",
+      "square": "/ui/imagesets/headphotos//hp_081.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char081",
+        "url": "/overseas_live2d/char081"
+      }
+    },
+    {
+      "id": 908103,
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "クレタ",
+      "overseasArtist": "クレタ",
+      "card": "/ui/imagesets/cards//Card_081b.png",
+      "diamond": "/ui/imagesets/headphotos//headphoto_81b.png",
+      "gacha": null,
+      "longCard": "/ui/imagesets/headphotos//hpl_081b.png",
+      "round": "/ui/imagesets/headphotos//BattleChar_81b.png",
+      "square": "/ui/imagesets/headphotos//hp_081b.png",
+      "stone": null,
+      "team": "/ui/imagesets/headphotos//hpc_081b.png",
+      "pixelAnims": [],
+      "l2d": {
+        "name": "char081_break",
+        "url": "/overseas_live2d/char081_break"
+      }
+    }
+  ],
+  "roleLine": null,
+  "victoryTalk": null,
+  "damageType": 1,
+  "evolutionLimit": 3,
+  "baseStats": {
+    "atkspeed": 100,
+    "attack": 81,
+    "def": 25,
+    "hp": 495,
+    "magicDef": 25,
+    "speed": 30
+  },
+  "growthStats": {
+    "atkspeed": 0,
+    "attack": 8.1,
+    "def": 2.52,
+    "hp": 49.5,
+    "magicDef": 2.52,
+    "speed": 2.4
+  },
+  "breakStats": {
+    "attack": 8.1,
+    "def": 2.52,
+    "hp": 49.5,
+    "magicDef": 2.52
+  },
+  "skills": [
+    {
+      "id": 60811,
+      "type": "assist"
+    },
+    {
+      "id": 60811,
+      "type": "contract"
+    },
+    {
+      "id": 60812,
+      "type": "contract"
+    },
+    {
+      "id": 508101,
+      "type": "contract"
+    },
+    {
+      "id": 1003,
+      "type": "yard"
+    }
+  ],
+  "uniqueEquipment": 95081,
+  "gifts": [
+    31017,
+    31018,
+    31019
+  ],
+  "roleEquipType": "4;8",
+  "shapeID": 1068
+}
