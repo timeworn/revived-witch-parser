@@ -1,0 +1,13 @@
+{
+  "id": 10002,
+  "name": "이르민술의 방으로 이동",
+  "description": "거울 조각을 다 모았다. $B$<color=#82C65D>이르민술의 방</color>으로 이동하면 의혹을 해소할 수 있다.",
+  "shortDescription": "이르민술의 방으로 이동",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

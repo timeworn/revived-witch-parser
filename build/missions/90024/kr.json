@@ -1,0 +1,13 @@
+{
+  "id": 90024,
+  "name": null,
+  "description": "파괴된 지역 2회 클리어",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 2000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 150007,
+  "name": "의기양양",
+  "description": "기력 30 소모",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 40084,
+  "name": "",
+  "description": "",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 37,
+  "badgeId": 18,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": ""
+}

@@ -1,0 +1,13 @@
+{
+  "id": 50002,
+  "name": "Road of Adventure",
+  "description": "Clear Main Story stage 1 time",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

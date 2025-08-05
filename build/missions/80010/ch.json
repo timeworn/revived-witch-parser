@@ -1,0 +1,13 @@
+{
+  "id": 80010,
+  "name": "萤火收集",
+  "description": "在庭院收取1000单位的白光",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 15
+    }
+  ]
+}

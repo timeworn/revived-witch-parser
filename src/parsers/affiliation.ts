@@ -9,8 +9,8 @@ export class AffiliationParser extends BaseParser<RawAffiliation, Affiliation> {
   }
 
   static getRaw(id: number): RawAffiliation | undefined {
-    const rawCs = AffiliationParser.getRaws();
-    return rawCs.find((character) => character.id === id);
+    const raws = AffiliationParser.getRaws();
+    return raws.find((raw) => raw.id === id);
   }
 
   transform(raw: RawAffiliation): Affiliation {

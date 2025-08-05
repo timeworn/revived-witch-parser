@@ -1,0 +1,13 @@
+{
+  "id": 80003,
+  "name": "人偶强化",
+  "description": "提升任意人偶的强化等级5次",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

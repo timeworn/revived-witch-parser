@@ -1,0 +1,13 @@
+{
+  "id": 20003,
+  "name": "Precious Things: Armor",
+  "description": "The merchant's favorite armor is at this shop in the market at the <color=#82C65D>Commercial Area Entry</color>. Retrieve his armor.",
+  "shortDescription": "Retrieve the merchant's armor",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

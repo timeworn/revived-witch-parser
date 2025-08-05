@@ -1,0 +1,17 @@
+{
+  "id": 40038,
+  "name": "Fashion Icon",
+  "description": "Obtain 10 different Doll Costumes",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 19,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

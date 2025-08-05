@@ -1,0 +1,13 @@
+{
+  "id": 100009,
+  "name": "突破试炼",
+  "description": "完成30次装备副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 6
+    }
+  ]
+}

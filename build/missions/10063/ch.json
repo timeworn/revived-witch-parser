@@ -1,0 +1,13 @@
+{
+  "id": 10063,
+  "name": "托奈兰的心意",
+  "description": "把托奈兰亲手制作的疗伤药交给<color=#82C65D>奈茉茜</color>。",
+  "shortDescription": "把托奈兰制作的疗伤药交给奈茉茜",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

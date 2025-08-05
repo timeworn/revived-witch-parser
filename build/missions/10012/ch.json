@@ -1,0 +1,13 @@
+{
+  "id": 10012,
+  "name": "蛙与蝶·魔杖",
+  "description": "费吉亚的<color=#82C65D>魔杖</color>同样不见了，还真是粗心啊，在探索途中帮他找找看吧。",
+  "shortDescription": "帮青蛙骑士找到魔杖",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

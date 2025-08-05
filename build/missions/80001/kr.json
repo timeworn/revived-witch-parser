@@ -1,0 +1,13 @@
+{
+  "id": 80001,
+  "name": "승리의 여신",
+  "description": "废弃",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

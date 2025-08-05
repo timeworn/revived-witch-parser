@@ -1,0 +1,13 @@
+{
+  "id": 150015,
+  "name": "平行时空",
+  "description": "完成1次剧情关卡",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

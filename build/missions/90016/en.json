@@ -1,0 +1,13 @@
+{
+  "id": 90016,
+  "name": null,
+  "description": "Clear 4 Bosses in Evil Return",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10063,
+  "name": "Tuonel's Kindness",
+  "description": "Give <color=#82C65D>Nemesi</color> the medicine made by Tuonel.",
+  "shortDescription": "Give Nemesi the medicine made by Tuonel",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 100005,
+  "name": "Strong Stamina",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 4
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1358,
+  "cueName": "BGM_Scene_SpringFestival",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_SpringFestival.ogg",
+  "volume": 50,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic06_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 50
+    }
+  ]
+}

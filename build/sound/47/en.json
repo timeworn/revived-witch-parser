@@ -1,0 +1,17 @@
+{
+  "id": 1220,
+  "cueName": "BGM_Battle_DrVaspa",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_DrVaspa.ogg",
+  "volume": 100,
+  "name": "Through the Maelstrom",
+  "album": "Chrono Tower",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

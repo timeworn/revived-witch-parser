@@ -1,0 +1,13 @@
+{
+  "id": 100019,
+  "name": "Chronospace Breach",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 12
+    }
+  ]
+}

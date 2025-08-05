@@ -1,0 +1,17 @@
+{
+  "id": 40050,
+  "name": "The Heart of Friendship",
+  "description": "Obtain 200 Friendship Points",
+  "missionType": 4,
+  "tabId": 4,
+  "groupId": 24,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 2-8"
+}

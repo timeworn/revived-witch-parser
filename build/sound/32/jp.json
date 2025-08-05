@@ -1,0 +1,17 @@
+{
+  "id": 1176,
+  "cueName": "32Djinn and Giants",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/32Djinn and Giants.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic04_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 900000
+    }
+  ]
+}

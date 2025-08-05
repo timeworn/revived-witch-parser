@@ -1,0 +1,13 @@
+{
+  "id": 10039,
+  "name": "Catch Up with Cersivey",
+  "description": "Catch up with Cersivey and find out what the source of the Geothermy is.",
+  "shortDescription": "Go deep underground",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

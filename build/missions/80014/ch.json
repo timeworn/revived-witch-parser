@@ -1,0 +1,13 @@
+{
+  "id": 80014,
+  "name": "胜利女神",
+  "description": "累计战斗胜利50次",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 180019,
+  "name": "몬스터 캔디 1000개 소모",
+  "description": "몬스터 캔디 1000개 소모",
+  "shortDescription": null,
+  "missionType": 18,
+  "rewards": [
+    {
+      "id": 35075,
+      "quantity": 30
+    }
+  ]
+}

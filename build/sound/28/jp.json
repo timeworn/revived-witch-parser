@@ -1,0 +1,17 @@
+{
+  "id": 1172,
+  "cueName": "28Before the Storm",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/28Before the Storm.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 800000
+    }
+  ]
+}

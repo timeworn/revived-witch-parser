@@ -1,0 +1,13 @@
+{
+  "id": 10050,
+  "name": "The Preacher's Conspiracy",
+  "description": "The Preacher has gone to another world with the forbidden magic. Find out what he's been plotting.",
+  "shortDescription": "Investigate and foil the Preacher's conspiracy",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

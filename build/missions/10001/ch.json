@@ -1,0 +1,13 @@
+{
+  "id": 10001,
+  "name": "镜片收集",
+  "description": "伊敏瑟伦之镜的碎片散落在<color=#82C65D>塔内</color>，收集它们似乎会发生某些奇异的事情。",
+  "shortDescription": "收集伊敏瑟伦之镜的碎片",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 4000
+    }
+  ]
+}

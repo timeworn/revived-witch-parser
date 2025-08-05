@@ -1,0 +1,13 @@
+{
+  "id": 10034,
+  "name": "Investigate Foothills Hunting Grounds",
+  "description": "The magic in the Foothills Hunting Grounds is the strongest. Maybe you can find the entrance of the Boundary there.",
+  "shortDescription": "To the Foothills Hunting Grounds",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10032,
+  "name": "눈보라의 원인",
+  "description": "계속 탐색하며 스반흐비트가 눈보라를 일으킨 이유를 찾아야 한다.",
+  "shortDescription": "스네구로치카 계속 탐색하기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

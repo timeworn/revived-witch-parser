@@ -1,0 +1,7 @@
+{
+  "id": 1206,
+  "cueName": "SOUND_environment_DrawSword",
+  "cueSheet": "main:SE/environment",
+  "url": "/audio/SE/environment/SOUND_environment_DrawSword.ogg",
+  "volume": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": 150012,
+  "name": "돌파 재료",
+  "description": "돌파 재료 스테이지 3회 완료",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

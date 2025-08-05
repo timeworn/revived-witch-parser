@@ -1,0 +1,8 @@
+{
+  "id": 27,
+  "name": "探索未知",
+  "description": "累计完成关卡100次",
+  "group": "探索未知",
+  "image": "/ui/imagesets/achieve//m3.png",
+  "colorId": 1
+}

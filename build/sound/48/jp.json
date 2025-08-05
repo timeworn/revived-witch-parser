@@ -1,0 +1,17 @@
+{
+  "id": 1259,
+  "cueName": "BGM_Role_Flare",
+  "cueSheet": "main:BGM/character",
+  "url": "/audio/BGM/character/BGM_Role_Flare.ogg",
+  "volume": 100,
+  "name": "イルミンズールの昔",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

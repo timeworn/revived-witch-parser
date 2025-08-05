@@ -1,0 +1,13 @@
+{
+  "id": 190028,
+  "name": "完成30次突破副本",
+  "description": "完成30次突破副本",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 30
+    }
+  ]
+}

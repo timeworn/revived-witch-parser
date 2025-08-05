@@ -1,0 +1,13 @@
+{
+  "id": 10008,
+  "name": "개구리와 나비·조우",
+  "description": "계속 전진해 숲의 생물 변이의 원인을 찾아야 한다.",
+  "shortDescription": "생물의 변이 원인 찾기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

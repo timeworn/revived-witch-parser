@@ -1,0 +1,21 @@
+{
+  "id": 40013,
+  "name": "魔物猎手",
+  "description": "累计击败2000只魔物",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 9,
+  "badgeId": 9,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

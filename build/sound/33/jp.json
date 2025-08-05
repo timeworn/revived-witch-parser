@@ -1,0 +1,17 @@
+{
+  "id": 1177,
+  "cueName": "33Heart of Fire",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/33Heart of Fire.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic04_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1000000
+    }
+  ]
+}

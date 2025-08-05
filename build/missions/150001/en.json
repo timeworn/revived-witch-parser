@@ -1,0 +1,13 @@
+{
+  "id": 150001,
+  "name": "Daily Login",
+  "description": "Log in daily",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 10
+    }
+  ]
+}

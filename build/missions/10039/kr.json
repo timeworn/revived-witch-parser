@@ -1,0 +1,13 @@
+{
+  "id": 10039,
+  "name": "스반흐비트 쫓아가기",
+  "description": "스반흐비트를 쫓아가 지열의 근원이 무엇인지 살펴보자.",
+  "shortDescription": "지하 깊은 곳으로 이동",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10019,
+  "name": "向上探索时之塔",
+  "description": "狄璐卡发现一个神秘的女性进入了时之塔高层，继续向上探索时之塔吧。",
+  "shortDescription": "危险的探索",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

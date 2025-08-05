@@ -1,0 +1,13 @@
+{
+  "id": 150014,
+  "name": "Doll Equipment",
+  "description": "Clear Doll Equipment stages 3 times",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

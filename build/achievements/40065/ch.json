@@ -1,0 +1,17 @@
+{
+  "id": 40065,
+  "name": "异界之镜",
+  "description": "累计在庭院探索异界之镜20次",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 29,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "通关剧情2-4解锁"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "스페셜 액자",
+  "description": "<깨어난 마녀> CBT 참가 한정",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame3.png",
+  "order": 2,
+  "unlockCondition": null
+}

@@ -1,0 +1,8 @@
+{
+  "id": 30,
+  "name": "突破上限",
+  "description": "任意3个人偶达到突破3阶",
+  "group": "突破上限",
+  "image": "/ui/imagesets/achieve//j3.png",
+  "colorId": 1
+}

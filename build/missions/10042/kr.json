@@ -1,0 +1,13 @@
+{
+  "id": 10042,
+  "name": "신마라 저지",
+  "description": "신마라를 처치하고, 반드시 파멸하게 되어 있는 스네구로치카의 운명을 뒤집어라.",
+  "shortDescription": "스네구로치카의 파멸 막기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ]
+}

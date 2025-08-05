@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "기본 액자",
+  "description": "기본 획득\n기본 액자",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame.png",
+  "order": 1,
+  "unlockCondition": null
+}

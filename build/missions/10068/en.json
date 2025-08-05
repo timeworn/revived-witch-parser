@@ -1,0 +1,13 @@
+{
+  "id": 10068,
+  "name": "Explore the Upper Domain",
+  "description": "You're finally in the Upper Domain of Cassiel. Explore around.",
+  "shortDescription": "Explore the Upper Domain of Cassiel",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 10
+    }
+  ]
+}

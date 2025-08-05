@@ -1,0 +1,13 @@
+{
+  "id": 90069,
+  "name": null,
+  "description": "임의의 1개 인형 돌파 1레벨 달성",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

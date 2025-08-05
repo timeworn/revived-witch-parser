@@ -1,0 +1,13 @@
+{
+  "id": 150005,
+  "name": "장미 수여",
+  "description": "임의의 인형에게 선물 1회 증정",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

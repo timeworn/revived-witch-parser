@@ -1,0 +1,13 @@
+{
+  "id": 20010,
+  "name": "教训偷粮贼",
+  "description": "村民的粮食被狡猾的狐狸偷走了，帮他找到粮食，教训那些狐狸。",
+  "shortDescription": "教训偷走粮食的狐狸",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40007,
+  "name": "Chest Gatherer",
+  "description": "Open 100 Chests",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 7,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

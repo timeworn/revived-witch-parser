@@ -1,0 +1,17 @@
+{
+  "id": 40042,
+  "name": "Enchant Equipment",
+  "description": "Enchant equipment 1 time",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 21,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 2-10"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 90092,
+  "name": null,
+  "description": "Clear Chronospace Breach 15 times",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 31037,
+      "quantity": 1
+    }
+  ]
+}

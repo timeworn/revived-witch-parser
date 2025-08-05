@@ -1,0 +1,13 @@
+{
+  "id": 10067,
+  "name": "Clear the upper Checkpoint",
+  "description": "The alliance has arrived at the entrance of the Upper Domain of Cassiel. Follow them in.",
+  "shortDescription": "Enter the Upper Domain of Cassiel",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 50000
+    }
+  ]
+}

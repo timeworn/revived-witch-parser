@@ -1,0 +1,13 @@
+{
+  "id": 10019,
+  "name": "Explore the Chrono Tower",
+  "description": "Deluca noticed that a mysterious girl had entered the upper level of the Chrono Tower. Continue exploring up the Tower.",
+  "shortDescription": "Dangerous Exploration",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

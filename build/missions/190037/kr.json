@@ -1,0 +1,13 @@
+{
+  "id": 190037,
+  "name": "기력 1000 소모",
+  "description": "기력 1000 소모",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 40
+    }
+  ]
+}

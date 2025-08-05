@@ -1,0 +1,13 @@
+{
+  "id": 190010,
+  "name": "异界之镜探索完成15次",
+  "description": "异界之镜探索完成15次",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35065,
+      "quantity": 25
+    }
+  ]
+}

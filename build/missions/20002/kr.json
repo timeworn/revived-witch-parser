@@ -1,0 +1,13 @@
+{
+  "id": 20002,
+  "name": "쏠레이의 악보·찾기",
+  "description": "쏠레이는 소중한 악보를 되찾고자 한다. <color=#82C65D>경계 주둔지 외곽</color>에서 찾아본 후 <color=#82C65D>경계 주둔지</color>에서 그를 찾아라.",
+  "shortDescription": "쏠레이의 악보 찾아다 주기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

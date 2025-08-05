@@ -1,0 +1,13 @@
+{
+  "id": 10072,
+  "name": "关闭第三个魔法装置",
+  "description": "协助反抗同盟找到并关闭第三个魔法装置。",
+  "shortDescription": "寻找隐藏的第三个魔法装置",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

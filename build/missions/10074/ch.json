@@ -1,0 +1,13 @@
+{
+  "id": 10074,
+  "name": "阻止贵族官员的计划",
+  "description": "贵族官员打算去洛菲尔平原取走引火石，赶在他前面到达仓库，阻止他的计划。",
+  "shortDescription": "前往仓库取走引火石",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 50000
+    }
+  ]
+}

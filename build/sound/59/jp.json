@@ -1,0 +1,17 @@
+{
+  "id": 1324,
+  "cueName": "BGM_Scene_SeaIsland_Day",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_SeaIsland_Day.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic06_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 50
+    }
+  ]
+}

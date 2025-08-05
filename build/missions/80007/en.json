@@ -1,0 +1,13 @@
+{
+  "id": 80007,
+  "name": "Ascension Material",
+  "description": "Clear Ascension Material stage 3 times",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 31037,
+      "quantity": 1
+    }
+  ]
+}

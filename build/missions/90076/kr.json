@@ -1,0 +1,13 @@
+{
+  "id": 90076,
+  "name": null,
+  "description": "임의의 6개 인형 2스킬 오픈",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74003,
+      "quantity": 20
+    }
+  ]
+}

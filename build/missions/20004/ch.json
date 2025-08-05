@@ -1,0 +1,13 @@
+{
+  "id": 20004,
+  "name": "索雷优的曲谱·异样",
+  "description": "得到了曲谱的索雷优似乎有些奇怪，追上去看看到底发生了什么。",
+  "shortDescription": "查看索雷优的状况",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

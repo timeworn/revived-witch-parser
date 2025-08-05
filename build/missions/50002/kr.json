@@ -1,0 +1,13 @@
+{
+  "id": 50002,
+  "name": "모험의 여정",
+  "description": "메인 스테이지 1회 클리어",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

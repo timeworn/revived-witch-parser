@@ -1,0 +1,13 @@
+{
+  "id": 10008,
+  "name": "Frog and Butterfly: Encounter",
+  "description": "Proceed and investigate the cause of the mutations of creatures in the forest.",
+  "shortDescription": "Investigate the cause of the mutations",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

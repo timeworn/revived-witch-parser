@@ -1,0 +1,13 @@
+{
+  "id": 10066,
+  "name": "未来的期待",
+  "description": "谢波契卡的混乱已经被修正，回到时之塔，等待你的将是新的冒险。",
+  "shortDescription": "回到时之塔内",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10001,
+  "name": "거울 조각 수집",
+  "description": "이르민술의 거울 조각이 <color=#82C65D>타워 안</color>에 흩어져 있다. 조각을 다 모으면 신기한 일이 일어날 것 같다.",
+  "shortDescription": "이르민술의 거울 조각 수집",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 4000
+    }
+  ]
+}

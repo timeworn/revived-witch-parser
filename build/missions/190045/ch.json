@@ -1,0 +1,13 @@
+{
+  "id": 190045,
+  "name": "完成30次时空裂隙",
+  "description": "完成30次时空裂隙",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 30
+    }
+  ]
+}

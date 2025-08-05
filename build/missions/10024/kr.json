@@ -1,0 +1,13 @@
+{
+  "id": 10024,
+  "name": "사냥 충돌·정보 전달",
+  "description": "다친 헌터를 도와 메세지를 <color=#82C65D>에기로스</color>에게 전하라.",
+  "shortDescription": "헌터의 메세지를 에기로스에게 전달하기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

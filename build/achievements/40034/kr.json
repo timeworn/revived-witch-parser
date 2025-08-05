@@ -1,0 +1,21 @@
+{
+  "id": 40034,
+  "name": "일심동체",
+  "description": "임의의 인형 인연 레벨 20 도달",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 17,
+  "badgeId": 6,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "스토리 1-2 클리어 시 오픈"
+}

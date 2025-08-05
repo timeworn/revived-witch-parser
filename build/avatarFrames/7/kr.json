@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "name": "바캉스 어드벤처 액자",
+  "description": "바캉스 어드벤처를 기념하는 액자",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame8.png",
+  "order": 7,
+  "unlockCondition": null
+}

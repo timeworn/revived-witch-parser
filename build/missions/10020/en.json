@@ -1,0 +1,13 @@
+{
+  "id": 10020,
+  "name": "To Snegurochka",
+  "description": "Snegurochka witnessed the end of the War of Protectors. Perhaps you will find your answer there.",
+  "shortDescription": "To Snegurochka",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

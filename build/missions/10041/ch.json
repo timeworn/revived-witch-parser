@@ -1,0 +1,13 @@
+{
+  "id": 10041,
+  "name": "制作寒霜",
+  "description": "从团长处得到了冰之晶石，加上之前从瑟希薇处获得的不融寒冰，接下来只需要找到拉·柯莉玛了。据说她在<color=#82C65D>城堡前段</color>。",
+  "shortDescription": "找到拉·柯莉玛",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

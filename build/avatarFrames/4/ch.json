@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "星辰幻镜",
+  "description": "通关星辰幻镜\n愿你能一直战胜自我",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame5.png",
+  "order": 4,
+  "unlockCondition": null
+}

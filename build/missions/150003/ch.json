@@ -1,0 +1,13 @@
+{
+  "id": 150003,
+  "name": "魔女小屋",
+  "description": "魔女小屋中入住1次人偶",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

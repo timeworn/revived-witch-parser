@@ -1,0 +1,13 @@
+{
+  "id": 50009,
+  "name": "시련 돌파",
+  "description": "돌파 던전 2회 완료",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

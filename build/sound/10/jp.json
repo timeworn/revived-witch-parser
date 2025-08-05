@@ -1,0 +1,17 @@
+{
+  "id": 1154,
+  "cueName": "10Spellbooks",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/10Spellbooks.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 100000
+    }
+  ]
+}

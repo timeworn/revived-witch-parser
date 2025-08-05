@@ -1,0 +1,13 @@
+{
+  "id": 180014,
+  "name": "领取每日补给2次",
+  "description": "领取每日补给2次",
+  "shortDescription": null,
+  "missionType": 18,
+  "rewards": [
+    {
+      "id": 35075,
+      "quantity": 10
+    }
+  ]
+}

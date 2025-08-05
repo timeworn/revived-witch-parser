@@ -1,0 +1,17 @@
+{
+  "id": 1169,
+  "cueName": "25Ice Goddess",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/25Ice Goddess.ogg",
+  "volume": 100,
+  "name": "Ice Goddess",
+  "album": "Snegurochka",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 600000
+    }
+  ]
+}

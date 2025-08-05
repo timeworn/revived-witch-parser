@@ -1,0 +1,13 @@
+{
+  "id": 190020,
+  "name": "在时空裂隙中获胜3次",
+  "description": "在时空裂隙中获胜3次",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35065,
+      "quantity": 10
+    }
+  ]
+}

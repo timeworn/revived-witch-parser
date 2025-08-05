@@ -1,0 +1,17 @@
+{
+  "id": 1175,
+  "cueName": "31Lava Lake",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/31Lava Lake.ogg",
+  "volume": 100,
+  "name": "Lava Lake",
+  "album": "Snegurochka",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic04_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 900000
+    }
+  ]
+}

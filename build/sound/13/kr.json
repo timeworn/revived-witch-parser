@@ -1,0 +1,17 @@
+{
+  "id": 1157,
+  "cueName": "13Magic Forest of Irminsul",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/13Magic Forest of Irminsul.ogg",
+  "volume": 100,
+  "name": "Magic Forest of Irminsul",
+  "album": "이르민술",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 200000
+    }
+  ]
+}

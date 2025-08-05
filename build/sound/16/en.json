@@ -1,0 +1,17 @@
+{
+  "id": 1160,
+  "cueName": "16Frog Knight",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/16Frog Knight.ogg",
+  "volume": 100,
+  "name": "Frog Chevalier",
+  "album": "Irminsul",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 300000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1160,
+  "cueName": "16Frog Knight",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/16Frog Knight.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 300000
+    }
+  ]
+}

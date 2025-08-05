@@ -1,0 +1,7 @@
+{
+  "id": 95,
+  "cueName": "SOUND_environment_bossattack",
+  "cueSheet": "main:SE/environment",
+  "url": "/audio/SE/environment/SOUND_environment_bossattack.ogg",
+  "volume": 100
+}

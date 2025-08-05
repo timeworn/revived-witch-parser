@@ -1,0 +1,13 @@
+{
+  "id": 10060,
+  "name": "장난꾸러기",
+  "description": "장난꾸러기 아발렌이 실수로 하층부에 왔다가 돌아가는 길을 잃어버렸다. 혼자는 위험하니 <color=#82C65D>상층부</color>로 데려다줘야 한다.",
+  "shortDescription": "아발렌을 상층부로 데려다주기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

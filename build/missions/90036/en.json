@@ -1,0 +1,13 @@
+{
+  "id": 90036,
+  "name": null,
+  "description": "6 pieces of equipment reach Lv.5",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 6
+    }
+  ]
+}

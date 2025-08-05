@@ -1,0 +1,13 @@
+{
+  "id": 10028,
+  "name": "Continue Exploring Chrono Tower",
+  "description": "Go on and explore the secrets of the Chrono Tower.",
+  "shortDescription": "Continue to explore the Chrono Tower",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

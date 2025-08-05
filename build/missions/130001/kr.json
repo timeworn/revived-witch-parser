@@ -1,0 +1,13 @@
+{
+  "id": 130001,
+  "name": null,
+  "description": "마나를 소모하여 임의의 인형 1회 강화",
+  "shortDescription": null,
+  "missionType": 13,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 500000
+    }
+  ]
+}

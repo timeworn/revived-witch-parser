@@ -1,0 +1,13 @@
+{
+  "id": 100010,
+  "name": "스킬북 서고",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 2
+    }
+  ]
+}

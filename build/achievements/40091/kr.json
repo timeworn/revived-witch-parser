@@ -1,0 +1,17 @@
+{
+  "id": 40091,
+  "name": "공유하기",
+  "description": "게임 리뷰 1회 작성",
+  "missionType": 4,
+  "tabId": 4,
+  "groupId": 40,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

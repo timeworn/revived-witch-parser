@@ -1,0 +1,17 @@
+{
+  "id": 40051,
+  "name": "우정의 마음",
+  "description": "우정 포인트 누적 1000 획득",
+  "missionType": 4,
+  "tabId": 4,
+  "groupId": 24,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "스토리 2-8 클리어 시 오픈"
+}

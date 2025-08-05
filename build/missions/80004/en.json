@@ -1,0 +1,13 @@
+{
+  "id": 80004,
+  "name": "Daily Exploration",
+  "description": "Clear Main Story stages 10 times",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

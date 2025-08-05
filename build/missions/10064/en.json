@@ -1,0 +1,13 @@
+{
+  "id": 10064,
+  "name": "Enter the Upper Domain",
+  "description": "The earthquakes are not a simple matter of monsters. Enter the Upper Domain to find the truth.",
+  "shortDescription": "Enter the Upper Domain and find the truth",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 8000
+    }
+  ]
+}

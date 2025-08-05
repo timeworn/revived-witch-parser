@@ -1,0 +1,13 @@
+{
+  "id": 100029,
+  "name": "消耗灵魂",
+  "description": "异界之镜探索完成30次",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 10
+    }
+  ]
+}

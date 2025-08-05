@@ -1,0 +1,13 @@
+{
+  "id": 10024,
+  "name": "Hunting Altercation: Message",
+  "description": "Help the wounded hunter and deliver the message to <color=#82C65D>Silverbow</color>.",
+  "shortDescription": "Deliver the Hunter's message to Silverbow",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40061,
+  "name": "收集达人",
+  "description": "获得100点家具币",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 28,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情2-4解锁"
+}

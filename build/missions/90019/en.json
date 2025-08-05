@@ -1,0 +1,13 @@
+{
+  "id": 90019,
+  "name": null,
+  "description": "Claim rewards 8 times in Mirror of the Otherworld.",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 2000
+    }
+  ]
+}

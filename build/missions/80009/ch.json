@@ -1,0 +1,13 @@
+{
+  "id": 80009,
+  "name": "装备收集",
+  "description": "通关3次人偶装备副本",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 76000,
+      "quantity": 5
+    }
+  ]
+}

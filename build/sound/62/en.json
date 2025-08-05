@@ -1,0 +1,17 @@
+{
+  "id": 1361,
+  "cueName": "BGM_Scene_Valentine'sDay",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_Valentine'sDay.ogg",
+  "volume": 100,
+  "name": "Sogno Bianco",
+  "album": "Event Album",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic06_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 50
+    }
+  ]
+}

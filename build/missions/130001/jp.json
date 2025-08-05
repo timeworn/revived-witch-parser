@@ -1,0 +1,13 @@
+{
+  "id": 130001,
+  "name": null,
+  "description": "",
+  "shortDescription": null,
+  "missionType": 13,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 500000
+    }
+  ]
+}

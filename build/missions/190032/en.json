@@ -1,0 +1,13 @@
+{
+  "id": 190032,
+  "name": "Clear Skill Material stage 10 times",
+  "description": "Clear Skill Material stage 10 times",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 10
+    }
+  ]
+}

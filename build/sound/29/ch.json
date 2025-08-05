@@ -1,0 +1,17 @@
+{
+  "id": 1173,
+  "cueName": "29Together We Can Save this World",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/29Together We Can Save this World.ogg",
+  "volume": 100,
+  "name": "Together We Can Save this World",
+  "album": "谢波契卡",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 850000
+    }
+  ]
+}

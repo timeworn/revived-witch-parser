@@ -1,0 +1,17 @@
+{
+  "id": 40006,
+  "name": "스네구로치카 구원",
+  "description": "신마라 처치",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 6,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

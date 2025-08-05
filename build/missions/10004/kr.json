@@ -1,0 +1,13 @@
+{
+  "id": 10004,
+  "name": "최초의 성장",
+  "description": "인형 최고 레벨 10레벨 도달",
+  "shortDescription": "인형 최고 레벨 10레벨 도달",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

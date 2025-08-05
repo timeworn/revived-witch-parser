@@ -1,0 +1,17 @@
+{
+  "id": 40037,
+  "name": "코스튬 소장",
+  "description": "인형 코스튬 누적 1개 획득",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 19,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

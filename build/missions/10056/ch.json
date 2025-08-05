@@ -1,0 +1,13 @@
+{
+  "id": 10056,
+  "name": "调查牧师的行踪",
+  "description": "有人在下层的关卡附近见过疑似牧师的男子，去那里调查看看，说不定能得到新的线索。",
+  "shortDescription": "去下层的关卡调查牧师的行踪",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 5
+    }
+  ]
+}

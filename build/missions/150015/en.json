@@ -1,0 +1,13 @@
+{
+  "id": 150015,
+  "name": "Paralleled Chronospace",
+  "description": "Clear Main Story stages 1 time",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

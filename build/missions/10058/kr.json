@@ -1,0 +1,13 @@
+{
+  "id": 10058,
+  "name": "지진의 원인 찾기",
+  "description": "지진에 관한 이상한 <color=#82C65D>소문</color>이 많이 돌고 있다. 깊이 조사해 볼 만한 가치가 있다.",
+  "shortDescription": "지진의 원인 찾기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 5
+    }
+  ]
+}

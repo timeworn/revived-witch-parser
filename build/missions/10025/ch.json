@@ -1,0 +1,13 @@
+{
+  "id": 10025,
+  "name": "狩猎争执·调解",
+  "description": "去<color=#82C65D>冰湖猎场·中段</color>找到银弓，尝试调解银弓和老猎人组织之间的关系。",
+  "shortDescription": "调解银弓与老猎人的关系",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

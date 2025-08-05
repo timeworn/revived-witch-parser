@@ -1,0 +1,13 @@
+{
+  "id": 10037,
+  "name": "Source of the Geothermy",
+  "description": "Cersivey has consumed the magic to create the blizzard to suppress the Geothermy, but she refuses any help. <color=#82C65D>Continue exploring</color> and investigate the source of the Geothermy.",
+  "shortDescription": "Seek the source of the Geothermy",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 90025,
+  "name": null,
+  "description": "Use Friend Assist 5 times",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 2000
+    }
+  ]
+}

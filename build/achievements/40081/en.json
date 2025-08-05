@@ -1,0 +1,17 @@
+{
+  "id": 40081,
+  "name": "Chronospace Breach",
+  "description": "Win in Chronospace Breach 100 times",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 35,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 3-5"
+}

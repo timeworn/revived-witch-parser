@@ -1,0 +1,13 @@
+{
+  "id": 10037,
+  "name": "地热的源头",
+  "description": "瑟希薇消耗魔力制造风雪来抑制地热，但她不愿接受帮助。先<color=#82C65D>继续探索</color>，去调查地热的源头吧。",
+  "shortDescription": "寻找地热的源头",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

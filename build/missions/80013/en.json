@@ -1,0 +1,13 @@
+{
+  "id": 80013,
+  "name": "Summon Practice",
+  "description": "Summon 5 times",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 50
+    }
+  ]
+}

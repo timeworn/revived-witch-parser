@@ -1,0 +1,17 @@
+{
+  "id": 40063,
+  "name": "수집의 달인",
+  "description": "가구 코인 5000 획득",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 28,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ],
+  "unlockAfter": "스토리 2-4 클리어 시 오픈"
+}

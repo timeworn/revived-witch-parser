@@ -1,0 +1,13 @@
+{
+  "id": 10006,
+  "name": "Mysterious Giant Tree",
+  "description": "Explore all woods in the Irminsul and find out why the giant tree appeared.",
+  "shortDescription": "Find out why the Giant Tree appeared",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

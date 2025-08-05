@@ -1,0 +1,17 @@
+{
+  "id": 40004,
+  "name": "Ferocious Bear",
+  "description": "Defeat Hervoraltar",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 4,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

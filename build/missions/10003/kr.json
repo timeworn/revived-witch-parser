@@ -1,0 +1,13 @@
+{
+  "id": 10003,
+  "name": "최초의 인연",
+  "description": "소환 누적 10회 진행",
+  "shortDescription": "소환 누적 10회 진행",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 90041,
+  "name": null,
+  "description": "3个装备强化至8级",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 6
+    }
+  ]
+}

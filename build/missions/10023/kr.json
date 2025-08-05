@@ -1,0 +1,13 @@
+{
+  "id": 10023,
+  "name": "성녀 스반흐비트 처치",
+  "description": "산꼭대기의 <color=#82C65D>성녀 광장</color>으로 가서 성녀 스반흐비트를 처치하고 눈보라를 멈춰라.",
+  "shortDescription": "성녀 스반흐비트 처치",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ]
+}

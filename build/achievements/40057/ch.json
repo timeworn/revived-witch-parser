@@ -1,0 +1,17 @@
+{
+  "id": 40057,
+  "name": "友谊的价值",
+  "description": "在友情点商城购买50次道具",
+  "missionType": 4,
+  "tabId": 4,
+  "groupId": 26,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情2-8解锁"
+}

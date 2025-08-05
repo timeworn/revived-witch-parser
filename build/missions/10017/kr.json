@@ -1,0 +1,13 @@
+{
+  "id": 10017,
+  "name": "개구리와 나비·귀환",
+  "description": "잃어버린 마법 지팡이를 찾아 프리지아에게 돌려줄 수 있게 되었다. 그는 <color=#82C65D>거목 외곽</color>에 있을 것이다.",
+  "shortDescription": "프리지아에게 마법 지팡이 돌려주기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

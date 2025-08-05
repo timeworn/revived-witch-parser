@@ -1,0 +1,17 @@
+{
+  "id": 40001,
+  "name": "踏入异境",
+  "description": "击败时空监视者",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 1,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

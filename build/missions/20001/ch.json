@@ -1,0 +1,13 @@
+{
+  "id": 20001,
+  "name": "兄弟·寻找",
+  "description": "受变成毛虫的兄长的委托，在<color=#82C65D>前方的森林</color>里，帮助他寻找失散的弟弟。",
+  "shortDescription": "受委托寻找弟弟",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

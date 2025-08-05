@@ -1,0 +1,13 @@
+{
+  "id": 50020,
+  "name": "好友助战",
+  "description": "使用1次好友助战",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

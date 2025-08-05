@@ -1,10 +1,12 @@
 import { logger } from "src/utils/logger";
 
+export type LocalizerLocale = "en" | "jp" | "ch" | "kr";
+
 export class Localizer {
   private local: Record<string, string>;
-  public readonly locale: string;
+  public readonly locale: LocalizerLocale;
 
-  constructor(locale: string, local: Record<string, string> = {}) {
+  constructor(locale: LocalizerLocale, local: Record<string, string> = {}) {
     this.local = local;
     this.locale = locale;
   }

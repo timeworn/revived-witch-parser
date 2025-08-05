@@ -1,0 +1,17 @@
+{
+  "id": 992,
+  "cueName": "BGM_Battle_Erinnern",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_Erinnern.ogg",
+  "volume": 100,
+  "name": "Loss of Time",
+  "album": "Chrono Tower",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

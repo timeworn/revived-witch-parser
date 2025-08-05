@@ -1,0 +1,13 @@
+{
+  "id": 90049,
+  "name": null,
+  "description": "Unlocks after clearing Main Story 4-20",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 8000
+    }
+  ]
+}

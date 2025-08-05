@@ -1,0 +1,13 @@
+{
+  "id": 100012,
+  "name": "Equipment Dreamscape",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 6
+    }
+  ]
+}

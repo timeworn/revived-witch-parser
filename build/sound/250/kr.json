@@ -1,0 +1,7 @@
+{
+  "id": 250,
+  "cueName": "SOUND_enviroment_earthshake",
+  "cueSheet": "main:SE/environment",
+  "url": "/audio/SE/environment/SOUND_enviroment_earthshake.ogg",
+  "volume": 100
+}

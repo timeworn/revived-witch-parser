@@ -1,0 +1,17 @@
+{
+  "id": 40005,
+  "name": "Blizzard Rest",
+  "description": "Defeat Cersivey",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 5,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

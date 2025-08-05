@@ -1,0 +1,13 @@
+{
+  "id": 20014,
+  "name": "Escort the Hunter: Drive out the White Bear",
+  "description": "Slay the savage <color=#82C65D>White Bear</color> so that it will no longer harm humans.",
+  "shortDescription": "Drive away the ferocious White Bear",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1145,
+  "cueName": "01Awakening",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/01Awakening.ogg",
+  "volume": 100,
+  "name": "Awakening",
+  "album": "크로노 타워",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

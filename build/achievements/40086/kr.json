@@ -1,0 +1,21 @@
+{
+  "id": 40086,
+  "name": "짊어진 사명",
+  "description": "임무 누적 100개 완료",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 38,
+  "badgeId": 20,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

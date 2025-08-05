@@ -1,0 +1,13 @@
+{
+  "id": 20009,
+  "name": "Search for Wood",
+  "description": "Help villager Andy find the <color=#82C65D>proper wood for making a crutch</color>. He will swap treasure with you for it.",
+  "shortDescription": "Help villager Andy find wood",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

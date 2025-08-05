@@ -1,0 +1,13 @@
+{
+  "id": 10027,
+  "name": "Find Anemone",
+  "description": "Anemone lost her Flame Emblem while escaping. Find <color=#82C65D>Anemone</color> and return the Flame Emblem to her.",
+  "shortDescription": "Find Anemone",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

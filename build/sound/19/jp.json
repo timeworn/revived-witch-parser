@@ -1,0 +1,17 @@
+{
+  "id": 1163,
+  "cueName": "19Anemone",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/19Anemone.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 500000
+    }
+  ]
+}

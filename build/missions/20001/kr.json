@@ -1,0 +1,13 @@
+{
+  "id": 20001,
+  "name": "형제·찾기",
+  "description": "송충으로 변한 형의 의뢰를 받아 <color=#82C65D>전방의 숲</color>에서 헤어진 그의 동생을 찾아라.",
+  "shortDescription": "의뢰를 받아 동생 찾기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 20004,
+  "name": "Soleil's Songbook: Anomaly",
+  "description": "After getting his songbook, Soleil seems to be acting a little strange. Catch up and see what is going on.",
+  "shortDescription": "Check up on Soleil",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 50024,
+  "name": "Mana Consumption",
+  "description": "Consume 50,000 Mana",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

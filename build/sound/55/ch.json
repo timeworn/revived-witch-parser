@@ -1,0 +1,17 @@
+{
+  "id": 997,
+  "cueName": "BGM_Battle_Soradeus_Tail",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_Soradeus_Tail.ogg",
+  "volume": 100,
+  "name": "Cursed Tail",
+  "album": "嘉庇艾尔",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 100
+    }
+  ]
+}

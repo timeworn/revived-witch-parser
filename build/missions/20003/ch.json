@@ -1,0 +1,13 @@
+{
+  "id": 20003,
+  "name": "珍贵之物·铠甲",
+  "description": "商人最爱的铠甲放在<color=#82C65D>商业区入口</color>集市的店铺里，帮他寻回铠甲。",
+  "shortDescription": "找回商人的铠甲",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

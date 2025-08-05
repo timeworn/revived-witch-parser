@@ -1,0 +1,13 @@
+{
+  "id": 90019,
+  "name": null,
+  "description": "异界之镜收取8次奖励",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 2000
+    }
+  ]
+}

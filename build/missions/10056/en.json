@@ -1,0 +1,13 @@
+{
+  "id": 10056,
+  "name": "Investigate the whereabouts of the Preacher",
+  "description": "Someone saw a man who looked like the preacher near the Lower Domain. Investigate there for clues.",
+  "shortDescription": "Investigate the whereabouts of the Preacher in the Lower Domain",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10065,
+  "name": "奇怪的地震",
+  "description": "浮岛似乎经常会发生一些奇怪的地震，这附近村子的居民说不定会知道什么。",
+  "shortDescription": "毫无征兆的地震造成了恐慌",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 4
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 90013,
+  "name": null,
+  "description": "길드 가입",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 1000
+    }
+  ]
+}

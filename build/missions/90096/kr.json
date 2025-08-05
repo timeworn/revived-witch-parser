@@ -1,0 +1,13 @@
+{
+  "id": 90096,
+  "name": null,
+  "description": "되찾은 기억 6개 보스 클리어",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 1000000
+    }
+  ]
+}

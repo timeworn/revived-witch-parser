@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "name": "세상에서 제일 비싼 액자",
+  "description": "착용하면 고귀한 신분을 드러낼 수 있다",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame11.png",
+  "order": 10,
+  "unlockCondition": null
+}

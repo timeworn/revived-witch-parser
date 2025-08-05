@@ -1,0 +1,17 @@
+{
+  "id": 40039,
+  "name": "锻造术",
+  "description": "任意装备强化至5级",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 20,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10024,
+  "name": "狩猎争执·报信",
+  "description": "帮助受伤的猎人，将信息传递给<color=#82C65D>银弓</color>。",
+  "shortDescription": "将猎人的信息传递给银弓",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

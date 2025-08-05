@@ -1,0 +1,13 @@
+{
+  "id": 10068,
+  "name": "상층부 탐색",
+  "description": "드디어 카스피엘 상층부에 도착했다. 주변을 둘러보자.",
+  "shortDescription": "카스피엘 상층부 탐색",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 10
+    }
+  ]
+}

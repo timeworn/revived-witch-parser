@@ -1,0 +1,17 @@
+{
+  "id": 40072,
+  "name": "가구 테마",
+  "description": "다른 종류의 가구 테마 5세트 사용",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 32,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "스토리 2-4 클리어 시 오픈"
+}

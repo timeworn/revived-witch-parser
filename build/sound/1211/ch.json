@@ -1,0 +1,7 @@
+{
+  "id": 1211,
+  "cueName": "SOUND_environment_MonsterAppear",
+  "cueSheet": "main:SE/environment",
+  "url": "/audio/SE/environment/SOUND_environment_MonsterAppear.ogg",
+  "volume": 100
+}

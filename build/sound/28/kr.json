@@ -1,0 +1,17 @@
+{
+  "id": 1172,
+  "cueName": "28Before the Storm",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/28Before the Storm.ogg",
+  "volume": 100,
+  "name": "Before the Storm",
+  "album": "스네구로치카",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 800000
+    }
+  ]
+}

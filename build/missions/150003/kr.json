@@ -1,0 +1,13 @@
+{
+  "id": 150003,
+  "name": "마녀의 집",
+  "description": "마녀의 집에 인형 1회 입주",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

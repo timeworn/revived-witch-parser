@@ -1,0 +1,13 @@
+{
+  "id": 150008,
+  "name": "속성 강화",
+  "description": "인형 강화 1회 진행",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

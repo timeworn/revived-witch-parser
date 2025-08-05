@@ -1,0 +1,17 @@
+{
+  "id": 993,
+  "cueName": "BGM_Role_DrVaspa",
+  "cueSheet": "main:BGM/character",
+  "url": "/audio/BGM/character/BGM_Role_DrVaspa.ogg",
+  "volume": 100,
+  "name": "記憶の雫",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

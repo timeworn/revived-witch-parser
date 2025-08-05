@@ -1,0 +1,21 @@
+{
+  "id": 40086,
+  "name": "肩负使命",
+  "description": "累计完成100个任务",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 38,
+  "badgeId": 20,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

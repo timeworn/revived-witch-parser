@@ -1,0 +1,17 @@
+{
+  "id": 1223,
+  "cueName": "BGM_Story_Cliff",
+  "cueSheet": "main:BGM/Caspiel",
+  "url": "/audio/BGM/Caspiel/BGM_Story_Cliff.ogg",
+  "volume": 50,
+  "name": "Abgrund",
+  "album": "Cassiel",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

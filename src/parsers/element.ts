@@ -9,8 +9,8 @@ export class ElementParser extends BaseParser<RawElement, Element> {
   }
 
   static getRaw(id: number): RawElement | undefined {
-    const rawCs = ElementParser.getRaws();
-    return rawCs.find((character) => character.id === id);
+    const raws = ElementParser.getRaws();
+    return raws.find((raw) => raw.id === id);
   }
 
   transform(raw: RawElement): Element {

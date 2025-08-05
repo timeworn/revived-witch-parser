@@ -1,0 +1,21 @@
+{
+  "id": 40000,
+  "name": "다른 구역의 연락",
+  "description": "친구 1명 추가",
+  "missionType": 4,
+  "tabId": 4,
+  "groupId": 23,
+  "badgeId": 31,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "스토리 2-8 클리어 시 오픈"
+}

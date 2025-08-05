@@ -1,0 +1,13 @@
+{
+  "id": 20017,
+  "name": "Stored Food",
+  "description": "The Little Fox must hoard the food <color=#82C65D>nearby</color>. Have a look around.",
+  "shortDescription": "Search around for the stored food",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

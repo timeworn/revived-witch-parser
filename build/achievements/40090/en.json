@@ -1,0 +1,21 @@
+{
+  "id": 40090,
+  "name": "Exploring the Unknown",
+  "description": "Clear stages 100 times",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 39,
+  "badgeId": 27,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

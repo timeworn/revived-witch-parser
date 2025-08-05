@@ -1,0 +1,17 @@
+{
+  "id": 40082,
+  "name": "时空裂隙",
+  "description": "在时空裂隙中获胜500次",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 35,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ],
+  "unlockAfter": "通关剧情3-5解锁"
+}

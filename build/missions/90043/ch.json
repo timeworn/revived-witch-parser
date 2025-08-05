@@ -1,0 +1,13 @@
+{
+  "id": 90043,
+  "name": null,
+  "description": "通关剧情4-11",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 8000
+    }
+  ]
+}

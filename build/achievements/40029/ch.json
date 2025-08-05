@@ -1,0 +1,17 @@
+{
+  "id": 40029,
+  "name": "人偶收集者",
+  "description": "拥有10个人偶",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 16,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

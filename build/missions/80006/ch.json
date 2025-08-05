@@ -1,0 +1,13 @@
+{
+  "id": 80006,
+  "name": "玛那梦境",
+  "description": "通关3次玛那梦境副本",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

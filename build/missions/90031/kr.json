@@ -1,0 +1,13 @@
+{
+  "id": 90031,
+  "name": null,
+  "description": "시공의 균열 20회 승리",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 4
+    }
+  ]
+}

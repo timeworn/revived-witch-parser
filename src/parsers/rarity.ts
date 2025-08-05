@@ -11,8 +11,8 @@ export class RarityParser extends BaseParser<RawRarity, Rarity> {
   }
 
   static getRaw(id: number): RawRarity | undefined {
-    const rawCs = RarityParser.getRaws();
-    return rawCs.find((character) => character.id === id);
+    const raws = RarityParser.getRaws();
+    return raws.find((raw) => raw.id === id);
   }
 
   transform(raw: RawRarity): Rarity {

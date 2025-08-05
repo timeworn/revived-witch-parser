@@ -1,0 +1,13 @@
+{
+  "id": 10069,
+  "name": "마법 장치 찾기",
+  "description": "가르디티스의 단서를 보면, 반드시 <color=#82C65D>마법 장치</color>를 닫아야 성역으로 통하는 봉인이 풀린다.",
+  "shortDescription": "상층부의 마법 장치 찾기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 31380,
+      "quantity": 10
+    }
+  ]
+}

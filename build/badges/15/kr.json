@@ -1,0 +1,8 @@
+{
+  "id": 15,
+  "name": "마력 집중",
+  "description": "마나 누적 5000만 획득",
+  "group": "마력 집중",
+  "image": "/ui/imagesets/achieve//e3.png",
+  "colorId": 1
+}

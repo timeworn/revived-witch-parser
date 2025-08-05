@@ -1,0 +1,13 @@
+{
+  "id": 90062,
+  "name": null,
+  "description": "Unlock the 2nd skill for 3 Dolls",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74003,
+      "quantity": 4
+    }
+  ]
+}

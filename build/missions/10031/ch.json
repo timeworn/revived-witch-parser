@@ -1,0 +1,13 @@
+{
+  "id": 10031,
+  "name": "去附近看看",
+  "description": "事象移动后的谢波契卡似乎和之前有所不同，去附近看看吧。",
+  "shortDescription": "去附近看看",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 4
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10054,
+  "name": "秘密接头",
+  "description": "去村外<color=#82C65D>花田入口</color>的大树下，点燃一堆树叶，这是和反抗同盟首领接头的暗号，把这里发生的事情告诉他。",
+  "shortDescription": "使用暗号为奈茉茜传信",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

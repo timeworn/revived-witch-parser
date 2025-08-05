@@ -1,0 +1,13 @@
+{
+  "id": 20015,
+  "name": "归还猎弓",
+  "description": "因狩猎争执夺走了年轻人的猎弓，帮忙将它归还。他就在前面的<color=#82C65D>冰封湖面</color>。",
+  "shortDescription": "将猎弓还给年轻的猎人",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

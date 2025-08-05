@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "name": "雷霆头像框",
+  "description": "官网预约雷霆头像框",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame4.png",
+  "order": 3,
+  "unlockCondition": null
+}

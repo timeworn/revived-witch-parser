@@ -1,0 +1,17 @@
+{
+  "id": 1151,
+  "cueName": "07Victory Fanfare",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/07Victory Fanfare.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 80000
+    }
+  ]
+}

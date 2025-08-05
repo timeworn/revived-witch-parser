@@ -1,0 +1,17 @@
+{
+  "id": 1148,
+  "cueName": "04Mysterious Black Cat",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/04Mysterious Black Cat.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 20000
+    }
+  ]
+}

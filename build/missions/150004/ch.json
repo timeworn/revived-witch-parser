@@ -1,0 +1,13 @@
+{
+  "id": 150004,
+  "name": "友谊万岁",
+  "description": "使用友情点购买1次商品",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

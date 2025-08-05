@@ -1,0 +1,13 @@
+{
+  "id": 10001,
+  "name": "Collect the Mirror Shards",
+  "description": "Shards of the Irminsul Mirror are scattered <color=#82C65D>within the tower</color>. It seems that something strange will happen when they are all collected.",
+  "shortDescription": "Collect the Shards of the Irminsul Mirror",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 4000
+    }
+  ]
+}

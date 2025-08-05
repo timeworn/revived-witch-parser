@@ -1,0 +1,13 @@
+{
+  "id": 20008,
+  "name": "Brothers: Return Letter",
+  "description": "Deliver the news to the anxious elder brother that his younger brother has also been turned into a caterpillar. He is at either the <color=#82C65D>Commercial Area</color> or the <color=#82C65D>Giant Tree: Periphery</color>.",
+  "shortDescription": "Deliver the message to the awaiting elder brother",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

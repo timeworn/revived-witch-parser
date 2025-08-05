@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "name": "마물 사냥꾼",
+  "description": "몬스터 누적 2000마리 처치",
+  "group": "마물 사냥꾼",
+  "image": "/ui/imagesets/achieve//c3.png",
+  "colorId": 1
+}

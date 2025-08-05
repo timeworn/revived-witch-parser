@@ -1,0 +1,13 @@
+{
+  "id": 10049,
+  "name": "Dejase's Tracks",
+  "description": "Find a way to get Dejase back to normal.",
+  "shortDescription": "Search for the mentally abnormal Dejase",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

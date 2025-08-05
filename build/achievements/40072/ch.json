@@ -1,0 +1,17 @@
+{
+  "id": 40072,
+  "name": "家具主题",
+  "description": "使用5套不同的家具主题",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 32,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "通关剧情2-4解锁"
+}

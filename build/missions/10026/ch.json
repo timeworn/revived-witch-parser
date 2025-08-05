@@ -1,0 +1,13 @@
+{
+  "id": 10026,
+  "name": "狼群的灾难·说服",
+  "description": "狼群与人类之间似乎存在某种误会，说服狼群的首领，或许就能调解他们之间的关系。",
+  "shortDescription": "说服狼群首领",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

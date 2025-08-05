@@ -1,0 +1,13 @@
+{
+  "id": 10049,
+  "name": "德亚丝的行踪",
+  "description": "想办法让德亚丝恢复正常。",
+  "shortDescription": "寻找精神异常的德亚丝",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

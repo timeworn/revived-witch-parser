@@ -1,0 +1,13 @@
+{
+  "id": 190042,
+  "name": "이계의 거울 탐색 30회 완료",
+  "description": "이계의 거울 탐색 30회 완료",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 40
+    }
+  ]
+}

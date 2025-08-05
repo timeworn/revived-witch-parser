@@ -1,0 +1,8 @@
+{
+  "id": 19,
+  "name": "Quest Taker",
+  "description": "Complete 10 quests",
+  "group": "Quest Taker",
+  "image": "/ui/imagesets/achieve//g1.png",
+  "colorId": 2
+}

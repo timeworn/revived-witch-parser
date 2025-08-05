@@ -1,0 +1,13 @@
+{
+  "id": 20002,
+  "name": "Soleil's Songbook: Search",
+  "description": "Soleil wants to retrieve his most precious songbook. Search for it around the <color=#82C65D>Sentry Camp Periphery</color>, and go back to him at the <color=#82C65D>Sentry Camp</color>.",
+  "shortDescription": "Retrieve Soleil's songbook",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1153,
+  "cueName": "09Tower of Time",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/09Tower of Time.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 100000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10050,
+  "name": "牧师的阴谋",
+  "description": "牧师攫取禁忌的魔法，穿越到了另一个世界，尽快弄清他在暗中谋划着什么。",
+  "shortDescription": "调查并阻止牧师的阴谋",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

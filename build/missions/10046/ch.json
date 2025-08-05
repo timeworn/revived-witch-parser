@@ -1,0 +1,13 @@
+{
+  "id": 10046,
+  "name": "引渡人的恩怨",
+  "description": "奇芬为了履行引渡人的职责，也为拯救昔日的好友，决定独自追捕<color=#82C65D>古尔薇格</color>。",
+  "shortDescription": "帮助奇芬",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

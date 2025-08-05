@@ -1,0 +1,13 @@
+{
+  "id": 10040,
+  "name": "寻找寒霜的线索",
+  "description": "必须想办法应对辛莫拉的熔岩核心才能阻止谢波契卡的毁灭。询问前面的<color=#82C65D>冰雪骑士团团长</color>关于寒霜的线索。",
+  "shortDescription": "和前方的骑士团长对话",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

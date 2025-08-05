@@ -1,0 +1,13 @@
+{
+  "id": 100007,
+  "name": "玛娜梦境",
+  "description": "完成10次装备副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 2
+    }
+  ]
+}

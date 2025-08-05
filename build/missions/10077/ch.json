@@ -1,0 +1,13 @@
+{
+  "id": 10077,
+  "name": "精灵的乐曲",
+  "description": "将芙洛莱想要学习乐曲的愿望，告知精灵之森的玛娅维尔。",
+  "shortDescription": "实现芙洛莱学习乐曲的心愿",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 31389,
+      "quantity": 10
+    }
+  ]
+}

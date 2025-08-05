@@ -1,0 +1,13 @@
+{
+  "id": 50004,
+  "name": "精力充沛",
+  "description": "消耗30点精神",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

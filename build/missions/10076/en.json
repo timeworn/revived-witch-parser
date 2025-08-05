@@ -1,0 +1,13 @@
+{
+  "id": 10076,
+  "name": "Enter the Sanctuary",
+  "description": "The Sanctuary has been unsealed. Go there quickly and find the Protector of Cassiel.",
+  "shortDescription": "Lift the seal and enter the Sanctuary",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 31383,
+      "quantity": 10
+    }
+  ]
+}

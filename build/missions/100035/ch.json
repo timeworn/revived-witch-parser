@@ -1,0 +1,13 @@
+{
+  "id": 100035,
+  "name": "消耗灵魂",
+  "description": "在时空裂隙中获胜15次",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 5
+    }
+  ]
+}

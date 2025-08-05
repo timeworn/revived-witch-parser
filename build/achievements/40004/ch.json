@@ -1,0 +1,17 @@
+{
+  "id": 40004,
+  "name": "凶恶之熊",
+  "description": "击败赫沃奥塔",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 4,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

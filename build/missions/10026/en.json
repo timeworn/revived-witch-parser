@@ -1,0 +1,13 @@
+{
+  "id": 10026,
+  "name": "Disaster of the Wolves: Persuasion",
+  "description": "There seems to be some kind of misunderstanding between the wolf pack and the human. Persuading the Leader of the Pack may reconcile their relations.",
+  "shortDescription": "Persuade the Leader of the Pack",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

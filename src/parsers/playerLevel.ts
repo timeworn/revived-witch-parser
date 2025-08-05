@@ -9,8 +9,8 @@ export class PlayerLevelParser extends BaseParser<RawPlayerLevel, PlayerLevel> {
   }
 
   static getRaw(id: number): RawPlayerLevel | undefined {
-    const rawCs = PlayerLevelParser.getRaws();
-    return rawCs.find((character) => character.id === id);
+    const raws = PlayerLevelParser.getRaws();
+    return raws.find((raw) => raw.id === id);
   }
 
   transform(raw: RawPlayerLevel): PlayerLevel {

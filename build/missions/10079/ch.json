@@ -1,0 +1,13 @@
+{
+  "id": 10079,
+  "name": "未来的期待",
+  "description": "嘉庇艾尔的混乱已经被修正，回到时之塔，等待你的将是新的冒险。",
+  "shortDescription": "等待新冒险的开启",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 50000
+    }
+  ]
+}

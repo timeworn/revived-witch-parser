@@ -1,0 +1,13 @@
+{
+  "id": 50026,
+  "name": "消耗灵魂",
+  "description": "消耗20点灵魂",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

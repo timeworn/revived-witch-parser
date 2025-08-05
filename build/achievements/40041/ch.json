@@ -1,0 +1,17 @@
+{
+  "id": 40041,
+  "name": "锻造术",
+  "description": "3个装备强化至40级",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 20,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

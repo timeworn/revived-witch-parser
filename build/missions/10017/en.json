@@ -1,0 +1,13 @@
+{
+  "id": 10017,
+  "name": "Frog and Butterfly: Return",
+  "description": "You have found the lost wand. Return it to Phrygia. He should be at the <color=#82C65D>Giant Tree Periphery</color>.",
+  "shortDescription": "Return the Wand to Phrygia",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

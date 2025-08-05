@@ -1,0 +1,21 @@
+{
+  "id": 40034,
+  "name": "Bond Together",
+  "description": "Upgrade the Bond Level of a Doll to Lv.20",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 17,
+  "badgeId": 6,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-2"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 100020,
+  "name": "好友助战",
+  "description": "消耗3600点精神",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 16
+    }
+  ]
+}

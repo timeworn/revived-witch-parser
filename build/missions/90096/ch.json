@@ -1,0 +1,13 @@
+{
+  "id": 90096,
+  "name": null,
+  "description": "记忆再临通关8个boss",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 1000000
+    }
+  ]
+}

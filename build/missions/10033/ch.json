@@ -1,0 +1,13 @@
+{
+  "id": 10033,
+  "name": "去结界外看看",
+  "description": "瑟希薇设置了强大的结界，在外部探索寻找线索。",
+  "shortDescription": "探索结界外部",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "일심동체",
+  "description": "임의의 인형 인연 레벨 2 도달",
+  "group": "일심동체",
+  "image": "/ui/imagesets/achieve//b2.png",
+  "colorId": 2
+}

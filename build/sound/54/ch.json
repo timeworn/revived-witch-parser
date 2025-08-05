@@ -1,0 +1,17 @@
+{
+  "id": 1222,
+  "cueName": "BGM_Battle_Fellagood_III",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_Fellagood_III.ogg",
+  "volume": 100,
+  "name": "To the Black Abyss",
+  "album": "时之塔",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

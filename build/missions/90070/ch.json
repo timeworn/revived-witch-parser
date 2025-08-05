@@ -1,0 +1,13 @@
+{
+  "id": 90070,
+  "name": null,
+  "description": "3个人偶达到突破1阶",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 10
+    }
+  ]
+}

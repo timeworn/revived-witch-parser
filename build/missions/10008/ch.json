@@ -1,0 +1,13 @@
+{
+  "id": 10008,
+  "name": "蛙与蝶·相遇",
+  "description": "继续前行，探寻森林生物变异的原因。",
+  "shortDescription": "探寻生物变异的原因",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

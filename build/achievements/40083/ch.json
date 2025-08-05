@@ -1,0 +1,21 @@
+{
+  "id": 40083,
+  "name": "回溯梦境",
+  "description": "第一次通关梦境世界",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 36,
+  "badgeId": 1,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

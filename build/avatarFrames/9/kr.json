@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "name": "Christmas 액자",
+  "description": "Merry Christmas!",
+  "image": "/ui/imagesets/headframe//HeadPhotoFrame10.png",
+  "order": 9,
+  "unlockCondition": null
+}

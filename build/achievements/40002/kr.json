@@ -1,0 +1,17 @@
+{
+  "id": 40002,
+  "name": "미인의 죽음",
+  "description": "플레어 처치",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 2,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

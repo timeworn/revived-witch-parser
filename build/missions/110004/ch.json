@@ -1,0 +1,13 @@
+{
+  "id": 110004,
+  "name": "活跃度达到60",
+  "description": "活跃度达到60",
+  "shortDescription": null,
+  "missionType": 11,
+  "rewards": [
+    {
+      "id": 35037,
+      "quantity": 2
+    }
+  ]
+}

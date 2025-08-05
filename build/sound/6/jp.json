@@ -1,0 +1,17 @@
+{
+  "id": 1150,
+  "cueName": "06The Guardian",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/06The Guardian.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 40000
+    }
+  ]
+}

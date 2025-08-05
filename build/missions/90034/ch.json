@@ -1,0 +1,13 @@
+{
+  "id": 90034,
+  "name": null,
+  "description": "5名人偶突破4阶",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 4000
+    }
+  ]
+}

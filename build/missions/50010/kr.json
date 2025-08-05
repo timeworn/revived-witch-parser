@@ -1,0 +1,13 @@
+{
+  "id": 50010,
+  "name": "스킬북 서고",
+  "description": "스킬 던전 1회 완료",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

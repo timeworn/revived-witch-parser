@@ -1,0 +1,13 @@
+{
+  "id": 10011,
+  "name": "개구리와 나비·술주전자",
+  "description": "개구리 기사 프리지아가 아끼는 <color=#82C65D>술주전자</color>를 잃어버렸다. 탐색하면서 겸사겸사 찾아보자.",
+  "shortDescription": "개구리 기사의 술주전자 찾아주기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10035,
+  "name": "进入结界",
+  "description": "成功进入了瑟希薇设置的结界，在结界内部探索，看看有何异常。",
+  "shortDescription": "探索结界内部",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

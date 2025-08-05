@@ -1,0 +1,13 @@
+{
+  "id": 50013,
+  "name": "装备幻境",
+  "description": "完成装备副本2次",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

@@ -9,8 +9,8 @@ export class VocationParser extends BaseParser<RawVocation, Vocation> {
   }
 
   static getRaw(id: number): RawVocation | undefined {
-    const rawCs = VocationParser.getRaws();
-    return rawCs.find((character) => character.id === id);
+    const raws = VocationParser.getRaws();
+    return raws.find((raw) => raw.id === id);
   }
 
   transform(raw: RawVocation): Vocation {

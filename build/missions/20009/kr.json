@@ -1,0 +1,13 @@
+{
+  "id": 20009,
+  "name": "목재 찾기",
+  "description": "마을 주민 앤디를 위해 <color=#82C65D>지팡이를 만들기 좋은 목재</color>를 찾아야 한다. 앤디가 보물과 바꿔줄 것이다.",
+  "shortDescription": "마을 주민 앤디에게 목재 찾아주기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

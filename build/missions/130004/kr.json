@@ -1,0 +1,13 @@
+{
+  "id": 130004,
+  "name": null,
+  "description": "친구 3명 추가",
+  "shortDescription": null,
+  "missionType": 13,
+  "rewards": [
+    {
+      "id": 74004,
+      "quantity": 20
+    }
+  ]
+}

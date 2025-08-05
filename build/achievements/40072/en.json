@@ -1,0 +1,17 @@
+{
+  "id": 40072,
+  "name": "Furniture Theme",
+  "description": "Apply 5 different furniture themes",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 32,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 2-4"
+}

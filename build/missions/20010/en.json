@@ -1,0 +1,13 @@
+{
+  "id": 20010,
+  "name": "Discipline the Grain Thieves",
+  "description": "Villagers' crops were stolen by cunning foxes. Find the stolen crops, and teach the foxes a lesson.",
+  "shortDescription": "Teach the fox thief a lesson",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

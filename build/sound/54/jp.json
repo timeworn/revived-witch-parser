@@ -1,0 +1,17 @@
+{
+  "id": 1222,
+  "cueName": "BGM_Battle_Fellagood_III",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_Fellagood_III.ogg",
+  "volume": 100,
+  "name": "黒き深淵へ",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

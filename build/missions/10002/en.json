@@ -1,0 +1,13 @@
+{
+  "id": 10002,
+  "name": "To the Hall of Irminsul",
+  "description": "You have collected all the shards. $B$Go to the <color=#82C65D>Hall of Irminsul</color> to unravel the puzzle.",
+  "shortDescription": "To the Hall of Irminsul",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

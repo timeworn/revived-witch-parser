@@ -1,0 +1,13 @@
+{
+  "id": 90069,
+  "name": null,
+  "description": "1 Doll reaches Ascension 1",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

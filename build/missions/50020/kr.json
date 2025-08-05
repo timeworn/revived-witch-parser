@@ -1,0 +1,13 @@
+{
+  "id": 50020,
+  "name": "친구 지원",
+  "description": "스킬 지원 사용 1회",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

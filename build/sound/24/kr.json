@@ -1,0 +1,17 @@
+{
+  "id": 1168,
+  "cueName": "24Heart of Ice",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/24Heart of Ice.ogg",
+  "volume": 100,
+  "name": "Heart of Ice",
+  "album": "스네구로치카",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 600000
+    }
+  ]
+}

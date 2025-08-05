@@ -1,0 +1,13 @@
+{
+  "id": 80014,
+  "name": "Goddess of Victory",
+  "description": "Achieve victory in 50 combats",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

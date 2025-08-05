@@ -1,0 +1,17 @@
+{
+  "id": 40005,
+  "name": "风雪消停",
+  "description": "击败瑟希薇",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 5,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

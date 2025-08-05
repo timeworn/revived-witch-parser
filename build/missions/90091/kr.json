@@ -1,0 +1,13 @@
+{
+  "id": 90091,
+  "name": null,
+  "description": "파괴된 지역에서 1회 승리",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 74001,
+      "quantity": 15
+    }
+  ]
+}

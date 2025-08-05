@@ -1,0 +1,13 @@
+{
+  "id": 90058,
+  "name": null,
+  "description": "消灭5个魔物",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

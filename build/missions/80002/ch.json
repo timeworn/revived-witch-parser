@@ -1,0 +1,13 @@
+{
+  "id": 80002,
+  "name": "传达心意",
+  "description": "向人偶赠送礼物5次",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 2
+    }
+  ]
+}

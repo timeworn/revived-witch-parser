@@ -1,0 +1,13 @@
+{
+  "id": 100024,
+  "name": "마나 소모",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 2
+    }
+  ]
+}

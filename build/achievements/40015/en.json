@@ -1,0 +1,21 @@
+{
+  "id": 40015,
+  "name": "Magic Convergence",
+  "description": "Obtain 5,000,000 Mana",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 10,
+  "badgeId": 14,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 40023,
+  "name": "突破上限",
+  "description": "任意3个人偶达到突破2阶",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 14,
+  "badgeId": 29,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    },
+    {
+      "id": 31070,
+      "quantity": 1
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

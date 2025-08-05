@@ -1,0 +1,13 @@
+{
+  "id": 190041,
+  "name": "Explore the Mirror of the Otherworld 15 times",
+  "description": "Explore the Mirror of the Otherworld 15 times",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 25
+    }
+  ]
+}

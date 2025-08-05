@@ -1,0 +1,13 @@
+{
+  "id": 190033,
+  "name": "스킬 던전 20회 완료",
+  "description": "스킬 던전 20회 완료",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 20
+    }
+  ]
+}

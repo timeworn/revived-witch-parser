@@ -1,0 +1,13 @@
+{
+  "id": 90017,
+  "name": null,
+  "description": "Win in Chronospace Breach 5 times",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10030,
+  "name": "返回谢波契卡",
+  "description": "再次运用事象移动的能力，尝试扭转谢波契卡的终结。",
+  "shortDescription": "通过逆之间的镜面返回谢波契卡",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

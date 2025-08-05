@@ -1,0 +1,13 @@
+{
+  "id": 50010,
+  "name": "Skill Library",
+  "description": "Clear Skill Material stage 1 time",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

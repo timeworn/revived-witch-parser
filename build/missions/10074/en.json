@@ -1,0 +1,13 @@
+{
+  "id": 10074,
+  "name": "Foil the noble official's plan",
+  "description": "The noble official is headed to Lofier Plains to retrieve the flint. Get to the warehouse before he does and foil his plan.",
+  "shortDescription": "Go to the warehouse to get the flint",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 50000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10006,
+  "name": "神秘的巨木",
+  "description": "探索整个伊敏瑟伦之森，寻找巨木出现的原因。",
+  "shortDescription": "寻找巨木出现的原因",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

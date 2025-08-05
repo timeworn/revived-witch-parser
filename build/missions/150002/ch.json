@@ -1,0 +1,13 @@
+{
+  "id": 150002,
+  "name": "异界之镜",
+  "description": "异界之镜收取1次奖励",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

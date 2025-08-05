@@ -1,0 +1,13 @@
+{
+  "id": 150005,
+  "name": "Lingering Fragrance",
+  "description": "Send a gift to a Doll 1 time",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

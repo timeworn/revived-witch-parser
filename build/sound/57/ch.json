@@ -1,0 +1,17 @@
+{
+  "id": 999,
+  "cueName": "BGM_Battle_Soradeus_Head",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_Soradeus_Head.ogg",
+  "volume": 100,
+  "name": "Banquet of Solaris Dimas",
+  "album": "嘉庇艾尔",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 100
+    }
+  ]
+}

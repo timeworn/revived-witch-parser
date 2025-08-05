@@ -1,0 +1,13 @@
+{
+  "id": 50009,
+  "name": "突破试炼",
+  "description": "完成突破副本2次",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

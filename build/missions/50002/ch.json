@@ -1,0 +1,13 @@
+{
+  "id": 50002,
+  "name": "冒险之旅",
+  "description": "通关1次主线关卡",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

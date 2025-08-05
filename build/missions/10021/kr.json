@@ -1,0 +1,13 @@
+{
+  "id": 10021,
+  "name": "주변 둘러보기",
+  "description": "스네구로치카 산에 도착했다. 주변에 뭐가 있는지 살펴보자.",
+  "shortDescription": "주변 둘러보기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

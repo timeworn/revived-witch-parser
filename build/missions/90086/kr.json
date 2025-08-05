@@ -1,0 +1,13 @@
+{
+  "id": 90086,
+  "name": null,
+  "description": "친구 지원 스킬 3회 사용",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76004,
+      "quantity": 1
+    }
+  ]
+}

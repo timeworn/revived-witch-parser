@@ -1,0 +1,13 @@
+{
+  "id": 10020,
+  "name": "스네구로치카로 이동",
+  "description": "스네구로치카는 수호자 전쟁이 끝난 곳이다. 그곳이라면 원하는 답을 찾을 수 있을지도 모른다.",
+  "shortDescription": "스네구로치카로 이동",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

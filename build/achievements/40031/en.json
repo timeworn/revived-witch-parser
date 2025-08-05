@@ -1,0 +1,17 @@
+{
+  "id": 40031,
+  "name": "Doll Gatherer",
+  "description": "Have 50 Dolls",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 16,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

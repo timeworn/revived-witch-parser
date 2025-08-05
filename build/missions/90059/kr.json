@@ -1,0 +1,13 @@
+{
+  "id": 90059,
+  "name": null,
+  "description": "마물 10마리 처치",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

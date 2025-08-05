@@ -1,0 +1,7 @@
+{
+  "id": 253,
+  "cueName": "BGM_battle_normal3",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_battle_normal3.ogg",
+  "volume": 80
+}

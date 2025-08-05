@@ -1,0 +1,13 @@
+{
+  "id": 100006,
+  "name": "玛娜梦境",
+  "description": "完成30次突破副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 6
+    }
+  ]
+}

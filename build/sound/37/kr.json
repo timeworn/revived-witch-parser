@@ -1,0 +1,17 @@
+{
+  "id": 1181,
+  "cueName": "37Hope Returning",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/37Hope Returning.ogg",
+  "volume": 100,
+  "name": "Balance Is Restored",
+  "album": "크로노 타워",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ]
+}

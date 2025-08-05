@@ -1,0 +1,17 @@
+{
+  "id": 40021,
+  "name": "战斗技巧",
+  "description": "打断1次敌人施法",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 13,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

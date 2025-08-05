@@ -1,0 +1,13 @@
+{
+  "id": 100002,
+  "name": "冒险之旅",
+  "description": "完成20次玛那副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 4
+    }
+  ]
+}

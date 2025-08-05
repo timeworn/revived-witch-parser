@@ -1,0 +1,13 @@
+{
+  "id": 50013,
+  "name": "Equipment Dreamscape",
+  "description": "Clear Doll Equipment stage 2 times",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1323,
+  "cueName": "BGM_Scene_SeaIsland_Night",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_SeaIsland_Night.ogg",
+  "volume": 100,
+  "name": "Appassionato",
+  "album": "이벤트 오르골",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic06_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 50
+    }
+  ]
+}

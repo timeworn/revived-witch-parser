@@ -1,0 +1,17 @@
+{
+  "id": 995,
+  "cueName": "BGM_Scene_CaspielLow2",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_CaspielLow2.ogg",
+  "volume": 100,
+  "name": "In the Clouds",
+  "album": "카스피엘",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

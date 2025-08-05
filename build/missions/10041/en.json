@@ -1,0 +1,13 @@
+{
+  "id": 10041,
+  "name": "Make Frost of Absolute Zero",
+  "description": "You have received the Ice Cryolite from the Captain and the Eternal Ice from Cersivey. Next, you need to find La Crima who is believed to be at the <color=#82C65D>Castle: Front</color>.",
+  "shortDescription": "Find La Crima",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

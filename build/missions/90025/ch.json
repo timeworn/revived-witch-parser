@@ -1,0 +1,13 @@
+{
+  "id": 90025,
+  "name": null,
+  "description": "使用5次好友助战技能",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 2000
+    }
+  ]
+}

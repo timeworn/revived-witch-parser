@@ -1,0 +1,17 @@
+{
+  "id": 1170,
+  "cueName": "26Goddess' Regret",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/26Goddess' Regret.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35008,
+      "quantity": 100
+    }
+  ]
+}

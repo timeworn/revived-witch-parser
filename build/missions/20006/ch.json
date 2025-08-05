@@ -1,0 +1,13 @@
+{
+  "id": 20006,
+  "name": "珍贵之物·故乡",
+  "description": "商人只剩下埋在故乡的一点积蓄了，向前方探索寻找艾琳岛，帮他回到自己的故乡。",
+  "shortDescription": "找到商人的积蓄",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

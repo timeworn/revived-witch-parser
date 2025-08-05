@@ -1,0 +1,7 @@
+{
+  "id": 70,
+  "cueName": "BGM_scene_empty",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_scene_empty.ogg",
+  "volume": 100
+}

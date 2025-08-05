@@ -1,0 +1,13 @@
+{
+  "id": 100031,
+  "name": "영혼 소모",
+  "description": "",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 3
+    }
+  ]
+}

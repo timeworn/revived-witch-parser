@@ -1,0 +1,17 @@
+{
+  "id": 1254,
+  "cueName": "BGM_Battle_FatePresence_P1",
+  "cueSheet": "main:BGM/battle",
+  "url": "/audio/BGM/battle/BGM_Battle_FatePresence_P1.ogg",
+  "volume": 100,
+  "name": "過去の残響 ",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1000000
+    }
+  ]
+}

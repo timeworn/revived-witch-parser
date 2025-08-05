@@ -1,0 +1,13 @@
+{
+  "id": 50022,
+  "name": "召唤练习",
+  "description": "进行1次人偶召唤",
+  "shortDescription": null,
+  "missionType": 5,
+  "rewards": [
+    {
+      "id": 35027,
+      "quantity": 2
+    }
+  ]
+}

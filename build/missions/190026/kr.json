@@ -1,0 +1,13 @@
+{
+  "id": 190026,
+  "name": "돌파 던전 10회 완료",
+  "description": "돌파 던전 10회 완료",
+  "shortDescription": null,
+  "missionType": 19,
+  "rewards": [
+    {
+      "id": 35073,
+      "quantity": 10
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 80006,
+  "name": "Mana Dreamland",
+  "description": "Clear Mana Dreamland 3 times",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

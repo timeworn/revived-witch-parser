@@ -1,0 +1,17 @@
+{
+  "id": 40054,
+  "name": "人偶收藏家",
+  "description": "累计抽卡100次",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 25,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10044,
+  "name": "Recover Dejase to normal",
+  "description": "Turning a deaf ear to Bluen's persuasion, Dejase has become very dangerous.",
+  "shortDescription": "Catch up with Dejase",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10051,
+  "name": "Escort Lyne",
+  "description": "Escort the mysterious girl Lyne to her companions.",
+  "shortDescription": "Escort the mysterious girl Lyne",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 30000
+    }
+  ]
+}

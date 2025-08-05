@@ -1,0 +1,17 @@
+{
+  "id": 40002,
+  "name": "香消玉殒",
+  "description": "击败弗莱尔",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 2,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

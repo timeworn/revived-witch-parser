@@ -1,0 +1,13 @@
+{
+  "id": 90020,
+  "name": null,
+  "description": "1 Doll wears Gold equipment in all slots",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 2
+    }
+  ]
+}

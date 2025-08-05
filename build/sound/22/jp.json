@@ -1,0 +1,17 @@
+{
+  "id": 1166,
+  "cueName": "22Ice Plains of Snegurochka",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/22Ice Plains of Snegurochka.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 550000
+    }
+  ]
+}

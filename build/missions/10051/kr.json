@@ -1,0 +1,13 @@
+{
+  "id": 10051,
+  "name": "리안 호송",
+  "description": "신비한 여자아이 리안을 동료들 데려다 줘야 한다.",
+  "shortDescription": "신비한 여자아이 리안 호송하기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 30000
+    }
+  ]
+}

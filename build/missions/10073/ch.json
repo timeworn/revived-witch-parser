@@ -1,0 +1,13 @@
+{
+  "id": 10073,
+  "name": "取走引火石",
+  "description": "贵族官员计划炸掉关卡浮桥，切断反抗同盟的补给。必须尽快赶到温迪克平原的仓库，阻止他。",
+  "shortDescription": "前往仓库取走引火石",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

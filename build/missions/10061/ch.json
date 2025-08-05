@@ -1,0 +1,13 @@
+{
+  "id": 10061,
+  "name": "危险接近",
+  "description": "嘉代提斯就在附近联络各个村子的同伴，尽快告知他已经被杀手盯上的消息，注意自身的安全。",
+  "shortDescription": "提醒嘉代提斯他已被盯上",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 30000
+    }
+  ]
+}

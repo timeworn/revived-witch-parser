@@ -1,0 +1,17 @@
+{
+  "id": 40036,
+  "name": "스킬의 힘",
+  "description": "임의 3개 인형 스킬 5레벨 달성",
+  "missionType": 4,
+  "tabId": 3,
+  "groupId": 18,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ],
+  "unlockAfter": "스토리 1-1 클리어 시 오픈"
+}

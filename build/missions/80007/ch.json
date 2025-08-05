@@ -1,0 +1,13 @@
+{
+  "id": 80007,
+  "name": "突破材料",
+  "description": "通关3次突破材料副本",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 31037,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10052,
+  "name": "止血的白花",
+  "description": "向北前进，采摘可以用来止血的<color=#82C65D>白花</color>。",
+  "shortDescription": "继续前进采摘止血的白花",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76004,
+      "quantity": 4
+    }
+  ]
+}

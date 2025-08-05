@@ -1,0 +1,13 @@
+{
+  "id": 110004,
+  "name": "Activeness reaches 60",
+  "description": "Activeness reaches 60",
+  "shortDescription": null,
+  "missionType": 11,
+  "rewards": [
+    {
+      "id": 35037,
+      "quantity": 2
+    }
+  ]
+}

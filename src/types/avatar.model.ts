@@ -1,0 +1,18 @@
+export interface RawAvatar {
+  description: string;
+  descriptionTextID: number;
+  id: number;
+  name: string;
+  nameTextID: number;
+  order: number;
+  photoid: number;
+  unlockTime: string;
+}
+
+export interface Avatar {
+  id: number;
+  name: string | null;
+  description: string | null;
+  image: string | null;
+  order: number;
+}

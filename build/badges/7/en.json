@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "name": "Monster Hunter",
+  "description": "Defeat 50 monsters",
+  "group": "Monster Hunter",
+  "image": "/ui/imagesets/achieve//c1.png",
+  "colorId": 2
+}

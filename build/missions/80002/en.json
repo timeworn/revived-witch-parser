@@ -1,0 +1,13 @@
+{
+  "id": 80002,
+  "name": "Extend Best Wishes",
+  "description": "Send Gifts to a Doll 5 times",
+  "shortDescription": null,
+  "missionType": 8,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 2
+    }
+  ]
+}

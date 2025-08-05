@@ -1,0 +1,13 @@
+{
+  "id": 10058,
+  "name": "探寻地震的起因",
+  "description": "关于地震，有很多奇怪的<color=#82C65D>流言</color>，似乎得进入上层才能找到线索。",
+  "shortDescription": "探寻地震起因",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74002,
+      "quantity": 5
+    }
+  ]
+}

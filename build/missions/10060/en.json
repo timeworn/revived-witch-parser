@@ -1,0 +1,13 @@
+{
+  "id": 10060,
+  "name": "Naughty Girl",
+  "description": "The naughty Afallen strayed into the Lower Domain and has been lost. It's unsafe to be alone. Escort her back to the <color=#82C65D>Upper Domain</color>.",
+  "shortDescription": "Escort Afallen back to the Upper Domain",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10011,
+  "name": "蛙与蝶·酒壶",
+  "description": "青蛙骑士费吉亚丢失了他心爱的<color=#82C65D>酒壶</color>，探索的过程中留心寻找吧。",
+  "shortDescription": "帮青蛙骑士找到酒壶",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 3
+    }
+  ]
+}

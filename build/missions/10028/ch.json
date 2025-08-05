@@ -1,0 +1,13 @@
+{
+  "id": 10028,
+  "name": "继续探索时之塔",
+  "description": "继续向上探索时之塔，探寻其中的秘密吧。",
+  "shortDescription": "继续向上探索时之塔",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

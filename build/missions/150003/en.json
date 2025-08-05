@@ -1,0 +1,13 @@
+{
+  "id": 150003,
+  "name": "Cottage",
+  "description": "Settle Dolls in the Cottage 1 time",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

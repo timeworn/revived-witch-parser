@@ -1,0 +1,13 @@
+{
+  "id": 90063,
+  "name": null,
+  "description": "将1个人偶强化至30级",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 30000
+    }
+  ]
+}

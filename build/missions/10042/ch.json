@@ -1,0 +1,13 @@
+{
+  "id": 10042,
+  "name": "阻止辛莫拉",
+  "description": "击败辛莫拉，逆转谢波契卡必然毁灭的命运。",
+  "shortDescription": "阻止谢波契卡的毁灭",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ]
+}

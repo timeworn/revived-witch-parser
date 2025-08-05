@@ -1,0 +1,17 @@
+{
+  "id": 1149,
+  "cueName": "05Tower Atrium",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/05Tower Atrium.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 40000
+    }
+  ]
+}

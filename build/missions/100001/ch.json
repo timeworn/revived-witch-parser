@@ -1,0 +1,13 @@
+{
+  "id": 100001,
+  "name": "每日登录",
+  "description": "完成10次玛那副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 2
+    }
+  ]
+}

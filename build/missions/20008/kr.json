@@ -1,0 +1,13 @@
+{
+  "id": 20008,
+  "name": "형제·편지 답장",
+  "description": "동생도 송충이 되었다는 소식을 초조해하는 형에게 전하라. 그는 아마 <color=#82C65D>상업구</color>에 있거나 <color=#82C65D>거목 외곽</color>으로 갔을 것이다.",
+  "shortDescription": "기다리고 있는 형에게 소식 전하기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

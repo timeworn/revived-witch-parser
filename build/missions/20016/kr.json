@@ -1,0 +1,13 @@
+{
+  "id": 20016,
+  "name": "집에 돌아가고 싶은 어린 늑대",
+  "description": "<color=#82C65D>산 중턱 빙야</color>로 가서 늑대 무리의 우두머리를 찾아야 한다.",
+  "shortDescription": "어린 늑대를 늑대 무리의 우두머리에게 데려다주기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 4
+    }
+  ]
+}

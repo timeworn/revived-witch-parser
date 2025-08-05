@@ -1,0 +1,13 @@
+{
+  "id": 90007,
+  "name": null,
+  "description": "完成第七天的全部任务",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 40009,
+      "quantity": 1
+    }
+  ]
+}

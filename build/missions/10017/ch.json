@@ -1,0 +1,13 @@
+{
+  "id": 10017,
+  "name": "蛙与蝶·归还",
+  "description": "已经找到了丢失的魔杖，可以归还给费吉亚了。他目前应该在<color=#82C65D>巨木外围</color>。",
+  "shortDescription": "将魔杖归还给费吉亚",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

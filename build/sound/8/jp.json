@@ -1,0 +1,17 @@
+{
+  "id": 1152,
+  "cueName": "08Main Menu",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/08Main Menu.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic01_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 80000
+    }
+  ]
+}

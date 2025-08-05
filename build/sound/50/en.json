@@ -1,0 +1,17 @@
+{
+  "id": 994,
+  "cueName": "BGM_Scene_CaspielLow1",
+  "cueSheet": "main:BGM/scene",
+  "url": "/audio/BGM/scene/BGM_Scene_CaspielLow1.ogg",
+  "volume": 100,
+  "name": "Close to the Heaven",
+  "album": "Cassiel",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic05_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 1200000
+    }
+  ]
+}

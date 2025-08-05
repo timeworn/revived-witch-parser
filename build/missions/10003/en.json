@@ -1,0 +1,13 @@
+{
+  "id": 10003,
+  "name": "Initial Bond",
+  "description": "Summon 10 times",
+  "shortDescription": "Summon 10 times",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 10000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40003,
+  "name": "拯救伊敏瑟伦",
+  "description": "击败埃舍雷",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 3,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

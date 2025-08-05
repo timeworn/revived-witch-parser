@@ -1,0 +1,13 @@
+{
+  "id": 20002,
+  "name": "索雷优的曲谱·寻找",
+  "description": "索雷优希望能找回他最珍贵的乐谱。在<color=#82C65D>哨戒营外围</color>四处找一找，然后去<color=#82C65D>哨戒营</color>找他吧。",
+  "shortDescription": "找回索雷优的乐谱",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35018,
+      "quantity": 20
+    }
+  ]
+}

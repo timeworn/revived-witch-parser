@@ -1,0 +1,13 @@
+{
+  "id": 10022,
+  "name": "Blizzard Rest",
+  "description": "It is said the blizzard was brought about by the magic circle at the peak. Climb to the <color=#82C65D>peak</color>, and you may find a way to stop the blizzard.",
+  "shortDescription": "Go to the peak to stop the blizzard",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 40
+    }
+  ]
+}

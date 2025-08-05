@@ -1,0 +1,13 @@
+{
+  "id": 20015,
+  "name": "Return the Hunting Bow",
+  "description": "The young man's bow was taken away during the hunting altercation. Retrieve his bow. He is waiting on the <color=#82C65D>Frozen Lake Surface</color> ahead.",
+  "shortDescription": "Return the bow to the young hunter",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

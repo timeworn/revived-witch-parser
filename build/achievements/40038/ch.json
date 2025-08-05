@@ -1,0 +1,17 @@
+{
+  "id": 40038,
+  "name": "时尚达人",
+  "description": "获得10个不同的人偶外观",
+  "missionType": 4,
+  "tabId": 2,
+  "groupId": 19,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 200
+    }
+  ],
+  "unlockAfter": "通关剧情1-1解锁"
+}

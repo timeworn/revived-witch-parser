@@ -1,0 +1,13 @@
+{
+  "id": 90004,
+  "name": null,
+  "description": "Complete all Quests of Day 4",
+  "shortDescription": null,
+  "missionType": 9,
+  "rewards": [
+    {
+      "id": 30076,
+      "quantity": 1
+    }
+  ]
+}

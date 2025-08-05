@@ -1,0 +1,17 @@
+{
+  "id": 1157,
+  "cueName": "13Magic Forest of Irminsul",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/13Magic Forest of Irminsul.ogg",
+  "volume": 100,
+  "name": "",
+  "album": "",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 200000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10038,
+  "name": "몬스터가 나타난 곳",
+  "description": "저 수상한 몬스터들은 지열과 관련이 있는 것 같다. <color=#82C65D>성녀 광장</color>으로 이동해 몬스터들이 나타나는 곳을 찾아야 한다.",
+  "shortDescription": "성녀 광장으로 이동",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 76001,
+      "quantity": 4
+    }
+  ]
+}

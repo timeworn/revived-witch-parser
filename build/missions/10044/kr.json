@@ -1,0 +1,13 @@
+{
+  "id": 10044,
+  "name": "드야스를 정상으로 되돌리기",
+  "description": "블뤼엔의 설득이 효과가 없었다. 드야스가 무시무시하게 변해버렸다.",
+  "shortDescription": "드야스 쫓아가기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

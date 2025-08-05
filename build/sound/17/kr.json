@@ -1,0 +1,17 @@
+{
+  "id": 1161,
+  "cueName": "17Heart of the Forest",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/17Heart of the Forest.ogg",
+  "volume": 100,
+  "name": "Heart of the Forest",
+  "album": "이르민술",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic02_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 300000
+    }
+  ]
+}

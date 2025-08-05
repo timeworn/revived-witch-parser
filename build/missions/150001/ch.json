@@ -1,0 +1,13 @@
+{
+  "id": 150001,
+  "name": "每日登录",
+  "description": "每日登录游戏",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 10
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "Bond Together",
+  "description": "Upgrade the Bond Level of a Doll to Lv.2",
+  "group": "Bond Together",
+  "image": "/ui/imagesets/achieve//b2.png",
+  "colorId": 2
+}

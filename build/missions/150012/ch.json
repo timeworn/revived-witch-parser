@@ -1,0 +1,13 @@
+{
+  "id": 150012,
+  "name": "突破材料",
+  "description": "完成3次突破材料关卡",
+  "shortDescription": null,
+  "missionType": 15,
+  "rewards": [
+    {
+      "id": 35055,
+      "quantity": 20
+    }
+  ]
+}

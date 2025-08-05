@@ -1,0 +1,13 @@
+{
+  "id": 100010,
+  "name": "技能书库",
+  "description": "完成10次技能副本",
+  "shortDescription": null,
+  "missionType": 10,
+  "rewards": [
+    {
+      "id": 35035,
+      "quantity": 2
+    }
+  ]
+}

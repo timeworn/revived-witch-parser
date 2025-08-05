@@ -1,0 +1,13 @@
+{
+  "id": 10029,
+  "name": "寻找德亚丝",
+  "description": "德亚丝在独自一人引开怪物，布露恩十分担心。<color=#82C65D>向上探索</color>，帮她确认德亚丝的安危。",
+  "shortDescription": "找到德亚丝",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 74000,
+      "quantity": 5
+    }
+  ]
+}

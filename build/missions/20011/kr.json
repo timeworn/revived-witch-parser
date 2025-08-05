@@ -1,0 +1,13 @@
+{
+  "id": 20011,
+  "name": "짐 돌려주기",
+  "description": "스노우울프가 에기로스의 짐을 훔쳐 갔다. 에기로스를 도와 짐을 되찾아야 한다. 에기로스는 지금 <color=#82C65D>험한 산길·깊은 곳</color>에 있다고 한다.",
+  "shortDescription": "에기로스의 짐 돌려주기",
+  "missionType": 2,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

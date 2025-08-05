@@ -1,0 +1,13 @@
+{
+  "id": 10063,
+  "name": "투오넬의 뜻",
+  "description": "투오넬이 직접 만든 약을 <color=#82C65D>네메시</color>에게 건네야 한다.",
+  "shortDescription": "투오넬이 만든 약을 네메시에게 건네기",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35011,
+      "quantity": 20
+    }
+  ]
+}

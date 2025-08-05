@@ -1,0 +1,13 @@
+{
+  "id": 10019,
+  "name": "크로노 타워 탐색",
+  "description": "딜루카가 어떤 신비한 여성이 크로노 타워 고층에 들어가는 것을 보았다. 계속 크로노 타워를 오르며 탐색하자.",
+  "shortDescription": "위험한 탐색",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 5000
+    }
+  ]
+}

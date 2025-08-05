@@ -1,0 +1,17 @@
+{
+  "id": 40009,
+  "name": "Mana Gatherer",
+  "description": "Crack 50 Mana Crystal Clusters",
+  "missionType": 4,
+  "tabId": 1,
+  "groupId": 8,
+  "badgeId": 0,
+  "points": 10,
+  "rewards": [
+    {
+      "id": 35008,
+      "quantity": 80
+    }
+  ],
+  "unlockAfter": "Unlocks after clearing Main Story 1-1"
+}

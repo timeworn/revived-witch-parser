@@ -1,0 +1,13 @@
+{
+  "id": 10030,
+  "name": "Return to Snegurochka",
+  "description": "Use Intangible Shifting again, and try to prevent the destruction of Snegurochka.",
+  "shortDescription": "Return to Snegurochka through the Hall of Reversal",
+  "missionType": 1,
+  "rewards": [
+    {
+      "id": 35002,
+      "quantity": 6000
+    }
+  ]
+}

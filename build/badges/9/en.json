@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "name": "Monster Hunter",
+  "description": "Defeat 2,000 monsters",
+  "group": "Monster Hunter",
+  "image": "/ui/imagesets/achieve//c3.png",
+  "colorId": 1
+}

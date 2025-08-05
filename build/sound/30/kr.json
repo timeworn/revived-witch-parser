@@ -1,0 +1,17 @@
+{
+  "id": 1174,
+  "cueName": "30Descent",
+  "cueSheet": "main:BGM/OST",
+  "url": "/audio/BGM/OST/30Descent.ogg",
+  "volume": 100,
+  "name": "Descent",
+  "album": "스네구로치카",
+  "albumImage": "/ui/imagesets/musicplayer//musicplayermusic03_big.png",
+  "artist": "Seth Tsui",
+  "itemsNeeded": [
+    {
+      "id": 35002,
+      "quantity": 850000
+    }
+  ]
+}
