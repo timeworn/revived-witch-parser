@@ -1,8 +1,0 @@
-{
-  "id": 11,
-  "name": "설날 액자",
-  "description": "새해 복 많이 받으세요!",
-  "image": "/ui/imagesets/headframe//HeadPhotoFrame12.png",
-  "order": 11,
-  "unlockCondition": null
-}

@@ -1,8 +1,0 @@
-{
-  "id": 7,
-  "name": "魔物猎手",
-  "description": "累计击败50只魔物",
-  "group": "魔物猎手",
-  "image": "/ui/imagesets/achieve//c1.png",
-  "colorId": 2
-}

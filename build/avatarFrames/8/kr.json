@@ -1,8 +1,0 @@
-{
-  "id": 8,
-  "name": "고양이 액자",
-  "description": "교환 코드로 획득\n장착하면 말투가 바뀔 것 같다... 냥.",
-  "image": "/ui/imagesets/headframe//HeadPhotoFrame9.png",
-  "order": 8,
-  "unlockCondition": null
-}

@@ -1,0 +1,2626 @@
+{
+  "id": 95089,
+  "name": "악의",
+  "description": "인간의 혼백을 흡수하는 차가운 날에는 이단자의 깊은 악의가 배어있다.",
+  "icon": "/ui/imagesets/exclusiveequip/charequip028.png",
+  "type": "전용 장비",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "밤의 아네모네",
+  "ownerId": 89,
+  "evolutions": "(현재 캐릭터 진화 레벨 피해 0/3.5/7/10.5% 추가 증가)",
+  "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
+  "skills": [
+    {
+      "id": 308901,
+      "level": 1,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>38.5%</color> 증가한다"
+    },
+    {
+      "id": 308902,
+      "level": 11,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>42%</color> 증가한다"
+    },
+    {
+      "id": 308903,
+      "level": 21,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>45.5%</color> 증가한다"
+    },
+    {
+      "id": 308904,
+      "level": 31,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>49%</color> 증가한다"
+    },
+    {
+      "id": 308905,
+      "level": 41,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>52.5%</color> 증가한다"
+    },
+    {
+      "id": 308906,
+      "level": 51,
+      "value": "현재 HP가 50% 이하인 적이 존재할 경우 자신이 입히는 피해가 <color=#82C65D>56%</color> 증가한다"
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 1681,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1682,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1683,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1684,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1685,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1686,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1687,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1688,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1689,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1690,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1691,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1692,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1693,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1694,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1695,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1696,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1697,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1698,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1699,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95089,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1701,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1702,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1703,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1704,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1705,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1706,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1707,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1708,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1709,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1710,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1711,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 1712,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 1713,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 1714,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 1715,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 1716,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1717,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1718,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1719,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1720,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1721,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1722,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1723,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1724,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1725,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1726,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1727,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1728,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1729,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1730,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1731,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1732,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1733,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1734,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1735,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1736,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1737,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1738,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1739,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1740,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "HP",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "공격",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "치명타율",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "치명타 위력",
+          "value": 450,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}

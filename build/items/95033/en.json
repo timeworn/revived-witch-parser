@@ -1,0 +1,2626 @@
+{
+  "id": 95033,
+  "name": "Eternal Bond",
+  "description": "A hair accessory gifted by Eulalia, that has been deeply cherished by Cynetia.",
+  "icon": "/ui/imagesets/exclusiveequip/charequip014.png",
+  "type": "Unique Equipment",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "Cynetia",
+  "ownerId": 33,
+  "evolutions": "(Doll's current Evolution Level increases DMG by 0/1/2/3%)",
+  "noEvolution": "(Doll's Evolution can enhance this skill)",
+  "skills": [
+    {
+      "id": 303301,
+      "level": 1,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>21%</color> of Cynetia's ATK for 10s."
+    },
+    {
+      "id": 303302,
+      "level": 11,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>22%</color> of Cynetia's ATK for 10s."
+    },
+    {
+      "id": 303303,
+      "level": 21,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>23%</color> of Cynetia's ATK for 10s."
+    },
+    {
+      "id": 303304,
+      "level": 31,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>24%</color> of Cynetia's ATK for 10s."
+    },
+    {
+      "id": 303305,
+      "level": 41,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>25%</color> of Cynetia's ATK for 10s."
+    },
+    {
+      "id": 303306,
+      "level": 51,
+      "value": "When healing allies, increases the targets' ATK by <color=#82C65D>26%</color> of Cynetia's ATK for 10s."
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 721,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 729,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 731,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 732,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 733,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 739,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 740,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95033,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 756,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 757,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 768,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "Magic DEF",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "Crit Chance Resistance",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}

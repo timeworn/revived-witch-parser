@@ -1,0 +1,2626 @@
+{
+  "id": 95107,
+  "name": "Soulgain·Flame Chopper",
+  "description": "This blade is a gift from Amanami. As its name suggests, it can extinguish flame and clear paths. It can destroy souls and vanquish evil spirits before guiding them to the underworld.",
+  "icon": "/ui/imagesets/exclusiveequip/charequip059.png",
+  "type": "Unique Equipment",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "Naiad",
+  "ownerId": 107,
+  "evolutions": "(Doll's current Evolution Level increases Crit Chance by 0/1/2/3% and Crit DMG by 0/1/2/3%)",
+  "noEvolution": "(Doll's Evolution can enhance this skill)",
+  "skills": [
+    {
+      "id": 310701,
+      "level": 1,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>22%</color> for 20s."
+    },
+    {
+      "id": 310702,
+      "level": 11,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>24%</color> for 20s."
+    },
+    {
+      "id": 310703,
+      "level": 21,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>26%</color> for 20s."
+    },
+    {
+      "id": 310704,
+      "level": 31,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>28%</color> for 20s."
+    },
+    {
+      "id": 310705,
+      "level": 41,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>30%</color> for 20s."
+    },
+    {
+      "id": 310706,
+      "level": 51,
+      "value": "Every 30s, increases Physical DMG dealt by all allies by<color=#82C65D>32%</color> for 20s."
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 3901,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3903,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3904,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3905,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3906,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3907,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3908,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3909,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3910,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3911,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3912,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3913,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3914,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3915,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3916,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3917,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3918,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3919,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3920,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95107,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3921,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3922,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3923,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3924,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3925,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3926,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3927,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3928,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3929,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 3930,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 3931,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3932,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3933,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3934,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3935,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3936,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3937,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3938,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3939,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 3940,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 3941,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 3942,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 3943,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 3944,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 3945,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 3946,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 3947,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 3948,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 3949,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 3950,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 3951,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 3952,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 3953,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 3954,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 3955,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 3956,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 3957,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 3958,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 3959,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 3960,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "Health",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "Attack",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "Crit Chance",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "Crit DMG",
+          "value": 450,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}

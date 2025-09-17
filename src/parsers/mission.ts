@@ -48,9 +48,9 @@ export class MissionParser extends BaseParser<RawAllMission, BaseMission> {
   transform(raw: RawAllMission): BaseMission {
     return {
       id: raw.id as number,
-      name: this.localizer.localize(raw.missionnameTextID?.toString()),
-      description: this.localizer.localize(raw.descriptionTextID?.toString()),
-      shortDescription: this.localizer.localize(raw.short_descriptionTextID?.toString()),
+      name: this.localizer.localize(raw.missionnameTextID?),
+      description: this.localizer.localize(raw.descriptionTextID?),
+      shortDescription: this.localizer.localize(raw.short_descriptionTextID?),
       missionType: raw.missiontype as number, // not sure how to localize this cmissiontypeconfig.json
       rewards: createRewardItems(raw.rewarditem, raw.rewardquantity),
       // add more later

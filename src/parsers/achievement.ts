@@ -16,15 +16,15 @@ export class AchievementParser extends BaseParser<RawAchievement, Achievement> {
   transform(raw: RawAchievement): Achievement {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.missionnameTextID.toString()),
-      description: this.localizer.localize(raw.descriptionTextID.toString()),
+      name: this.localizer.localize(raw.missionnameTextID),
+      description: this.localizer.localize(raw.descriptionTextID),
       missionType: raw.missiontype, // not sure how to localize this cmissiontypeconfig.json
       tabId: raw.tabID,
       groupId: raw.groupID,
       badgeId: raw.badgeID,
       points: raw.achievePoint,
       rewards: createRewardItems(raw.rewarditem, raw.rewardquantity),
-      unlockAfter: this.localizer.localize(raw.unlockid.toString()),
+      unlockAfter: this.localizer.localize(raw.unlockid),
     };
   }
 }

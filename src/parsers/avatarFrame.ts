@@ -16,11 +16,11 @@ export class AvatarFrameParser extends BaseParser<RawAvatarFrame, AvatarFrame> {
   transform(raw: RawAvatarFrame): AvatarFrame {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameTextID.toString()),
-      description: this.localizer.localize(raw.descriptionTextID.toString()),
+      name: this.localizer.localize(raw.nameTextID),
+      description: this.localizer.localize(raw.descriptionTextID),
       image: getAssetImage(raw.photoid),
       order: raw.order,
-      unlockCondition: raw.unlockcondition !== 0 ? this.localizer.localize(raw.unlockcondition.toString()) : null,
+      unlockCondition: raw.unlockcondition !== 0 ? this.localizer.localize(raw.unlockcondition) : null,
     };
   }
 }

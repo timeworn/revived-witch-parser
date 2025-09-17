@@ -16,8 +16,8 @@ export class VocationParser extends BaseParser<RawVocation, Vocation> {
   transform(raw: RawVocation): Vocation {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameTextID.toString()),
-      description: this.localizer.localize(raw.vocationDescribeTextID.toString()),
+      name: this.localizer.localize(raw.nameTextID),
+      description: this.localizer.localize(raw.vocationDescribeTextID),
       imgBackground: getAssetImage(raw.imgBackground),
       imgDescribe: getAssetImage(raw.imgDescribe),
       imgDescribeBlue: getAssetImage(raw.imgDescribeBlue),

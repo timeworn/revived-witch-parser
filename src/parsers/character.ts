@@ -77,7 +77,7 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
     return {
       id: raw.id,
       name: name !== null ? NAMES[name] || name : name,
-      title: this.localizer.localize(raw.titleTextID.toString()),
+      title: this.localizer.localize(raw.titleTextID),
       rarity: raw.rarity ?? null,
       element: raw.element ?? null,
       vocation: raw.vocation ?? null,
@@ -90,14 +90,14 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
     return {
       affiliation: handbook?.affiliation ?? null,
       age: handbook?.age ?? null,
-      artist: this.localizer.localize(handbook?.artistTextID.toString()),
-      artistOverseas: this.localizer.localize(handbook?.overseasArtistTextID.toString()),
+      artist: this.localizer.localize(handbook?.artistTextID),
+      artistOverseas: this.localizer.localize(handbook?.overseasArtistTextID),
       backstories: handbook ? this.getBackstories(handbook) : [],
-      birthday: this.localizer.localize(handbook?.birthday.toString()),
+      birthday: this.localizer.localize(handbook?.birthday),
       height: handbook?.height ?? null,
-      hobby: this.localizer.localize(handbook?.hobbyTextID.toString()),
+      hobby: this.localizer.localize(handbook?.hobbyTextID),
       race: this.getRace(handbook?.race),
-      sex: this.localizer.localize(handbook?.sexTextID.toString()),
+      sex: this.localizer.localize(handbook?.sexTextID),
       unlockCondition: [],
       weight: handbook?.weight ?? null,
     };
@@ -112,8 +112,8 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
 
     return {
       skins,
-      roleLine: this.localizer.localize(raw.roleLineTextID.toString()),
-      victoryTalk: this.localizer.localize(raw.victoryTalkTextID.toString()),
+      roleLine: this.localizer.localize(raw.roleLineTextID),
+      victoryTalk: this.localizer.localize(raw.victoryTalkTextID),
     };
   }
 
@@ -150,7 +150,7 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
         { id: raw.contractskillid3, type: "contract" },
         ...raw.yardskillid.map((id) => ({ id, type: "yard" as const })),
       ],
-      uniqueEquipment: raw.uniqueequipid,
+      uniqueEquipmentId: raw.uniqueequipid,
     };
   }
 
@@ -177,9 +177,7 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
   };
 
   private getRace = (raceId?: number): string | null => {
-    if (!raceId || raceId < 1 || raceId > RACES.length) {
-      return null;
-    }
+    if (!raceId || raceId < 1 || raceId > RACES.length) return null;
 
     return RACES[raceId - 1];
   };
@@ -201,9 +199,9 @@ export class CharacterParser extends BaseParser<RawCharacter, Character> {
 
     return {
       id: skinData.id,
-      name: this.localizer.localize(skinData.skinNameTextID.toString()),
-      description: this.localizer.localize(skinData.discribeTextID.toString()),
-      artist: this.localizer.localize(skinData.artistTextID.toString()),
+      name: this.localizer.localize(skinData.skinNameTextID),
+      description: this.localizer.localize(skinData.discribeTextID),
+      artist: this.localizer.localize(skinData.artistTextID),
       overseasArtist: this.localizer.localize(skinData.overseasArtistTextID.toString()),
       card: getAssetImage(skinShape.lihuiID),
       diamond: getAssetImage(skinShape.DiamondHeadID),

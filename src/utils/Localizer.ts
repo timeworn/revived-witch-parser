@@ -27,7 +27,10 @@ export class Localizer {
     this.addLocalization(newLocal);
   }
 
-  localize(key?: string): string | null {
+  localize(key?: string | number): string | null {
+    if (typeof key === "number") {
+      key = key.toString();
+    }
     return key ? this.local[key] ?? null : null;
   }
 

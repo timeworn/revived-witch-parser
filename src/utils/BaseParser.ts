@@ -1,11 +1,12 @@
+import { localizers } from "src/Constants";
 import { Localizer } from "src/utils/Localizer";
 import { logger } from "src/utils/logger";
 
 export abstract class BaseParser<TRaw, TTransformed> {
   protected localizer: Localizer;
 
-  constructor(localizer: Localizer) {
-    this.localizer = localizer;
+  constructor(localizer?: Localizer) {
+    this.localizer = localizer || localizers[0];
   }
 
   static getRaws(): any[] {
@@ -33,6 +34,13 @@ export abstract class BaseParser<TRaw, TTransformed> {
 
     const rawData = (this.constructor as any).getRaws();
     return rawData.map((raw: TRaw) => this.transform(raw));
+  }
+
+  findAndParse(predicate: (raw: TRaw) => boolean): TTransformed | null {
+    const rawData = (this.constructor as any).getRaws();
+    const raw = rawData.find(predicate);
+    if (!raw) return null;
+    return this.transform(raw);
   }
 
   abstract transform(raw: TRaw): TTransformed;

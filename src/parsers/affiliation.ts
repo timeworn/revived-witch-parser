@@ -16,7 +16,7 @@ export class AffiliationParser extends BaseParser<RawAffiliation, Affiliation> {
   transform(raw: RawAffiliation): Affiliation {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameTextID.toString()),
+      name: this.localizer.localize(raw.nameTextID),
       icon: getAssetImage(raw.icon),
     };
   }

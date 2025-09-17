@@ -16,8 +16,8 @@ export class AvatarParser extends BaseParser<RawAvatar, Avatar> {
   transform(raw: RawAvatar): Avatar {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameTextID.toString()),
-      description: this.localizer.localize(raw.descriptionTextID.toString()),
+      name: this.localizer.localize(raw.nameTextID),
+      description: this.localizer.localize(raw.descriptionTextID),
       image: getAssetImage(raw.photoid),
       order: raw.order,
     };

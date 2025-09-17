@@ -8,6 +8,10 @@ export type BaseParserConstructor<TRaw = any, TTransformed = any> = {
   getRawsByLocale?(locale: LocalizerLocale): TRaw[];
 };
 
+export interface RawEntity {
+  id: number;
+}
+
 export interface RewardItem {
   id: number;
   quantity: number;

@@ -129,7 +129,7 @@ export interface CharacterBuildCombat {
   growthStats: CharacterStats;
   breakStats: Pick<CharacterStats, "attack" | "def" | "hp" | "magicDef">;
   skills: CharacterSkill[];
-  uniqueEquipment: number | null;
+  uniqueEquipmentId: number | null;
 }
 
 export interface CharacterBuildOther {

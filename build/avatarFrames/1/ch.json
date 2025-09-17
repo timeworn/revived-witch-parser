@@ -1,8 +1,0 @@
-{
-  "id": 1,
-  "name": "默认头像框",
-  "description": "初始获得\n默认头像框",
-  "image": "/ui/imagesets/headframe//HeadPhotoFrame.png",
-  "order": 1,
-  "unlockCondition": null
-}

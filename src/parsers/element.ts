@@ -16,7 +16,7 @@ export class ElementParser extends BaseParser<RawElement, Element> {
   transform(raw: RawElement): Element {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameid.toString()),
+      name: this.localizer.localize(raw.nameid),
       image: getAssetImage(raw.image),
     };
   }

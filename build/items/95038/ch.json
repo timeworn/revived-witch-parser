@@ -1,0 +1,2626 @@
+{
+  "id": 95038,
+  "name": "异相",
+  "description": "能与灵魂相连的假面，佩戴者的内心会被假面逐渐吞噬",
+  "icon": "/ui/imagesets/items1/100903.png",
+  "type": "专属装备",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "梅莫菲斯",
+  "ownerId": 38,
+  "evolutions": "(当前角色进化等级额外使受到的伤害降低0/1/2/3%)",
+  "noEvolution": "(进化当前角色可强化专属装备技能)",
+  "skills": [
+    {
+      "id": 303801,
+      "level": 1,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>11%</color>"
+    },
+    {
+      "id": 303802,
+      "level": 11,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>12%</color>"
+    },
+    {
+      "id": 303803,
+      "level": 21,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>13%</color>"
+    },
+    {
+      "id": 303804,
+      "level": 31,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>14%</color>"
+    },
+    {
+      "id": 303805,
+      "level": 41,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>15%</color>"
+    },
+    {
+      "id": 303806,
+      "level": 51,
+      "value": "进入战斗60秒内，我方全体受到伤害降低<color=#82C65D>16%</color>"
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 961,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 962,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 963,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 964,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 965,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 966,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 967,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 968,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 971,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 973,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 974,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 977,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 978,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 980,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95038,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 981,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 982,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 983,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 984,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 985,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 986,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 987,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 988,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 989,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 990,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 991,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 992,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 993,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 994,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 997,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 998,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1019,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 50,
+          "name": "物理防御",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 830,
+          "name": "暴击程度抗性",
+          "value": 450,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}

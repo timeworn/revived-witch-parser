@@ -1,5 +1,5 @@
 import { BaseParser } from "src/utils/BaseParser";
-import { Audio, RawAudio } from "src/types/sound/audio.model";
+import { Audio, RawAudio } from "src/types/sound.model";
 import cSoundSourceJson from "src/data/sound/csoundsource.json";
 
 export class AudioParser extends BaseParser<RawAudio, Audio> {
@@ -14,7 +14,7 @@ export class AudioParser extends BaseParser<RawAudio, Audio> {
 
   transform(raw: RawAudio): Audio {
     return {
-      id: raw?.id ?? -1,
+      id: raw.id,
       cueName: raw?.cueName ?? null,
       cueSheet: raw?.cueSheet ?? null,
       url: raw ? this.getUrl(raw) : null,

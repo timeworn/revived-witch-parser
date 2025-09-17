@@ -17,8 +17,8 @@ export class BadgeParser extends BaseParser<RawBadge, Badge> {
   transform(raw: RawBadge): Badge {
     return {
       id: raw.id,
-      name: this.localizer.localize(raw.nameTextID.toString()),
-      description: this.localizer.localize(raw.descriptionTextID.toString()),
+      name: this.localizer.localize(raw.nameTextID),
+      description: this.localizer.localize(raw.descriptionTextID),
       group: this.getGroup(raw),
       image: getAssetImage(raw.imageID),
       colorId: raw.colorID,

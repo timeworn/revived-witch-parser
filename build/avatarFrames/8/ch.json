@@ -1,8 +1,0 @@
-{
-  "id": 8,
-  "name": "猫猫头像框",
-  "description": "通过兑换码获得\n有了这个，就连语气都发生了变化…喵呜！",
-  "image": "/ui/imagesets/headframe//HeadPhotoFrame9.png",
-  "order": 8,
-  "unlockCondition": null
-}

@@ -1,0 +1,2626 @@
+{
+  "id": 95013,
+  "name": "星之意志",
+  "description": "注入了持有者意识的传说之剑，剑身闪耀着星辰的光芒",
+  "icon": "/ui/imagesets/exclusiveequip/charequip007.png",
+  "type": "专属装备",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "阿卡莎",
+  "ownerId": 13,
+  "evolutions": "(当前角色进化等级额外提升0/0.25/0.5/0.75%的暴击伤害，和0/0.25/0.5/0.75的物理穿透)",
+  "noEvolution": "(进化当前角色可强化专属装备技能)",
+  "skills": [
+    {
+      "id": 301301,
+      "level": 1,
+      "value": "暴击后增加自身<color=#82C65D>2.75%</color>的暴击伤害，提升<color=#82C65D>110</color>的物理穿透，最多可叠加10次"
+    },
+    {
+      "id": 301302,
+      "level": 11,
+      "value": "暴击后增加自身<color=#82C65D>3%</color>的暴击伤害，提升<color=#82C65D>120</color>的物理穿透，最多可叠加10次"
+    },
+    {
+      "id": 301303,
+      "level": 21,
+      "value": "暴击后增加自身<color=#82C65D>3.25%</color>的暴击伤害，提升<color=#82C65D>130</color>的物理穿透，最多可叠加10次"
+    },
+    {
+      "id": 301304,
+      "level": 31,
+      "value": "暴击后增加自身<color=#82C65D>3.5%</color>的暴击伤害，提升<color=#82C65D>140</color>的物理穿透，最多可叠加10次"
+    },
+    {
+      "id": 301305,
+      "level": 41,
+      "value": "暴击后增加自身<color=#82C65D>3.75%</color>的暴击伤害，提升<color=#82C65D>150</color>的物理穿透，最多可叠加10次"
+    },
+    {
+      "id": 301306,
+      "level": 51,
+      "value": "暴击后增加自身<color=#82C65D>4%</color>的暴击伤害，提升<color=#82C65D>160</color>的物理穿透，最多可叠加10次"
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 121,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95013,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 0,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 350,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 10,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 1700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 700,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 20,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 2550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1050,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 30,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 3400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 40,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 4250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 1750,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 50,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2100,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 60,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 180,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 5950,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2450,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 70,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 210,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 6800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 80,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 240,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 7650,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3150,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 90,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 270,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 8500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3500,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 100,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 300,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 9350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 3850,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 110,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 330,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 10200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4200,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 120,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 360,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4550,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 130,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 390,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 11900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 4900,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 140,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 420,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "生命",
+          "value": 12750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "攻击",
+          "value": 5250,
+          "isDecimal": false
+        },
+        {
+          "id": 130,
+          "name": "暴击率",
+          "value": 150,
+          "isDecimal": true
+        },
+        {
+          "id": 140,
+          "name": "暴击程度",
+          "value": 450,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}

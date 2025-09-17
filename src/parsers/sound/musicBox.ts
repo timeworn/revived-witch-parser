@@ -1,7 +1,6 @@
 import { createRewardItems, getAssetImage } from "src/utils/utils";
 import { AudioParser } from "src/parsers/sound/audio";
-import { RawAudio } from "src/types/sound/audio.model";
-import { AudioPlayerCell, RawAudioPlayerCell } from "src/types/sound/musicBox.model";
+import { AudioPlayerCell, RawAudioPlayerCell, RawAudio } from "src/types/sound.model";
 import cAudioPlayerCellJson from "src/data/courtyard/caudioplayercell.json";
 import cAudioPlayerAlbumJson from "src/data/courtyard/caudioplayeralbum.json";
 
@@ -19,11 +18,10 @@ export class MusicBoxParser extends AudioParser {
   transform(raw: RawAudioPlayerCell): AudioPlayerCell {
     return {
       ...super.transform(AudioParser.getRaw(raw.audioID) as RawAudio),
-      // id: raw.id,
-      name: this.localizer.localize(raw.audioName.toString()),
+      name: this.localizer.localize(raw.audioName),
       album: this.getAlbumName(raw),
       albumImage: getAssetImage(raw.albumImg),
-      artist: this.localizer.localize(raw.author.toString()),
+      artist: this.localizer.localize(raw.author),
       itemsNeeded: createRewardItems(raw.unlockItems, raw.itemsAmount),
     };
   }

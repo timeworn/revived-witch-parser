@@ -1,5 +1,5 @@
 import { AudioParser } from "src/parsers/sound/audio";
-import { Audio, RawAudio } from "src/types/sound/audio.model";
+import { Audio, RawAudio } from "src/types/sound.model";
 import cVoiceSource_ZH_Hans from "src/data/sound/cvoicesource_zh_hans.json";
 import cVoiceSource_JA_JP from "src/data/sound/cvoicesource_ja_jp_overseas_en.json";
 import { LocalizerLocale } from "src/utils/Localizer";

@@ -5,7 +5,7 @@ import * as fsSync from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
 import { logger } from "src/utils/logger";
-import { BaseParserConstructor, RewardItem } from "src/types/base.model";
+import { BaseParserConstructor, RawEntity, RewardItem } from "src/types/base.model";
 import { BUILD_DIR } from "src/Constants";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -17,9 +17,6 @@ export const getAssetImage = (id: number | undefined) => {
 
   const imagePath = imagePathJson.Data[id as unknown as keyof typeof imagePathJson.Data];
   if (!imagePath) return null;
-
-  // const frame = characterFrames[id];
-  // if (frame) return `/${frame}`;
 
   const { assetBundle, assetName } = imagePath;
   let modifiedAssetBundle = assetBundle;
@@ -33,7 +30,8 @@ export const getAssetImage = (id: number | undefined) => {
     modifiedAssetBundle = `${assetBundleParts[0]}.${assetName}.assetbundle`;
   }
 
-  const formattedPath = modifiedAssetBundle.replace(/\./g, "/").replace(/\/assetbundle$/, ".png");
+  let formattedPath = modifiedAssetBundle.replace(/\./g, "/").replace(/\/assetbundle$/, ".png");
+  formattedPath = formattedPath.replace(/\/{2,}/g, "/");
 
   return `/${formattedPath}`;
 };
@@ -68,7 +66,8 @@ export const loadLocalizationFiles = async (locale: LocalizerLocale): Promise<Lo
           localizer.addRawLocalization(jsonData.Data);
         }
       } catch (error) {
-        logger.warn(`Failed to load localization file ${file}:`, error);
+        logger.warn(`Failed to load localization file ${file}:`);
+        logger.warn(error);
       }
     })
   );
@@ -85,89 +84,6 @@ export const createFolder = async (folderPath: string): Promise<void> => {
 export const reCreateFolder = async (folderPath: string): Promise<void> => {
   if (fsSync.existsSync(folderPath)) {
     fsSync.rmSync(folderPath, { recursive: true, force: true });
-  }
-};
-
-export const parseEntities = async (
-  localizers: Localizer[],
-  entityType: string,
-  ParserClass: BaseParserConstructor
-) => {
-  const entitiesDir = path.join(BUILD_DIR, entityType);
-  await createFolder(entitiesDir);
-
-  logger.info(`Getting ${entityType}`);
-
-  const isMultiFile = typeof ParserClass.getRawsByLocale === "function";
-
-  if (isMultiFile && ParserClass.getRawsByLocale) {
-    const rawEntitiesByLocale = new Map<string, any[]>();
-    const allEntityIds = new Set<string>();
-
-    for (const localizer of localizers) {
-      const rawEntities = ParserClass.getRawsByLocale!(localizer.locale);
-      rawEntitiesByLocale.set(localizer.locale, rawEntities);
-
-      rawEntities.forEach((rawEntity: any) => {
-        allEntityIds.add(rawEntity.id.toString());
-      });
-    }
-
-    const totalUniqueEntities = allEntityIds.size;
-    logger.info(`Found ${totalUniqueEntities} unique ${entityType} across ${localizers.length} locales`);
-
-    await Promise.all(
-      Array.from(allEntityIds).map(async (entityId) => {
-        const entityDir = path.join(entitiesDir, entityId);
-        await createFolder(entityDir);
-
-        await Promise.all(
-          localizers.map(async (localizer) => {
-            const parser = new ParserClass(localizer);
-            const rawEntities = rawEntitiesByLocale.get(localizer.locale) || [];
-            const rawEntity = rawEntities.find((entity: any) => entity.id.toString() === entityId);
-
-            const localizedEntity = parser.transform(rawEntity);
-            const outputPath = path.join(entityDir, `${localizer.locale}.json`);
-            await fs.writeFile(outputPath, JSON.stringify(localizedEntity, null, 2));
-          })
-        );
-
-        logger.debug(`Wrote ${entityId} with ${localizers.length} locales`);
-      })
-    );
-
-    logger.info(`Wrote ${totalUniqueEntities} ${entityType} with ${localizers.length} locales each`);
-  } else if (!isMultiFile) {
-    const rawEntities = ParserClass.getRaws();
-    logger.info(`Found ${rawEntities.length} ${entityType}`);
-
-    logger.info(`Parsing ${entityType}...`);
-    await Promise.all(
-      rawEntities.map(async (rawEntity: any) => {
-        const parser = new ParserClass(localizers[0]);
-        // const entity = parser.transform(rawEntity);
-        const entityName = rawEntity.id.toString();
-        const entityDir = path.join(entitiesDir, entityName);
-        await createFolder(entityDir);
-
-        await Promise.all(
-          localizers.map(async (localizer) => {
-            parser.setLocalizer(localizer);
-            const localizedEntity = parser.transform(rawEntity);
-
-            const outputPath = path.join(entityDir, `${localizer.locale}.json`);
-            await fs.writeFile(outputPath, JSON.stringify(localizedEntity, null, 2));
-          })
-        );
-
-        logger.debug(`Wrote ${entityName} with ${localizers.length} locales`);
-      })
-    );
-
-    logger.info(`Wrote ${rawEntities.length} ${entityType} with ${localizers.length} locales each`);
-  } else {
-    logger.error(`${ParserClass.toString()} parser for ${entityType} does not support any localization`);
   }
 };
 

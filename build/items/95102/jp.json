@@ -1,0 +1,2626 @@
+{
+  "id": 95102,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/exclusiveequip/charequip041.png",
+  "type": "",
+  "typeId": 107,
+  "maxNum": 1,
+  "limited": false,
+  "discardRewards": [],
+  "owner": "",
+  "ownerId": 102,
+  "evolutions": null,
+  "noEvolution": "",
+  "skills": [
+    {
+      "id": 310201,
+      "level": 1,
+      "value": null
+    },
+    {
+      "id": 310202,
+      "level": 11,
+      "value": null
+    },
+    {
+      "id": 310203,
+      "level": 21,
+      "value": null
+    },
+    {
+      "id": 310204,
+      "level": 31,
+      "value": null
+    },
+    {
+      "id": 310205,
+      "level": 41,
+      "value": null
+    },
+    {
+      "id": 310206,
+      "level": 51,
+      "value": null
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 2101,
+      "level": 1,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2102,
+      "level": 2,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2103,
+      "level": 3,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2104,
+      "level": 4,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2105,
+      "level": 5,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2106,
+      "level": 6,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2107,
+      "level": 7,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2108,
+      "level": 8,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2109,
+      "level": 9,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2110,
+      "level": 10,
+      "mana": 250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2111,
+      "level": 11,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2112,
+      "level": 12,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2113,
+      "level": 13,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2114,
+      "level": 14,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2115,
+      "level": 15,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2116,
+      "level": 16,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2117,
+      "level": 17,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2118,
+      "level": 18,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2119,
+      "level": 19,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2120,
+      "level": 20,
+      "mana": 500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 1
+        },
+        {
+          "id": 95102,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2121,
+      "level": 21,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2122,
+      "level": 22,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2123,
+      "level": 23,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2124,
+      "level": 24,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2125,
+      "level": 25,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2126,
+      "level": 26,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2127,
+      "level": 27,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2128,
+      "level": 28,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2129,
+      "level": 29,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 2130,
+      "level": 30,
+      "mana": 750000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 30
+        },
+        {
+          "id": 79002,
+          "quantity": 10
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2131,
+      "level": 31,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 2132,
+      "level": 32,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 2133,
+      "level": 33,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 2134,
+      "level": 34,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 2135,
+      "level": 35,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 2136,
+      "level": 36,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "level": 37,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "level": 38,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2139,
+      "level": 39,
+      "mana": 1000000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 40
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": 2140,
+      "level": 40,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 20
+        },
+        {
+          "id": 79004,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2141,
+      "level": 41,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 2142,
+      "level": 42,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "level": 43,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 2144,
+      "level": 44,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 2145,
+      "level": 45,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 25
+        }
+      ]
+    },
+    {
+      "id": 2146,
+      "level": 46,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 2147,
+      "level": 47,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 2148,
+      "level": 48,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 2149,
+      "level": 49,
+      "mana": 1250000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 50
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 2150,
+      "level": 50,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 30
+        },
+        {
+          "id": 79004,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 2151,
+      "level": 51,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 2152,
+      "level": 52,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 2153,
+      "level": 53,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 2154,
+      "level": 54,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 2155,
+      "level": 55,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 2156,
+      "level": 56,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 2157,
+      "level": 57,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 2158,
+      "level": 58,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 2159,
+      "level": 59,
+      "mana": 1500000,
+      "itemsNeeded": [
+        {
+          "id": 79001,
+          "quantity": 60
+        },
+        {
+          "id": 79002,
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "id": 2160,
+      "level": 60,
+      "mana": 0,
+      "itemsNeeded": []
+    }
+  ],
+  "stats": [
+    {
+      "level": 1,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 0,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 0,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 1350,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 85,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 10,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 2700,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 170,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 20,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 4050,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 255,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 30,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 5400,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 340,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 40,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 6750,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 425,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 50,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 8100,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 510,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 60,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 9450,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 595,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 31,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 70,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 32,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 10800,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 33,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 34,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 680,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 35,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 80,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 36,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 12150,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 37,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 1800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 38,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 765,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 39,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 90,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 40,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 13500,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 41,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 42,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 850,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 43,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 100,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 44,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 14850,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 45,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2200,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 46,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 935,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 47,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 110,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 48,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 16200,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 49,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2400,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 50,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1020,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 51,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 120,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 52,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 17550,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 53,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2600,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 54,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1105,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 55,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 130,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 56,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 18900,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 57,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 2800,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 58,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1190,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 59,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 140,
+          "isDecimal": true
+        }
+      ]
+    },
+    {
+      "level": 60,
+      "attributes": [
+        {
+          "id": 20,
+          "name": "",
+          "value": 20250,
+          "isDecimal": false
+        },
+        {
+          "id": 30,
+          "name": "",
+          "value": 3000,
+          "isDecimal": false
+        },
+        {
+          "id": 60,
+          "name": "",
+          "value": 1275,
+          "isDecimal": false
+        },
+        {
+          "id": 270,
+          "name": "",
+          "value": 150,
+          "isDecimal": true
+        }
+      ]
+    }
+  ]
+}
