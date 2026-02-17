@@ -1,0 +1,17 @@
+{
+  "id": 49705,
+  "name": "Ordered Faith - Grail",
+  "description": "Ordered Faith - Grail",
+  "icon": "/ui/imagesets/items1/100775.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

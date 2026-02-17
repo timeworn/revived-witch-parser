@@ -1,0 +1,12 @@
+{
+  "id": 31154,
+  "name": "Mid-Autumn Skill Pack",
+  "description": "Rejoice in the coming of Mid-Autumn Festival! Buy this pack for a ton of skill upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift31.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

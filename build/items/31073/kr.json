@@ -1,0 +1,12 @@
+{
+  "id": 31073,
+  "name": "중급 소환 패키지",
+  "description": "구매하면 10회 소환을 할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

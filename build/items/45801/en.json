@@ -1,0 +1,17 @@
+{
+  "id": 45801,
+  "name": "Dagger",
+  "description": "A small short blade that can be hidden in one's sleeve.",
+  "icon": "/ui/imagesets/items1/100063.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

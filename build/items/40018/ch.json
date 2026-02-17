@@ -1,0 +1,17 @@
+{
+  "id": 40018,
+  "name": "命",
+  "description": "可以获得人偶 【追逐宿命的巫女 命】",
+  "icon": "/ui/imagesets/headphotos/hp_027.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78117,
+      "quantity": 1
+    }
+  ]
+}

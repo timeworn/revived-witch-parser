@@ -1,0 +1,12 @@
+{
+  "id": 31337,
+  "name": "Secret Stroll Pack",
+  "description": "Secret Stroll Pack",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop5.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

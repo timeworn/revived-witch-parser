@@ -1,0 +1,17 @@
+{
+  "id": 40067,
+  "name": "Dorin",
+  "description": "Obtain Doll [Dorin: Celestial Gift]",
+  "icon": "/ui/imagesets/headphotos/hp_068.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78166,
+      "quantity": 1
+    }
+  ]
+}

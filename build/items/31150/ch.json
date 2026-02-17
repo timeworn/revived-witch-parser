@@ -1,0 +1,12 @@
+{
+  "id": 31150,
+  "name": "专属装备终极礼包",
+  "description": "庆祝角色专属装备上线，购买可获得专属装备的购买道具和大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift28.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

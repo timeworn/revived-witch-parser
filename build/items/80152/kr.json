@@ -1,0 +1,12 @@
+{
+  "id": 80152,
+  "name": "돌핀 액자",
+  "description": "[벽 장식] 돌고래 모양이 그려진 액자. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100801.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

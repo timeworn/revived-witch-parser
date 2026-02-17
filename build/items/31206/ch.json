@@ -1,0 +1,12 @@
+{
+  "id": 31206,
+  "name": "养成支援礼包",
+  "description": "购买后可获得大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift30.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

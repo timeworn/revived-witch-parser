@@ -1,0 +1,17 @@
+{
+  "id": 45803,
+  "name": "淬毒匕首",
+  "description": "刃上涂有剧毒的匕首，能够轻易取人性命",
+  "icon": "/ui/imagesets/items1/100061.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

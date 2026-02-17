@@ -1,0 +1,12 @@
+{
+  "id": 35068,
+  "name": "猫爪币",
+  "description": "发放给黑猫认可之人的货币，可用于兑换纪念家具。",
+  "icon": "/ui/imagesets/items1/101152.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

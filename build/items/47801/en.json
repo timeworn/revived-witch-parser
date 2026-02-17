@@ -1,0 +1,17 @@
+{
+  "id": 47801,
+  "name": "Ring",
+  "description": "An ordinary ring commonly sold at stores.",
+  "icon": "/ui/imagesets/items1/100179.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

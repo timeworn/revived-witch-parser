@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Dark Anemone",
-  "ownerId": 89,
+  "character": "Dark Anemone",
+  "characterId": 89,
   "evolutions": "(Doll's current Evolution Level increases DMG by 0/3.5/7/10.5%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

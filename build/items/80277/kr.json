@@ -1,0 +1,12 @@
+{
+  "id": 80277,
+  "name": "고목 바닥",
+  "description": "[바닥] 걸으면 삐걱거리며, 한 걸음만 더 내디뎌도 부서질 것만 같은 마루. 조심해야 한다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101134.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

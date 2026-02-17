@@ -1,0 +1,12 @@
+{
+  "id": 80264,
+  "name": "축하 현수막",
+  "description": "[벽 장식] 생일 축하합니다! 간단한 말이지만 수많은 의미가 담겨있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101072.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80161,
+  "name": "Triangular Table",
+  "description": "[Compact Item] A wooden triangular table. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100809.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

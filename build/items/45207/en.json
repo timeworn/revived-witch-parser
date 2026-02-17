@@ -1,0 +1,17 @@
+{
+  "id": 45207,
+  "name": "Earthshaker",
+  "description": "A weapon used by Abadon, the founder of the Kingdom of Belgica. The earth shakes with its strikes.",
+  "icon": "/ui/imagesets/items1/100405.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

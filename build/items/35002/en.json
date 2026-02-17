@@ -1,0 +1,12 @@
+{
+  "id": 35002,
+  "name": "Mana",
+  "description": "The source of magic, can be used in many ways, mostly to enhance one's magic.",
+  "icon": "/ui/imagesets/items1/100006.png",
+  "type": "Currency",
+  "typeId": 289,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

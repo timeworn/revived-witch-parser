@@ -1,0 +1,12 @@
+{
+  "id": 31133,
+  "name": "Random Skill Materials",
+  "description": "Obtain Random Skill Materials",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

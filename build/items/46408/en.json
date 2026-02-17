@@ -1,0 +1,17 @@
+{
+  "id": 46408,
+  "name": "Ballad of Death",
+  "description": "An instrument enshrined in the Misery Palace. It can play a melody that manipulates the souls of creatures to fall into the abyss of the Underworld.",
+  "icon": "/ui/imagesets/items1/100461.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

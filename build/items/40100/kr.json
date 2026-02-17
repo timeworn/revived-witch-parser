@@ -1,0 +1,17 @@
+{
+  "id": 40100,
+  "name": "벨라비타",
+  "description": "[바다의 엘프 벨라비타] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_101/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781101,
+      "quantity": 1
+    }
+  ]
+}

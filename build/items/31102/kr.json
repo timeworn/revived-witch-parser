@@ -1,0 +1,12 @@
+{
+  "id": 31102,
+  "name": "환영의 거울 세계 액자",
+  "description": "항상 자신의 한계를 극복하길.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame5.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

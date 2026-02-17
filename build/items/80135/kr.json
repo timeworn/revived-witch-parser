@@ -1,0 +1,12 @@
+{
+  "id": 80135,
+  "name": "화원 벤치",
+  "description": "[작은 가구] 약간 낡은 나무 벤치, 그 위에 앉으면 왠지 몸이 가뿐해지는 느낌이다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100667.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

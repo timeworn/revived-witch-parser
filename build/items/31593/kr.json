@@ -1,0 +1,12 @@
+{
+  "id": 31593,
+  "name": "씨솔트 에이드",
+  "description": "더위를 식혀줄 시원한 씨솔트 에이드, 번턴 마을의 베스트 음료랍니다~",
+  "icon": "/ui/imagesets/items1/101158.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

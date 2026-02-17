@@ -1,0 +1,17 @@
+{
+  "id": 45803,
+  "name": "Poisonous Dagger",
+  "description": "A lethal dagger coated with poison.",
+  "icon": "/ui/imagesets/items1/100061.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

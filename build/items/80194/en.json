@@ -1,0 +1,12 @@
+{
+  "id": 80194,
+  "name": "Snug Carpet",
+  "description": "[Compact Item] A fluffy carpet where you walk barefoot without even feeling cold. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100881.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

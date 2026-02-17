@@ -1,0 +1,12 @@
+{
+  "id": 31470,
+  "name": "제1일 축하 패키지",
+  "description": "작아 보이는 버섯. 따라가면 신기한 세상을 발견할 수 있다고 한다.",
+  "icon": "/ui/imagesets/items1/101056.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

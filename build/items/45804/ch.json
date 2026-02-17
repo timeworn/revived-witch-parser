@@ -1,0 +1,17 @@
+{
+  "id": 45804,
+  "name": "诱惑匕首",
+  "description": "化身为舞姬的暗杀者爱用的匕首",
+  "icon": "/ui/imagesets/items1/100161.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

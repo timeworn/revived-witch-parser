@@ -1,0 +1,17 @@
+{
+  "id": 45008,
+  "name": "크로마 드래곤의 방패",
+  "description": "고대 크로마 드래곤의 비늘로 만들었다는 방패, 옥처럼 맑고 투명하며 각종 마법 피해를 흡수할 수 있다.",
+  "icon": "/ui/imagesets/items1/100411.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

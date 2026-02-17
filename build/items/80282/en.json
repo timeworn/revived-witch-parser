@@ -1,0 +1,12 @@
+{
+  "id": 80282,
+  "name": "Dormant Chair",
+  "description": "[Compact Item] An unassuming chair with a cat fast asleep on it. Once you sit down on it, you will never wake up. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101139.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

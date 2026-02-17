@@ -1,0 +1,12 @@
+{
+  "id": 31349,
+  "name": "豪华惊吓盒",
+  "description": "购买可获得抽卡道具和大量培养材料奖励",
+  "icon": "/ui/imagesets/items1/100982.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

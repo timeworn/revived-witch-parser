@@ -1,0 +1,17 @@
+{
+  "id": 31152,
+  "name": "未定之路头像框",
+  "description": "未定之路头像框\n重复获得会分解为500灵魂",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame7.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

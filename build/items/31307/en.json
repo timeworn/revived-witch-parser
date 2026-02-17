@@ -1,0 +1,12 @@
+{
+  "id": 31307,
+  "name": "Lunia's Advanced Pack",
+  "description": "Lunia's Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31312,
+  "name": "Pure Devotion",
+  "description": "A delicate chocolate cake crafted for the beloved one. Increases 200 Intimacy points.",
+  "icon": "/ui/imagesets/items1/100978.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

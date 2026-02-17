@@ -1,0 +1,17 @@
+{
+  "id": 40067,
+  "name": "도린느",
+  "description": "[신의 선물 도린느] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_068.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78166,
+      "quantity": 1
+    }
+  ]
+}

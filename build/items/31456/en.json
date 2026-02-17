@@ -1,0 +1,12 @@
+{
+  "id": 31456,
+  "name": "1st Anniversary Avatar Frame",
+  "description": "Revived Witch 1st Anniversary",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame13.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

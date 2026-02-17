@@ -1,0 +1,12 @@
+{
+  "id": 31259,
+  "name": "Birthday Basic Pack",
+  "description": "Birthday Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift30.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

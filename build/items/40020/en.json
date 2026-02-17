@@ -1,0 +1,17 @@
+{
+  "id": 40020,
+  "name": "Svalbard",
+  "description": "Obtain Doll [Svalbard: The Revenger]",
+  "icon": "/ui/imagesets/headphotos/hp_025.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78119,
+      "quantity": 1
+    }
+  ]
+}

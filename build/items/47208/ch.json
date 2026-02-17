@@ -1,0 +1,17 @@
+{
+  "id": 47208,
+  "name": "宿业轮回",
+  "description": "沉在冥界阿芙洛卡湖底，能够解放使用者的宿业之力的魔杖",
+  "icon": "/ui/imagesets/items1/100446.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

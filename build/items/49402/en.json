@@ -1,0 +1,17 @@
+{
+  "id": 49402,
+  "name": "Holy Blessing - Harp",
+  "description": "Holy Blessing - Harp",
+  "icon": "/ui/imagesets/items1/100755.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

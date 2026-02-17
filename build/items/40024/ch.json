@@ -1,0 +1,17 @@
+{
+  "id": 40024,
+  "name": "达修斯",
+  "description": "可以获得人偶 【均衡执法者 达修斯】",
+  "icon": "/ui/imagesets/headphotos/hp_023.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78123,
+      "quantity": 1
+    }
+  ]
+}

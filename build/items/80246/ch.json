@@ -1,0 +1,12 @@
+{
+  "id": 80246,
+  "name": "彩色鹦鹉蛋",
+  "description": "【墙饰】颜色漂亮的巨大鸟蛋，会孵出怎样的鸟儿呢？摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101001.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31048,
+  "name": "60레벨 모험 패키지",
+  "description": "마녀 60레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelblue10.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80307,
+  "name": "卡其色地毯",
+  "description": "【地毯】之所以使用的是卡其色地毯，只是因为咖啡和酒洒在上面不那么引人注目。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101132.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

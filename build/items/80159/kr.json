@@ -1,0 +1,12 @@
+{
+  "id": 80159,
+  "name": "썬베드",
+  "description": "[작은 가구] 썬베드에 누워있으면, 여유를 느낄 수 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100804.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 74005,
+  "name": "兽性凝露",
+  "description": "晶莹剔透的凝露，封印着最原始的兽性。用于提升人偶技能强度。",
+  "icon": "/ui/imagesets/items1/100554.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

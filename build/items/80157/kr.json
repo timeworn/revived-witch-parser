@@ -1,0 +1,12 @@
+{
+  "id": 80157,
+  "name": "모래성",
+  "description": "[작은 가구] 모래로 만든 성. 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100825.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35011,
+  "name": "White Petal",
+  "description": "The pure white husk left behind after a soul drifts away. $B$Like a petal, it emits an aroma that can soothe one's mind. $B$Obtained by summoning, and decomposing SR or R Doll Soul Stones in the Workshop. Used to exchange items in the Shop.",
+  "icon": "/ui/imagesets/items1/100117.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

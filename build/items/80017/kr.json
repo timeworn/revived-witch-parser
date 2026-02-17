@@ -1,0 +1,12 @@
+{
+  "id": 80017,
+  "name": "금속 램프",
+  "description": "[벽 장식] 금빛이 번쩍이는 금속 램프, 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100532.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

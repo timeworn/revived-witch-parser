@@ -1,0 +1,12 @@
+{
+  "id": 35016,
+  "name": "彩光",
+  "description": "此岸在雨后凝聚的虹色之光，在空中闪耀引领各色光芒升起，形成罕见的【安魂】。从中能够感受到无与伦比的思念。",
+  "icon": "/ui/imagesets/items1/100240.png",
+  "type": "货币",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

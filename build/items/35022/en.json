@@ -1,0 +1,12 @@
+{
+  "id": 35022,
+  "name": "Chronospace Key",
+  "description": "A key with the Chronospace power. Used to open the Chronospace Breach.",
+  "icon": "/ui/imagesets/items1/100646.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

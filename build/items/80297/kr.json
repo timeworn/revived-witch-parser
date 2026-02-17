@@ -1,0 +1,12 @@
+{
+  "id": 80297,
+  "name": "픽셀네코 천장",
+  "description": "[벽 장식] 주로 레스토랑 바에서 애용하는 천장. 싸고 청소하기 편해서가 아닐까? 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101122.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

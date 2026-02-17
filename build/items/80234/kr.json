@@ -1,0 +1,12 @@
+{
+  "id": 80234,
+  "name": "나무 의자",
+  "description": "[작은 가구] 나무로 만든 등, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100965.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 70002,
+  "name": "中级符文石",
+  "description": "装备附魔材料。通过消耗该材料可以让装备刷新出较强的属性。",
+  "icon": "/ui/imagesets/items1/100206.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

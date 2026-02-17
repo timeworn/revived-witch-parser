@@ -1,0 +1,17 @@
+{
+  "id": 40001,
+  "name": "柯萝谢",
+  "description": "可以获得人偶 【钟塔侍女 柯萝谢】",
+  "icon": "/ui/imagesets/headphotos/hp_004.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78100,
+      "quantity": 1
+    }
+  ]
+}

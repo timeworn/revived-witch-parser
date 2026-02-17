@@ -1,0 +1,12 @@
+{
+  "id": 90023,
+  "name": "甜蜜的时光",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/localization/role/char_016_v1/square.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

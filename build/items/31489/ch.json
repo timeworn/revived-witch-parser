@@ -1,0 +1,12 @@
+{
+  "id": 31489,
+  "name": "时尚贝雷帽",
+  "description": "艾妮萌的宝贝收藏之一，稍微有点成熟风格的帽子",
+  "icon": "/ui/imagesets/items1/101114.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

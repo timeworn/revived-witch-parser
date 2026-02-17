@@ -1,0 +1,17 @@
+{
+  "id": 46208,
+  "name": "시공의 균열",
+  "description": "최고 등급의 차원의 마법이 기록되어 있는 마도서, 고대 여신이 남긴 것이라고 한다.",
+  "icon": "/ui/imagesets/items1/100456.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

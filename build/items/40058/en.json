@@ -1,0 +1,17 @@
+{
+  "id": 40058,
+  "name": "Luan",
+  "description": "Obtain Doll [Luan: Vermilion Phoenix]",
+  "icon": "/ui/imagesets/headphotos/hp_060.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78157,
+      "quantity": 1
+    }
+  ]
+}

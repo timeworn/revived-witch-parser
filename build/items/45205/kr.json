@@ -1,0 +1,17 @@
+{
+  "id": 45205,
+  "name": "쇄골의 망치",
+  "description": "명장이 만든 큰 망치, 단단한 골격을 깨부술 수 있다.",
+  "icon": "/ui/imagesets/items1/100403.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

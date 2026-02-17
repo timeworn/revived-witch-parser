@@ -1,0 +1,12 @@
+{
+  "id": 31135,
+  "name": "은하 패키지",
+  "description": "반짝이는 별 패키지, 구매하면 10회 소환과 육성 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift18.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46002,
+  "name": "Hunter Bow",
+  "description": "A long hunting bow. Essential for any good hunter.",
+  "icon": "/ui/imagesets/items1/100186.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

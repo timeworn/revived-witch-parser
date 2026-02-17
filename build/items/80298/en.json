@@ -1,0 +1,12 @@
+{
+  "id": 80298,
+  "name": "Soft Barstool",
+  "description": "[Compact Item] Whenever you come by, there's always a spot reserved for you. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101123.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

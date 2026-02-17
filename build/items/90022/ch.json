@@ -1,0 +1,17 @@
+{
+  "id": 90022,
+  "name": "治愈的小恶魔♪啾",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/100830.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35001,
+      "quantity": 68
+    }
+  ]
+}

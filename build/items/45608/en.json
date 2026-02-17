@@ -1,0 +1,17 @@
+{
+  "id": 45608,
+  "name": "Axe of the Primary Stone",
+  "description": "A giant axe held by the God of Thunder. Able to sever any soul that is tied to this earthly realm.",
+  "icon": "/ui/imagesets/items1/100421.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

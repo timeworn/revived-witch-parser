@@ -1,0 +1,12 @@
+{
+  "id": 80253,
+  "name": "小鹿剪影",
+  "description": "【墙饰】快一点，不要回头，继续奔跑！。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101008.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40019,
+  "name": "",
+  "description": "Obtain Doll [Hadal: Flower of the Battlefield]",
+  "icon": "/ui/imagesets/headphotos/hp_029.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78118,
+      "quantity": 1
+    }
+  ]
+}

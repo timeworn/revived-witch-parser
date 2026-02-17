@@ -1,0 +1,12 @@
+{
+  "id": 31418,
+  "name": "고급 선물 패키지",
+  "description": "고금 선물~",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewWeekShop02.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

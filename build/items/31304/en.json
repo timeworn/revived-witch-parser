@@ -1,0 +1,12 @@
+{
+  "id": 31304,
+  "name": "Lunia's Best Deal",
+  "description": "Lunia's Best Deal",
+  "icon": "/ui/imagesets/shop/shopgift57.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

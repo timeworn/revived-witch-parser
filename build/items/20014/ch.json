@@ -1,0 +1,12 @@
+{
+  "id": 20014,
+  "name": "坚实的木材",
+  "description": "安迪需要的坚实的木材。",
+  "icon": "/ui/imagesets/items1/100255.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

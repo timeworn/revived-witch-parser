@@ -1,0 +1,12 @@
+{
+  "id": 20011,
+  "name": "魔女笔记——思乡",
+  "description": "根据树精的描述，他的家乡似乎在艾琳岛的北端，三面环水。",
+  "icon": "/ui/imagesets/items1/100008.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

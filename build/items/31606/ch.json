@@ -1,0 +1,12 @@
+{
+  "id": 31606,
+  "name": "秋高气爽",
+  "description": "炎热的夏日已经过去，凉爽的秋风带来了丰收的喜悦",
+  "icon": "/ui/imagesets/items1/101202.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

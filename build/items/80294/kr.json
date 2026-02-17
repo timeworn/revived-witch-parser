@@ -1,0 +1,12 @@
+{
+  "id": 80294,
+  "name": "시절",
+  "description": "[벽 장식] 옛날 사진 속에 옛 시간이 멈춰 있고, 새로운 시간이 산들바람 처럼 불어온다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101119.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

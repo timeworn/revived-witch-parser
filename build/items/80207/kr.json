@@ -1,0 +1,12 @@
+{
+  "id": 80207,
+  "name": "해태 조각상",
+  "description": "[큰 가구] 신비한 동물 해태를 조각한 석상, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100933.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

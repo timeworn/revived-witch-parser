@@ -1,0 +1,12 @@
+{
+  "id": 80285,
+  "name": "Giant Magic Hat",
+  "description": "[Compact Item] A magic as tall as a person. It feels safe to hide in it, maybe. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101142.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

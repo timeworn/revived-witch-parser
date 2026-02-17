@@ -1,0 +1,17 @@
+{
+  "id": 40080,
+  "name": "Symbriette",
+  "description": "Obtain Doll [Symbriette: Sea Guardian]",
+  "icon": "/ui/imagesets/headphotos/hp_079.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78179,
+      "quantity": 1
+    }
+  ]
+}

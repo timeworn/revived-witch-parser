@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Evernight Nocturna",
-  "ownerId": 115,
+  "character": "Evernight Nocturna",
+  "characterId": 115,
   "evolutions": "(Doll's current Evolution Level increases Crit Chance by 0/1/2/3% and Crit DMG by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

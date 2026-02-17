@@ -1,0 +1,12 @@
+{
+  "id": 31236,
+  "name": "幸运占卜包裹",
+  "description": "庆祝幸运占卜活动上线，购买可获得包裹奖励。",
+  "icon": "/ui/imagesets/shop/shopgift43.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

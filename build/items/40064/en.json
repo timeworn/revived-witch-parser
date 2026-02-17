@@ -1,0 +1,17 @@
+{
+  "id": 40064,
+  "name": "La Crima",
+  "description": "Obtain Doll [La Crima: Tear of Gems]",
+  "icon": "/ui/imagesets/headphotos/hp_062.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78163,
+      "quantity": 1
+    }
+  ]
+}

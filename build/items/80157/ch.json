@@ -1,0 +1,12 @@
+{
+  "id": 80157,
+  "name": "沙滩城堡",
+  "description": "【小件】由沙子堆成的城堡，摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100825.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

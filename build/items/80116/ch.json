@@ -1,0 +1,12 @@
+{
+  "id": 80116,
+  "name": "紫罗兰墙纸",
+  "description": "【墙纸】紫罗兰色的墙纸。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100578.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

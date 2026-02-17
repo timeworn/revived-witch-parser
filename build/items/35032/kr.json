@@ -1,0 +1,12 @@
+{
+  "id": 35032,
+  "name": "문케이크",
+  "description": "달콤한 향기를 풍기며, 맛있어 보이는 케이크.",
+  "icon": "/ui/imagesets/items1/100781.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

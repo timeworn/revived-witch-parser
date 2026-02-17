@@ -1,0 +1,12 @@
+{
+  "id": 31356,
+  "name": "Easter Basic Pack",
+  "description": "Easter Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift63.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

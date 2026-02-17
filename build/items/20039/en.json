@@ -1,0 +1,12 @@
+{
+  "id": 20039,
+  "name": "Transcript of the Scroll",
+  "description": "A scroll found in the Church's library, with a black laurel on its back. Words on it are barely visible: \"chrono tower\", \"despair of the abyss\", and \"forbidden magic\".",
+  "icon": "/ui/imagesets/items1/100237.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

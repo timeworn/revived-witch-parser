@@ -1,0 +1,12 @@
+{
+  "id": 80262,
+  "name": "Family Photo",
+  "description": "[Wall Decor] A photo of a happy couple and a cat. Who wouldn't want this kind of life? Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101082.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

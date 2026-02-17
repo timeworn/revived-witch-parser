@@ -1,0 +1,12 @@
+{
+  "id": 31221,
+  "name": "Naughty Lollipop",
+  "description": "A must-have Halloween candy for naughty kids!",
+  "icon": "/ui/imagesets/items1/100840.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

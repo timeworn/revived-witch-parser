@@ -1,0 +1,12 @@
+{
+  "id": 31135,
+  "name": "繁星礼包",
+  "description": "闪耀星辰的礼包，购买后可获得十连召唤和其它培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift18.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

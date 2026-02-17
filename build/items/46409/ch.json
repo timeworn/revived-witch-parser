@@ -1,0 +1,17 @@
+{
+  "id": 46409,
+  "name": "伊南娜战歌",
+  "description": "战女神伊南娜所持的神器，能够激发生物的潜能，引导出灵魂的力量",
+  "icon": "/ui/imagesets/items1/100462.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

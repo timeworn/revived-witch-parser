@@ -1,0 +1,17 @@
+{
+  "id": 40034,
+  "name": "Lilia",
+  "description": "Obtain Doll [Lilia: Princess of Aurora]",
+  "icon": "/ui/imagesets/headphotos/hp_040.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78133,
+      "quantity": 1
+    }
+  ]
+}

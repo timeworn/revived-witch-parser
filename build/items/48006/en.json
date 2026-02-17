@@ -1,0 +1,17 @@
+{
+  "id": 48006,
+  "name": "Demonsbane Necklace",
+  "description": "A magic necklace favored among magicians in the far east. It is said to be able to cleanse evil and champion justice.",
+  "icon": "/ui/imagesets/items1/100464.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31059,
+  "name": "Daily Pack",
+  "description": "Available only once per day.",
+  "icon": "/ui/imagesets/shop/daygift1.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

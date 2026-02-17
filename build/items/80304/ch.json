@@ -1,0 +1,12 @@
+{
+  "id": 80304,
+  "name": "餐厅吧台",
+  "description": "【大件】欢笑与泪水共存，不论你有什么心事，这里总会有人耐心地听你诉说。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101129.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

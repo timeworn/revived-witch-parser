@@ -1,0 +1,12 @@
+{
+  "id": 35064,
+  "name": "썩은 씨앗",
+  "description": "시든 심장에 심각하게 오염된 변이 생물을 처치하여 획득할 수 있으며 숲의 회상 상점에서 아이템으로 교환할 수 있다.",
+  "icon": "/ui/imagesets/items1/101049.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

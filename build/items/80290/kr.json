@@ -1,0 +1,12 @@
+{
+  "id": 80290,
+  "name": "모독의 벽난로",
+  "description": "[큰 가구] 벽난로에 앉아 있는 악마는 '여긴 어떻게 인간 그림자 하나도 보이지 않지……'라는 생각을 하곤 한다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101147.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

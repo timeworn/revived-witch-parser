@@ -1,0 +1,17 @@
+{
+  "id": 47408,
+  "name": "명계의 갑옷",
+  "description": "명계의 데몬 솔저가 입었던 갑옷, 섬뜩한 어두운 기운을 발산한다.",
+  "icon": "/ui/imagesets/items1/100071.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

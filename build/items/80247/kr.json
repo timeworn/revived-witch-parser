@@ -1,0 +1,12 @@
+{
+  "id": 80247,
+  "name": "밀림 앵무새",
+  "description": "[벽장식] 말 잘하는 앵무새, 찍찍~ 주인님, 일어나세요. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101002.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

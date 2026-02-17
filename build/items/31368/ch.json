@@ -1,0 +1,12 @@
+{
+  "id": 31368,
+  "name": "蝉鸣福袋",
+  "description": "仲夏蝉鸣活动特惠福袋",
+  "icon": "/ui/imagesets/items1/101021.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

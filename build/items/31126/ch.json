@@ -1,0 +1,12 @@
+{
+  "id": 31126,
+  "name": "随机UR人偶",
+  "description": "可获得1个随机UR人偶",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

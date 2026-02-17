@@ -1,0 +1,12 @@
+{
+  "id": 31358,
+  "name": "Easter Deluxe Pack",
+  "description": "Easter Deluxe Pack",
+  "icon": "/ui/imagesets/shop/shopgift65.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

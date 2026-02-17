@@ -1,0 +1,17 @@
+{
+  "id": 40008,
+  "name": "Primula",
+  "description": "Obtain Doll [Primula: Floral Apothecary]",
+  "icon": "/ui/imagesets/headphotos/hp_020.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78107,
+      "quantity": 1
+    }
+  ]
+}

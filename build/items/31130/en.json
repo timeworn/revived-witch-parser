@@ -1,0 +1,20 @@
+{
+  "id": 31130,
+  "name": "Stamina Flask",
+  "description": "A mysterious, precious elixir found in the Chrono Tower. Makes you feel invigorated with a little rest.$B$$B$Restores 50% of maximum Stamina. (No time limit)",
+  "icon": "/ui/imagesets/items1/100515.png",
+  "type": "Normal Item",
+  "typeId": 42,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35003,
+      "quantity": -2
+    }
+  ]
+}

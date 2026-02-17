@@ -1,0 +1,17 @@
+{
+  "id": 45802,
+  "name": "암살자의 대거",
+  "description": "목표대상을 불시에 암살할 수 있는 대거.",
+  "icon": "/ui/imagesets/items1/100062.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

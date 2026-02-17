@@ -1,0 +1,17 @@
+{
+  "id": 46003,
+  "name": "크로스보우",
+  "description": "활을 쏘면 아주 먼 곳에 있는 타깃도 명중할 수 있다.",
+  "icon": "/ui/imagesets/items1/100187.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

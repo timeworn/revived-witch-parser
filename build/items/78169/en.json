@@ -1,0 +1,17 @@
+{
+  "id": 78169,
+  "name": "Matveiffe Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD36>Matveiffe</color>.",
+  "icon": "/ui/imagesets/items1/100779.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

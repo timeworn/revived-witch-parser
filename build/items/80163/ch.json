@@ -1,0 +1,12 @@
+{
+  "id": 80163,
+  "name": "海滩壁纸",
+  "description": "【墙纸】可以投影海滩风景的魔法墙纸。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100798.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

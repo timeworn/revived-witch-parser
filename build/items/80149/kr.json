@@ -1,0 +1,12 @@
+{
+  "id": 80149,
+  "name": "마녀 쿠션",
+  "description": "[작은 가구] 얼른 저 귀여운 얼굴 좀 만져봐! 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100718.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

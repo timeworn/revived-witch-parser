@@ -1,0 +1,12 @@
+{
+  "id": 35032,
+  "name": "月饼",
+  "description": "散发着香甜气味的点心，似乎很好吃。",
+  "icon": "/ui/imagesets/items1/100781.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

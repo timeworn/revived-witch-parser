@@ -1,0 +1,17 @@
+{
+  "id": 48002,
+  "name": "마석 목걸이",
+  "description": "일정한 마력이 부여된 목걸이.",
+  "icon": "/ui/imagesets/items1/100198.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45208,
+  "name": "终焉一击",
+  "description": "破坏神阿提那斯使用的，能够震碎生物的灵魂的巨锤",
+  "icon": "/ui/imagesets/items1/100406.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

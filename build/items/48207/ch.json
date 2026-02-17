@@ -1,0 +1,17 @@
+{
+  "id": 48207,
+  "name": "荆棘之衣",
+  "description": "衣服缠绕布满荆棘的魔法藤蔓，轻易靠近会受到魔法的反噬",
+  "icon": "/ui/imagesets/items1/100710.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

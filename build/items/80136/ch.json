@@ -1,0 +1,12 @@
+{
+  "id": 80136,
+  "name": "星光路灯",
+  "description": "【大件】略显孤独的高耸路灯，陪伴那在长椅上的孤独身影。摆放后可增加25点舒适度。",
+  "icon": "/ui/imagesets/items1/100668.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

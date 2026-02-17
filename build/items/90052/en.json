@@ -1,0 +1,17 @@
+{
+  "id": 90052,
+  "name": "Heart of White Night",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/101172.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35001,
+      "quantity": 98
+    }
+  ]
+}

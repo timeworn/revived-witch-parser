@@ -1,0 +1,12 @@
+{
+  "id": 35042,
+  "name": "Glowstick",
+  "description": "A magical item that makes idols shine and sparkle even more.",
+  "icon": "/ui/imagesets/items1/100896.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

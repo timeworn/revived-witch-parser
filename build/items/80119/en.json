@@ -1,0 +1,12 @@
+{
+  "id": 80119,
+  "name": "雷霆接待台",
+  "description": "【大件】雷霆游戏的集会接待台。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100651.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31041,
+  "name": "10레벨 모험 패키지",
+  "description": "마녀 10레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelblue3.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "극야의 녹투르나",
-  "ownerId": 115,
+  "character": "극야의 녹투르나",
+  "characterId": 115,
   "evolutions": "(현재 캐릭터 진화 레벨 치명타율 0/1/2/3%, 치명타 위력 0/1/2/3% 추가 증가)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

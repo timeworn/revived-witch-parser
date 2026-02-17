@@ -1,0 +1,12 @@
+{
+  "id": 35047,
+  "name": "Wrapped Gift",
+  "description": "A gift prepared especially by the Witch. Who will she give it to?",
+  "icon": "/ui/imagesets/items1/100923.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

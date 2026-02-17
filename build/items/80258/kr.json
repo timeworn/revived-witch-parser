@@ -1,0 +1,12 @@
+{
+  "id": 80258,
+  "name": "밀림 피크닉 매트",
+  "description": "[카펫] 이렇게 맛있는 게 많은데 대체 뭘로 할까요? 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101013.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

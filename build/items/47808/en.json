@@ -1,0 +1,17 @@
+{
+  "id": 47808,
+  "name": "Ring of Draupnir",
+  "description": "A ring worn by the half-man monster Draupnir during the Battle of Nayd. It constantly devours its wearer's soul and converts it into endless magic power.",
+  "icon": "/ui/imagesets/items1/100436.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

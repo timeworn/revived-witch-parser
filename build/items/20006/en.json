@@ -1,0 +1,12 @@
+{
+  "id": 20006,
+  "name": "Wand of Radiance",
+  "description": "A magic wand returns to normal after being infused with magic, barely inscribed with \"The chevalier guard this world\". Only the chosen one can open the gate of the ruins.",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 74005,
+  "name": "야수의 이슬",
+  "description": "맑고 투명한 이슬, 가장 원시적인 야수성이 봉인되어 있다. 인형의 스킬을 강화하는 데 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100554.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80012,
+  "name": "圆形地毯",
+  "description": "【地毯】绿色的圆形地毯。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100542.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

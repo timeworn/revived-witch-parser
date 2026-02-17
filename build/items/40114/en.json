@@ -1,0 +1,17 @@
+{
+  "id": 40114,
+  "name": "Evernight Nocturna",
+  "description": "Obtain Doll [Evernight Nocturna: Eternal Oath]",
+  "icon": "/ui/imagesets/localization/role/char_115/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781115,
+      "quantity": 1
+    }
+  ]
+}

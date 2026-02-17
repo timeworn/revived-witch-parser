@@ -1,0 +1,12 @@
+{
+  "id": 31141,
+  "name": "预热装备礼包",
+  "description": "新章节开启预热，购买后可获得装备培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift22.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46604,
+  "name": "봉마의 보옥",
+  "description": "악마를 봉인해둔 불길한 보옥.",
+  "icon": "/ui/imagesets/items1/100077.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

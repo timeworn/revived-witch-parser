@@ -1,0 +1,12 @@
+{
+  "id": 35033,
+  "name": "Pearl",
+  "description": "Iridescent pearls that you wish you could sell for cash.",
+  "icon": "/ui/imagesets/items1/100787.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

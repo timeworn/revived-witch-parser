@@ -1,0 +1,13 @@
+{
+  "id": 76002,
+  "name": "Silver",
+  "description": "Pure white precious metal with high ductility. It provides <color=#32CD32>500</color> EXP for Equipment.",
+  "icon": "/ui/imagesets/items1/100127.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

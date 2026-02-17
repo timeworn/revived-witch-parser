@@ -1,0 +1,17 @@
+{
+  "id": 40085,
+  "name": "Phrygia",
+  "description": "Can obtain the Doll [Phrygia: Frog Chevalier]",
+  "icon": "/ui/imagesets/role/char_086/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78186,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80199,
+  "name": "大号圣诞袜",
+  "description": "【墙饰】连夜赶制的特大码圣诞袜。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100886.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

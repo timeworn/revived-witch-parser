@@ -1,0 +1,17 @@
+{
+  "id": 40005,
+  "name": "베데어",
+  "description": "[정열의 춤 베데어] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_005.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78104,
+      "quantity": 1
+    }
+  ]
+}

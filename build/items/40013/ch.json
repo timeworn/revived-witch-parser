@@ -1,0 +1,17 @@
+{
+  "id": 40013,
+  "name": "奈茉茜",
+  "description": "可以获得人偶 【夜刃送葬者 奈茉茜】",
+  "icon": "/ui/imagesets/headphotos/hp_014.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78112,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31212,
+  "name": "喵古拉糖果包",
+  "description": "喵古拉伯爵倾情推荐的糖果组合~",
+  "icon": "/ui/imagesets/items1/100839.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

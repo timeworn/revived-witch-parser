@@ -1,0 +1,12 @@
+{
+  "id": 31672,
+  "name": "초월 패키지",
+  "description": "메아리 호화 패키지",
+  "icon": "/ui/imagesets/shop/shopgift81.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

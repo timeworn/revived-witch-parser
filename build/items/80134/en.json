@@ -1,0 +1,12 @@
+{
+  "id": 80134,
+  "name": "Garden Arch",
+  "description": "[Bulky Item] Through this arch of happiness you can feel the beauty of stars. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100666.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

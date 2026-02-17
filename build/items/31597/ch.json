@@ -1,0 +1,12 @@
+{
+  "id": 31597,
+  "name": "夏日回响",
+  "description": "少女们聚在一起，在夏日的末尾，度过了一段难忘的时光",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame14.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

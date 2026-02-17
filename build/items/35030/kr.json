@@ -1,0 +1,12 @@
+{
+  "id": 35030,
+  "name": "석회",
+  "description": "[이벤트] 천연 석회 재료, 건물의 기반을 잡는데 사용된다",
+  "icon": "/ui/imagesets/items1/100784.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

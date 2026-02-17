@@ -1,0 +1,12 @@
+{
+  "id": 80154,
+  "name": "비치 하우스",
+  "description": "[큰 가구] 언제든 맛있는 수박을 먹기 위해 만들어진 미니 비치 하우스. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100802.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

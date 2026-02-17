@@ -1,0 +1,17 @@
+{
+  "id": 47209,
+  "name": "Gygeurs, Sanction of Divinity",
+  "description": "A staff of trials passed down in the Underworld. It is used to judge whether the souls of the dead may enter hell.",
+  "icon": "/ui/imagesets/items1/100447.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

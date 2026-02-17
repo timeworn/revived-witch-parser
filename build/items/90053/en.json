@@ -1,0 +1,12 @@
+{
+  "id": 90053,
+  "name": "Spring Sunrise",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/101209.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

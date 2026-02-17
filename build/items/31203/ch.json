@@ -1,0 +1,12 @@
+{
+  "id": 31203,
+  "name": "限时支援进阶礼包",
+  "description": "庆祝角色专属装备等级突破，购买可获得抽卡道具和大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift32.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

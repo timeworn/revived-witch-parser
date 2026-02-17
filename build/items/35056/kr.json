@@ -1,0 +1,12 @@
+{
+  "id": 35056,
+  "name": "행운의 코인",
+  "description": "신비한 고대 화폐. 우물에 던지면 행운이 찾아온다고 한다.",
+  "icon": "/ui/imagesets/items1/101030.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

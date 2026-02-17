@@ -1,0 +1,12 @@
+{
+  "id": 35043,
+  "name": "Fortune",
+  "description": "A symbol of people's best wishes for the Spring Festival. Only those blessed by its power can challenge Beast Strike.\n$B$It generally takes time to recover. $B$$B$Playing Beast Strike costs Fortune.",
+  "icon": "/ui/imagesets/items1/100916.png",
+  "type": "Currency",
+  "typeId": 545,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

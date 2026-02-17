@@ -1,0 +1,12 @@
+{
+  "id": 80145,
+  "name": "星辰？",
+  "description": "【小件】圆圆的外形散发着柔和的光芒，但不知为何闻起来香香的？摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100708.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20009,
+  "name": "마녀 노트-송충 형제",
+  "description": "이르민술 숲에서 송충 동생을 찾았지만, 그는 이미 희망을 포기한 듯했다.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

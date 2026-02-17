@@ -1,0 +1,17 @@
+{
+  "id": 46004,
+  "name": "Ebony Bow",
+  "description": "A highly durable bow made of ebony.",
+  "icon": "/ui/imagesets/items1/100188.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

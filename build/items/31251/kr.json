@@ -1,0 +1,12 @@
+{
+  "id": 31251,
+  "name": "컴백 임무 패키지",
+  "description": "컴백 임무 패키지",
+  "icon": "/ui/imagesets/shop/shopgift70.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

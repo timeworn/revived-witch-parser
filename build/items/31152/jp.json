@@ -1,0 +1,17 @@
+{
+  "id": 31152,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame7.png",
+  "type": "",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

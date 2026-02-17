@@ -1,0 +1,17 @@
+{
+  "id": 45409,
+  "name": "Fensalir",
+  "description": "A sword of soul enshrined in the Misery Palace that carries the resentment of Sepharad, the Protector of Souls. It's said to contain the power to kill any gods.",
+  "icon": "/ui/imagesets/items1/100432.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

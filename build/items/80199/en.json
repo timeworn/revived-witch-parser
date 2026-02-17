@@ -1,0 +1,12 @@
+{
+  "id": 80199,
+  "name": "Xmas Stocking",
+  "description": "[Wall Decor] A jumbo Christmas stocking made through overtime labor. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100886.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

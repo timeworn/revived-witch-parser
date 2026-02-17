@@ -1,0 +1,17 @@
+{
+  "id": 47806,
+  "name": "魔性指环",
+  "description": "传说中能够夺取佩戴者的理性的魔戒",
+  "icon": "/ui/imagesets/items1/100434.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35047,
+  "name": "정성을 담은 선물",
+  "description": "마녀가 정성껏 준비한 선물, 누구에게 선물하면 좋을까?",
+  "icon": "/ui/imagesets/items1/100923.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

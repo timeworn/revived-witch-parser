@@ -1,0 +1,17 @@
+{
+  "id": 47607,
+  "name": "용혈의 예복",
+  "description": "파돌라 섬에 있는 드래곤 제국의 여왕이 즐겨 입던 예복.",
+  "icon": "/ui/imagesets/items1/100390.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

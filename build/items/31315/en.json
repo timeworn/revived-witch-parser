@@ -1,0 +1,12 @@
+{
+  "id": 31315,
+  "name": "White Day Growth Pack",
+  "description": "White Day Growth Pack",
+  "icon": "/ui/imagesets/shop/shopgift60.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

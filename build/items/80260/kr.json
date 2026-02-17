@@ -1,0 +1,12 @@
+{
+  "id": 80260,
+  "name": "집회 카펫",
+  "description": "[카펫] 사람들은 체스판 같지 않은 카펫은 좋은 카펫이 아니라고 하지. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101077.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

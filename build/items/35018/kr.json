@@ -1,0 +1,12 @@
+{
+  "id": 35018,
+  "name": "가구 코인",
+  "description": "반짝이는 금빛 코인, 마녀의 집 가구를 구매할 때 사용한다.",
+  "icon": "/ui/imagesets/items1/100553.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

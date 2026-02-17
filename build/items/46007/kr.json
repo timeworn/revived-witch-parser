@@ -1,0 +1,17 @@
+{
+  "id": 46007,
+  "name": "아스트랄 보우",
+  "description": "별빛의 축복이 모여 있는 신기한 활.",
+  "icon": "/ui/imagesets/items1/100425.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

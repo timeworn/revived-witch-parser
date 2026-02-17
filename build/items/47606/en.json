@@ -1,0 +1,17 @@
+{
+  "id": 47606,
+  "name": "Cape of the Archmagus",
+  "description": "An awe-inspiring cloak worn by the Archmagus.",
+  "icon": "/ui/imagesets/items1/100389.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

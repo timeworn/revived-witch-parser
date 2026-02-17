@@ -1,0 +1,17 @@
+{
+  "id": 49403,
+  "name": "신성 축복-도복",
+  "description": "신성 축복-도복",
+  "icon": "/ui/imagesets/items1/100753.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

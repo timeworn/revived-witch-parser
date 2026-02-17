@@ -1,0 +1,12 @@
+{
+  "id": 31102,
+  "name": "Phantom Mirror of Stars Avatar Frame",
+  "description": "May you continue to overcome yourself.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame5.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

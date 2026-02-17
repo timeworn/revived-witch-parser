@@ -1,0 +1,17 @@
+{
+  "id": 45809,
+  "name": "명계의 칼날 '리디르'",
+  "description": "명계 수호자가 사용하는 대거, 비참한 궁전에서 섬기고 있으며 모든 침입자의 생명을 탈취할 수 있다.",
+  "icon": "/ui/imagesets/items1/100402.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

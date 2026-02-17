@@ -28,6 +28,7 @@ export interface Item {
   typeId: number;
   maxNum: number;
   limited: boolean;
+  timeLimit: number;
   discardRewards: RewardItem[];
 }
 
@@ -46,9 +47,11 @@ export interface RawUEItem {
   skillid: number;
 }
 
+export type UEItem = Item & UEOnlyItem;
+
 export interface UEOnlyItem {
-  ownerId: number | null;
-  owner: string | null;
+  characterId: number | null;
+  character: string | null;
   evolutions: UEItemEvolution;
   noEvolution: string | null;
   skills: UEItemSkill[];
@@ -79,3 +82,41 @@ export interface UEItemSkill {
   level: number;
   value: string | null;
 }
+
+export interface RawApItem {
+  currencynums: number;
+  dailyLimitNum: number;
+  id: number;
+  itemids: number;
+  itemnums: number;
+}
+
+export type ApItem = Item & ApOnlyItem;
+
+export interface ApOnlyItem {
+  dailyLimit: number;
+  currencyNeeded: number;
+  itemGiven: RewardItem[];
+}
+
+export interface RawMaterialItem {
+  id: number;
+  ifEvolutionItem: number;
+}
+
+export interface MaterialOnlyItem {
+  isEvolutionItem: boolean;
+}
+
+export type MaterialItem = Item & MaterialOnlyItem;
+
+export interface RawDollItem {
+  id: number;
+  roleid: number;
+}
+
+export interface DollOnlyItem {
+  characterId: number;
+}
+
+export type DollItem = Item & DollOnlyItem;

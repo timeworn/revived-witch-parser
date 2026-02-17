@@ -1,0 +1,12 @@
+{
+  "id": 80146,
+  "name": "캣 타워-Kaze",
+  "description": "[큰 가구] 고양이 한 마리가 머리를 빼꼼 내밀고 있다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100681.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

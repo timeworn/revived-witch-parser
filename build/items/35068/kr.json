@@ -1,0 +1,12 @@
+{
+  "id": 35068,
+  "name": "핑크 젤리",
+  "description": "검은 고양이가 인정하는 사람에게 발급하는 화폐, 기념 가구와 교환하는 데에 쓰인다.",
+  "icon": "/ui/imagesets/items1/101152.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

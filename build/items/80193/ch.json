@@ -1,0 +1,12 @@
+{
+  "id": 80193,
+  "name": "圣诞窗户",
+  "description": "【窗户】厚实的窗帘，可以将风雪阻隔在小屋之外。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100879.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

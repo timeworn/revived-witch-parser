@@ -1,0 +1,12 @@
+{
+  "id": 31257,
+  "name": "Birthday Card",
+  "description": "Contains heartfelt birthday greetings from the Witch. Increases a doll's Intimacy by 200.",
+  "icon": "/ui/imagesets/items1/100870.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

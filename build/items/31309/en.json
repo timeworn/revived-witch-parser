@@ -1,0 +1,17 @@
+{
+  "id": 31309,
+  "name": "Spring Festival Avatar Frame",
+  "description": "Happy Spring Festival!",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame12.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

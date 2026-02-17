@@ -1,0 +1,17 @@
+{
+  "id": 46407,
+  "name": "Song of the Damned",
+  "description": "An instrument that praises the war exploits of the Demon soldiers. It is capable of playing the sounds of Devildom.",
+  "icon": "/ui/imagesets/items1/100460.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

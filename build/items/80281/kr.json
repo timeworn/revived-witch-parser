@@ -1,0 +1,12 @@
+{
+  "id": 80281,
+  "name": "염옥의 깃발",
+  "description": "[벽 장식] 알 수 없는 액체로 더럽혀져있고, 모서리는 이상한 발톱 자국으로 찢겨 나간 깃발. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101138.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47207,
+  "name": "Calamity of Fallen Gods",
+  "description": "A wand that summoned the half-man monster Draupnir during the Battle of Nayd.",
+  "icon": "/ui/imagesets/items1/100445.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49402,
+  "name": "신성 축복-하프",
+  "description": "신성 축복-하프",
+  "icon": "/ui/imagesets/items1/100755.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35003,
+  "name": "Stamina",
+  "description": "To sustain Witch's journey. $B$When Stamina is exhausted, you have to return to the bottom of Chrono Tower. Stamina will be recovered after a period of rest. $B$$B$Exploring Main Story costs Stamina.",
+  "icon": "/ui/imagesets/items1/100116.png",
+  "type": "Currency",
+  "typeId": 545,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46809,
+  "name": "Mihr, the Grail of Life",
+  "description": "An artifact that is used by the goddess Mihr to endow all creatures with the power of resurrection. It's regarded as the origin of life.",
+  "icon": "/ui/imagesets/items1/100452.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

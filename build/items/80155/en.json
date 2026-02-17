@@ -1,0 +1,12 @@
+{
+  "id": 80155,
+  "name": "Palm Tree Decor",
+  "description": "[Compact Item] A palm tree relocated from the seaside. Coconut juice at your beck and call. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100808.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

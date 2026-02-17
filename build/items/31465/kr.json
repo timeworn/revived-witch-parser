@@ -1,0 +1,12 @@
+{
+  "id": 31465,
+  "name": "컴백 스타트 패키지",
+  "description": "컴백 스타트 패키지",
+  "icon": "/ui/imagesets/items1/100871.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

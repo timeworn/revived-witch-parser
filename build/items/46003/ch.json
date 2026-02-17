@@ -1,0 +1,17 @@
+{
+  "id": 46003,
+  "name": "强弩",
+  "description": "可以发射弓弩，击中极远距离的目标",
+  "icon": "/ui/imagesets/items1/100187.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

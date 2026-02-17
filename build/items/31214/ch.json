@@ -1,0 +1,12 @@
+{
+  "id": 31214,
+  "name": "木乃伊糖果包",
+  "description": "在古老国度发现的糖果，比木乃伊还要老！",
+  "icon": "/ui/imagesets/items1/100838.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

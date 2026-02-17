@@ -1,0 +1,12 @@
+{
+  "id": 31672,
+  "name": "终极礼包",
+  "description": "夏日回响豪华礼包",
+  "icon": "/ui/imagesets/shop/shopgift81.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

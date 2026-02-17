@@ -1,0 +1,12 @@
+{
+  "id": 31072,
+  "name": "Basic Summon Pack",
+  "description": "Purchase to summon multiple times.",
+  "icon": "/ui/imagesets/shop/shopgift1.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

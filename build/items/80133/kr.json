@@ -1,0 +1,12 @@
+{
+  "id": 80133,
+  "name": "미니 화단",
+  "description": "[작은 가구] 축복을 전해주는 아름다운 작은 화단. 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100665.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

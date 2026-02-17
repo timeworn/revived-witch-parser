@@ -1,0 +1,12 @@
+{
+  "id": 35057,
+  "name": "에그",
+  "description": "겉면이 화려하게 페인팅 되어 있어, 가지고 있으면 좋은 일이 생길 것 같다.",
+  "icon": "/ui/imagesets/items1/100991.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

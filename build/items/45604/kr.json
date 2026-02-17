@@ -1,0 +1,17 @@
+{
+  "id": 45604,
+  "name": "트롤의 도끼",
+  "description": "트롤족이 사용하던 도끼, 모양이 단순하고 거칠다.",
+  "icon": "/ui/imagesets/items1/100173.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

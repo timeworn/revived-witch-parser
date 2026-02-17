@@ -1,0 +1,20 @@
+{
+  "id": 31036,
+  "name": "Stamina Potion",
+  "description": "A mysterious, precious elixir found in the Chrono Tower. Consuming it will restore Stamina greatly as having a long rest.$B$$B$Restores 20 Stamina.",
+  "icon": "/ui/imagesets/items1/100514.png",
+  "type": "Normal Item",
+  "typeId": 42,
+  "maxNum": 1,
+  "limited": true,
+  "timeLimit": 10080,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35003,
+      "quantity": 20
+    }
+  ]
+}

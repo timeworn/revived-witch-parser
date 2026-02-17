@@ -1,0 +1,17 @@
+{
+  "id": 45006,
+  "name": "荣耀之盾",
+  "description": "神圣帝国——维罗妮卡赐予百战归来的勇士的盾牌，代表无上的荣耀",
+  "icon": "/ui/imagesets/items1/100409.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

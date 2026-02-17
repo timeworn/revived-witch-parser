@@ -1,0 +1,17 @@
+{
+  "id": 47403,
+  "name": "锁子甲",
+  "description": "铁丝缀合而成的铠甲，具有很好的防御性",
+  "icon": "/ui/imagesets/items1/100072.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

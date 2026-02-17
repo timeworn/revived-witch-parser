@@ -1,0 +1,12 @@
+{
+  "id": 80244,
+  "name": "Tree Base",
+  "description": "[Bulky Item] A secret base hidden in a tree. You have to be invited to get in. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100999.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

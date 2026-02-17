@@ -1,0 +1,13 @@
+{
+  "id": 79004,
+  "name": "혼의 정수",
+  "description": "영혼의 기억이 응집되어 있는 정수, 전용 장비 강화에 사용한다.",
+  "icon": "/ui/imagesets/items1/100155.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

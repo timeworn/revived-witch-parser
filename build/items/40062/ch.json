@@ -1,0 +1,17 @@
+{
+  "id": 40062,
+  "name": "南奈尔",
+  "description": "可以获得人偶 【镜之守护 南奈尔】",
+  "icon": "/ui/imagesets/localization/role/char_063/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78161,
+      "quantity": 1
+    }
+  ]
+}

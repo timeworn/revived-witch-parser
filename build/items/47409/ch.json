@@ -1,0 +1,17 @@
+{
+  "id": 47409,
+  "name": "崇高之铠·叙伊斯",
+  "description": "太古时期精灵族工匠科达雷根为纪念逝去的半神英雄巴多拉斯，把半神的遗骨重新投入熔炉之中，锻造出的最高杰作",
+  "icon": "/ui/imagesets/items1/100442.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

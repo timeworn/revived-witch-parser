@@ -1,0 +1,12 @@
+{
+  "id": 80057,
+  "name": "호화 소파",
+  "description": "[큰 가구] 천과 나무로 만든 호화스러운 소파, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100559.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

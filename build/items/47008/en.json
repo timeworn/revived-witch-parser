@@ -1,0 +1,17 @@
+{
+  "id": 47008,
+  "name": "Scepter of the High Seat",
+  "description": "A staff symbolic of Veronica, the Holy Empire. It's said to be the holy staff used by the White Empress to pacify the chaos.",
+  "icon": "/ui/imagesets/items1/100416.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

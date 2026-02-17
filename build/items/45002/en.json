@@ -1,0 +1,17 @@
+{
+  "id": 45002,
+  "name": "Chevalier Shield",
+  "description": "A shield tailored for chevaliers. It's able to resist frontal lunge attacks.",
+  "icon": "/ui/imagesets/items1/100070.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31309,
+  "name": "설날 액자",
+  "description": "새해 복 많이 받으세요!",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame12.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80266,
+  "name": "喵的蛋生",
+  "description": "【小件】蛋里怎么会孵化出猫猫？——是魔法，这里面一定是加了魔法！摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101070.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

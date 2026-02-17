@@ -1,0 +1,17 @@
+{
+  "id": 40033,
+  "name": "Shuffle",
+  "description": "Obtain Doll [Shuffle: Annihilator of Existence]",
+  "icon": "/ui/imagesets/headphotos/hp_050.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78132,
+      "quantity": 1
+    }
+  ]
+}

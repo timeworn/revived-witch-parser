@@ -1,0 +1,17 @@
+{
+  "id": 46804,
+  "name": "파마의 잔",
+  "description": "사악한 힘을 정화하는 데 사용하는 잔.",
+  "icon": "/ui/imagesets/items1/100203.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

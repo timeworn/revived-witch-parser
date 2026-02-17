@@ -1,0 +1,12 @@
+{
+  "id": 80297,
+  "name": "Pixel Neko Ceiling",
+  "description": "[Wall Decor] This kind of suspended ceiling is a common sight at restaurant bars, for they're cheap, practical, and easy to clean. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101122.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

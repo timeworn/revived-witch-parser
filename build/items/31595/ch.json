@@ -1,0 +1,12 @@
+{
+  "id": 31595,
+  "name": "冰红茶",
+  "description": "一杯冰红茶，畅爽无极限！",
+  "icon": "/ui/imagesets/items1/101156.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47608,
+  "name": "스타더스트의 옷",
+  "description": "별들의 수려한 기운을 모아 만든, 가볍고 우아하며 절대 찢어지지 않는 옷.",
+  "icon": "/ui/imagesets/items1/100391.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80307,
+  "name": "Khaki Carpet",
+  "description": "[Carpet] A khaki carpet was chosen so that coffee and wine stains won't stand out. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101132.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

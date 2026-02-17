@@ -1,0 +1,17 @@
+{
+  "id": 48405,
+  "name": "静水宝珠",
+  "description": "寄宿湖之女神祝福的宝珠，能够抵抗魔法的侵蚀",
+  "icon": "/ui/imagesets/items1/100684.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

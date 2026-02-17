@@ -1,0 +1,17 @@
+{
+  "id": 40006,
+  "name": "高贵的女性",
+  "description": "可以获得人偶 【月下狼人 瓦鲁夫】",
+  "icon": "/ui/imagesets/headphotos/hp_007.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78105,
+      "quantity": 1
+    }
+  ]
+}

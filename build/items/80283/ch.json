@@ -1,0 +1,12 @@
+{
+  "id": 80283,
+  "name": "不详棺木",
+  "description": "【小件】“打开吧，快打开吧……”一旦靠近，耳边就会响起低语。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101140.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

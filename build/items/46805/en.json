@@ -1,0 +1,17 @@
+{
+  "id": 46805,
+  "name": "Healing Grail",
+  "description": "A grail that holds the healing power of hierophants.",
+  "icon": "/ui/imagesets/items1/100448.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

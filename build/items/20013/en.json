@@ -1,0 +1,12 @@
+{
+  "id": 20013,
+  "name": "Beastbone Ring",
+  "description": "A ring roughly made of the hard beast bones. It seems to be a token for the contact of an organization, used to distinguish from other groups.",
+  "icon": "/ui/imagesets/items1/100261.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

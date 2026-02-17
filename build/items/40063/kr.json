@@ -1,0 +1,17 @@
+{
+  "id": 40063,
+  "name": "이사벨라",
+  "description": "[신의 대행자 이사벨라] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/role/char_064/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78162,
+      "quantity": 1
+    }
+  ]
+}

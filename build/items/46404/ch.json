@@ -1,0 +1,17 @@
+{
+  "id": 46404,
+  "name": "哀怨古琴",
+  "description": "某位不得意的琴师传给后世的古琴，似乎在诉说着他的哀怨",
+  "icon": "/ui/imagesets/items1/100177.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

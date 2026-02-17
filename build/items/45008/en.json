@@ -1,0 +1,17 @@
+{
+  "id": 45008,
+  "name": "Shield of the Chromatic Dragon",
+  "description": "A shield crystal clear as jade. Said to be made of the scales of the ancient Chromatic Dragon. It can absorb all kinds of magic damage.",
+  "icon": "/ui/imagesets/items1/100411.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

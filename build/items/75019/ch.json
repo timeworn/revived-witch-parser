@@ -1,0 +1,13 @@
+{
+  "id": 75019,
+  "name": "彩色羽",
+  "description": "在魔力的作用下突变而成的彩色羽毛。用于人偶突破。",
+  "icon": "/ui/imagesets/items1/100635.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45605,
+  "name": "历战斧",
+  "description": "历经百战的勇士使用过的斧头，饱经风霜",
+  "icon": "/ui/imagesets/items1/100418.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

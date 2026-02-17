@@ -1,0 +1,12 @@
+{
+  "id": 35052,
+  "name": "紫色奖券",
+  "description": "游园会中获得的特殊奖券，可用于提升魔女的装备等级。【活动材料】",
+  "icon": "/ui/imagesets/items1/100990.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

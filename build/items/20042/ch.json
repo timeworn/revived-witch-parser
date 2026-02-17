@@ -1,0 +1,12 @@
+{
+  "id": 20042,
+  "name": "铸式金币",
+  "description": "纯金铸造的纪念币，醒目的百合花纹章搭配币身的灿烂金光，毫无疑问是高价的精品。背面刻着几行文字，可以辨认出是：权自神授，荣光永存。",
+  "icon": "/ui/imagesets/items1/101089.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

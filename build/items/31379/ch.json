@@ -1,0 +1,12 @@
+{
+  "id": 31379,
+  "name": "专属武器终极礼包",
+  "description": "专属武器终极礼包",
+  "icon": "/ui/imagesets/shop/shopgift28.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

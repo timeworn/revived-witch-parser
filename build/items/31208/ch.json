@@ -1,0 +1,12 @@
+{
+  "id": 31208,
+  "name": "专属装备养成礼包",
+  "description": "购买后可获得大量专属装备养成材料。",
+  "icon": "/ui/imagesets/shop/shopgift32.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

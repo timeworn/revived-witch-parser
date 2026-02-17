@@ -1,0 +1,13 @@
+{
+  "id": 79003,
+  "name": "魂力晶石",
+  "description": "灵魂记忆凝结成的魔力晶石，能用来强化专属装备",
+  "icon": "/ui/imagesets/items1/100248.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80221,
+  "name": "春节地毯",
+  "description": "【地毯】喜气洋洋的红色地毯。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100937.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

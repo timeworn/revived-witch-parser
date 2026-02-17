@@ -1,0 +1,17 @@
+{
+  "id": 45808,
+  "name": "Blade of the Darkest Night",
+  "description": "A dagger that can find its target even in the dark by using the Curse of Blood. It can awaken the user's instincts for assassination.",
+  "icon": "/ui/imagesets/items1/100401.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

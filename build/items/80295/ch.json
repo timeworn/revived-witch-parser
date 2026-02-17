@@ -1,0 +1,12 @@
+{
+  "id": 80295,
+  "name": "温存",
+  "description": "【墙饰】温和的灯光配上丰盛的食物，一天的坏心情瞬间荡然无存。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101120.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

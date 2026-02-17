@@ -1,0 +1,17 @@
+{
+  "id": 40064,
+  "name": "拉·柯莉玛",
+  "description": "可以获得人偶 【宝石之泪 拉·柯莉玛】",
+  "icon": "/ui/imagesets/headphotos/hp_062.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78163,
+      "quantity": 1
+    }
+  ]
+}

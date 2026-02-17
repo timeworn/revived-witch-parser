@@ -1,0 +1,17 @@
+{
+  "id": 46406,
+  "name": "유혹의 선율",
+  "description": "바다 요괴가 선원을 유혹할 때 사용하는 악기.",
+  "icon": "/ui/imagesets/items1/100459.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

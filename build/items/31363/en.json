@@ -1,0 +1,12 @@
+{
+  "id": 31363,
+  "name": "Daily Giftbox",
+  "description": "Daily Gift",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewShop1.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

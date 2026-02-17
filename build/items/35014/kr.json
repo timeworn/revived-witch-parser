@@ -1,0 +1,12 @@
+{
+  "id": 35014,
+  "name": "하얀색 빛",
+  "description": "강기슭에 모여 있는 희미한 흰색 빛, 햇볕을 따라 정원의 곳곳에 흩어져 있다. 이를 통해 잔잔한 그리움을 느낄 수 있다.",
+  "icon": "/ui/imagesets/items1/100238.png",
+  "type": "재화",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

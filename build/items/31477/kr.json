@@ -1,0 +1,12 @@
+{
+  "id": 31477,
+  "name": "제1일 축하 패키지",
+  "description": "숲에 출몰하는 희귀 버섯. 따라가면 신비한 보물을 찾을 수 있다고 한다.",
+  "icon": "/ui/imagesets/items1/101054.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46406,
+  "name": "诱惑邪音",
+  "description": "海妖诱惑船员时使用的乐器",
+  "icon": "/ui/imagesets/items1/100459.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

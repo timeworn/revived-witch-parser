@@ -1,0 +1,17 @@
+{
+  "id": 49902,
+  "name": "圣铃",
+  "description": "节日里常见的装饰物，声音优雅动听",
+  "icon": "/ui/imagesets/items1/100905.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

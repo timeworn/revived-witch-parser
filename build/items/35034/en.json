@@ -1,0 +1,12 @@
+{
+  "id": 35034,
+  "name": "Coral",
+  "description": "Rare coral chunks that only grow on strange and mysterious beasts.",
+  "icon": "/ui/imagesets/items1/100786.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

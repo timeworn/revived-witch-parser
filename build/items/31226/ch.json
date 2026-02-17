@@ -1,0 +1,12 @@
+{
+  "id": 31226,
+  "name": "猫猫头像框",
+  "description": "有了这个，就连语气都发生了变化…喵呜！",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame9.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

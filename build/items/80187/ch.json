@@ -1,0 +1,12 @@
+{
+  "id": 80187,
+  "name": "温馨柴火堆",
+  "description": "【小件】点燃后可以把屋子变得暖暖的。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100873.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

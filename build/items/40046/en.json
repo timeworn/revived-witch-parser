@@ -1,0 +1,17 @@
+{
+  "id": 40046,
+  "name": "Nocturna",
+  "description": "Obtain Doll [Nocturna: Scarlet Moon]",
+  "icon": "/ui/imagesets/headphotos/hp_021.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78145,
+      "quantity": 1
+    }
+  ]
+}

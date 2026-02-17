@@ -1,0 +1,12 @@
+{
+  "id": 90042,
+  "name": "炽夏焦点",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/101166.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

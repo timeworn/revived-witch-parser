@@ -1,0 +1,12 @@
+{
+  "id": 80276,
+  "name": "얼룩진 벽",
+  "description": "[벽지] 긴 세월을 지나 얼룩덜룩해진 벽지, 남은 무늬에서 화려했던 과거를 엿볼 수 있다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101133.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31291,
+  "name": "Dazzling Master Pack",
+  "description": "Rejoice in the coming of Dazzling Stage! Buy this pack for Summon Items and a ton of equipment upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift49.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

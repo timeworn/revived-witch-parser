@@ -1,0 +1,17 @@
+{
+  "id": 31278,
+  "name": "Chinese Knot",
+  "description": "Spring Festival Limited Avatar ",
+  "icon": "/ui/imagesets/headphotos/headphoto_SpringFestival.png",
+  "type": "Avatar",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31452,
+  "name": "Forest Recall Basic Pack",
+  "description": "Forest Recall Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

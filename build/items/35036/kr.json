@@ -1,0 +1,12 @@
+{
+  "id": 35036,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100835.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

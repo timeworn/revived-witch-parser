@@ -1,0 +1,12 @@
+{
+  "id": 80176,
+  "name": "Tiny Phantom Lamp",
+  "description": "[Compact Item] A phantom that adds to the creepy atmosphere. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100858.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

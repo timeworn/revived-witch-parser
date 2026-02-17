@@ -1,0 +1,12 @@
+{
+  "id": 80248,
+  "name": "녹슨 양철인간",
+  "description": "[작은 가구] 마음이 존재하지 않는 양철인간은 조용히 누워서 누군가가 깨우기를 기다린다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101003.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

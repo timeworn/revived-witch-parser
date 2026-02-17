@@ -1,0 +1,12 @@
+{
+  "id": 20042,
+  "name": "주조 금화",
+  "description": "순금으로 만들어진 금화. 눈에 띄는 백합 문양과 찬란한 금빛이 조화를 이루는 고가의 물건이다. 뒷면에는 소유자가 영원의 영광과 함께한다는 글귀가 새겨져 있다.",
+  "icon": "/ui/imagesets/items1/101089.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

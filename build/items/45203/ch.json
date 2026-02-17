@@ -1,0 +1,17 @@
+{
+  "id": 45203,
+  "name": "筑城之锤",
+  "description": "筑城时使用的大锤，对自己的腕力有自信者，可以尝试挥动",
+  "icon": "/ui/imagesets/items1/100168.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

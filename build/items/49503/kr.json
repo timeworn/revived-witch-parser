@@ -1,0 +1,17 @@
+{
+  "id": 49503,
+  "name": "사기꾼-의복",
+  "description": "사기꾼-의복",
+  "icon": "/ui/imagesets/items1/100750.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

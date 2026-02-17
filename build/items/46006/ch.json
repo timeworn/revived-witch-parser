@@ -1,0 +1,17 @@
+{
+  "id": 46006,
+  "name": "飞龙之弓",
+  "description": "史诗中传颂的英雄霍波罗斯曾经使用过，射中巨龙的巨大弓箭",
+  "icon": "/ui/imagesets/items1/100424.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

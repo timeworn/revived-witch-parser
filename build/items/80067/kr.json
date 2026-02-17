@@ -1,0 +1,12 @@
+{
+  "id": 80067,
+  "name": "청록색 벽지",
+  "description": "[벽지] 옅은 청록색 꽃무늬가 있는 벽지, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100555.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

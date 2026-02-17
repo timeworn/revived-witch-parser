@@ -1,0 +1,12 @@
+{
+  "id": 80241,
+  "name": "吉祥春符",
+  "description": "【墙饰】千门万户曈曈日,总把新桃换旧符。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100968.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

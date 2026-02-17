@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "埃舍雷",
-  "ownerId": 84,
+  "character": "埃舍雷",
+  "characterId": 84,
   "evolutions": "(当前角色进化等级额外提升0/2/4/6%攻击的物理伤害)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

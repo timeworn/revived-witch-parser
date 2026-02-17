@@ -1,0 +1,17 @@
+{
+  "id": 40027,
+  "name": "Viola",
+  "description": "Obtain Doll [Viola: Clockwork-Doll]",
+  "icon": "/ui/imagesets/headphotos/hp_031.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78126,
+      "quantity": 1
+    }
+  ]
+}

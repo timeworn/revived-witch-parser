@@ -1,0 +1,17 @@
+{
+  "id": 45608,
+  "name": "반석의 도끼",
+  "description": "창공의 뇌신이 사용하는 거대 도끼, 모든 혼백을 절단할 수 있다.",
+  "icon": "/ui/imagesets/items1/100421.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

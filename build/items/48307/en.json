@@ -1,0 +1,17 @@
+{
+  "id": 48307,
+  "name": "Armor of the Earth",
+  "description": "A piece of armor infused with the essence of the earth and possesses great physical resistance.",
+  "icon": "/ui/imagesets/items1/100696.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

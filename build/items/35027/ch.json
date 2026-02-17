@@ -1,0 +1,12 @@
+{
+  "id": 35027,
+  "name": "回忆碎片",
+  "description": "承载了回忆的碎片",
+  "icon": "/ui/imagesets/items1/100788.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

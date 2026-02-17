@@ -1,0 +1,12 @@
+{
+  "id": 31042,
+  "name": "15级冒险礼包",
+  "description": "魔女等级15级可购买。",
+  "icon": "/ui/imagesets/shop/giftlevelblue4.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

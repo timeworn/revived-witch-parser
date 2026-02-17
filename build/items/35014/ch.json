@@ -1,0 +1,12 @@
+{
+  "id": 35014,
+  "name": "白光",
+  "description": "此岸凝聚的微弱白色光芒，顺着阳光散落在庭院各处。从中能感受到微弱的思念。",
+  "icon": "/ui/imagesets/items1/100238.png",
+  "type": "货币",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35011,
+  "name": "흰색 꽃잎",
+  "description": "영혼이 날아가고 남은 순백색 형체, $B$마치 꽃잎처럼 향기가 있어 사람의 기분을 안정시켜준다. $B$인형 소환 및 공방에서 SR, R 인형 영혼석을 분해하여 획득할 수 있으며 상점에서 아이템 교환에 사용된다.",
+  "icon": "/ui/imagesets/items1/100117.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

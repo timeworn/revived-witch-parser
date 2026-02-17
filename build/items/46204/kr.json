@@ -1,0 +1,17 @@
+{
+  "id": 46204,
+  "name": "폭풍의 서",
+  "description": "고급 마법이 기재되어 있는 진귀한 책.",
+  "icon": "/ui/imagesets/items1/100064.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

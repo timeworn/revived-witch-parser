@@ -1,0 +1,17 @@
+{
+  "id": 46601,
+  "name": "Dim Orb",
+  "description": "An orb that emits no luster.",
+  "icon": "/ui/imagesets/items1/100075.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

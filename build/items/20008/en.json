@@ -1,0 +1,12 @@
+{
+  "id": 20008,
+  "name": "Witch Notebook: Caterpillar Brothers",
+  "description": "The Commission from Older Caterpillar to find his strayed little brother.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

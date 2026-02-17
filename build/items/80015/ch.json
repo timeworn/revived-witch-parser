@@ -1,0 +1,12 @@
+{
+  "id": 80015,
+  "name": "挂画",
+  "description": "【墙饰】画着鲜花的挂画。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100529.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

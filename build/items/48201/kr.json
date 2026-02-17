@@ -1,0 +1,17 @@
+{
+  "id": 48201,
+  "name": "가시넝쿨 방패",
+  "description": "가시가 가득한 마법의 넝쿨이 감겨 있는 방패, 가까이하면 마법의 역류를 당할 수 있다.",
+  "icon": "/ui/imagesets/items1/100712.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

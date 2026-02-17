@@ -1,0 +1,12 @@
+{
+  "id": 80279,
+  "name": "서리 영혼의 초",
+  "description": "[벽 장식] 어둡고 괴이한 불빛을 내고 있는 초, 따스하기는커녕 살을 에는 듯한 한기만 느껴진다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101136.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

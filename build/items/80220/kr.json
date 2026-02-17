@@ -1,0 +1,12 @@
+{
+  "id": 80220,
+  "name": "사각 무늬 바닥",
+  "description": "[바닥] 나무로 만든 사각 무늬 바닥, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100947.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

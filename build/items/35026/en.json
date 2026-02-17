@@ -1,0 +1,12 @@
+{
+  "id": 35026,
+  "name": "Intangible Core",
+  "description": "A core found within monsters in the Intangible Barrier. Can be used to exchange for items in Shop.",
+  "icon": "/ui/imagesets/items1/100051.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

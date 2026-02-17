@@ -1,0 +1,12 @@
+{
+  "id": 31125,
+  "name": "중급 랜덤 결정",
+  "description": "중급 랜덤 돌파 결정을 1개 획득할 수 있다.",
+  "icon": "/ui/imagesets/items1/100102.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80125,
+  "name": "雷霆屏风",
+  "description": "【墙饰】雷霆游戏的大型屏风。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100657.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

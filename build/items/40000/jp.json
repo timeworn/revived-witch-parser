@@ -1,0 +1,12 @@
+{
+  "id": 40000,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/headphotos/hp_Player1.png",
+  "type": "",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

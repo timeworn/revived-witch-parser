@@ -1,0 +1,12 @@
+{
+  "id": 80013,
+  "name": "Dark Red Carpet",
+  "description": "[Carpet] A carpet in wine red. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100533.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80202,
+  "name": "Square Tiles",
+  "description": "[Floor] The square tiles are patterned. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100880.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

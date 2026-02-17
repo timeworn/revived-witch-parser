@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "南奈尔",
-  "ownerId": 63,
+  "character": "南奈尔",
+  "characterId": 63,
   "evolutions": "(当前角色进化等级额外恢复0/5/10/15%攻击数值的生命)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

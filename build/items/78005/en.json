@@ -1,0 +1,13 @@
+{
+  "id": 78005,
+  "name": "Basic Healer Soul Stone",
+  "description": "An unusual soul stone, used to evolve the <coloR=#32CD32>R</coloR> Healer.",
+  "icon": "/ui/imagesets/items1/100358.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

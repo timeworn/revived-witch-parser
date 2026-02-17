@@ -1,0 +1,12 @@
+{
+  "id": 31285,
+  "name": "Idol Support Premium Pack",
+  "description": "Idol Support Version Pack",
+  "icon": "/ui/imagesets/shop/shopgift78.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Snowshine",
-  "ownerId": 123,
+  "character": "Snowshine",
+  "characterId": 123,
   "evolutions": "(Evolving the current Character's Level will also increase DMG by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

@@ -1,0 +1,17 @@
+{
+  "id": 45609,
+  "name": "Fredo, the Purgatory Axe",
+  "description": "A manifestation of Fredo, the Purgatory Dragon. It can call upon the inferno that burns all enemies.",
+  "icon": "/ui/imagesets/items1/100422.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

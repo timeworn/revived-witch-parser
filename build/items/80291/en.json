@@ -1,0 +1,12 @@
+{
+  "id": 80291,
+  "name": "Grease-Proof Wallpaper",
+  "description": "[Wall] This wallpaper is coated in a special material that makes it grease-proof. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101116.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

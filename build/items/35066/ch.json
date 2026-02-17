@@ -1,0 +1,12 @@
+{
+  "id": 35066,
+  "name": "贝壳币",
+  "description": "刻有贝壳印记的金币，伯恩顿小镇的通用货币",
+  "icon": "/ui/imagesets/items1/101163.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

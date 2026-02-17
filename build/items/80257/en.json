@@ -1,0 +1,12 @@
+{
+  "id": 80257,
+  "name": "Shady Swing",
+  "description": "[Window] A simple but steady swing. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101012.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

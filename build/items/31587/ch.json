@@ -1,0 +1,12 @@
+{
+  "id": 31587,
+  "name": "龙虾礼包",
+  "description": "集市热卖的龙虾，深受大家喜爱",
+  "icon": "/ui/imagesets/items1/101162.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

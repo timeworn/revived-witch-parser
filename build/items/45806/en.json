@@ -1,0 +1,17 @@
+{
+  "id": 45806,
+  "name": "Soul Hunting Dagger",
+  "description": "A cursed dagger that thirsts for souls.",
+  "icon": "/ui/imagesets/items1/100399.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

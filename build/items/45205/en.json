@@ -1,0 +1,17 @@
+{
+  "id": 45205,
+  "name": "Bonecrunching Hammer",
+  "description": "A sledgehammer forged by a famous craftsman. It can crush the sturdiest of bones.",
+  "icon": "/ui/imagesets/items1/100403.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40102,
+  "name": "린샤",
+  "description": "[숲속의 웃음 소리 린샤] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_103/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781103,
+      "quantity": 1
+    }
+  ]
+}

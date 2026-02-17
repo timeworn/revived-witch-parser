@@ -1,0 +1,12 @@
+{
+  "id": 35003,
+  "name": "精神",
+  "description": "支撑魔女继续前行的动力，$B$精神耗尽后便只能返回时之塔底层，休息一段时间便可恢复。$B$$B$地宫探索需要消耗精神力",
+  "icon": "/ui/imagesets/items1/100116.png",
+  "type": "货币",
+  "typeId": 545,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

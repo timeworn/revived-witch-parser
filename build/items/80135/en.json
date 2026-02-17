@@ -1,0 +1,12 @@
+{
+  "id": 80135,
+  "name": "Garden Bench",
+  "description": "[Compact Item] A slightly worn wooden bench, sitting on it makes you feel refreshed somehow. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100667.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

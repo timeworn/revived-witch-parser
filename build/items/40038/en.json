@@ -1,0 +1,17 @@
+{
+  "id": 40038,
+  "name": "Raphan",
+  "description": "Obtain Doll [Raphan: Claw of Destiny]",
+  "icon": "/ui/imagesets/role/char_039/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78137,
+      "quantity": 1
+    }
+  ]
+}

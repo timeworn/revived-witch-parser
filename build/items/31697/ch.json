@@ -1,0 +1,12 @@
+{
+  "id": 31697,
+  "name": "凯瑟琳外观礼包",
+  "description": "凯瑟琳外观礼包",
+  "icon": "/ui/imagesets/items1/101198.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

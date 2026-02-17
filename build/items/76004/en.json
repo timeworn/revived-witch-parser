@@ -1,0 +1,13 @@
+{
+  "id": 76004,
+  "name": "Electrum",
+  "description": "Extremely rare metal. It provides <color=#32CD32>1,500</color> EXP for Equipment.",
+  "icon": "/ui/imagesets/items1/100252.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

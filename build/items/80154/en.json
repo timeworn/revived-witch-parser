@@ -1,0 +1,12 @@
+{
+  "id": 80154,
+  "name": "Beach Shack",
+  "description": "[Bulky Item] A beach shack replicated for the succulent access of watermelons. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100802.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

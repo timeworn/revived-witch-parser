@@ -1,0 +1,12 @@
+{
+  "id": 80306,
+  "name": "술 진열장",
+  "description": "[큰 가구] 고급형부터 보급형까지, 항상 고객의 니즈를 충족시켜준다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101131.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

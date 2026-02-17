@@ -1,0 +1,17 @@
+{
+  "id": 40061,
+  "name": "",
+  "description": "Obtain Doll [Nasha: Scarce Mage]",
+  "icon": "/ui/imagesets/headphotos/hp_034.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78160,
+      "quantity": 1
+    }
+  ]
+}

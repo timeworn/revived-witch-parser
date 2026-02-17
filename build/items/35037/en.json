@@ -1,0 +1,12 @@
+{
+  "id": 35037,
+  "name": "Divination Crystal",
+  "description": "An ancient magical crystal. A mage can use it to foresee the future.",
+  "icon": "/ui/imagesets/items1/100547.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

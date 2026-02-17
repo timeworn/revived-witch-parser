@@ -1,0 +1,12 @@
+{
+  "id": 80263,
+  "name": "庆典吊灯",
+  "description": "【墙饰】被注入了魔力的吊灯散发着柔和的光芒，靠近它的人会感到身心放松。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101069.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

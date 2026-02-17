@@ -1,0 +1,17 @@
+{
+  "id": 40047,
+  "name": "奇芬",
+  "description": "可以获得人偶 【冥途引渡人 奇芬】",
+  "icon": "/ui/imagesets/headphotos/hp_033.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78146,
+      "quantity": 1
+    }
+  ]
+}

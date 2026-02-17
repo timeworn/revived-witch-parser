@@ -1,0 +1,17 @@
+{
+  "id": 46409,
+  "name": "이난나의 군가",
+  "description": "전쟁의 여신 이난나가 사용하던 신기, 생물의 잠재능력을 끌어내고 영혼의 힘을 인도할 수 있다.",
+  "icon": "/ui/imagesets/items1/100462.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

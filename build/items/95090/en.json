@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Betsy",
-  "ownerId": 90,
+  "character": "Betsy",
+  "characterId": 90,
   "evolutions": "(Doll's current Evolution Level increases Crit Chance by 0/2.5/5/7.5%, and Crit DMG by 0/2.5/5/7.5)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

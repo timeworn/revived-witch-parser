@@ -1,0 +1,17 @@
+{
+  "id": 47802,
+  "name": "스팅어",
+  "description": "암살자들이 좋아하는 반지, 신기한 보호 능력이 있다고 한다.",
+  "icon": "/ui/imagesets/items1/100182.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

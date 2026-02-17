@@ -1,0 +1,12 @@
+{
+  "id": 80121,
+  "name": "雷霆圆桌",
+  "description": "【小件】雷霆游戏的小圆桌。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100653.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

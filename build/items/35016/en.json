@@ -1,0 +1,12 @@
+{
+  "id": 35016,
+  "name": "Chromatic Light",
+  "description": "The chromatic light coalesced on this shore after the rain. Gleaming through the air, leading all lights, this light raises a rare [Requiem]. It emits a supreme longing for someone.",
+  "icon": "/ui/imagesets/items1/100240.png",
+  "type": "Currency",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

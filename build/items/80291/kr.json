@@ -1,0 +1,12 @@
+{
+  "id": 80291,
+  "name": "더러움 방지 벽지",
+  "description": "[벽지] 기름때가 안타는 특수 소재로 만든 벽지. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101116.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

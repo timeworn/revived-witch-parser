@@ -1,0 +1,12 @@
+{
+  "id": 90017,
+  "name": "恬静假日",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/100793.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

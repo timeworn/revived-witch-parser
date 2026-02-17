@@ -1,0 +1,17 @@
+{
+  "id": 45603,
+  "name": "蛮族斧",
+  "description": "冲锋陷阵的蛮族战士们钟爱的斧头，挥舞起来虎虎生风",
+  "icon": "/ui/imagesets/items1/100172.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

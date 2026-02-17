@@ -1,0 +1,17 @@
+{
+  "id": 48009,
+  "name": "Brisingamen, the Sacred",
+  "description": "A sacred object dedicated to the Supreme God to eulogize the God's act of creating the world.",
+  "icon": "/ui/imagesets/items1/100467.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

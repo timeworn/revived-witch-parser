@@ -1,0 +1,12 @@
+{
+  "id": 20014,
+  "name": "튼실한 목재",
+  "description": "앤디가 필요한 튼실한 목재.",
+  "icon": "/ui/imagesets/items1/100255.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

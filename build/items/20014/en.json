@@ -1,0 +1,12 @@
+{
+  "id": 20014,
+  "name": "Sturdy Wood",
+  "description": "The sturdy wood that Andy needs.",
+  "icon": "/ui/imagesets/items1/100255.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80264,
+  "name": "生日横幅",
+  "description": "【墙饰】\"生日快乐！\"简单的祝福中包含了千言万语。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101072.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

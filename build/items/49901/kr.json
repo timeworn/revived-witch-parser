@@ -1,0 +1,17 @@
+{
+  "id": 49901,
+  "name": "트리 소드",
+  "description": "트리 모양의 무기, 언뜻 보면 장식 소품으로 오해받을 수 있다.",
+  "icon": "/ui/imagesets/items1/100906.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

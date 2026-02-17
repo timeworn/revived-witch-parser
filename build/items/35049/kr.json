@@ -1,0 +1,12 @@
+{
+  "id": 35049,
+  "name": "마나 코인",
+  "description": "[이벤트] 마나 문양이 새겨져 있는 코인, 인형 레벨업에 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100987.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

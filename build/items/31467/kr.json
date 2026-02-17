@@ -1,0 +1,12 @@
+{
+  "id": 31467,
+  "name": "초급 초대 패키지",
+  "description": "초급 초대 패키지",
+  "icon": "/ui/imagesets/items1/100871.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

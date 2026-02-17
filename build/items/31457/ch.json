@@ -1,0 +1,12 @@
+{
+  "id": 31457,
+  "name": "回归启程礼包",
+  "description": "回归启程礼包",
+  "icon": "/ui/imagesets/items1/100871.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

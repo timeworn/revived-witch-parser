@@ -1,0 +1,12 @@
+{
+  "id": 31171,
+  "name": "Isle Adventure Avatar Frame",
+  "description": "Isle Adventure Event Memorial Avatar Frame",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame8.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

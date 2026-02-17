@@ -1,0 +1,12 @@
+{
+  "id": 20013,
+  "name": "야수 뼈반지",
+  "description": "단단한 야수의 뼈를 다듬어서 만든 모양이 거친 반지. 어떤 조직에서 사용하는 연락용 증표 같으며, 다른 조직의 구성원과 구분하는 데 쓰인다.",
+  "icon": "/ui/imagesets/items1/100261.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

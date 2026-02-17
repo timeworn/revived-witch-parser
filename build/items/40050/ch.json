@@ -1,0 +1,17 @@
+{
+  "id": 40050,
+  "name": "托奈兰",
+  "description": "可以获得人偶 【异类治愈使 托奈兰】",
+  "icon": "/ui/imagesets/headphotos/hp_052.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78149,
+      "quantity": 1
+    }
+  ]
+}

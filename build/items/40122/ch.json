@@ -1,0 +1,17 @@
+{
+  "id": 40122,
+  "name": "雪啡",
+  "description": "可以获得人偶 【甜味速递 雪啡】",
+  "icon": "/ui/imagesets/localization/role/char_123/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781123,
+      "quantity": 1
+    }
+  ]
+}

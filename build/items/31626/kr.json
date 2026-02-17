@@ -1,0 +1,12 @@
+{
+  "id": 31626,
+  "name": "감사의 향연",
+  "description": "축제가 시작되자, 소녀는 직접 만든 드레스를 입고 분위기를 만끽했다.",
+  "icon": "/ui/imagesets/items1/101205.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

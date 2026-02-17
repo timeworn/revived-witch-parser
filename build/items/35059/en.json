@@ -1,0 +1,12 @@
+{
+  "id": 35059,
+  "name": "Witch Stamp",
+  "description": "An exquisite stamp bearing the Witch's portrait.",
+  "icon": "/ui/imagesets/items1/101031.png",
+  "type": "Currency",
+  "typeId": 1073,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31215,
+  "name": "诺伦外观礼包",
+  "description": "购买后可获得诺伦外观+其他道具",
+  "icon": "/ui/imagesets/items1/100841.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

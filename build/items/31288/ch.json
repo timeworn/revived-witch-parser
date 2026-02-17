@@ -1,0 +1,12 @@
+{
+  "id": 31288,
+  "name": "闪耀舞台初级礼包",
+  "description": "庆祝闪耀舞台活动上线，购买可获得获得抽卡道具和专属装备培养道具。",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

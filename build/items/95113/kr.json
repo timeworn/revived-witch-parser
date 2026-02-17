@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "타카시",
-  "ownerId": 113,
+  "character": "타카시",
+  "characterId": 113,
   "evolutions": "(현재 캐릭터 진화 레벨 받는 피해 0/1/2/3% 추가 감소, 피해 0/1/2/3% 증가, 적의 마법 방어력 0/1/2/3 무시)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

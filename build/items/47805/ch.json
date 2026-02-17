@@ -1,0 +1,17 @@
+{
+  "id": 47805,
+  "name": "黑骑士戒指",
+  "description": "法里亚斯的黑骑士团的象征，是骑士的骄傲",
+  "icon": "/ui/imagesets/items1/100433.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

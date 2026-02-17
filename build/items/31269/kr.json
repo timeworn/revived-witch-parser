@@ -1,0 +1,12 @@
+{
+  "id": 31269,
+  "name": "응원 팔찌",
+  "description": "공연장에서 없어서는 안 되는 팔찌.",
+  "icon": "/ui/imagesets/items1/100900.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31152,
+  "name": "미지의 길 액자",
+  "description": "미지의 길 액자\n중복 획득 시 500 영혼으로 획득",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame7.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

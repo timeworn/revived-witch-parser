@@ -1,0 +1,12 @@
+{
+  "id": 31133,
+  "name": "랜덤 스킬 던전 재료",
+  "description": "랜덤으로 스킬 던전 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

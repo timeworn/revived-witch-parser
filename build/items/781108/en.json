@@ -1,0 +1,17 @@
+{
+  "id": 781108,
+  "name": "Tuonel of Night Soul Stone",
+  "description": "A rare unique Soul Stone. Can evolve <color=#32CD32>Tuonel of Night</color>.",
+  "icon": "/ui/imagesets/items1/100944.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

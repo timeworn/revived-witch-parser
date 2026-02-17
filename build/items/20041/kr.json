@@ -1,0 +1,12 @@
+{
+  "id": 20041,
+  "name": "마법 위병대의 휘장",
+  "description": "마법 위병대가 소중히 여기는 휘장. 자신들이 자랑스럽게 여기는 신분을 상징한다. 백합꽃의 조각으로 중앙을 장식하고 있고, 그 아래에는 기사가 영원히 권위를 지킴을 상징하는 두 개의 칼이 교차되어 있다.",
+  "icon": "/ui/imagesets/items1/101088.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

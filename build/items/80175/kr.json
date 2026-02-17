@@ -1,0 +1,12 @@
+{
+  "id": 80175,
+  "name": "고성 램프",
+  "description": "[벽 장식] 과거의 화려함이 엿보이는 오래된 램프, 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100843.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

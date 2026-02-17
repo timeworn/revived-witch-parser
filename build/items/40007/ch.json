@@ -1,0 +1,17 @@
+{
+  "id": 40007,
+  "name": "爱珐怜",
+  "description": "可以获得人偶 【圣灵守卫 爱珐怜】",
+  "icon": "/ui/imagesets/headphotos/hp_018.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78106,
+      "quantity": 1
+    }
+  ]
+}

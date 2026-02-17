@@ -1,0 +1,12 @@
+{
+  "id": 31588,
+  "name": "Tuonel Costume Pack",
+  "description": "Includes Tuonel Costume: Fresh Feeling",
+  "icon": "/ui/imagesets/items1/101164.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

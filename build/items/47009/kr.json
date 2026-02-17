@@ -1,0 +1,17 @@
+{
+  "id": 47009,
+  "name": "아슈켈론",
+  "description": "아슈켈론 전쟁에서 사용하던 신성한 마법 지팡이, 태양신을 상징한다고 한다.",
+  "icon": "/ui/imagesets/items1/100417.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

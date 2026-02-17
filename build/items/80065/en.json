@@ -1,0 +1,12 @@
+{
+  "id": 80065,
+  "name": "Roller Shutter",
+  "description": "[Window] A window with roller blinds. Increase Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100556.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

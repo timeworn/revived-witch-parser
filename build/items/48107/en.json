@@ -1,0 +1,17 @@
+{
+  "id": 48107,
+  "name": "Garment of the Wild",
+  "description": "A garment crafted from a large piece of beast bone. Contains the strength of the wild.",
+  "icon": "/ui/imagesets/items1/100725.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31460,
+  "name": "Ultimate Invitation Pack",
+  "description": "Ultimate Invitation Pack",
+  "icon": "/ui/imagesets/items1/100872.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

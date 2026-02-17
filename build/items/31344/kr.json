@@ -1,0 +1,12 @@
+{
+  "id": 31344,
+  "name": "일반 깜짝 상자",
+  "description": "작은 선물이 들어있다.",
+  "icon": "/ui/imagesets/items1/100984.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31423,
+  "name": "호화 선물 패키지",
+  "description": "마녀가 새겨진 정교한 인장.",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewMazeShop2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

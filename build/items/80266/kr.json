@@ -1,0 +1,12 @@
+{
+  "id": 80266,
+  "name": "고양이의 탄생",
+  "description": "[작은 가구] 알에서 어떻게 고양이를…… 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101070.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

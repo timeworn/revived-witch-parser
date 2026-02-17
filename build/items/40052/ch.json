@@ -1,0 +1,17 @@
+{
+  "id": 40052,
+  "name": "爱迪希亚",
+  "description": "可以获得人偶 【沙滩漫步者 爱迪希亚】",
+  "icon": "/ui/imagesets/headphotos/hp_054.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78151,
+      "quantity": 1
+    }
+  ]
+}

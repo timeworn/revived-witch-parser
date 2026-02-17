@@ -1,0 +1,12 @@
+{
+  "id": 80304,
+  "name": "Restaurant Bar",
+  "description": "[Bulky Item] A place where tears and laughter mingle. Whenever you want to get something off your chest, you can always find someone here who is willing to listen. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101129.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

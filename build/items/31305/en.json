@@ -1,0 +1,12 @@
+{
+  "id": 31305,
+  "name": "Lunia's Deluxe Pack",
+  "description": "Lunia's Deluxe Pack",
+  "icon": "/ui/imagesets/shop/shopgift56.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

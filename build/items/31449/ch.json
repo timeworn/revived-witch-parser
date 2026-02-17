@@ -1,0 +1,12 @@
+{
+  "id": 31449,
+  "name": "周年庆表情礼包",
+  "description": "周年庆表情礼包",
+  "icon": "/ui/imagesets/guild/EmojiPackage.png",
+  "type": "表情包",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

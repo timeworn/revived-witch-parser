@@ -1,0 +1,12 @@
+{
+  "id": 31332,
+  "name": "Grass Dumpling",
+  "description": "A dumpling with the fragrance of grass. The picnic food of choice.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop4.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

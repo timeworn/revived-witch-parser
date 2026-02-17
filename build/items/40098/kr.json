@@ -1,0 +1,17 @@
+{
+  "id": 40098,
+  "name": "에티엥",
+  "description": "[꿈속의 마나 에티엥] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_099/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78199,
+      "quantity": 1
+    }
+  ]
+}

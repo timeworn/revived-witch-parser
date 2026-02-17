@@ -1,0 +1,12 @@
+{
+  "id": 31081,
+  "name": "Monthly Gift Box",
+  "description": "Purchase to gain a large number of gifts.",
+  "icon": "/ui/imagesets/shop/shopgift15.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

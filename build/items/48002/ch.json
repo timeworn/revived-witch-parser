@@ -1,0 +1,17 @@
+{
+  "id": 48002,
+  "name": "魔导链",
+  "description": "附带一定魔力的项链",
+  "icon": "/ui/imagesets/items1/100198.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45407,
+  "name": "Audhulma, the Lightborne",
+  "description": "A sword made of jade from the frigid lands of Snegurochka. The swing of its blade envelopes all in frost.",
+  "icon": "/ui/imagesets/items1/100430.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

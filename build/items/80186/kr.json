@@ -1,0 +1,12 @@
+{
+  "id": 80186,
+  "name": "생일 축하 케이크",
+  "description": "[작은 가구] 모두가 함께 정성껏 준비한 생일 케이크. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100863.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80134,
+  "name": "화원 반달문",
+  "description": "[큰 가구] 행복을 주는 반달문, 이 문으로 들어가면 아름다운 별하늘을 감상할 수 있다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100666.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

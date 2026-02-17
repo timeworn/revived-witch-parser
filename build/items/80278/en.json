@@ -1,0 +1,12 @@
+{
+  "id": 80278,
+  "name": "Lonely Window",
+  "description": "[Window] A window completely boarded up with planks and nails. The view outside is blurry. Close inspection reveals that the nails are, surprisingly, made of sterling silver. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101135.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

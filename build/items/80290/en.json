@@ -1,0 +1,12 @@
+{
+  "id": 80290,
+  "name": "Blasphemous Fireplace",
+  "description": "[Bulky Item] \"Why is there not a soul in sight...?\" Ponders the demon sitting by the fireplace. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101147.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

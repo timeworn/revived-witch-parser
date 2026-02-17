@@ -1,0 +1,17 @@
+{
+  "id": 49203,
+  "name": "전장의 화신-갑옷",
+  "description": "전장의 화신-갑옷",
+  "icon": "/ui/imagesets/items1/100767.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

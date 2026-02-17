@@ -1,0 +1,12 @@
+{
+  "id": 31536,
+  "name": "Phantom Mirror of Stars Premium Pack",
+  "description": "Phantom Mirror of Stars Premium Pack",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

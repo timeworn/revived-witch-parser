@@ -1,0 +1,12 @@
+{
+  "id": 35066,
+  "name": "조개 코인",
+  "description": "번턴 마을에서 사용되는 화폐, 조개껍데기 모양이 새겨져 있다.",
+  "icon": "/ui/imagesets/items1/101163.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

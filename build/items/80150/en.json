@@ -1,0 +1,12 @@
+{
+  "id": 80150,
+  "name": "\"Take this blow!\"",
+  "description": "[Bulky Item] Humph, stop doing that, you hear? Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100734.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80191,
+  "name": "크리스마스 가랜드",
+  "description": "[벽 장식] 겨울에 푸른 나뭇가지를 엮어 만든 가랜드. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100877.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

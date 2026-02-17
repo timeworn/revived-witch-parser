@@ -1,0 +1,17 @@
+{
+  "id": 47609,
+  "name": "극야의 성의 '프로아데스'",
+  "description": "이벤토리즌의 수호자가 입는 성스러운 옷, 일반 사람은 전혀 가까이할 수 없다. 이 옷에서 내뿜는 영력으로 적의 무기를 손쉽게 끊어버릴 수 있다.",
+  "icon": "/ui/imagesets/items1/100392.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

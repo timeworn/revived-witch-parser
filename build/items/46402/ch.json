@@ -1,0 +1,17 @@
+{
+  "id": 46402,
+  "name": "乐师琴",
+  "description": "乐师们爱用的琴，可以弹奏出简单的乐曲",
+  "icon": "/ui/imagesets/items1/100175.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 50003,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "Main Story Stage Item",
+  "typeId": 18,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

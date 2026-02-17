@@ -1,0 +1,17 @@
+{
+  "id": 47008,
+  "name": "至高王座之杖",
+  "description": "神圣帝国——维罗妮卡的象征之杖，据说是白之皇女平定乱世的圣之光杖",
+  "icon": "/ui/imagesets/items1/100416.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

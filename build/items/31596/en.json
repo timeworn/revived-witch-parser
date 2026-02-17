@@ -1,0 +1,12 @@
+{
+  "id": 31596,
+  "name": "Fruit Popsicle",
+  "description": "Any other flavors? No! Orange is the best!",
+  "icon": "/ui/imagesets/items1/101159.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

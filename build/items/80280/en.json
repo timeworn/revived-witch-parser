@@ -1,0 +1,12 @@
+{
+  "id": 80280,
+  "name": "Strange Cat Mural",
+  "description": "[Wall Decor] Do not stare at this painting, or it will make you hallucinate and slowly lose your mind. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101137.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

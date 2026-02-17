@@ -1,0 +1,12 @@
+{
+  "id": 31453,
+  "name": "숲의 회상 고급 패키지",
+  "description": "숲의 회상 고급 패키지",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49808,
+  "name": "混沌信仰-戒指",
+  "description": "混沌信仰-戒指",
+  "icon": "/ui/imagesets/items1/100746.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

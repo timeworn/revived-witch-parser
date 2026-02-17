@@ -1,0 +1,17 @@
+{
+  "id": 48105,
+  "name": "野性宝珠",
+  "description": "由巨大兽骨锻造的武器，充满野性之力",
+  "icon": "/ui/imagesets/items1/100720.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80200,
+  "name": "Reindeer Armchair",
+  "description": "[Compact Item] Sit and give the chonky reindeer a hug! Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100887.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

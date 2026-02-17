@@ -1,0 +1,12 @@
+{
+  "id": 31684,
+  "name": "할로윈 캔디 패키지",
+  "description": "할로윈데이 아이들이 가장 좋아하는 캔디, 한 번 맛보면 온몸이 짜릿하다고 한다.",
+  "icon": "/ui/imagesets/items1/100836.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

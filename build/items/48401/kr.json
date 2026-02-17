@@ -1,0 +1,17 @@
+{
+  "id": 48401,
+  "name": "정수의 망치",
+  "description": "호수의 여신 축복이 깃들어 있는 무기, 마법의 침식을 막을 수 있다.",
+  "icon": "/ui/imagesets/items1/100686.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

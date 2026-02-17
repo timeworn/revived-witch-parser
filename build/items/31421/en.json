@@ -1,0 +1,12 @@
+{
+  "id": 31421,
+  "name": "Deluxe Giftbox",
+  "description": "A ceremonial sword used in rituals. It's more about looking cool than dealing damage.",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewPuzzleShop2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

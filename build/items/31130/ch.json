@@ -1,0 +1,20 @@
+{
+  "id": 31130,
+  "name": "精神合剂",
+  "description": "从时之塔中发现的神秘药剂，十分珍贵。使用后只需要休息极短的时间，就能够极大地回复精神，仿佛已经休息了很久。$B$$B$无时间限制，使用后增加精神上限50%的精神。",
+  "icon": "/ui/imagesets/items1/100515.png",
+  "type": "普通物品",
+  "typeId": 42,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35003,
+      "quantity": -2
+    }
+  ]
+}

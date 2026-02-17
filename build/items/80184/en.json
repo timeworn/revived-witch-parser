@@ -1,0 +1,12 @@
+{
+  "id": 80184,
+  "name": "Earl's Desk",
+  "description": "[Bulky Item] Earl Dracucat's desk. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100845.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

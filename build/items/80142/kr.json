@@ -1,0 +1,12 @@
+{
+  "id": 80142,
+  "name": "환영의 거울",
+  "description": "[작은 가구] 환영의 거울 세계에서 자아를 이기고 방황을 타개했음을 입증하는 기념비. 배치하면 쾌적 지수가 50 증가한다.",
+  "icon": "/ui/imagesets/items1/100673.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

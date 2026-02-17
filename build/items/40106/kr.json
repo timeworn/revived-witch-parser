@@ -1,0 +1,17 @@
+{
+  "id": 40106,
+  "name": "나카이",
+  "description": "[영혼의 칼날 나카이] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_107/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781107,
+      "quantity": 1
+    }
+  ]
+}

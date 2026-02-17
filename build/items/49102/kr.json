@@ -1,0 +1,17 @@
+{
+  "id": 49102,
+  "name": "수호자-방패",
+  "description": "수호자-방패",
+  "icon": "/ui/imagesets/items1/100758.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

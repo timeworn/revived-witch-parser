@@ -1,0 +1,12 @@
+{
+  "id": 20001,
+  "name": "Shards of the Mirror",
+  "description": "A shard containing magic power. It seems that something mysterious will happen if all shards were collected.",
+  "icon": "/ui/imagesets/items1/100124.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

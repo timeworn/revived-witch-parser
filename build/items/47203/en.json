@@ -1,0 +1,17 @@
+{
+  "id": 47203,
+  "name": "Summoner's Wand",
+  "description": "A precious wand used in summoning rituals.",
+  "icon": "/ui/imagesets/items1/100194.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

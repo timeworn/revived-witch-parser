@@ -1,0 +1,12 @@
+{
+  "id": 35058,
+  "name": "Chrono Crystal",
+  "description": "A crystal formed from time-traveling souls",
+  "icon": "/ui/imagesets/items1/101027.png",
+  "type": "Currency",
+  "typeId": 817,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

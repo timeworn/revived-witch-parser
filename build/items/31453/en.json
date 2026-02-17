@@ -1,0 +1,12 @@
+{
+  "id": 31453,
+  "name": "Forest Recall Advanced Pack",
+  "description": "Forest Recall Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35073,
+  "name": "饱满小麦",
+  "description": "粒粒饱满的小麦意味着今年的秋天迎来了巨大丰收",
+  "icon": "/ui/imagesets/items1/101206.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

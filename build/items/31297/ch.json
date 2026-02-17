@@ -1,0 +1,12 @@
+{
+  "id": 31297,
+  "name": "福满新春初级礼包",
+  "description": "福满新春活动礼包，购买可获得大量灵魂和饺子。",
+  "icon": "/ui/imagesets/shop/shopgift52.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

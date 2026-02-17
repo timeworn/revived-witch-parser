@@ -1,0 +1,17 @@
+{
+  "id": 46202,
+  "name": "마법서",
+  "description": "학도들이 배울 수 있는 마법을 기재해 놓은 책.",
+  "icon": "/ui/imagesets/items1/100162.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

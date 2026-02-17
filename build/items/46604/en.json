@@ -1,0 +1,17 @@
+{
+  "id": 46604,
+  "name": "Demon Sealing Orb",
+  "description": "An ominous orb that sealed a demon.",
+  "icon": "/ui/imagesets/items1/100077.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

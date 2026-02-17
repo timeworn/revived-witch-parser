@@ -1,0 +1,12 @@
+{
+  "id": 80165,
+  "name": "마법 빗자루",
+  "description": "[작은 가구] 하늘을 날수 있는 마법의 빗자루, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100832.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

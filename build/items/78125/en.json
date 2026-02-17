@@ -1,0 +1,17 @@
+{
+  "id": 78125,
+  "name": "Cetess Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD32>Cetess</color>.",
+  "icon": "/ui/imagesets/items1/100275.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35011,
+      "quantity": 5
+    }
+  ]
+}

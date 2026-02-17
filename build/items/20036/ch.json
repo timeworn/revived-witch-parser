@@ -1,0 +1,12 @@
+{
+  "id": 20036,
+  "name": "狐狸储藏的食物",
+  "description": "小狐狸和同伴埋藏在雪堆下的食物，足够支撑它们再做一次迁徙。",
+  "icon": "/ui/imagesets/items1/100146.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

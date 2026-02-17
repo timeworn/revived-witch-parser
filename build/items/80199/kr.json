@@ -1,0 +1,12 @@
+{
+  "id": 80199,
+  "name": "산타 양말",
+  "description": "[벽 장식] 밤을 새워 만든 초대형 산타 양말. 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100886.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80305,
+  "name": "시크릿 벤치",
+  "description": "[큰 가구] 레스토랑에서 흔히 볼 수 있는 테이블과 장의자. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101130.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

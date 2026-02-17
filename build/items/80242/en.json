@@ -1,0 +1,12 @@
+{
+  "id": 80242,
+  "name": "Forest Wallpaper",
+  "description": "[Wallpaper] Wallpaper depicting a lush forest. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100997.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

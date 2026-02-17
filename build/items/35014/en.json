@@ -1,0 +1,12 @@
+{
+  "id": 35014,
+  "name": "White Light",
+  "description": "The faint white light coalesced on this shore, scattering across the courtyard along with sunlight. It emits a faint longing for someone.",
+  "icon": "/ui/imagesets/items1/100238.png",
+  "type": "Currency",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

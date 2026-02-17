@@ -1,0 +1,17 @@
+{
+  "id": 45403,
+  "name": "철검",
+  "description": "대장장이가 심혈을 기울여 만든 것으로 매우 예리하다.",
+  "icon": "/ui/imagesets/items1/100080.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

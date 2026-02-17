@@ -1,0 +1,12 @@
+{
+  "id": 20015,
+  "name": "얼음 기사단의 장창",
+  "description": "어느 광신도 기사단의 표준 장비, 신의 제재를 상징한다. 사용자 감정을 봉인할 수 있는 듯, 이 창을 쥔 사람들은 차갑고 냉혹해진다.",
+  "icon": "/ui/imagesets/items1/100251.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

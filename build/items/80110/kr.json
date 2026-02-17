@@ -1,0 +1,12 @@
+{
+  "id": 80110,
+  "name": "축음기",
+  "description": "[작은 가구] 구식 축음기, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100580.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "卡普拉",
-  "ownerId": 110,
+  "character": "卡普拉",
+  "characterId": 110,
   "evolutions": "(当前角色进化等级额外提升0/1/2/3%生命上限与攻击)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

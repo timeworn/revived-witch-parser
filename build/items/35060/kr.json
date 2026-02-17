@@ -1,0 +1,12 @@
+{
+  "id": 35060,
+  "name": "마나 코인",
+  "description": "마나 아이콘이 새겨진 코인. 캐릭터 레벨을 올리는데 사용된다.",
+  "icon": "/ui/imagesets/items1/100987.png",
+  "type": "재화",
+  "typeId": 1329,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

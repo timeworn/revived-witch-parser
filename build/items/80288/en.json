@@ -1,0 +1,12 @@
+{
+  "id": 80288,
+  "name": "Crowded Cupboard",
+  "description": "[Bulky Item] A cupboard filled to the brim with all kinds of strange items. Better stay away from it. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101145.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

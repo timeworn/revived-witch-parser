@@ -1,0 +1,12 @@
+{
+  "id": 80288,
+  "name": "가득 찬 수납장",
+  "description": "[큰 가구] 기괴한 물건들로 가득 찬 수납장, 함부로 만지지 않는 게 좋겠다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101145.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

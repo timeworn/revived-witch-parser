@@ -1,0 +1,17 @@
+{
+  "id": 40064,
+  "name": "라 크리마",
+  "description": "[보석의 눈물 라 크리마] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_062.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78163,
+      "quantity": 1
+    }
+  ]
+}

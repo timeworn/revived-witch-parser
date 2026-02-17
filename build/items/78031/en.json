@@ -1,0 +1,13 @@
+{
+  "id": 78031,
+  "name": "Expert Guardian Soul Stone",
+  "description": "An extraordinary soul stone, used to evolve the <color=#32CD32>UR</color> Guardian.",
+  "icon": "/ui/imagesets/items1/100624.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

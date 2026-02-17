@@ -1,0 +1,12 @@
+{
+  "id": 80245,
+  "name": "悠闲吊床",
+  "description": "【大件】躺在舒适的吊床上美美的睡上一觉吧。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101000.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

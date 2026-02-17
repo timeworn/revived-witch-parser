@@ -1,0 +1,12 @@
+{
+  "id": 80135,
+  "name": "花园长椅",
+  "description": "【小件】略带磨损的木制长椅，坐上去后不知为何能让身体焕然一新。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100667.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

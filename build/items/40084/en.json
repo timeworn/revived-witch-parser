@@ -1,0 +1,17 @@
+{
+  "id": 40084,
+  "name": "Flare",
+  "description": "Obtain Doll [Flare: Priestess of Irminsul]",
+  "icon": "/ui/imagesets/localization/role/char_085/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78185,
+      "quantity": 1
+    }
+  ]
+}

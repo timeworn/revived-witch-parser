@@ -1,0 +1,12 @@
+{
+  "id": 31594,
+  "name": "草莓冰沙",
+  "description": "新鲜草莓现榨，冰冰凉凉，酸酸甜甜~",
+  "icon": "/ui/imagesets/items1/101157.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

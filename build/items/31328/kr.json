@@ -1,0 +1,12 @@
+{
+  "id": 31328,
+  "name": "푸른 경단",
+  "description": "푸른 향이 가득 밴 경단. 소풍에 딱이다.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop4.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

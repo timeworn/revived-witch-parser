@@ -1,0 +1,17 @@
+{
+  "id": 40046,
+  "name": "녹투르나",
+  "description": "[선홍의 달 녹투르나] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_021.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78145,
+      "quantity": 1
+    }
+  ]
+}

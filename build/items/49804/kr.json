@@ -1,0 +1,17 @@
+{
+  "id": 49804,
+  "name": "혼돈 신앙-책",
+  "description": "혼돈 신앙-책",
+  "icon": "/ui/imagesets/items1/100748.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

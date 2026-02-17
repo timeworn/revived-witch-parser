@@ -1,0 +1,17 @@
+{
+  "id": 46205,
+  "name": "Tome of Illusion",
+  "description": "A book passed down by the sorcerer who claimed to be the most powerful in the world.",
+  "icon": "/ui/imagesets/items1/100453.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

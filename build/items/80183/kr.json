@@ -1,0 +1,12 @@
+{
+  "id": 80183,
+  "name": "요괴 벽난로",
+  "description": "[큰 가구] 석탄을 한가득 씹어 먹는 요괴 벽난로, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100846.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

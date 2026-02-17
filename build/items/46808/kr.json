@@ -1,0 +1,17 @@
+{
+  "id": 46808,
+  "name": "치천사의 명예",
+  "description": "보유자의 영력을 HP로 전환해주는 신기한 성배, 영력이 끊기지만 않으면 그 어떤 상처도 치유할 수 있다.",
+  "icon": "/ui/imagesets/items1/100451.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

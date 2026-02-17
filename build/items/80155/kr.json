@@ -1,0 +1,12 @@
+{
+  "id": 80155,
+  "name": "코코넛 나무 장식",
+  "description": "[작은 가구] 해변의 코코넛 나무에서 언제나 맛있는 코코넛 주스를 즐길 수 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100808.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

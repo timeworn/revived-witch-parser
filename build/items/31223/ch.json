@@ -1,0 +1,12 @@
+{
+  "id": 31223,
+  "name": "南瓜节进阶礼包",
+  "description": "庆祝南瓜节活动上线，购买可获得获得抽卡道具和家具币。",
+  "icon": "/ui/imagesets/shop/shopgift31.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

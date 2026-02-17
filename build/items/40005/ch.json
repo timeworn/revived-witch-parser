@@ -1,0 +1,17 @@
+{
+  "id": 40005,
+  "name": "薇妲尔",
+  "description": "可以获得人偶 【情热之舞 薇妲尔】",
+  "icon": "/ui/imagesets/headphotos/hp_005.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78104,
+      "quantity": 1
+    }
+  ]
+}

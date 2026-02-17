@@ -1,0 +1,12 @@
+{
+  "id": 35056,
+  "name": "Lucky Copper Coin",
+  "description": "An ancient, mysterious coin. It's believed that throwing it in an old well brings good luck.",
+  "icon": "/ui/imagesets/items1/101030.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

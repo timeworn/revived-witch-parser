@@ -1,0 +1,17 @@
+{
+  "id": 47809,
+  "name": "创世戒·安杜瓦拉",
+  "description": "创世之巅的不融之雪凝成的圣物，通体雪白，一色无暇，佩戴者可以自由出入天地间而不受束缚",
+  "icon": "/ui/imagesets/items1/100437.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

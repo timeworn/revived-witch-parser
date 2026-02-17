@@ -1,0 +1,17 @@
+{
+  "id": 46009,
+  "name": "Eurytus, the Godsend",
+  "description": "A legendary bow held by the Goddess of the Moon, who once shot down the sun out of her anger against it.",
+  "icon": "/ui/imagesets/items1/100427.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

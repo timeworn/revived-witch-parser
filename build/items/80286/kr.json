@@ -1,0 +1,12 @@
+{
+  "id": 80286,
+  "name": "잠들어 있는 석상",
+  "description": "[작은 가구] 험상궂게 어딘가를 노려보는 듯한 석상, 무언가를 지키고 있는 듯하다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101143.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

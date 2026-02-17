@@ -1,0 +1,17 @@
+{
+  "id": 45607,
+  "name": "精灵斧",
+  "description": "沉入精灵湖底的斧头，吸收了整个精灵之森的精华",
+  "icon": "/ui/imagesets/items1/100420.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

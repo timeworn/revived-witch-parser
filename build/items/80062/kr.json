@@ -1,0 +1,12 @@
+{
+  "id": 80062,
+  "name": "작은 거울",
+  "description": "[벽 장식] 화장할 때 편리한 소형 거울, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100570.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

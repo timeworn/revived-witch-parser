@@ -1,0 +1,12 @@
+{
+  "id": 80279,
+  "name": "魂火冷烛",
+  "description": "【墙饰】散发着昏暗怪异光芒的蜡烛，靠上去不仅感觉不到温暖，反而是一阵刺骨的阴寒。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101136.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

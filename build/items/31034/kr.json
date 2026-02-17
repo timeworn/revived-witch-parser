@@ -1,0 +1,12 @@
+{
+  "id": 31034,
+  "name": "0",
+  "description": "",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame3.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

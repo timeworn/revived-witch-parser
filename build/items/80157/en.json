@@ -1,0 +1,12 @@
+{
+  "id": 80157,
+  "name": "Beach Castle",
+  "description": "[Compact Item] A castle fit for a sandy king. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100825.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

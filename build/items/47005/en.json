@@ -1,0 +1,17 @@
+{
+  "id": 47005,
+  "name": "Staff of Great Eye",
+  "description": "An evil staff with a great eye carved on it.",
+  "icon": "/ui/imagesets/items1/100413.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

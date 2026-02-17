@@ -1,0 +1,13 @@
+{
+  "id": 75014,
+  "name": "고급 회복형 결정",
+  "description": "마력이 깃들어 있는 결정, 회복형 인형을 돌파하는 데 사용한다.",
+  "icon": "/ui/imagesets/items1/100115.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

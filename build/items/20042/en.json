@@ -1,0 +1,12 @@
+{
+  "id": 20042,
+  "name": "Cast Gold Coin",
+  "description": "Made of pure gold, this coin has a lily pattern and a golden glint which combine to speak to its value. The inscription on its back reads: Eternal Glory Granted by God.",
+  "icon": "/ui/imagesets/items1/101089.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31145,
+  "name": "Journey Ascension Pack",
+  "description": "Rejoice in unlocking a new chapter! Buy this pack to summon 10 times and get character ascension materials.",
+  "icon": "/ui/imagesets/shop/shopgift24.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

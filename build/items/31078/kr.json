@@ -1,0 +1,12 @@
+{
+  "id": 31078,
+  "name": "중급 궁극 패키지",
+  "description": "구매하면 대량의 인형 돌파 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift10.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

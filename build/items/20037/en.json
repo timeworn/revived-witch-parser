@@ -1,0 +1,12 @@
+{
+  "id": 20037,
+  "name": "Ice Cryolite",
+  "description": "A rare ore from which Ice Crystal Ore can be obtained.",
+  "icon": "/ui/imagesets/items1/100248.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

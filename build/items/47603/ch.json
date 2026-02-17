@@ -1,0 +1,17 @@
+{
+  "id": 47603,
+  "name": "祈祷礼服",
+  "description": "祈祷仪式上才会穿着的礼服，朴素但又不失风度",
+  "icon": "/ui/imagesets/items1/100386.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

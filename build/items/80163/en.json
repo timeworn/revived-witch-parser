@@ -1,0 +1,12 @@
+{
+  "id": 80163,
+  "name": "Beach Wallpaper",
+  "description": "[Wallpaper] A magical wallpaper that allows you to live the beach life. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100798.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

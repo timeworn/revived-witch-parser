@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "安格泠",
-  "ownerId": 111,
+  "character": "安格泠",
+  "characterId": 111,
   "evolutions": "(当前角色进化等级额外提升0/1/2/3%攻击，额外0/1/2/3%的物理伤害专武转化为生命回复)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

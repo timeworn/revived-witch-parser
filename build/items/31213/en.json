@@ -1,0 +1,12 @@
+{
+  "id": 31213,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100837.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

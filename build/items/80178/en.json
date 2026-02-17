@@ -1,0 +1,12 @@
+{
+  "id": 80178,
+  "name": "Ancient Castle Chair",
+  "description": "[Compact Item] A chair that is at once primitive and glamorous. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100852.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80296,
+  "name": "百发百中",
+  "description": "【墙饰】如果能连中五发靶心，不仅能在餐厅的小册子上留名，还能额外获得免费的饮料。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101121.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

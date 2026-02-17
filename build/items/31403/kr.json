@@ -1,0 +1,12 @@
+{
+  "id": 31403,
+  "name": "주간 돌파 패키지",
+  "description": "주간 돌파 패키지",
+  "icon": "/ui/imagesets/shop/shopgift10.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

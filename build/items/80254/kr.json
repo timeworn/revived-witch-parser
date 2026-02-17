@@ -1,0 +1,12 @@
+{
+  "id": 80254,
+  "name": "이끼 나무 말뚝",
+  "description": "[작은 가구] 기대기에 너무 편한 말뚝. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101009.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

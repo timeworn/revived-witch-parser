@@ -1,0 +1,17 @@
+{
+  "id": 45607,
+  "name": "엘프의 도끼",
+  "description": "정령의 호수 바닥에 가라앉은 도끼, 정령의 숲의 정화를 흡수했다.",
+  "icon": "/ui/imagesets/items1/100420.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

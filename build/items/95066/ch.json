@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "荷恩",
-  "ownerId": 66,
+  "character": "荷恩",
+  "characterId": 66,
   "evolutions": "(当前角色进化等级额外恢复0/1/2/3%攻击数值的生命)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

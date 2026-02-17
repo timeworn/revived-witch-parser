@@ -1,0 +1,12 @@
+{
+  "id": 35063,
+  "name": "Withered Seed Nucleus",
+  "description": "Obtain by defeating mutated monsters corrupted by Withered Heart. Use to redeem for items in Forest Recall Shop.",
+  "icon": "/ui/imagesets/items1/101050.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

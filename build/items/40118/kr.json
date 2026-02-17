@@ -1,0 +1,17 @@
+{
+  "id": 40118,
+  "name": "니콜리스",
+  "description": "[천신의 기도 니콜리스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_119/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781119,
+      "quantity": 1
+    }
+  ]
+}

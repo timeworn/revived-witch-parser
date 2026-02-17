@@ -1,0 +1,12 @@
+{
+  "id": 31676,
+  "name": "终极礼包",
+  "description": "端午节豪华礼包",
+  "icon": "/ui/imagesets/shop/shopgift61.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

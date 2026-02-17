@@ -1,0 +1,12 @@
+{
+  "id": 80268,
+  "name": "周年庆蛋糕",
+  "description": "【小件】没有人会拒绝吃掉一块美味的蛋糕，如果有，那就让他吃两块。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101078.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31126,
+  "name": "랜덤 UR 인형",
+  "description": "랜덤 UR 인형 1개 획득 가능",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

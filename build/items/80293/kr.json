@@ -1,0 +1,12 @@
+{
+  "id": 80293,
+  "name": "나른한 오후",
+  "description": "[창문] 따뜻한 햇살이 창밖에서 나른하게 비쳐 들어오면 눈을 가늘게 뜨고 창가에 기대어 낮잠을 잘 수 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101118.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

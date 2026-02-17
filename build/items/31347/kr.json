@@ -1,0 +1,12 @@
+{
+  "id": 31347,
+  "name": "해피 깜짝 상자",
+  "description": "많은 선물이 들어있다",
+  "icon": "/ui/imagesets/items1/100983.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

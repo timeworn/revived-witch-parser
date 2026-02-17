@@ -1,0 +1,12 @@
+{
+  "id": 80281,
+  "name": "熔狱旗帜",
+  "description": "【墙饰】旗帜表面的光泽被奇怪的液体覆盖污染，边角被奇怪的抓痕坼裂。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101138.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

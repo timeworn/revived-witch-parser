@@ -1,0 +1,12 @@
+{
+  "id": 90019,
+  "name": "어머니를 향한 노래",
+  "description": "인형의 외형을 변경할 수 있다.",
+  "icon": "/ui/imagesets/items1/100789.png",
+  "type": "코스튬",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

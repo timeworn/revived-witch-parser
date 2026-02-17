@@ -1,0 +1,12 @@
+{
+  "id": 31445,
+  "name": "룬 클래스 대지 패키지",
+  "description": "룬 클래스 대지 패키지",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop04.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

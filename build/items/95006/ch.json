@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "薇妲尔",
-  "ownerId": 6,
+  "character": "薇妲尔",
+  "characterId": 6,
   "evolutions": "(当前角色进化等级额外提升0/0.5/1/1.5%的伤害)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

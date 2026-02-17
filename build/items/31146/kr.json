@@ -1,0 +1,12 @@
+{
+  "id": 31146,
+  "name": "뉴챕터 초월 패키지",
+  "description": "새로운 챕터의 오픈, 구매 후 소환 및 스킬 강화 아이템을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift25.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

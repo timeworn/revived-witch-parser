@@ -1,0 +1,17 @@
+{
+  "id": 40028,
+  "name": "瑟兰雅",
+  "description": "可以获得人偶 【苍穹疾风 瑟兰雅】",
+  "icon": "/ui/imagesets/headphotos/hp_035.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78127,
+      "quantity": 1
+    }
+  ]
+}

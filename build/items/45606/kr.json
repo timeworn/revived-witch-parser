@@ -1,0 +1,17 @@
+{
+  "id": 45606,
+  "name": "주혼의 도끼",
+  "description": "대장장이의 영혼을 주입한 전설의 도끼.",
+  "icon": "/ui/imagesets/items1/100419.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

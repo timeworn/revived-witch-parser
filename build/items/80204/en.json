@@ -1,0 +1,12 @@
+{
+  "id": 80204,
+  "name": "Starry Promise Matveiffe standee",
+  "description": "[Compact Item] A standee handmade by Matveiffe as a forget-me-not present to the Witch. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100942.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

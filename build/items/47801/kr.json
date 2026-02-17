@@ -1,0 +1,17 @@
+{
+  "id": 47801,
+  "name": "반지",
+  "description": "모든 점포에서 판매하는 일반 반지.",
+  "icon": "/ui/imagesets/items1/100179.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

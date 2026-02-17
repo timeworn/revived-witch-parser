@@ -1,0 +1,12 @@
+{
+  "id": 31444,
+  "name": "Attribute Intensification Thunder Pack",
+  "description": "Attribute Intensification Thunder Pack",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop01.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

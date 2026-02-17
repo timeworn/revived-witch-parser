@@ -1,0 +1,12 @@
+{
+  "id": 80126,
+  "name": "TapTap立牌",
+  "description": "【小件】TapTap的易拉宝立牌。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100658.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

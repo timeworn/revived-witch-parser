@@ -1,0 +1,17 @@
+{
+  "id": 40052,
+  "name": "Ardisia",
+  "description": "Obtain Doll [Ardisia: Beach Rambler]",
+  "icon": "/ui/imagesets/headphotos/hp_054.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78151,
+      "quantity": 1
+    }
+  ]
+}

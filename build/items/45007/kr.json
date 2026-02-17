@@ -1,0 +1,17 @@
+{
+  "id": 45007,
+  "name": "요정의 방패",
+  "description": "요정의 축복을 받은 방패, 상상할 수 없을 만큼 대단한 힘을 지녔다.",
+  "icon": "/ui/imagesets/items1/100410.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

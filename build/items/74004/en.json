@@ -1,0 +1,13 @@
+{
+  "id": 74004,
+  "name": "Elves' Spawn",
+  "description": "An egg that spawns elves allegedly, or unknown creatures if handled improperly. Used to enhance the Dolls' skills.",
+  "icon": "/ui/imagesets/items1/100545.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

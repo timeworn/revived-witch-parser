@@ -1,0 +1,17 @@
+{
+  "id": 47807,
+  "name": "달빛의 반지",
+  "description": "달빛의 정수를 흡수한 반지, 별 하늘이 희미하게 그려져 있다.",
+  "icon": "/ui/imagesets/items1/100435.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "아세라타",
-  "ownerId": 84,
+  "character": "아세라타",
+  "characterId": 84,
   "evolutions": "(캐릭터 진화 시 공격력의 0/2/4/6%만큼 물리 피해가 증가한다)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

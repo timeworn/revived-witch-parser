@@ -1,0 +1,12 @@
+{
+  "id": 35011,
+  "name": "白花瓣",
+  "description": "灵魂飘散后留下的纯白色躯壳。$B$如同花瓣一样散发着清香，可以安定人的心绪。$B$可通过召唤人偶，以及在工坊中分解SR、R人偶魂石获得，用于商城交换物品。",
+  "icon": "/ui/imagesets/items1/100117.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

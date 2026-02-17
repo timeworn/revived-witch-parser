@@ -1,0 +1,17 @@
+{
+  "id": 40070,
+  "name": "玛特薇芙",
+  "description": "可以获得人偶 【蓝移观测者 玛特薇芙】",
+  "icon": "/ui/imagesets/headphotos/hp_071.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78169,
+      "quantity": 1
+    }
+  ]
+}

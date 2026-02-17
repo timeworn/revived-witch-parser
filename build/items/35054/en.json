@@ -1,0 +1,12 @@
+{
+  "id": 35054,
+  "name": "Blue Coupon",
+  "description": "A special coupon obtained from Garden Party. Can be used to enhance Equipment's level. [Event Token]",
+  "icon": "/ui/imagesets/items1/100988.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

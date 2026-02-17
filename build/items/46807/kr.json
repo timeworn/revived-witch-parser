@@ -1,0 +1,17 @@
+{
+  "id": 46807,
+  "name": "용혈의 잔",
+  "description": "사악한 용의 피가 담겨 있는 저주의 잔.",
+  "icon": "/ui/imagesets/items1/100450.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

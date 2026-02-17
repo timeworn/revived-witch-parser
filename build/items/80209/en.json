@@ -1,0 +1,12 @@
+{
+  "id": 80209,
+  "name": "Lucky Charm",
+  "description": "[Wall Decor] Thousands of families, bathed in the bright sunlight, are replacing the old peach wood charms with new ones. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100931.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

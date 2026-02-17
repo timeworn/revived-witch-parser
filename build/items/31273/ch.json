@@ -1,0 +1,12 @@
+{
+  "id": 31273,
+  "name": "凯多尼娅外观礼包",
+  "description": "凯多尼娅外观礼包",
+  "icon": "/ui/imagesets/shop/shopcrystal6.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

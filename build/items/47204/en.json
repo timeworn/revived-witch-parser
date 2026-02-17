@@ -1,0 +1,17 @@
+{
+  "id": 47204,
+  "name": "Ruby Wand",
+  "description": "A wand decorated with a carnelian.",
+  "icon": "/ui/imagesets/items1/100195.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

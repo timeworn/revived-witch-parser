@@ -1,0 +1,12 @@
+{
+  "id": 31596,
+  "name": "과일 아이스크림",
+  "description": "다른 맛 있냐고요? 아니요, 제일 맛있는 오렌지 맛만 팔아요!",
+  "icon": "/ui/imagesets/items1/101159.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

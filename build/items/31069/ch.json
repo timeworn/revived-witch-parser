@@ -1,0 +1,12 @@
+{
+  "id": 31069,
+  "name": "活跃奖励·五",
+  "description": "周常任务活跃值奖励5",
+  "icon": "/ui/imagesets/items1/chest1.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

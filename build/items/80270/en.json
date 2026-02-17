@@ -1,0 +1,12 @@
+{
+  "id": 80270,
+  "name": "Ceremonial Balloons",
+  "description": "[Compact Item] Every balloon contains a child's dream. Handle it with care and keep it away from pointy objects. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101071.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

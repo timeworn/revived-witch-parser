@@ -1,0 +1,12 @@
+{
+  "id": 20001,
+  "name": "镜之碎片",
+  "description": "寄蕴着魔力的碎片，集齐它似乎会发生神秘的事情。",
+  "icon": "/ui/imagesets/items1/100124.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

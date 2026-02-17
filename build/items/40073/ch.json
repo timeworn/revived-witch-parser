@@ -1,0 +1,17 @@
+{
+  "id": 40073,
+  "name": "希尔达",
+  "description": "可以获得人偶 【王室之剑 希尔达】",
+  "icon": "/ui/imagesets/headphotos/hp_002.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78172,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31455,
+  "name": "1周年纪念头像",
+  "description": "1周年生日快乐~",
+  "icon": "/ui/imagesets/headphotos/headphoto_1YearAnniversary.png",
+  "type": "头像",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

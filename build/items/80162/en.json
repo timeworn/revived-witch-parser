@@ -1,0 +1,12 @@
+{
+  "id": 80162,
+  "name": "BBQ Grill Rack",
+  "description": "[Compact Item] The soul of a beach party. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100805.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47408,
+  "name": "冥途铠甲",
+  "description": "冥界黑鬼魔将穿戴的铠甲，散发出令人生畏的暗狱之气",
+  "icon": "/ui/imagesets/items1/100071.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

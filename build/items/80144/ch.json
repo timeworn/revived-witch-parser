@@ -1,0 +1,12 @@
+{
+  "id": 80144,
+  "name": "红星",
+  "description": "【小件】在星辰幻镜的世界中，挑战自我极限的证明。红星的缺口处散发着不祥的黑气。摆放后可增加50点舒适度。",
+  "icon": "/ui/imagesets/items1/100682.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

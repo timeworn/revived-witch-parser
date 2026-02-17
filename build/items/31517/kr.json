@@ -1,0 +1,12 @@
+{
+  "id": 31517,
+  "name": "별하늘 선물 상자",
+  "description": "별하늘 테마의 선물 상자. 깜짝 선물이 들어있다.",
+  "icon": "/ui/imagesets/items1/101149.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

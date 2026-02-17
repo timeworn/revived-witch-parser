@@ -1,0 +1,12 @@
+{
+  "id": 31142,
+  "name": "Hype Ultimate Pack",
+  "description": "A new chapter is about to come! Buy this pack to summon 80 times.",
+  "icon": "/ui/imagesets/shop/shopgift4.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

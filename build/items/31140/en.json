@@ -1,0 +1,12 @@
+{
+  "id": 31140,
+  "name": "Hype Skill Pack",
+  "description": "A new chapter is about to come! Buy this pack for skill upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift21.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

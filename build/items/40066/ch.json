@@ -1,0 +1,17 @@
+{
+  "id": 40066,
+  "name": "辛妮",
+  "description": "可以获得人偶 【圣灵惩戒者 辛妮】",
+  "icon": "/ui/imagesets/localization/role/char_067/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78129,
+      "quantity": 1
+    }
+  ]
+}

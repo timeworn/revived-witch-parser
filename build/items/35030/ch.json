@@ -1,0 +1,12 @@
+{
+  "id": 35030,
+  "name": "石料",
+  "description": "天然石料，可以用作建筑的底座。【活动材料】",
+  "icon": "/ui/imagesets/items1/100784.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

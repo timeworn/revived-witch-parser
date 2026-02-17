@@ -1,0 +1,17 @@
+{
+  "id": 48404,
+  "name": "Tome of Still Water",
+  "description": "A tome blessed by the Goddess of the Lake, and able to resist the corrosion of magic.",
+  "icon": "/ui/imagesets/items1/100690.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80137,
+  "name": "Starnight Fountain",
+  "description": "[Bulky Item] Clear water surges from within. The sculpted figures seem to be dancing. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100669.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

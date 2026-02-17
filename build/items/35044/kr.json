@@ -1,0 +1,12 @@
+{
+  "id": 35044,
+  "name": "타운 코인",
+  "description": "마을에서 사용되는 화폐, 물건을 구매할 수 있다.",
+  "icon": "/ui/imagesets/items1/100922.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

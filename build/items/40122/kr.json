@@ -1,0 +1,17 @@
+{
+  "id": 40122,
+  "name": "셰이프",
+  "description": "[스위트 딜리버 셰이프] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_123/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781123,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35018,
+  "name": "Furniture Coin",
+  "description": "Glittering coins used to buy furniture for the Cottage.",
+  "icon": "/ui/imagesets/items1/100553.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

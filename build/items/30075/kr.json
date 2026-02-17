@@ -1,0 +1,12 @@
+{
+  "id": 30075,
+  "name": "활약도 보상·5",
+  "description": "0",
+  "icon": "/ui/imagesets/items1/chest1.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

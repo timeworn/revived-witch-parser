@@ -1,0 +1,17 @@
+{
+  "id": 45409,
+  "name": "펜사리르",
+  "description": "고난의 궁전에서 섬기고 있는 영혼의 검, 영혼의 수호자 쉐파라드의 무한한 원념이 기생하고 있어 신을 죽이는 힘이 있다고 한다.",
+  "icon": "/ui/imagesets/items1/100432.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

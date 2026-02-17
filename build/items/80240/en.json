@@ -1,0 +1,12 @@
+{
+  "id": 80240,
+  "name": "Festive Doorframe",
+  "description": "[Compact Item] A portal to the spring bursting with vigor and fortune. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100967.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

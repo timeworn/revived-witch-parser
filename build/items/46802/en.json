@@ -1,0 +1,17 @@
+{
+  "id": 46802,
+  "name": "Spiritual Grail",
+  "description": "A grail used to store spiritual power which can be unleashed in combat.",
+  "icon": "/ui/imagesets/items1/100190.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

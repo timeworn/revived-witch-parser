@@ -1,0 +1,17 @@
+{
+  "id": 45609,
+  "name": "炼狱斧·弗利多",
+  "description": "炼狱帝龙弗利多的化身，能唤来炼狱之焰，焚尽一切敌人",
+  "icon": "/ui/imagesets/items1/100422.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

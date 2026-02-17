@@ -1,0 +1,12 @@
+{
+  "id": 31476,
+  "name": "第1日庆典礼包",
+  "description": "看起来有点矮的蘑菇，据说跟随它可以发现奇妙的世界",
+  "icon": "/ui/imagesets/items1/101056.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

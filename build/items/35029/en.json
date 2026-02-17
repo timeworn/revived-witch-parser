@@ -1,0 +1,12 @@
+{
+  "id": 35029,
+  "name": "Sand",
+  "description": "Smooth beach sand. Important material for developing an island.",
+  "icon": "/ui/imagesets/items1/100783.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

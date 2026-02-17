@@ -1,0 +1,12 @@
+{
+  "id": 80205,
+  "name": "佳节火锅组合",
+  "description": "【大件】冬日里最适合聚在一起吃一顿热气腾腾的火锅了。可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100934.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

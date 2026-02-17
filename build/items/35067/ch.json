@@ -1,0 +1,12 @@
+{
+  "id": 35067,
+  "name": "烤鱼",
+  "description": "香喷喷的烤鱼，新鲜出炉，达奈莉姆的最爱",
+  "icon": "/ui/imagesets/items1/101160.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

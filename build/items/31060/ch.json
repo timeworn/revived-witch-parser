@@ -1,0 +1,12 @@
+{
+  "id": 31060,
+  "name": "每日礼包",
+  "description": "每日仅能购买一次。",
+  "icon": "/ui/imagesets/shop/daygift2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

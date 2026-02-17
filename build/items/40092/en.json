@@ -1,0 +1,17 @@
+{
+  "id": 40092,
+  "name": "Gracin",
+  "description": "Obtain Doll [Gracin: Calamity Doctor]",
+  "icon": "/ui/imagesets/localization/role/char_093/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781093,
+      "quantity": 1
+    }
+  ]
+}

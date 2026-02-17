@@ -1,0 +1,12 @@
+{
+  "id": 80300,
+  "name": "음식 진열장",
+  "description": "[작은 가구] 다양하고 신선한 음식들이 진열되어 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101125.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

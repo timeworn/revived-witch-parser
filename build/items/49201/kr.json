@@ -1,0 +1,17 @@
+{
+  "id": 49201,
+  "name": "전장의 화신-도끼",
+  "description": "전장의 화신-도끼",
+  "icon": "/ui/imagesets/items1/100766.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

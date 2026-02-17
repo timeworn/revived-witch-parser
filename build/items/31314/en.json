@@ -1,0 +1,12 @@
+{
+  "id": 31314,
+  "name": "White Day Advanced Pack",
+  "description": "White Day Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift48.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

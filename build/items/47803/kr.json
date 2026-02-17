@@ -1,0 +1,17 @@
+{
+  "id": 47803,
+  "name": "자수정 반지",
+  "description": "자수정이 박혀 있는 반지, 가격도 상당할 것 같다.",
+  "icon": "/ui/imagesets/items1/100180.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

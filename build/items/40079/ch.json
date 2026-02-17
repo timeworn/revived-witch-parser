@@ -1,0 +1,17 @@
+{
+  "id": 40079,
+  "name": "水月",
+  "description": "可以获得人偶 【海边派对 水月】",
+  "icon": "/ui/imagesets/headphotos/hp_078.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78178,
+      "quantity": 1
+    }
+  ]
+}

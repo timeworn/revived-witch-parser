@@ -1,0 +1,12 @@
+{
+  "id": 90013,
+  "name": "Dashing Sunglasses",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/100706.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

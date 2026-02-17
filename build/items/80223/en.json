@@ -1,0 +1,12 @@
+{
+  "id": 80223,
+  "name": "Festival Screen",
+  "description": "[Bulky Item] A lantern inspired by oriental mythology. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100928.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

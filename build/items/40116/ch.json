@@ -1,0 +1,17 @@
+{
+  "id": 40116,
+  "name": "珂莉俄丝",
+  "description": "可以获得人偶 【晨星光耀 珂莉俄丝】",
+  "icon": "/ui/imagesets/localization/role/char_117/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781117,
+      "quantity": 1
+    }
+  ]
+}

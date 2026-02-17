@@ -1,0 +1,12 @@
+{
+  "id": 31462,
+  "name": "컴백 스퍼트 패키지",
+  "description": "컴백 스퍼트 패키지",
+  "icon": "/ui/imagesets/items1/100872.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

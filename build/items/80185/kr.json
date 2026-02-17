@@ -1,0 +1,12 @@
+{
+  "id": 80185,
+  "name": "소환진",
+  "description": "[카펫] 무서운 악마를 소환할 수 있다고 하는 마법진, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100854.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

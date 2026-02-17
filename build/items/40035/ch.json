@@ -1,0 +1,17 @@
+{
+  "id": 40035,
+  "name": "卡丝庇妲",
+  "description": "可以获得人偶 【狂气赤瞳 卡丝庇妲】",
+  "icon": "/ui/imagesets/headphotos/hp_051.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78134,
+      "quantity": 1
+    }
+  ]
+}

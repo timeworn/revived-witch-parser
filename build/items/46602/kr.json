@@ -1,0 +1,17 @@
+{
+  "id": 46602,
+  "name": "강령의 오브",
+  "description": "강령 의식을 치를 때 영력을 모으는 데 사용하는 오브.",
+  "icon": "/ui/imagesets/items1/100076.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

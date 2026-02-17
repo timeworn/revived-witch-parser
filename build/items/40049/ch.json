@@ -1,0 +1,17 @@
+{
+  "id": 40049,
+  "name": "阿维尔",
+  "description": "可以获得人偶 【王城守卫 阿维尔】",
+  "icon": "/ui/imagesets/headphotos/hp_034.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78148,
+      "quantity": 1
+    }
+  ]
+}

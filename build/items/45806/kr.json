@@ -1,0 +1,17 @@
+{
+  "id": 45806,
+  "name": "엽혼의 대거",
+  "description": "영혼을 갈구하는 저주받은 대거",
+  "icon": "/ui/imagesets/items1/100399.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

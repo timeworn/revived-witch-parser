@@ -1,0 +1,12 @@
+{
+  "id": 31348,
+  "name": "Advanced Prank Box",
+  "description": "Open it! A huge surprise awaits you.",
+  "icon": "/ui/imagesets/items1/100983.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

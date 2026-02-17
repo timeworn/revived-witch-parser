@@ -1,0 +1,17 @@
+{
+  "id": 48008,
+  "name": "앨리스의 목걸이",
+  "description": "신기한 효과가 있는 장신구, 성수를 지키는 소녀가 착용했었다고 한다.",
+  "icon": "/ui/imagesets/items1/100466.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40068,
+  "name": "玛娅维尔",
+  "description": "可以获得人偶 【森之恩惠 玛娅维尔】",
+  "icon": "/ui/imagesets/headphotos/hp_069.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78167,
+      "quantity": 1
+    }
+  ]
+}

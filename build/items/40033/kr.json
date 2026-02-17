@@ -1,0 +1,17 @@
+{
+  "id": 40033,
+  "name": "셔플",
+  "description": "[존재의 말살자 셔플] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_050.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78132,
+      "quantity": 1
+    }
+  ]
+}

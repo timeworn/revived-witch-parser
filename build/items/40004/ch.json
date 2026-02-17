@@ -1,0 +1,17 @@
+{
+  "id": 40004,
+  "name": "高贵的女性",
+  "description": "可以获得人偶 【虚空魔人 乌托】",
+  "icon": "/ui/imagesets/headphotos/hp_009.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78103,
+      "quantity": 1
+    }
+  ]
+}

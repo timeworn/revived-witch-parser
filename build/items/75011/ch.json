@@ -1,0 +1,13 @@
+{
+  "id": 75011,
+  "name": "高级妨害结晶",
+  "description": "魔力的结晶，用于妨害型人偶的突破。",
+  "icon": "/ui/imagesets/items1/100100.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

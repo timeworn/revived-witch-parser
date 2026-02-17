@@ -1,0 +1,12 @@
+{
+  "id": 80197,
+  "name": "방울 소파",
+  "description": "[큰 가구] 올해 크리스마스 이브도 뒹굴면서 보내자. 배치하면 쾌적 지수가 20증가한다.",
+  "icon": "/ui/imagesets/items1/100884.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

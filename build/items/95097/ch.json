@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "菲莱诺希丝",
-  "ownerId": 97,
+  "character": "菲莱诺希丝",
+  "characterId": 97,
   "evolutions": "(当前角色进化等级技能效果使时序超频的效果额外提升0/1/2/3%)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

@@ -1,0 +1,12 @@
+{
+  "id": 31122,
+  "name": "王老菊头像框",
+  "description": "都给我加班！！！",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame6.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

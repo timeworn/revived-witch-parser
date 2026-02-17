@@ -1,0 +1,12 @@
+{
+  "id": 31416,
+  "name": "特惠赠礼盒",
+  "description": "每日赠礼~",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewDailyShop02.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

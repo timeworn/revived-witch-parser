@@ -1,0 +1,17 @@
+{
+  "id": 45402,
+  "name": "Great Sword",
+  "description": "A big sword popular among mercenaries for flexing their strength.",
+  "icon": "/ui/imagesets/items1/100079.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

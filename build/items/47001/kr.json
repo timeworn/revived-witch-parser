@@ -1,0 +1,17 @@
+{
+  "id": 47001,
+  "name": "나무 지팡이",
+  "description": "일반 마법 지팡이로 특별한 점은 없다.",
+  "icon": "/ui/imagesets/items1/100067.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

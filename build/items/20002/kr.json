@@ -1,0 +1,12 @@
+{
+  "id": 20002,
+  "name": "마녀 노트-거울 액자",
+  "description": "거울 조각을 끼워 넣을 수 있는 액자.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

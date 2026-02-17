@@ -1,0 +1,12 @@
+{
+  "id": 80164,
+  "name": "Artificial Beach",
+  "description": "[Flooring] Sand brought back from the beach for some reason. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100800.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

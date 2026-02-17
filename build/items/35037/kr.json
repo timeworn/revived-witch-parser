@@ -1,0 +1,12 @@
+{
+  "id": 35037,
+  "name": "예언의 수정",
+  "description": "고대의 마법 수정, 마법을 다루는 자에게 미래를 볼 수 있는 힘을 준다.",
+  "icon": "/ui/imagesets/items1/100547.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

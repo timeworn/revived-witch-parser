@@ -1,0 +1,12 @@
+{
+  "id": 31471,
+  "name": "第1日庆典礼包",
+  "description": "森林中出没的罕见蘑菇，据说跟随它可以找到神秘的宝藏",
+  "icon": "/ui/imagesets/items1/101054.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

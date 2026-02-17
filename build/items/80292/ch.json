@@ -1,0 +1,12 @@
+{
+  "id": 80292,
+  "name": "简约地砖",
+  "description": "【地板】简约大气的地砖拼搭艺术，是今年非常流行的款式。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101117.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 74004,
+  "name": "精灵之卵",
+  "description": "传说中能够孕育精灵的蛋，但如果操作错误，也会生出不知名的生物。用于提升人偶技能强度。",
+  "icon": "/ui/imagesets/items1/100545.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

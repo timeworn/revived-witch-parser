@@ -1,0 +1,12 @@
+{
+  "id": 31351,
+  "name": "Fools' Day Deluxe Pack",
+  "description": "Fools' Day Deluxe Pack",
+  "icon": "/ui/imagesets/shop/shopgift61.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

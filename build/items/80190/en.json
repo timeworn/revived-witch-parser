@@ -1,0 +1,12 @@
+{
+  "id": 80190,
+  "name": "Fervent Fireplace",
+  "description": "[Bulky Item] They say Santa likes a nice, well-kept fireplace. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100876.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

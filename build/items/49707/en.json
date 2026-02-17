@@ -1,0 +1,17 @@
+{
+  "id": 49707,
+  "name": "Ordered Faith - Armor",
+  "description": "Ordered Faith - Armor",
+  "icon": "/ui/imagesets/items1/100773.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

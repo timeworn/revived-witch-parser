@@ -1,0 +1,12 @@
+{
+  "id": 31272,
+  "name": "칼레도니아 개인 앨범",
+  "description": "몽환의 앨범",
+  "icon": "/ui/imagesets/items1/100899.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

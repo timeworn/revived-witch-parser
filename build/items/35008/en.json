@@ -1,0 +1,12 @@
+{
+  "id": 35008,
+  "name": "Soul",
+  "description": "Crystallized by magic, it is necessary for any Witch who intends to sign a Soul Contract. $B$$B$Used to summon new Dolls",
+  "icon": "/ui/imagesets/items1/100191.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

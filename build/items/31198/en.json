@@ -1,0 +1,12 @@
+{
+  "id": 31198,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/shop/shopgift37.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

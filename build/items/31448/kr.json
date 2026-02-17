@@ -1,0 +1,12 @@
+{
+  "id": 31448,
+  "name": "초월 룬 클래스 패키지",
+  "description": "초월 룬 클래스 패키지",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop05.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

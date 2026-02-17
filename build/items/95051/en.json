@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Tuonel",
-  "ownerId": 51,
+  "character": "Tuonel",
+  "characterId": 51,
   "evolutions": "(Doll's current Evolution Level increases ATK by 0/0.5/1/1.5%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

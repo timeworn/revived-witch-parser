@@ -1,0 +1,12 @@
+{
+  "id": 80236,
+  "name": "Festive Wallpaper",
+  "description": "[Wallpaper] A kind of oriental-style wallpaper, looking festive. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100926.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

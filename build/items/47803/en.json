@@ -1,0 +1,17 @@
+{
+  "id": 47803,
+  "name": "Amethyst Ring",
+  "description": "A ring with purple jade inlay. It must command an extraordinary price.",
+  "icon": "/ui/imagesets/items1/100180.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

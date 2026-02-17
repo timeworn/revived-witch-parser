@@ -1,0 +1,12 @@
+{
+  "id": 31296,
+  "name": "Lucky Dumpling",
+  "description": "Purchase to get Dumplings.",
+  "icon": "/ui/imagesets/shop/shopgift51.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

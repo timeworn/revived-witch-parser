@@ -1,0 +1,12 @@
+{
+  "id": 35067,
+  "name": "Grilled Fish",
+  "description": "Freshly baked, sizzling grilled fish. Danelim's favorite.",
+  "icon": "/ui/imagesets/items1/101160.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

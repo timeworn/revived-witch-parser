@@ -1,0 +1,12 @@
+{
+  "id": 31421,
+  "name": "豪华赠礼盒",
+  "description": "在祭典上使用的仪式之剑，比起杀伤力，更注重外观的典雅",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewPuzzleShop2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

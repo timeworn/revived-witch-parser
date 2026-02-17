@@ -1,0 +1,12 @@
+{
+  "id": 80110,
+  "name": "留声机",
+  "description": "【小件】旧式留声机。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100580.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

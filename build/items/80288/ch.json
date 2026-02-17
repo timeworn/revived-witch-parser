@@ -1,0 +1,12 @@
+{
+  "id": 80288,
+  "name": "拥挤壁柜",
+  "description": "【大件】被塞满了各种奇奇怪怪物品的壁柜，还是不要乱碰为妙。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101145.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

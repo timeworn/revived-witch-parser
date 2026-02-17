@@ -1,0 +1,12 @@
+{
+  "id": 80291,
+  "name": "防污壁纸",
+  "description": "【墙壁】为了能够起到防油污的作用，墙纸的表面被特殊的材料所覆盖。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101116.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

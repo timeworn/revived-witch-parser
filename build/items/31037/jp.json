@@ -1,0 +1,20 @@
+{
+  "id": 31037,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100515.png",
+  "type": "",
+  "typeId": 42,
+  "maxNum": 1,
+  "limited": true,
+  "timeLimit": 10080,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35003,
+      "quantity": -2
+    }
+  ]
+}

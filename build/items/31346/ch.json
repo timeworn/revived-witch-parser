@@ -1,0 +1,12 @@
+{
+  "id": 31346,
+  "name": "快乐惊吓盒",
+  "description": "打开里面有大惊喜哦",
+  "icon": "/ui/imagesets/items1/100983.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

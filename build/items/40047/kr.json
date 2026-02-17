@@ -1,0 +1,17 @@
+{
+  "id": 40047,
+  "name": "키폰",
+  "description": "[명계의 안내자 키폰] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_033.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78146,
+      "quantity": 1
+    }
+  ]
+}

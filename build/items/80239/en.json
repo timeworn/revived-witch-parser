@@ -1,0 +1,12 @@
+{
+  "id": 80239,
+  "name": "Festival Screen",
+  "description": "[Bulky Item] A giant screen festooned with festive lanterns. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100928.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

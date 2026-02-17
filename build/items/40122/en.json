@@ -1,0 +1,17 @@
+{
+  "id": 40122,
+  "name": "Snowshine",
+  "description": "Obtain Doll [Snowshine: Sweet Delivery]",
+  "icon": "/ui/imagesets/localization/role/char_123/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781123,
+      "quantity": 1
+    }
+  ]
+}

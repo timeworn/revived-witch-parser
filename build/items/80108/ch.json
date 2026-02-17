@@ -1,0 +1,12 @@
+{
+  "id": 80108,
+  "name": "黑陶花瓶",
+  "description": "【小件】一个黑陶花瓶。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100579.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

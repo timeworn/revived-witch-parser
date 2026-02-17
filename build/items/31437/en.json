@@ -1,0 +1,12 @@
+{
+  "id": 31437,
+  "name": "Sher Costume Pack",
+  "description": "Sher Costume Pack",
+  "icon": "/ui/imagesets/items1/101196.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

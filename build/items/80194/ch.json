@@ -1,0 +1,12 @@
+{
+  "id": 80194,
+  "name": "温暖地毯",
+  "description": "【小件】毛茸茸的地毯，即使赤脚踩上也是暖烘烘的。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100881.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

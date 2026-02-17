@@ -1,0 +1,17 @@
+{
+  "id": 45209,
+  "name": "混沌之锤·戈布努",
+  "description": "极夜大战中堕落的战女神使用的锤子，充满暗狱的咒念，召来无尽的灾祸",
+  "icon": "/ui/imagesets/items1/100407.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 75004,
+  "name": "Average Destroyer Quartz",
+  "description": "Magic Quartz used to ascend the Destroyers.",
+  "icon": "/ui/imagesets/items1/100111.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

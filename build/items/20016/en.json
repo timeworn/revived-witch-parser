@@ -1,0 +1,12 @@
+{
+  "id": 20016,
+  "name": "Fang of the Dire Wolf",
+  "description": "With magic left, this tooth allegedly is from a vicious wolf in ancient times, who was punished for biting someone extremely distinguished.",
+  "icon": "/ui/imagesets/items1/100253.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

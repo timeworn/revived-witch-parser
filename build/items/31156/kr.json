@@ -1,0 +1,12 @@
+{
+  "id": 31156,
+  "name": "문케이크 소환 패키지",
+  "description": "특별한 전용 장비 패키지, 구매 시 소환 아이템 및 이벤토리즌 결정핵을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

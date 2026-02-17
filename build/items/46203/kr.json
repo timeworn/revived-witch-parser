@@ -1,0 +1,17 @@
+{
+  "id": 46203,
+  "name": "마도서",
+  "description": "마도사들이 즐겨 사용하던 마법이 기재되어 있다.",
+  "icon": "/ui/imagesets/items1/100065.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

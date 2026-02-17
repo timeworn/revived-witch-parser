@@ -1,0 +1,12 @@
+{
+  "id": 35017,
+  "name": "梦境碎片",
+  "description": "在梦境中穿梭时，意识交汇凝结而成的晶体。",
+  "icon": "/ui/imagesets/items1/100634.png",
+  "type": "梦境碎片",
+  "typeId": 561,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31332,
+  "name": "青草团子",
+  "description": "带有青草香气的团子，是野餐的最佳搭档",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop4.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

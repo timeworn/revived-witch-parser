@@ -1,0 +1,12 @@
+{
+  "id": 31147,
+  "name": "초급 전용 장비 패키지",
+  "description": "전용 장비 출시 기념, 구매 후 대량의 육성 아이템을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift27.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

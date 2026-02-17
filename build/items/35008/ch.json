@@ -1,0 +1,12 @@
+{
+  "id": 35008,
+  "name": "灵魂",
+  "description": "由魔力凝结而成，是魔女签订灵魂契约的必需品。$B$$B$可用来召唤新的人偶",
+  "icon": "/ui/imagesets/items1/100191.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

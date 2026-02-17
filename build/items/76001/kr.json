@@ -1,0 +1,13 @@
+{
+  "id": 76001,
+  "name": "휘동석",
+  "description": "자연에서 채굴한 동광석, 장비 제작과 제련업에 널리 사용되며 장비에 경험치 <color=#32CD32>200</color>을 제공한다.",
+  "icon": "/ui/imagesets/items1/100126.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

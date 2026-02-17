@@ -1,0 +1,12 @@
+{
+  "id": 31378,
+  "name": "기간 전용 장비 상자Ⅲ",
+  "description": "기간 전용 장비 상자Ⅲ",
+  "icon": "/ui/imagesets/shop/shopgift61.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

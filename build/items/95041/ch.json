@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "乌斯庇娅",
-  "ownerId": 41,
+  "character": "乌斯庇娅",
+  "characterId": 41,
   "evolutions": "(当前角色进化等级额外提升0/0.25/0.5/0.75%的生成速度)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

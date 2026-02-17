@@ -1,0 +1,12 @@
+{
+  "id": 80113,
+  "name": "Mahogany Wall Clock",
+  "description": "[Wall Decor] A wall clock made of mahogany. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100574.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

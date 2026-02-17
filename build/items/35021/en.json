@@ -1,0 +1,12 @@
+{
+  "id": 35021,
+  "name": "Stone of Promise",
+  "description": "Proof of having completed Soluk's trial.",
+  "icon": "/ui/imagesets/items1/100641.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

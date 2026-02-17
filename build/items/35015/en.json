@@ -1,0 +1,12 @@
+{
+  "id": 35015,
+  "name": "Blue Light",
+  "description": "The shadowy light coalesced on this shore, shimmering in the darkness. It emits a clear longing for someone.",
+  "icon": "/ui/imagesets/items1/100239.png",
+  "type": "Currency",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40017,
+  "name": "Tama",
+  "description": "Obtain Doll [Tama: Will of the God]",
+  "icon": "/ui/imagesets/headphotos/hp_036.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78116,
+      "quantity": 1
+    }
+  ]
+}

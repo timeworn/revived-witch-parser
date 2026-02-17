@@ -1,0 +1,12 @@
+{
+  "id": 80101,
+  "name": "마호가니 캐비닛",
+  "description": "[큰 가구] 수납하기 편리한 마호가니 캐비닛, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100582.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

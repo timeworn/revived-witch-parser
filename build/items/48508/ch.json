@@ -1,0 +1,17 @@
+{
+  "id": 48508,
+  "name": "静水之链",
+  "description": "寄宿湖之女神祝福的项链，能够抵抗魔法的侵蚀",
+  "icon": "/ui/imagesets/items1/100691.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

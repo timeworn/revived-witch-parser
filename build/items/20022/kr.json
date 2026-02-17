@@ -1,0 +1,12 @@
+{
+  "id": 20022,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

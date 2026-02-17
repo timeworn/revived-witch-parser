@@ -1,0 +1,12 @@
+{
+  "id": 35046,
+  "name": "Bouquet",
+  "description": "A fresh bouquet that comes with chocolate purchases near Valentine's Day.",
+  "icon": "/ui/imagesets/items1/100921.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

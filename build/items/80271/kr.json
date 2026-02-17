@@ -1,0 +1,12 @@
+{
+  "id": 80271,
+  "name": "깜짝 선물",
+  "description": "[작은 가구] 선물은 직접 뜯어봐야 의미가 있는 법이다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101079.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

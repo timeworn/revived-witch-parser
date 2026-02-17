@@ -1,0 +1,17 @@
+{
+  "id": 49103,
+  "name": "수호자-중량 갑옷",
+  "description": "수호자-중량 갑옷",
+  "icon": "/ui/imagesets/items1/100760.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31373,
+  "name": "Summer Breeze Basic Pack",
+  "description": "Summer Breeze Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift19.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

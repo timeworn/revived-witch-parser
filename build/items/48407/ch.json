@@ -1,0 +1,17 @@
+{
+  "id": 48407,
+  "name": "静水之铠",
+  "description": "寄宿湖之女神祝福的铠甲，能够抵抗魔法的侵蚀",
+  "icon": "/ui/imagesets/items1/100688.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

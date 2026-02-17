@@ -1,0 +1,12 @@
+{
+  "id": 35022,
+  "name": "时空之钥",
+  "description": "拥有时空之力的钥匙，可以用于开启时空裂隙",
+  "icon": "/ui/imagesets/items1/100646.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

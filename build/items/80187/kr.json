@@ -1,0 +1,12 @@
+{
+  "id": 80187,
+  "name": "장작더미",
+  "description": "[작은 가구] 불이 붙으면 상당히 따뜻해질 것 같다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100873.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47406,
+  "name": "英雄之铠",
+  "description": "身经百战的英雄才有资格穿戴的铠甲",
+  "icon": "/ui/imagesets/items1/100439.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

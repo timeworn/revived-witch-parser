@@ -1,0 +1,17 @@
+{
+  "id": 46604,
+  "name": "封魔宝珠",
+  "description": "封印了恶魔的不详之珠",
+  "icon": "/ui/imagesets/items1/100077.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

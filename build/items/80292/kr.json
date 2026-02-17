@@ -1,0 +1,12 @@
+{
+  "id": 80292,
+  "name": "심플 바닥 타일",
+  "description": "[바닥] 심플하고 분위기 있는 벽돌로 꾸민 최근 유행하는 바닥. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101117.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

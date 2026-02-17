@@ -1,0 +1,12 @@
+{
+  "id": 31707,
+  "name": "Dazzling Intermediate Pack",
+  "description": "Rejoice in the coming of Dazzling Stage! Buy this pack for Summon Items and Furniture Coins.",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

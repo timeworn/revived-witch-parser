@@ -1,0 +1,17 @@
+{
+  "id": 40035,
+  "name": "루즈",
+  "description": "[광란의 붉은 눈동자 루즈] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_051.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78134,
+      "quantity": 1
+    }
+  ]
+}

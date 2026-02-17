@@ -1,0 +1,13 @@
+{
+  "id": 76005,
+  "name": "魔法晶石",
+  "description": "传说中的晶石，闪耀着耀眼的光芒，可以为装备提供<color=#32CD32>2000</color>经验。",
+  "icon": "/ui/imagesets/items1/100247.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

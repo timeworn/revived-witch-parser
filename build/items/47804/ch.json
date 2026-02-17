@@ -1,0 +1,17 @@
+{
+  "id": 47804,
+  "name": "砂金指环",
+  "description": "细微如砂的金粒打造的戒指",
+  "icon": "/ui/imagesets/items1/100181.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

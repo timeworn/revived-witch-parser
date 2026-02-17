@@ -1,0 +1,12 @@
+{
+  "id": 35033,
+  "name": "珍珠",
+  "description": "珍贵的彩色珍珠，价值连城。【活动材料】",
+  "icon": "/ui/imagesets/items1/100787.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "카밀리안",
-  "ownerId": 88,
+  "character": "카밀리안",
+  "characterId": 88,
   "evolutions": "(현재 캐릭터 진화 시 성약 상태의 물리 방어력이 0/0.5/1/1.5%만큼 추가 감소한다)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

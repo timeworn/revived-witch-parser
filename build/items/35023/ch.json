@@ -1,0 +1,12 @@
+{
+  "id": 35023,
+  "name": "时空精粹",
+  "description": "时空之力凝结而成的精粹",
+  "icon": "/ui/imagesets/items1/100645.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35046,
+  "name": "鲜花",
+  "description": "瓦伦丁节期间，随巧克力附送的鲜花。",
+  "icon": "/ui/imagesets/items1/100921.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

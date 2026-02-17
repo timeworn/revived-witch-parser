@@ -1,0 +1,17 @@
+{
+  "id": 40097,
+  "name": "Maja Kany",
+  "description": "Obtain Doll [Maja Kany: E-dimensional Merchant]",
+  "icon": "/ui/imagesets/localization/role/char_098/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78198,
+      "quantity": 1
+    }
+  ]
+}

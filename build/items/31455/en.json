@@ -1,0 +1,12 @@
+{
+  "id": 31455,
+  "name": "Chibi Witch",
+  "description": "Forest Recall Memorial Avatar",
+  "icon": "/ui/imagesets/headphotos/headphoto_1YearAnniversary.png",
+  "type": "Avatar",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

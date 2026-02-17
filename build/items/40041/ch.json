@@ -1,0 +1,17 @@
+{
+  "id": 40041,
+  "name": "阿鵺伦",
+  "description": "可以获得人偶 【逝灵咏叹者 阿鵺伦】",
+  "icon": "/ui/imagesets/headphotos/hp_041.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78140,
+      "quantity": 1
+    }
+  ]
+}

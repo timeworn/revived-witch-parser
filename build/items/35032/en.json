@@ -1,0 +1,12 @@
+{
+  "id": 35032,
+  "name": "Moon Cake",
+  "description": "A fragrant dessert. Mouth-watering.",
+  "icon": "/ui/imagesets/items1/100781.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

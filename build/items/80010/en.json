@@ -1,0 +1,12 @@
+{
+  "id": 80010,
+  "name": "Antique Floorlamp",
+  "description": "[Compact Item] A floor lamp with orange light. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100525.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

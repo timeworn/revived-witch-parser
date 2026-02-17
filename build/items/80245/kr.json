@@ -1,0 +1,12 @@
+{
+  "id": 80245,
+  "name": "편안한 해먹",
+  "description": "[큰 가구] 편안한 해먹에 누워 단잠을 청해 보자. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101000.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

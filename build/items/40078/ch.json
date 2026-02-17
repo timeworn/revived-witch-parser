@@ -1,0 +1,17 @@
+{
+  "id": 40078,
+  "name": "纳莎",
+  "description": "可以获得人偶 【稀代魔法使 纳莎】",
+  "icon": "/ui/imagesets/headphotos/hp_080.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78160,
+      "quantity": 1
+    }
+  ]
+}

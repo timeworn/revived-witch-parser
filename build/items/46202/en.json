@@ -1,0 +1,17 @@
+{
+  "id": 46202,
+  "name": "Apprentice Tome",
+  "description": "A book that records spells for apprentices to learn.",
+  "icon": "/ui/imagesets/items1/100162.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

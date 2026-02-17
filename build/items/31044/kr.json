@@ -1,0 +1,12 @@
+{
+  "id": 31044,
+  "name": "25레벨 모험 패키지",
+  "description": "마녀 25레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelblue6.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

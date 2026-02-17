@@ -1,0 +1,17 @@
+{
+  "id": 45407,
+  "name": "辉剑·岚冰",
+  "description": "极寒之地谢波契卡的寒玉打造的宝剑，剑锋一出，万物成霜",
+  "icon": "/ui/imagesets/items1/100430.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

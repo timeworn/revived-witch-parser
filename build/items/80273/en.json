@@ -1,0 +1,12 @@
+{
+  "id": 80273,
+  "name": "Comfy Sofa",
+  "description": "[Bulky Item] A very soft loveseat, greatly favored by Erina and the Black Cat! Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101076.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

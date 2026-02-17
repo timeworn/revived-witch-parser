@@ -1,0 +1,17 @@
+{
+  "id": 40014,
+  "name": "Pakane",
+  "description": "Obtain Doll [Pakane: Frost Witch]",
+  "icon": "/ui/imagesets/headphotos/hp_019.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78113,
+      "quantity": 1
+    }
+  ]
+}

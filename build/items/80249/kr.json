@@ -1,0 +1,12 @@
+{
+  "id": 80249,
+  "name": "잃어버린 장난감",
+  "description": "[작은 가구] 헝겊으로 만든 인형, 어느 자매의 장난감이라고 한다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101004.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

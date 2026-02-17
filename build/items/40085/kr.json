@@ -1,0 +1,17 @@
+{
+  "id": 40085,
+  "name": "프리지아",
+  "description": "[개구리 기사 프리지아] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/role/char_086/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78186,
+      "quantity": 1
+    }
+  ]
+}

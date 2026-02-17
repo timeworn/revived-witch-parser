@@ -1,0 +1,17 @@
+{
+  "id": 40022,
+  "name": "캐서린",
+  "description": "[성스러운 기적 캐서린] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_032.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78121,
+      "quantity": 1
+    }
+  ]
+}

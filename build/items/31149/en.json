@@ -1,0 +1,12 @@
+{
+  "id": 31149,
+  "name": "Unique Equipment Premium Pack",
+  "description": "Rejoice in the coming of character unique equipment! Buy this pack for items to exchange a piece of unique equipment of your choice and a ton of character upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift29.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

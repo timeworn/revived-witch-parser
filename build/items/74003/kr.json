@@ -1,0 +1,13 @@
+{
+  "id": 74003,
+  "name": "희미한 빛",
+  "description": "달이 없는 밤에 어렴풋이 보이는 파란색의 희미한 빛. 인형의 스킬을 강화하는 데 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100121.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

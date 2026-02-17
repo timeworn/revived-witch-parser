@@ -1,0 +1,17 @@
+{
+  "id": 40049,
+  "name": "아빌",
+  "description": "[왕궁의 수위 아빌] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_034.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78148,
+      "quantity": 1
+    }
+  ]
+}

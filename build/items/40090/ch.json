@@ -1,0 +1,17 @@
+{
+  "id": 40090,
+  "name": "柯塔娜",
+  "description": "可以获得人偶 【圣裁者 柯塔娜】",
+  "icon": "/ui/imagesets/localization/role/char_091/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78191,
+      "quantity": 1
+    }
+  ]
+}

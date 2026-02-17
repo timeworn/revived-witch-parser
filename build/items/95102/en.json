@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Princess Amanami",
-  "ownerId": 102,
+  "character": "Princess Amanami",
+  "characterId": 102,
   "evolutions": "(Doll's current Evolution Level increases Magic DMG by 0/0.5/1/1.5% per stack of Stride)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

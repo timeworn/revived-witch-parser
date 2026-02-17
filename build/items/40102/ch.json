@@ -1,0 +1,17 @@
+{
+  "id": 40102,
+  "name": "凝莎",
+  "description": "可以获得人偶 【林间笑语 凝莎】",
+  "icon": "/ui/imagesets/localization/role/char_103/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781103,
+      "quantity": 1
+    }
+  ]
+}

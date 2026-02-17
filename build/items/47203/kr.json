@@ -1,0 +1,17 @@
+{
+  "id": 47203,
+  "name": "소환사의 지팡이",
+  "description": "소환 의식에 사용하는 진귀한 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100194.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

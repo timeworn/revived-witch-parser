@@ -1,0 +1,17 @@
+{
+  "id": 46003,
+  "name": "Crossbow",
+  "description": "A bow that can fire arrows to hit a target at a great distance.",
+  "icon": "/ui/imagesets/items1/100187.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

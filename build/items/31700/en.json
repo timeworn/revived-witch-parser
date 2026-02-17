@@ -1,0 +1,12 @@
+{
+  "id": 31700,
+  "name": "Premium Pack",
+  "description": "Summer Echo Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift49.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

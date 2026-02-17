@@ -1,0 +1,17 @@
+{
+  "id": 47609,
+  "name": "Proiades, Vestment of Polar Night",
+  "description": "A holy cloak worn by the Protector who controls the Intangible. No ordinary person can come near it, and its emanation of power can easily melt enemies' weapons.",
+  "icon": "/ui/imagesets/items1/100392.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

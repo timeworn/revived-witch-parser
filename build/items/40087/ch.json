@@ -1,0 +1,17 @@
+{
+  "id": 40087,
+  "name": "卡蜜莉安",
+  "description": "可以获得人偶 【嘉庇艾尔守护者 卡蜜莉安】",
+  "icon": "/ui/imagesets/localization/role/char_088/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78188,
+      "quantity": 1
+    }
+  ]
+}

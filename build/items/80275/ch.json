@@ -1,0 +1,12 @@
+{
+  "id": 80275,
+  "name": "古塔地砖",
+  "description": "【地板】请注意脚下，凹凸不平的地砖很容易就能帮你做一个华丽的平地摔动作。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101067.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

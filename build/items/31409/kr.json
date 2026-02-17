@@ -1,0 +1,12 @@
+{
+  "id": 31409,
+  "name": "호화 선물 패키지",
+  "description": "호화 선물~",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewMazeShop2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

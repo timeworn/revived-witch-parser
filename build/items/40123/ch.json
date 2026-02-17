@@ -1,0 +1,17 @@
+{
+  "id": 40123,
+  "name": "瑰夏魂石",
+  "description": "可以获得人偶 【翡翠之心 瑰夏】",
+  "icon": "/ui/imagesets/localization/role/char_124/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781124,
+      "quantity": 1
+    }
+  ]
+}

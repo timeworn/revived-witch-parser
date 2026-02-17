@@ -1,0 +1,17 @@
+{
+  "id": 45002,
+  "name": "기사 방패",
+  "description": "기사를 위해 특별 제작한 방패, 정면 돌격을 막아낼 수 있다.",
+  "icon": "/ui/imagesets/items1/100070.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

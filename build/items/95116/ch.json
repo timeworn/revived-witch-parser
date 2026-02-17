@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "奥莉斯",
-  "ownerId": 116,
+  "character": "奥莉斯",
+  "characterId": 116,
   "evolutions": "(当前角色进化等级额外使受到的伤害降低0/1/2/3%)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

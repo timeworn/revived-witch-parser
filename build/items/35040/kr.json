@@ -1,0 +1,12 @@
+{
+  "id": 35040,
+  "name": "표현 코인",
+  "description": "[이벤트] 꾸준한 훈련, 감동을 전달하기 위한 노력.",
+  "icon": "/ui/imagesets/items1/100862.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

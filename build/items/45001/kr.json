@@ -1,0 +1,17 @@
+{
+  "id": 45001,
+  "name": "원형 방패",
+  "description": "어디서나 흔히 볼 수 있는 원형 방패, 가볍고 실용적이다.",
+  "icon": "/ui/imagesets/items1/100163.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

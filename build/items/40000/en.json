@@ -1,0 +1,12 @@
+{
+  "id": 40000,
+  "name": "",
+  "description": "Obtain Doll [$heroine$: Witch of the Void]",
+  "icon": "/ui/imagesets/headphotos/hp_Player1.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

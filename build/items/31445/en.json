@@ -1,0 +1,12 @@
+{
+  "id": 31445,
+  "name": "Attribute Intensification Earth Pack",
+  "description": "Attribute Intensification Earth Pack",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop04.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

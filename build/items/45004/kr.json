@@ -1,0 +1,17 @@
+{
+  "id": 45004,
+  "name": "거인의 방패",
+  "description": "고대 거인족이 사용하던 방패, 인간의 상상을 초월할 정도의 규격을 가졌다.",
+  "icon": "/ui/imagesets/items1/100068.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48001,
+  "name": "项链",
+  "description": "普通的项链，街市上随处可见",
+  "icon": "/ui/imagesets/items1/100197.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

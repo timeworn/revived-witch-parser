@@ -1,0 +1,12 @@
+{
+  "id": 20006,
+  "name": "华光之魔杖",
+  "description": "注入魔力后恢复原来的模样的魔杖，勉强辨能认出杖上的文字“高洁的骑士，如雨般守护这个世界”。自古以来，只有被选中的骑士才能打开遗迹的大门，觐见高贵之人。",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

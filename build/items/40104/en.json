@@ -1,0 +1,17 @@
+{
+  "id": 40104,
+  "name": "Claire",
+  "description": "Obtain Doll [Claire: Shiny Girl]",
+  "icon": "/ui/imagesets/localization/role/char_105/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781105,
+      "quantity": 1
+    }
+  ]
+}

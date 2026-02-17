@@ -1,0 +1,17 @@
+{
+  "id": 46006,
+  "name": "Dragon Bow",
+  "description": "A huge bow used to take down a dragon by the epic hero Hoperus.",
+  "icon": "/ui/imagesets/items1/100424.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

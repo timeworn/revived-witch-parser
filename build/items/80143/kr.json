@@ -1,0 +1,12 @@
+{
+  "id": 80143,
+  "name": "동전 진열품",
+  "description": "[작은 가구] 어디서 생겼는지 모르는 큰 동전, 빌리빌리의 좋아요 버튼을 보여주는 이스터에그도 포함되어 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100707.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

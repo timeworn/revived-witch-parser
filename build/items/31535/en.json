@@ -1,0 +1,12 @@
+{
+  "id": 31535,
+  "name": "Phantom Mirror of Stars Basic Pack",
+  "description": "Phantom Mirror of Stars Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

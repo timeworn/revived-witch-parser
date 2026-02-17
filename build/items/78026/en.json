@@ -1,0 +1,13 @@
+{
+  "id": 78026,
+  "name": "Advanced Mage Soul Stone",
+  "description": "A remarkable soul stone, used to evolve the <color=#32CD32>SSR</color> Mage.",
+  "icon": "/ui/imagesets/items1/100363.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

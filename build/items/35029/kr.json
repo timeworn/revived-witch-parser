@@ -1,0 +1,12 @@
+{
+  "id": 35029,
+  "name": "모래",
+  "description": "[이벤트] 해변의 고운 모래, 건축 필수 재료 중 하나이다",
+  "icon": "/ui/imagesets/items1/100783.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20035,
+  "name": "Mysterious Christmas Gift",
+  "description": "A special gift to the Witch. Merry Christmas!",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

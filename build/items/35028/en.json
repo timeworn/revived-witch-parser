@@ -1,0 +1,12 @@
+{
+  "id": 35028,
+  "name": "Wood",
+  "description": "Sturdy wood that you can build houses with.",
+  "icon": "/ui/imagesets/items1/100782.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

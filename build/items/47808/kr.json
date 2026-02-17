@@ -1,0 +1,17 @@
+{
+  "id": 47808,
+  "name": "드라우프니르의 반지",
+  "description": "니아드 전투에서 반인반수 괴물인 드라우프니르가 착용했던 반지, 착용자의 영혼을 끊임없이 삼킨 후 무궁무진한 마력으로 전환한다.",
+  "icon": "/ui/imagesets/items1/100436.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

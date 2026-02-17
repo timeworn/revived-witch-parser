@@ -1,0 +1,12 @@
+{
+  "id": 80004,
+  "name": "Wooden Bookshelf",
+  "description": "[Bulky Item] A wooden bookshelf. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100537.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31272,
+  "name": "Caledonia's Personal Album",
+  "description": "An album about fantasies",
+  "icon": "/ui/imagesets/items1/100899.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

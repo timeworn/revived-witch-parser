@@ -1,0 +1,12 @@
+{
+  "id": 31629,
+  "name": "夏日回响高级礼包",
+  "description": "夏日回响高级礼包",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

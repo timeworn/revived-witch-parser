@@ -1,0 +1,17 @@
+{
+  "id": 48203,
+  "name": "荆棘之弓",
+  "description": "弓身缠绕布满荆棘的魔法藤蔓，轻易靠近会受到魔法的反噬",
+  "icon": "/ui/imagesets/items1/100714.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

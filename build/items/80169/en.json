@@ -1,0 +1,12 @@
+{
+  "id": 80169,
+  "name": "Ancient Castle Floor",
+  "description": "[Floor] Quaint flooring with a retro charm. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100855.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

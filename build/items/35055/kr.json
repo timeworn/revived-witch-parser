@@ -1,0 +1,12 @@
+{
+  "id": 35055,
+  "name": "바람개비",
+  "description": "마법 종이로 만든 작은 바람개비. 산들 바람에도 빠른 속도로 돌아 아이들의 사랑을 받고 있다.",
+  "icon": "/ui/imagesets/items1/101018.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

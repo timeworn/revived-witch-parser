@@ -1,0 +1,12 @@
+{
+  "id": 35009,
+  "name": "Friendship Point",
+  "description": "Used to purchase items in Friendship Point Shop.",
+  "icon": "/ui/imagesets/items1/100134.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

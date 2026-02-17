@@ -1,0 +1,17 @@
+{
+  "id": 40033,
+  "name": "夏芙尔",
+  "description": "可以获得人偶 【存在抹杀者 夏芙尔】",
+  "icon": "/ui/imagesets/headphotos/hp_050.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78132,
+      "quantity": 1
+    }
+  ]
+}

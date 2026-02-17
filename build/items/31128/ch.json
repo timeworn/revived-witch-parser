@@ -1,0 +1,12 @@
+{
+  "id": 31128,
+  "name": "随机紫色礼物",
+  "description": "可获得随机紫色礼物",
+  "icon": "/ui/imagesets/items1/100482.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

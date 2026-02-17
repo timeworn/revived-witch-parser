@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Bellavita",
-  "ownerId": 101,
+  "character": "Bellavita",
+  "characterId": 101,
   "evolutions": "(Doll's current Evolution Level increases the skill effect by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

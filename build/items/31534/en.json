@@ -1,0 +1,12 @@
+{
+  "id": 31534,
+  "name": "Phantom Mirror of Stars Value Pack",
+  "description": "Phantom Mirror of Stars Value Pack",
+  "icon": "/ui/imagesets/shop/shopgift37.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

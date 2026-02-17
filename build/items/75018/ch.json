@@ -1,0 +1,13 @@
+{
+  "id": 75018,
+  "name": "坚硬鳞片",
+  "description": "为了抵御极端环境而生出的鳞片，十分坚硬。用于人偶突破。",
+  "icon": "/ui/imagesets/items1/100636.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

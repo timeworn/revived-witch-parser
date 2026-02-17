@@ -1,0 +1,12 @@
+{
+  "id": 31155,
+  "name": "문케이크 장비 패키지",
+  "description": "특별한 문케이크 패키지, 구매 시 전용 장비 강화 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift32.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

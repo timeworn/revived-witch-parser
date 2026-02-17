@@ -1,0 +1,17 @@
+{
+  "id": 48301,
+  "name": "대지의 방패",
+  "description": "대지의 정수를 흡수한 방패, 물리 속성 저항이 강하다.",
+  "icon": "/ui/imagesets/items1/100693.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35029,
+  "name": "沙土",
+  "description": "细腻的海边沙土，是建设岛屿的必要材料之一。【活动材料】",
+  "icon": "/ui/imagesets/items1/100783.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

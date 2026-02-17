@@ -1,0 +1,17 @@
+{
+  "id": 46601,
+  "name": "어둠의 오브",
+  "description": "자체는 광택이 없는 오브.",
+  "icon": "/ui/imagesets/items1/100075.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

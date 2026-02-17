@@ -1,0 +1,12 @@
+{
+  "id": 80261,
+  "name": "Deluxe Lattice Window",
+  "description": "[Window] The view outside the window is the same as a year ago, but it feels more beautiful now with the luxurious-looking silk curtains. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101074.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

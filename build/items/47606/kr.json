@@ -1,0 +1,17 @@
+{
+  "id": 47606,
+  "name": "대마도사의 망토",
+  "description": "마계 원수가 입는 망토, 위풍당당해 보인다.",
+  "icon": "/ui/imagesets/items1/100389.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

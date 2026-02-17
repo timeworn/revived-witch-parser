@@ -1,0 +1,17 @@
+{
+  "id": 45203,
+  "name": "축성용 망치",
+  "description": "성을 쌓을 때 사용하는 큰 망치, 팔 힘에 자신이 있는 자는 휘둘러 봐도 좋다.",
+  "icon": "/ui/imagesets/items1/100168.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

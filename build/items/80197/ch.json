@@ -1,0 +1,12 @@
+{
+  "id": 80197,
+  "name": "慵懒沙发",
+  "description": "【大件】今年圣诞夜也要慵懒的度过。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100884.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

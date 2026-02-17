@@ -1,0 +1,17 @@
+{
+  "id": 40094,
+  "name": "Idol Flora",
+  "description": "Obtain Doll [Idol Flora: Dream Stage]",
+  "icon": "/ui/imagesets/localization/role/char_095/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78195,
+      "quantity": 1
+    }
+  ]
+}

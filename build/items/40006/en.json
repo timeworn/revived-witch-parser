@@ -1,0 +1,17 @@
+{
+  "id": 40006,
+  "name": "",
+  "description": "Obtain Doll [Valorf: Werewolf under the Moon]",
+  "icon": "/ui/imagesets/headphotos/hp_007.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78105,
+      "quantity": 1
+    }
+  ]
+}

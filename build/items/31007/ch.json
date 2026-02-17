@@ -1,0 +1,12 @@
+{
+  "id": 31007,
+  "name": "闪耀护心镜",
+  "description": "精致的礼物，送给人偶后可以增加200点好感度。",
+  "icon": "/ui/imagesets/items1/100483.png",
+  "type": "好感度道具",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

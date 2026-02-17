@@ -1,0 +1,17 @@
+{
+  "id": 40081,
+  "name": "신마라",
+  "description": "[지옥의 불꽃 신마라] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_082/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781082,
+      "quantity": 1
+    }
+  ]
+}

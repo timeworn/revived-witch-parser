@@ -1,0 +1,12 @@
+{
+  "id": 35041,
+  "name": "糖果",
+  "description": "大家为了庆生会，而准备的各式糖果。",
+  "icon": "/ui/imagesets/items1/100864.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

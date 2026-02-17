@@ -1,0 +1,17 @@
+{
+  "id": 40100,
+  "name": "贝拉薇塔",
+  "description": "可以获得人偶 【海之精灵 贝拉薇塔】",
+  "icon": "/ui/imagesets/localization/role/char_101/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781101,
+      "quantity": 1
+    }
+  ]
+}

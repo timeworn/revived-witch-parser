@@ -1,0 +1,12 @@
+{
+  "id": 80153,
+  "name": "Island Painting",
+  "description": "[Wall Decor] A hanging painting shaped like a small isle. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100807.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

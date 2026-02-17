@@ -1,0 +1,12 @@
+{
+  "id": 80301,
+  "name": "定制钢琴",
+  "description": "【小件】一台价值不菲的定制钢琴，在懂行人的手里能弹奏出动人心扉的音乐。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101126.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

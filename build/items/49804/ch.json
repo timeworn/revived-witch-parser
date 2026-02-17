@@ -1,0 +1,17 @@
+{
+  "id": 49804,
+  "name": "混沌信仰-书",
+  "description": "混沌信仰-书",
+  "icon": "/ui/imagesets/items1/100748.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

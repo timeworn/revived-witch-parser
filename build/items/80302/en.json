@@ -1,0 +1,12 @@
+{
+  "id": 80302,
+  "name": "Potted Plants",
+  "description": "[Compact Item] People like to put vibrant plants inside buildings to add a touch of nature. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101127.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

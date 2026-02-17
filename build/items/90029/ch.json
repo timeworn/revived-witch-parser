@@ -1,0 +1,12 @@
+{
+  "id": 90029,
+  "name": "星之约定",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/100954.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

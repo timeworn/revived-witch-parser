@@ -1,0 +1,17 @@
+{
+  "id": 40087,
+  "name": "Camilyne",
+  "description": "Obtain Doll [Camilyne: Protector of Cassiel]",
+  "icon": "/ui/imagesets/localization/role/char_088/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78188,
+      "quantity": 1
+    }
+  ]
+}

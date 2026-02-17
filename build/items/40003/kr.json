@@ -1,0 +1,17 @@
+{
+  "id": 40003,
+  "name": "에우랄리아",
+  "description": "[루니아의 성녀 에우랄리아] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_006.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78102,
+      "quantity": 1
+    }
+  ]
+}

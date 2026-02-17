@@ -1,0 +1,12 @@
+{
+  "id": 20040,
+  "name": "Antoinette's Ring",
+  "description": "An expensive ruby ring. The gemstone is imbued with magic, giving it a breathtaking glow.",
+  "icon": "/ui/imagesets/items1/101087.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

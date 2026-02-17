@@ -1,0 +1,12 @@
+{
+  "id": 20016,
+  "name": "恶狼之牙",
+  "description": "据说是上古时期的恶狼的牙齿，牙齿上残存着魔力，恶狼曾经咬伤过某个极尊贵的存在，因此受到惩罚。",
+  "icon": "/ui/imagesets/items1/100253.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80202,
+  "name": "方格地板",
+  "description": "【地板】有着花纹装饰的方砖。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100880.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49301,
+  "name": "地狱猎手-匕首",
+  "description": "地狱猎手-匕首",
+  "icon": "/ui/imagesets/items1/100737.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

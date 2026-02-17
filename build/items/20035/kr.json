@@ -1,0 +1,12 @@
+{
+  "id": 20035,
+  "name": "신비한 크리스마스 선물",
+  "description": "마녀에게 드리는 특별한 선물. 메리 크리스마스!",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

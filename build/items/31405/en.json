@@ -1,0 +1,12 @@
+{
+  "id": 31405,
+  "name": "Unique Equipment Value Pack",
+  "description": "Unique Equipment Value Pack",
+  "icon": "/ui/imagesets/shop/shopgift58.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

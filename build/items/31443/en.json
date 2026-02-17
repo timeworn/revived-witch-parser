@@ -1,0 +1,12 @@
+{
+  "id": 31443,
+  "name": "Attribute Intensification Water Pack",
+  "description": "Attribute Intensification Water Pack",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop03.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

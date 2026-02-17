@@ -1,0 +1,17 @@
+{
+  "id": 40058,
+  "name": "鸾",
+  "description": "可以获得人偶 【赤羽之凰 鸾】",
+  "icon": "/ui/imagesets/headphotos/hp_060.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78157,
+      "quantity": 1
+    }
+  ]
+}

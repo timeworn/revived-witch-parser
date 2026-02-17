@@ -1,0 +1,12 @@
+{
+  "id": 80183,
+  "name": "Monster Fireplace",
+  "description": "[Bulky Item] A fireplace that is a living monster munching on coal. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100846.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

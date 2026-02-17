@@ -1,0 +1,12 @@
+{
+  "id": 80305,
+  "name": "密聊长椅",
+  "description": "【大件】餐厅常见的长椅和餐桌，小孩子总喜欢躺上去或者站在上面，养护起来颇为费心。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101130.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

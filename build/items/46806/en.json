@@ -1,0 +1,17 @@
+{
+  "id": 46806,
+  "name": "Elf Grail",
+  "description": "A grail filled with the water from Elf Lake, more or less blessed by the elves.",
+  "icon": "/ui/imagesets/items1/100449.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

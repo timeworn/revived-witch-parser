@@ -1,0 +1,17 @@
+{
+  "id": 78183,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/localization/role/char_083/stone.png",
+  "type": "",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

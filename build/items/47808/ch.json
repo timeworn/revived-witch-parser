@@ -1,0 +1,17 @@
+{
+  "id": 47808,
+  "name": "德普尼尔之戒",
+  "description": "尼娅德战役中半人半魔的怪物德普尼尔戴过的戒指，不断吞噬佩戴者的灵魂，将其转换为无尽的魔力",
+  "icon": "/ui/imagesets/items1/100436.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40110,
+  "name": "안젤린",
+  "description": "[피쉬로디 안젤린] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_111/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781111,
+      "quantity": 1
+    }
+  ]
+}

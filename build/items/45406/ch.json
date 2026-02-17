@@ -1,0 +1,17 @@
+{
+  "id": 45406,
+  "name": "琥珀金之剑",
+  "description": "东方的伊萨卡族用神圣金属琥珀金锻造的宝剑，拥有净化邪恶的力量",
+  "icon": "/ui/imagesets/items1/100429.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

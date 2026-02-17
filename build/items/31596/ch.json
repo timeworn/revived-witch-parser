@@ -1,0 +1,12 @@
+{
+  "id": 31596,
+  "name": "水果冰棍",
+  "description": "有其他口味吗，没有！因为橙子最好吃",
+  "icon": "/ui/imagesets/items1/101159.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80260,
+  "name": "Assembly Carpet",
+  "description": "[Carpet] Someone once said that a biscuit that doesn't want to be a chess board is not a good carpet. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101077.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

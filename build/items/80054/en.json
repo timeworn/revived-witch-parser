@@ -1,0 +1,12 @@
+{
+  "id": 80054,
+  "name": "Stylish Floorlamp",
+  "description": "[Compact Item] A floor lamp with dim light. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100562.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

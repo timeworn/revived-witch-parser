@@ -1,0 +1,12 @@
+{
+  "id": 80289,
+  "name": "Timeless Feast",
+  "description": "[Bulky Item] A quaint serving of dinner that gives off a timeless charm. Ancient Castle exclusive. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101146.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

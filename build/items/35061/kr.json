@@ -1,0 +1,12 @@
+{
+  "id": 35061,
+  "name": "마법 티켓",
+  "description": "평범해 보이지만, 마력이 깃든 특별한 티켓",
+  "icon": "/ui/imagesets/items1/100990.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

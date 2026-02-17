@@ -1,0 +1,12 @@
+{
+  "id": 31696,
+  "name": "Norn Costume Pack",
+  "description": "Norn Costume Pack",
+  "icon": "/ui/imagesets/items1/100841.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

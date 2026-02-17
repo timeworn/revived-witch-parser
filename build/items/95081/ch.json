@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "神居",
-  "ownerId": 81,
+  "character": "神居",
+  "characterId": 81,
   "evolutions": "(当前角色进化等级技能效果使主动技能伤害和回复效果额外提升0/1/2/3%)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

@@ -1,0 +1,17 @@
+{
+  "id": 45407,
+  "name": "빛의 검 '아우드무라'",
+  "description": "혹한 지역인 스네구로치카의 서리옥으로 만든 보검, 검이 휘둘러진 곳엔, 모든 것이 서리로 변하게 된다.",
+  "icon": "/ui/imagesets/items1/100430.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

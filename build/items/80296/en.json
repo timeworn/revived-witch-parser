@@ -1,0 +1,12 @@
+{
+  "id": 80296,
+  "name": "True Aim",
+  "description": "[Wall Decor] If you can hit the bullseye five times in a row, your name will go on the restaurant brochure, and you will get a free drink. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101121.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

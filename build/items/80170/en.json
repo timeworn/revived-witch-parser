@@ -1,0 +1,12 @@
+{
+  "id": 80170,
+  "name": "Broken Iron Window",
+  "description": "[Window] A slightly worn window. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100856.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

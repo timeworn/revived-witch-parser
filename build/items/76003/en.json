@@ -1,0 +1,13 @@
+{
+  "id": 76003,
+  "name": "Platinum",
+  "description": "Scarce metal seen as a symbol of prestige. It provides <color=#32CD32>1,000</color> EXP for Equipment.",
+  "icon": "/ui/imagesets/items1/100128.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

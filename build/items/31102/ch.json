@@ -1,0 +1,12 @@
+{
+  "id": 31102,
+  "name": "星辰幻镜头像框",
+  "description": "愿你能一直战胜自我",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame5.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

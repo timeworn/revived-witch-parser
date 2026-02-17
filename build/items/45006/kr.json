@@ -1,0 +1,17 @@
+{
+  "id": 45006,
+  "name": "영광의 방패",
+  "description": "신성 제국 베로니카에서 백전을 마치고 돌아온 용사에게 하사한 방패, 최고의 명예를 상징한다.",
+  "icon": "/ui/imagesets/items1/100409.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

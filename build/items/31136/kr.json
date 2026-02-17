@@ -1,0 +1,12 @@
+{
+  "id": 31136,
+  "name": "별하늘 패키지",
+  "description": "반짝이는 별 패키지, 구매하면 대량의 가구 코인을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift14.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

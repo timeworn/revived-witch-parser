@@ -1,0 +1,12 @@
+{
+  "id": 35015,
+  "name": "暗光",
+  "description": "此岸在阴影中凝聚的幽暗光芒，在黑暗中微微闪烁。从中能感受到清晰的思念。",
+  "icon": "/ui/imagesets/items1/100239.png",
+  "type": "货币",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35048,
+  "name": "净灵之水",
+  "description": "只是看着就仿佛能让人遗忘，可以用来重塑人偶部分能力。",
+  "icon": "/ui/imagesets/items1/100975.png",
+  "type": "货币",
+  "typeId": 1057,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

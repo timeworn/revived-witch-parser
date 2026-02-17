@@ -1,0 +1,17 @@
+{
+  "id": 46201,
+  "name": "残本",
+  "description": "书页多有残缺，辨认起来稍显困难",
+  "icon": "/ui/imagesets/items1/100066.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

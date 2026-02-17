@@ -1,0 +1,12 @@
+{
+  "id": 80287,
+  "name": "Escape Circle",
+  "description": "[Carpet] A teleport circle exuding magic. There's no telling where it will take you if you stand on it. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101144.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

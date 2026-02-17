@@ -1,0 +1,12 @@
+{
+  "id": 31315,
+  "name": "성장 화이트 패키지",
+  "description": "성장 화이트 패키지",
+  "icon": "/ui/imagesets/shop/shopgift60.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

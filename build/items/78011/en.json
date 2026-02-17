@@ -1,0 +1,13 @@
+{
+  "id": 78011,
+  "name": "Average Guardian Soul Stone",
+  "description": "A rare soul stone, used to evolve the <color=#32CD32>SR</color> Guardian.",
+  "icon": "/ui/imagesets/items1/100371.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

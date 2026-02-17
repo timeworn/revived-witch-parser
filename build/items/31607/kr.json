@@ -1,0 +1,12 @@
+{
+  "id": 31607,
+  "name": "천고마비",
+  "description": "무더운 여름이 지나고, 선선한 가을바람이 수확의 즐거움을 가져다준다.",
+  "icon": "/ui/imagesets/items1/101202.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

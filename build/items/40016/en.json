@@ -1,0 +1,17 @@
+{
+  "id": 40016,
+  "name": "Ella",
+  "description": "Obtain Doll [Ella: Dragon Lass]",
+  "icon": "/ui/imagesets/headphotos/hp_024.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78115,
+      "quantity": 1
+    }
+  ]
+}

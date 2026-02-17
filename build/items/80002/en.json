@@ -1,0 +1,12 @@
+{
+  "id": 80002,
+  "name": "Green Wallpaper",
+  "description": "[Wallpaper] Green patterned wallpaper. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100539.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

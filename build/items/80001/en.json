@@ -1,0 +1,12 @@
+{
+  "id": 80001,
+  "name": "Aged Floor",
+  "description": "[Floor] Old wooden floor. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100534.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

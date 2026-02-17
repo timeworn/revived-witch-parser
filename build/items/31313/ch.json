@@ -1,0 +1,12 @@
+{
+  "id": 31313,
+  "name": "白色情人节初级礼包",
+  "description": "白色情人节初级礼包",
+  "icon": "/ui/imagesets/shop/shopgift38.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

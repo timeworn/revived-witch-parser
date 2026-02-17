@@ -1,0 +1,12 @@
+{
+  "id": 31296,
+  "name": "天天吃饺子",
+  "description": "福满新春活动礼包，购买可获得饺子。",
+  "icon": "/ui/imagesets/shop/shopgift51.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

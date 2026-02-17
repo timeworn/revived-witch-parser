@@ -1,0 +1,12 @@
+{
+  "id": 35074,
+  "name": "占卜水晶",
+  "description": "古老的魔法水晶，交于擅长魔法的人会触发洞悉未来之力。",
+  "icon": "/ui/imagesets/items1/100547.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

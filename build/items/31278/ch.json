@@ -1,0 +1,17 @@
+{
+  "id": 31278,
+  "name": "中国结",
+  "description": "春节活动纪念头像",
+  "icon": "/ui/imagesets/headphotos/headphoto_SpringFestival.png",
+  "type": "头像",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

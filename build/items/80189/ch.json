@@ -1,0 +1,12 @@
+{
+  "id": 80189,
+  "name": "圣诞礼物喵",
+  "description": "【小件】今年的圣诞礼物是什么呢？喵喵~~可增加50点舒适度。",
+  "icon": "/ui/imagesets/items1/100875.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

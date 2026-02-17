@@ -1,0 +1,12 @@
+{
+  "id": 80249,
+  "name": "遗失的玩具",
+  "description": "【小件】一对布制玩偶，据说是属于某对姐妹的玩具。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101004.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

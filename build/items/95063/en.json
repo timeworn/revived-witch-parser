@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Nannar",
-  "ownerId": 63,
+  "character": "Nannar",
+  "characterId": 63,
   "evolutions": "(Doll's current Evolution Level restores HP equal to 0/5/10/15% of ATK)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

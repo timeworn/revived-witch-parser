@@ -1,0 +1,17 @@
+{
+  "id": 48208,
+  "name": "荆棘之戒",
+  "description": "戒指缠绕布满荆棘的魔法藤蔓，轻易靠近会受到魔法的反噬",
+  "icon": "/ui/imagesets/items1/100715.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31287,
+  "name": "Fashion Icon Avatar Frame",
+  "description": "Put it on to show off your status",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame11.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

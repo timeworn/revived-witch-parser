@@ -1,0 +1,17 @@
+{
+  "id": 45406,
+  "name": "엘렉트럼의 검",
+  "description": "동방의 이타카족이 신성한 금속 호박금으로 만든 보검, 사악한 것을 정화하는 힘을 지녔다.",
+  "icon": "/ui/imagesets/items1/100429.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

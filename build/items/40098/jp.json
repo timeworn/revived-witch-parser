@@ -1,0 +1,17 @@
+{
+  "id": 40098,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/localization/role/char_099/square.png",
+  "type": "",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78199,
+      "quantity": 1
+    }
+  ]
+}

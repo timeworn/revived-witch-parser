@@ -1,0 +1,17 @@
+{
+  "id": 47809,
+  "name": "Andvari, Ring of Genesis",
+  "description": "A sacred object congealed from the eternal snow on the Creation Apex. Pure white and immaculate. Its wearer can go anywhere without restraint.",
+  "icon": "/ui/imagesets/items1/100437.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

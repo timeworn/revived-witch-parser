@@ -1,0 +1,17 @@
+{
+  "id": 49104,
+  "name": "Protector - Necklace",
+  "description": "Protector - Necklace",
+  "icon": "/ui/imagesets/items1/100759.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

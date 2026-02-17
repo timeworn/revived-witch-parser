@@ -1,0 +1,12 @@
+{
+  "id": 31153,
+  "name": "초급 문케이크 패키지",
+  "description": "특별한 문케이크 패키지, 구매 시 대량의 육성 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift30.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

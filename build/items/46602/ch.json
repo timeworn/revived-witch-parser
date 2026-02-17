@@ -1,0 +1,17 @@
+{
+  "id": 46602,
+  "name": "降灵珠",
+  "description": "用于降灵仪式中汇聚灵力的宝珠",
+  "icon": "/ui/imagesets/items1/100076.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80270,
+  "name": "庆典气球",
+  "description": "【小件】每个气球中都藏着孩子们的梦想——请轻拿轻放，远离尖锐物体。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101071.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47402,
+  "name": "갑옷",
+  "description": "일정한 호신 작용을 할 수 있는 흔히 볼 수 있는 갑옷.",
+  "icon": "/ui/imagesets/items1/100196.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

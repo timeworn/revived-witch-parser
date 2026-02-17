@@ -1,0 +1,12 @@
+{
+  "id": 80055,
+  "name": "Milky Dresser",
+  "description": "[Compact Item] A milky dresser made of wood. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100561.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20005,
+  "name": "술주전자",
+  "description": "정교하게 만들어진 술주전자, 금속 표면이 깨끗하게 닦아진 걸 보아 주인이 매우 아끼는 것 같다. 이 주전자는 보통 지위가 매우 높은 사람들이 연회를 열 때만 사용되지만, 일부 일반인들은 상으로 하사받기도 한다.",
+  "icon": "/ui/imagesets/items1/100130.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

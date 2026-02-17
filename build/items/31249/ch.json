@@ -1,0 +1,12 @@
+{
+  "id": 31249,
+  "name": "终极邀请礼包",
+  "description": "终极邀请礼包",
+  "icon": "/ui/imagesets/items1/100872.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

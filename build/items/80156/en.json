@@ -1,0 +1,12 @@
+{
+  "id": 80156,
+  "name": "Beach Toy",
+  "description": "[Compact Item] The beach is your garage. Build to your heart's content. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100803.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

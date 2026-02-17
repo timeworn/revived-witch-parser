@@ -1,0 +1,12 @@
+{
+  "id": 31071,
+  "name": "雷霆头像框",
+  "description": "官网预约雷霆头像框",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame4.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

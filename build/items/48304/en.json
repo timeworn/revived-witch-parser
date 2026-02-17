@@ -1,0 +1,17 @@
+{
+  "id": 48304,
+  "name": "Lyre of the Earth",
+  "description": "An instrument infused with the essence of the earth and possesses great physical resistance.",
+  "icon": "/ui/imagesets/items1/100697.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

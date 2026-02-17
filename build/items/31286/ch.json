@@ -1,0 +1,12 @@
+{
+  "id": 31286,
+  "name": "圣诞应援终级礼包",
+  "description": "圣诞应援版本礼包",
+  "icon": "/ui/imagesets/shop/shopgift79.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

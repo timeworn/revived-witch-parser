@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Curtana",
-  "ownerId": 91,
+  "character": "Curtana",
+  "characterId": 91,
   "evolutions": "(Doll's current Evolution Level increases DMG by 0/3/6/9%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

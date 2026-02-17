@@ -1,0 +1,12 @@
+{
+  "id": 80297,
+  "name": "皮克喵吊顶",
+  "description": "【墙饰】餐厅吧台都喜欢用这种吊顶，仅仅是因为它便宜好用，易于清洁。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101122.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

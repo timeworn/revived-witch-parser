@@ -1,0 +1,12 @@
+{
+  "id": 31567,
+  "name": "소라 패키지",
+  "description": "바닷가에서 쉽게 찾아볼 수 있는 소라.",
+  "icon": "/ui/imagesets/items1/101161.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

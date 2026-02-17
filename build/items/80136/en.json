@@ -1,0 +1,12 @@
+{
+  "id": 80136,
+  "name": "Starlight Street Lamp",
+  "description": "[Bulky Item] A lonesome and tall street lamp, perfect company for the solitary figure on the bench. Increases Comfort by 25 when furnished.",
+  "icon": "/ui/imagesets/items1/100668.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

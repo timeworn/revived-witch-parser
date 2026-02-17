@@ -1,0 +1,17 @@
+{
+  "id": 40087,
+  "name": "카밀리안",
+  "description": "[카스피엘 수호자 카밀리안] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_088/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78188,
+      "quantity": 1
+    }
+  ]
+}

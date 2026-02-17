@@ -1,0 +1,12 @@
+{
+  "id": 80169,
+  "name": "고성 바닥",
+  "description": "[바닥] 고풍스러움이 묻어나는 마루, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100855.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

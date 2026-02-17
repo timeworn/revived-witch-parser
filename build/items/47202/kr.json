@@ -1,0 +1,17 @@
+{
+  "id": 47202,
+  "name": "지혜의 지팡이",
+  "description": "물리계 마법을 소환하는 데 사용하기 편리한 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100193.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

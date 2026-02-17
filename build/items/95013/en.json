@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Akasha",
-  "ownerId": 13,
+  "character": "Akasha",
+  "characterId": 13,
   "evolutions": "(Evolving the current Character's Level will increase Crit DMG by 0/0.25/0.5/0.75%, and Physical Penetration by 0/0.25/0.5/0.75%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

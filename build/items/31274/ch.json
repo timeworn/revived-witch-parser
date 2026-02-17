@@ -1,0 +1,12 @@
+{
+  "id": 31274,
+  "name": "限时支援初级礼包",
+  "description": "庆祝角色专属装备等级突破，购买可获得获得大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift38.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

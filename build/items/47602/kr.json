@@ -1,0 +1,17 @@
+{
+  "id": 47602,
+  "name": "코르셋",
+  "description": "맵시있는 옷.",
+  "icon": "/ui/imagesets/items1/100385.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48006,
+  "name": "破魔链",
+  "description": "遥远东方的术师们爱用的法链，据说有破邪显正的效果",
+  "icon": "/ui/imagesets/items1/100464.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

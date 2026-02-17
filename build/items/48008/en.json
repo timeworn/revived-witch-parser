@@ -1,0 +1,17 @@
+{
+  "id": 48008,
+  "name": "Collar of Alice",
+  "description": "A magical accessory. Said to be worn by the maiden who guards the Sacred Tree.",
+  "icon": "/ui/imagesets/items1/100466.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

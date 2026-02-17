@@ -1,0 +1,12 @@
+{
+  "id": 31193,
+  "name": "Isle Adventure Emojis",
+  "description": "Emojis to commemorate the event Isle Adventure. Available for purchase.",
+  "icon": "/ui/imagesets/guild/EmojiPackage.png",
+  "type": "",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31062,
+  "name": "月度装备礼盒",
+  "description": "购买后可获得大量装备培养素材。",
+  "icon": "/ui/imagesets/shop/shopgift13.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

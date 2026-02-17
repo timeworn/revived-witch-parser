@@ -1,0 +1,12 @@
+{
+  "id": 80192,
+  "name": "冬日茶具套装",
+  "description": "【小件】寒冷的冬夜一边吃着点心，一边等待圣诞老人的到来。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100878.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

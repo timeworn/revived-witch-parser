@@ -1,0 +1,12 @@
+{
+  "id": 35044,
+  "name": "小镇通币",
+  "description": "小镇中流通使用的货币，可用来购买商品。",
+  "icon": "/ui/imagesets/items1/100922.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20013,
+  "name": "兽骨戒指",
+  "description": "用坚硬的野兽的骨头打磨成的戒指，风格粗犷，似乎是某个组织间的联络的信物，用于鉴别分辨其他组织的成员。",
+  "icon": "/ui/imagesets/items1/100261.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

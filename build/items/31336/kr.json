@@ -1,0 +1,12 @@
+{
+  "id": 31336,
+  "name": "린샤의 선물",
+  "description": "숲속의 신선하고 맛있는 베리를 사용하여 만든 간식.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop3.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

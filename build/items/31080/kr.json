@@ -1,0 +1,12 @@
+{
+  "id": 31080,
+  "name": "스킬 궁극 패키지",
+  "description": "구매하면 대량의 스킬 오픈 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift7.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

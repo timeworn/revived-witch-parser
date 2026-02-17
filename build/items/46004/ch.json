@@ -1,0 +1,17 @@
+{
+  "id": 46004,
+  "name": "漆黑之弓",
+  "description": "用漆黑巨木制作的弓箭，十分耐用",
+  "icon": "/ui/imagesets/items1/100188.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

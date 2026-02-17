@@ -1,0 +1,17 @@
+{
+  "id": 46408,
+  "name": "死神歌谣",
+  "description": "供奉在冥界的悲惨宫殿中，奏出的旋律能够操纵生物的灵魂，坠入冥界的深渊",
+  "icon": "/ui/imagesets/items1/100461.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

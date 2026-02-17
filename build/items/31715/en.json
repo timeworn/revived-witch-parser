@@ -1,0 +1,12 @@
+{
+  "id": 31715,
+  "name": "Spring Festival Best Deal",
+  "description": "Happy Spring Festival! Purchase to get Diamonds and Summon items.",
+  "icon": "/ui/imagesets/shop/shopgift50.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

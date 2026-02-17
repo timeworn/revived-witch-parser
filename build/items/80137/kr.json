@@ -1,0 +1,12 @@
+{
+  "id": 80137,
+  "name": "별밤 분수대",
+  "description": "[큰 가구] 맑은 샘물이 솟구쳐 나와, 조각 인형이 춤을 추는 듯하다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100669.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

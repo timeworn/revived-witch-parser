@@ -1,0 +1,12 @@
+{
+  "id": 35017,
+  "name": "꿈의 조각",
+  "description": "꿈속을 드나들 때 의식이 한데 뭉치며 형성된 결정체.",
+  "icon": "/ui/imagesets/items1/100634.png",
+  "type": "꿈의 조각",
+  "typeId": 561,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

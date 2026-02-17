@@ -1,0 +1,17 @@
+{
+  "id": 45007,
+  "name": "Shield of Fairies",
+  "description": "A shield blessed by fairies. It has incredible power.",
+  "icon": "/ui/imagesets/items1/100410.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

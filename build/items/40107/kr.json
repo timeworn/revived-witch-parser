@@ -1,0 +1,17 @@
+{
+  "id": 40107,
+  "name": "밤의 투오넬",
+  "description": "[기억의 공주 밤의 투오넬] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/role/char_108/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781108,
+      "quantity": 1
+    }
+  ]
+}

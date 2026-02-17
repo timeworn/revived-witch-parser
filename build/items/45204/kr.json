@@ -1,0 +1,17 @@
+{
+  "id": 45204,
+  "name": "거인의 망치",
+  "description": "거인족 전사가 사용하던 망치, 힘의 상징이기도 하다.",
+  "icon": "/ui/imagesets/items1/100169.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

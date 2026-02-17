@@ -1,0 +1,17 @@
+{
+  "id": 49303,
+  "name": "地狱猎手-轻型盔甲",
+  "description": "地狱猎手-轻型盔甲",
+  "icon": "/ui/imagesets/items1/100739.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

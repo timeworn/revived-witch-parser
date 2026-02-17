@@ -1,0 +1,17 @@
+{
+  "id": 45404,
+  "name": "银剑",
+  "description": "用稀有的金属打造的锋利之剑",
+  "icon": "/ui/imagesets/items1/100201.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

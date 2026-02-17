@@ -1,0 +1,17 @@
+{
+  "id": 46407,
+  "name": "骸骨魔音",
+  "description": "赞颂魔界黑鬼魔将的战功的乐器，能够奏出魔界之音",
+  "icon": "/ui/imagesets/items1/100460.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

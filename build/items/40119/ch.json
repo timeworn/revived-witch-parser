@@ -1,0 +1,17 @@
+{
+  "id": 40119,
+  "name": "达奈莉姆",
+  "description": "可以获得人偶 【海之公主 达奈莉姆】",
+  "icon": "/ui/imagesets/localization/role/char_120/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781120,
+      "quantity": 1
+    }
+  ]
+}

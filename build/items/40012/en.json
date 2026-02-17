@@ -1,0 +1,17 @@
+{
+  "id": 40012,
+  "name": "Akasha",
+  "description": "Obtain Doll [Akasha: Sword Maiden of Shooting Stars]",
+  "icon": "/ui/imagesets/headphotos/hp_012.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78111,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80296,
+  "name": "백발백중",
+  "description": "[벽 장식] 과녁을 연속으로 5발 맞추면, 식당의 책자에 이름을 남기고, 무료로 음료를 마실 수 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101121.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

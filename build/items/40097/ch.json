@@ -1,0 +1,17 @@
+{
+  "id": 40097,
+  "name": "玛嘉·茜姬",
+  "description": "可以获得人偶 【异次元游商 玛嘉·茜姬】",
+  "icon": "/ui/imagesets/localization/role/char_098/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78198,
+      "quantity": 1
+    }
+  ]
+}

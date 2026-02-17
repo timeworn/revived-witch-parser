@@ -1,0 +1,12 @@
+{
+  "id": 90054,
+  "name": "异域装扮",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/101213.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31261,
+  "name": "Birthday Premium Pack",
+  "description": "Birthday Premium Pack",
+  "icon": "/ui/imagesets/shop/shopgift71.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

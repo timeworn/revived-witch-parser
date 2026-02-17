@@ -1,0 +1,17 @@
+{
+  "id": 49304,
+  "name": "Hell Hunter - Necklace",
+  "description": "Hell Hunter - Necklace",
+  "icon": "/ui/imagesets/items1/100740.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80293,
+  "name": "Quiet Afternoon",
+  "description": "[Window] The warm sunlight lazily makes its way through the window. Shut your eyes for a nice nap. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101118.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

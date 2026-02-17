@@ -1,0 +1,12 @@
+{
+  "id": 35062,
+  "name": "Pumpkin",
+  "description": "Golden yellow lantern-like pumpkin. It will be delicious as a pumpkin cake.",
+  "icon": "/ui/imagesets/items1/100831.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20001,
+  "name": "거울 조각",
+  "description": "마력이 깃들어 있는 조각, 모두 수집하면 신기한 일이 발생할 것 같다.",
+  "icon": "/ui/imagesets/items1/100124.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

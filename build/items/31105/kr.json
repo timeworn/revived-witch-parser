@@ -1,0 +1,12 @@
+{
+  "id": 31105,
+  "name": "90레벨 모험 패키지",
+  "description": "마녀 90레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelblue13.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

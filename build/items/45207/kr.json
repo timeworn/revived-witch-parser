@@ -1,0 +1,17 @@
+{
+  "id": 45207,
+  "name": "땅울림의 망치",
+  "description": "벨기카 왕국의 개국 왕인 아바돈이 사용하던 무기, 대지의 공명을 불러일으킬 수 있다.",
+  "icon": "/ui/imagesets/items1/100405.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

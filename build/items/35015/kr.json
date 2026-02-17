@@ -1,0 +1,12 @@
+{
+  "id": 35015,
+  "name": "어두운 빛",
+  "description": "어두운 그림자가 모여 형성된 어두운 빛, 어둠 속에서도 희미하게 반짝인다. 이를 통해 또렷한 그리움을 느낄 수 있다.",
+  "icon": "/ui/imagesets/items1/100239.png",
+  "type": "재화",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

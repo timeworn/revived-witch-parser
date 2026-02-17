@@ -1,0 +1,17 @@
+{
+  "id": 47609,
+  "name": "极夜圣衣·普勒亚迪斯",
+  "description": "操纵事象的守护者穿着的圣衣，寻常人根本无法近身，散发的灵力能够轻易熔断敌人的兵器",
+  "icon": "/ui/imagesets/items1/100392.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

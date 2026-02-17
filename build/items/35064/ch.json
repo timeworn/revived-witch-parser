@@ -1,0 +1,12 @@
+{
+  "id": 35064,
+  "name": "腐败种核",
+  "description": "打败被枯萎之心严重污染的变异怪物后获得，可用于在森之回溯商城兑换道具。",
+  "icon": "/ui/imagesets/items1/101049.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

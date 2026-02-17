@@ -1,0 +1,17 @@
+{
+  "id": 40061,
+  "name": "",
+  "description": "[희대의 마법사 나샤] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_034.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78160,
+      "quantity": 1
+    }
+  ]
+}

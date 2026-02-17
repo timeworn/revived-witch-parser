@@ -1,0 +1,17 @@
+{
+  "id": 45003,
+  "name": "대형 방패",
+  "description": "거대한 방패, 사용자의 몸을 완전히 가릴 수 있다.",
+  "icon": "/ui/imagesets/items1/100069.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Danelim",
-  "ownerId": 120,
+  "character": "Danelim",
+  "characterId": 120,
   "evolutions": "(Doll's current Evolution Level increases the chance to generate 1 Chaos Energy by 0/2/4/6% per second)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

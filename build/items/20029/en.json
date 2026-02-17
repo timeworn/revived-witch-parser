@@ -1,0 +1,12 @@
+{
+  "id": 20029,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

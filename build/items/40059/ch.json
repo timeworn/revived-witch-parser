@@ -1,0 +1,17 @@
+{
+  "id": 40059,
+  "name": "神居",
+  "description": "可以获得人偶 【真昼之子 神居】",
+  "icon": "/ui/imagesets/headphotos/hp_081.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78181,
+      "quantity": 1
+    }
+  ]
+}

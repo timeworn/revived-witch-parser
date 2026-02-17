@@ -1,0 +1,12 @@
+{
+  "id": 31447,
+  "name": "Attribute Intensification Deluxe Pack",
+  "description": "Attribute Intensification Deluxe Pack",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop06.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

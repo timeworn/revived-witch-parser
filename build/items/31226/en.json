@@ -1,0 +1,12 @@
+{
+  "id": 31226,
+  "name": "Kitty Cat",
+  "description": "With this, even the tone has changed... Meowww!",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame9.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

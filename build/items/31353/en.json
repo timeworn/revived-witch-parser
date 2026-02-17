@@ -1,0 +1,12 @@
+{
+  "id": 31353,
+  "name": "Fools' Day Advanced Pack",
+  "description": "Fools' Day Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

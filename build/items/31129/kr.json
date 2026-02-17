@@ -1,0 +1,20 @@
+{
+  "id": 31129,
+  "name": "기력 회복제",
+  "description": "크로노 타워에서 발견한 신비한 약, 매우 진귀하다. 사용 후 극히 짧은 시간만 휴식해도, 마치 오래 휴식한 것처럼 기력을 많이 회복할 수 있다. $B$$B$사용 기한이 없으며 사용하면 기력 20 증가",
+  "icon": "/ui/imagesets/items1/100514.png",
+  "type": "일반 아이템",
+  "typeId": 42,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35003,
+      "quantity": 20
+    }
+  ]
+}

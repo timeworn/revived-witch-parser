@@ -1,0 +1,12 @@
+{
+  "id": 35073,
+  "name": "Plump Wheat",
+  "description": "Those plump grains of wheat suggest there was a bumper harvest this autumn.",
+  "icon": "/ui/imagesets/items1/101206.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

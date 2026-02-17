@@ -1,0 +1,12 @@
+{
+  "id": 80238,
+  "name": "신년 맞이 카펫",
+  "description": "[카펫] 따뜻한 붉은 카펫, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100937.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

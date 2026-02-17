@@ -1,0 +1,12 @@
+{
+  "id": 80106,
+  "name": "三角钢琴",
+  "description": "【小件】音色清脆的三角钢琴。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100584.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

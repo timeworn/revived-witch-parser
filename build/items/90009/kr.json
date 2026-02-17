@@ -1,0 +1,12 @@
+{
+  "id": 90009,
+  "name": "축복의 연회",
+  "description": "인형의 외형을 변경할 수 있다.",
+  "icon": "/ui/imagesets/items1/100703.png",
+  "type": "코스튬",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

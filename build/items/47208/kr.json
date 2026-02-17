@@ -1,0 +1,17 @@
+{
+  "id": 47208,
+  "name": "우로보로스",
+  "description": "명계 아폴로카 호수 바닥에 가라앉은, 사용자의 숙업의 힘을 해방할 수 있는 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100446.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

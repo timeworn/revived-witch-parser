@@ -1,0 +1,17 @@
+{
+  "id": 46804,
+  "name": "破邪杯",
+  "description": "具有净化邪恶之力的杯子",
+  "icon": "/ui/imagesets/items1/100203.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

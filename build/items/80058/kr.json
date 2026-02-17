@@ -1,0 +1,12 @@
+{
+  "id": 80058,
+  "name": "흰색 책장",
+  "description": "[큰 가구] 호화스러운 흰색 책장, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100557.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

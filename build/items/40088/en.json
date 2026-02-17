@@ -1,0 +1,17 @@
+{
+  "id": 40088,
+  "name": "Dark Anemone",
+  "description": "Obtain Doll [Dark Anemone: Executor of Darkness]",
+  "icon": "/ui/imagesets/headphotos/hp_089.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78189,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31272,
+  "name": "凯多尼娅姜饼人",
+  "description": "凯多尼娅造型的姜饼小人，吃完据说可以看到传说中的天马",
+  "icon": "/ui/imagesets/items1/100899.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

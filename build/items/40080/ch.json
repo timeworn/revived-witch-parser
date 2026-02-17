@@ -1,0 +1,17 @@
+{
+  "id": 40080,
+  "name": "辛布莉特",
+  "description": "可以获得人偶 【海之守卫 辛布莉特】",
+  "icon": "/ui/imagesets/headphotos/hp_079.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78179,
+      "quantity": 1
+    }
+  ]
+}

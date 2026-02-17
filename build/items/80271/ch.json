@@ -1,0 +1,12 @@
+{
+  "id": 80271,
+  "name": "惊喜礼物",
+  "description": "【小件】每一件礼物都出乎意料，只有你亲自拆开才有意义。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101079.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

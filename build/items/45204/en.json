@@ -1,0 +1,17 @@
+{
+  "id": 45204,
+  "name": "Hammer of Giants",
+  "description": "A hammer commonly used by the warriors of Giants. It is a symbol of strength.",
+  "icon": "/ui/imagesets/items1/100169.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

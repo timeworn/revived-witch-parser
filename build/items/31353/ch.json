@@ -1,0 +1,12 @@
+{
+  "id": 31353,
+  "name": "愚乐园进阶礼包",
+  "description": "愚乐园进阶礼包",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

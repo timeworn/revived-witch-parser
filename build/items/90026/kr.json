@@ -1,0 +1,17 @@
+{
+  "id": 90026,
+  "name": "해피 뉴이어",
+  "description": "인형의 외형을 변경할 수 있다.",
+  "icon": "/ui/imagesets/items1/100924.png",
+  "type": "코스튬",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

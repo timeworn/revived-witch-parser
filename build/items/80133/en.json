@@ -1,0 +1,12 @@
+{
+  "id": 80133,
+  "name": "Small Flower Bed",
+  "description": "[Compact Item] A little flower bed sends out a wonderful message of blessing. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100665.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

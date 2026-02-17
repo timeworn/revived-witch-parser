@@ -1,0 +1,12 @@
+{
+  "id": 31139,
+  "name": "预热召唤礼包",
+  "description": "新章节开启预热，购买后可获得二十连召唤。",
+  "icon": "/ui/imagesets/shop/shopgift16.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

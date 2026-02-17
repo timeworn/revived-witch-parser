@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Sinmara",
-  "ownerId": 82,
+  "character": "Sinmara",
+  "characterId": 82,
   "evolutions": "(Doll's current Evolution Level increases the DMG Factor of Skill by 0/5/10/15)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

@@ -1,0 +1,17 @@
+{
+  "id": 31152,
+  "name": "Path Not Taken Avatar Frame",
+  "description": "Path Not Taken Avatar Frame\nA duplicate will be decomposed into 500 Souls.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame7.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

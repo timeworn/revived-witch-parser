@@ -1,0 +1,17 @@
+{
+  "id": 47006,
+  "name": "여명의 축복",
+  "description": "별의 힘이 모여 있는 신기한 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100414.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46609,
+  "name": "Uluru's Eye, the Primeval",
+  "description": "An item containing the power of Uluru's Eye, the Primeval Dragon. It can lead to a future of infinite possibilities.",
+  "icon": "/ui/imagesets/items1/100397.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31594,
+  "name": "Strawberry Smoothie",
+  "description": "Freshly squeezed strawberry, icy cold, sweet and sour~",
+  "icon": "/ui/imagesets/items1/101157.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

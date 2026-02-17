@@ -1,0 +1,17 @@
+{
+  "id": 45405,
+  "name": "勇者之剑",
+  "description": "只有不畏艰难的勇者才被允许使用的宝剑",
+  "icon": "/ui/imagesets/items1/100428.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

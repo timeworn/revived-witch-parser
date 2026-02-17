@@ -1,0 +1,12 @@
+{
+  "id": 20010,
+  "name": "曲谱",
+  "description": "受歌唱家索雷优的委托，寻找他放在箱子里的曲谱。",
+  "icon": "/ui/imagesets/items1/100149.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

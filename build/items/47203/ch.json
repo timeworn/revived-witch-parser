@@ -1,0 +1,17 @@
+{
+  "id": 47203,
+  "name": "召唤魔杖",
+  "description": "在召唤仪式上被使用的珍贵魔杖",
+  "icon": "/ui/imagesets/items1/100194.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

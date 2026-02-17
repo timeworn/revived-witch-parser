@@ -1,0 +1,17 @@
+{
+  "id": 48403,
+  "name": "Dagger of Still Water",
+  "description": "A weapon blessed by the Goddess of the Lake, and able to resist the corrosion of magic.",
+  "icon": "/ui/imagesets/items1/100685.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31515,
+  "name": "Starry Box",
+  "description": "A star-themed gift box. Open it to get a surprise.",
+  "icon": "/ui/imagesets/items1/101149.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

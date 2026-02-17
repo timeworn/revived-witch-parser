@@ -1,0 +1,12 @@
+{
+  "id": 80110,
+  "name": "Gramophone",
+  "description": "[Compact Item] An old-fashioned gramophone. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100580.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

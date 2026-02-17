@@ -1,0 +1,12 @@
+{
+  "id": 80254,
+  "name": "Mossy Stump",
+  "description": "[Compact Item] A stump comfy to lean against. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101009.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

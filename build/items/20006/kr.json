@@ -1,0 +1,12 @@
+{
+  "id": 20006,
+  "name": "빛나는 지팡이",
+  "description": "마력을 주입해 원래 모습을 되찾은 마법 지팡이, 지팡이엔 가까스로 알아볼 수 있는 '고결한 기사여, 단비처럼 이 세상을 수호하라'라는 글자가 새겨져 있다. 자고로 선택받은 기사만이 유적의 대문을 열고 고귀한 자를 알현할 수 있다고 한다.",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

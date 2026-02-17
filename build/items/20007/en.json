@@ -1,0 +1,12 @@
+{
+  "id": 20007,
+  "name": "Music Box of Time",
+  "description": "This exquisite instrument produces wonderful melodies, leading to Dreamworld.",
+  "icon": "/ui/imagesets/items1/100122.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

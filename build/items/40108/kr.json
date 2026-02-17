@@ -1,0 +1,17 @@
+{
+  "id": 40108,
+  "name": "산화",
+  "description": "[명계의 탄식 산화] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_109/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781109,
+      "quantity": 1
+    }
+  ]
+}

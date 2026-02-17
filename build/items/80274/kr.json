@@ -1,0 +1,12 @@
+{
+  "id": 80274,
+  "name": "파티 테이블",
+  "description": "[큰 가구] 사람들이 긴 테이블에 둘러앉아 그동안의 일을 이야기하고 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101080.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80175,
+  "name": "Ancient Castle Chandelier",
+  "description": "[Wall Decor] An old chandelier that retains traces of its former glory. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100843.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

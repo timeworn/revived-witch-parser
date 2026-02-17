@@ -1,0 +1,12 @@
+{
+  "id": 31317,
+  "name": "纳凉福袋",
+  "description": "在炎炎夏日里为大家献上的纳凉福利。",
+  "icon": "/ui/imagesets/items1/101019.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

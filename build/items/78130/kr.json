@@ -1,0 +1,17 @@
+{
+  "id": 78130,
+  "name": "이리스 영혼석",
+  "description": "<color=#32CD32>이리스</color>를 진화하는 데 사용하는 희귀한 전용 영혼석.",
+  "icon": "/ui/imagesets/items1/100291.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35011,
+      "quantity": 5
+    }
+  ]
+}

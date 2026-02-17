@@ -1,0 +1,17 @@
+{
+  "id": 40055,
+  "name": "脱解",
+  "description": "可以获得人偶 【辉轮公主 脱解】",
+  "icon": "/ui/imagesets/headphotos/hp_058.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78154,
+      "quantity": 1
+    }
+  ]
+}

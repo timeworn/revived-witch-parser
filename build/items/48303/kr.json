@@ -1,0 +1,17 @@
+{
+  "id": 48303,
+  "name": "대지의 활",
+  "description": "대지의 정수를 흡수한 활, 물리 속성 저항이 강하다.",
+  "icon": "/ui/imagesets/items1/100695.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

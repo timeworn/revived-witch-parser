@@ -1,0 +1,17 @@
+{
+  "id": 46609,
+  "name": "原初·薇芙尔之眼",
+  "description": "据说寄宿了原初龙薇芙尔的魔瞳之力，能够引导出未来的无限可能",
+  "icon": "/ui/imagesets/items1/100397.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46809,
+  "name": "生命之杯·弥尔",
+  "description": "女神弥尔赋予万物复苏之力的神器，被视作生命的起始",
+  "icon": "/ui/imagesets/items1/100452.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

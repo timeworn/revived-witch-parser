@@ -1,0 +1,12 @@
+{
+  "id": 31146,
+  "name": "新章终极礼包",
+  "description": "庆祝新章节开启，购买可获得获得四十连召唤和技能养成材料。",
+  "icon": "/ui/imagesets/shop/shopgift25.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

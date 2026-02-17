@@ -1,0 +1,17 @@
+{
+  "id": 47805,
+  "name": "흑기사의 반지",
+  "description": "파리아스 흑기사단의 상징, 기사들의 긍지이다.",
+  "icon": "/ui/imagesets/items1/100433.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

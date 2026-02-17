@@ -1,0 +1,17 @@
+{
+  "id": 46809,
+  "name": "생명의 성배 '미흐르'",
+  "description": "미흐르 여신이 만물을 소생하는 힘을 부여한 신기, 생명의 기원으로 간주되고 있다.",
+  "icon": "/ui/imagesets/items1/100452.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

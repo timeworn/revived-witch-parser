@@ -1,0 +1,12 @@
+{
+  "id": 80306,
+  "name": "拼接酒架",
+  "description": "【大件】从奢品到平价，这硕大的酒柜可以满足所有顾客的需求——且定期更新。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101131.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46206,
+  "name": "나이트아울의 주술서",
+  "description": "각종 주술이 상세하게 기록되어 있는 책.",
+  "icon": "/ui/imagesets/items1/100454.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

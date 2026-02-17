@@ -1,0 +1,13 @@
+{
+  "id": 76002,
+  "name": "白银",
+  "description": "颜色纯白的贵金属，延展性很高，可以为装备提供<color=#32CD32>500</color>经验。",
+  "icon": "/ui/imagesets/items1/100127.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

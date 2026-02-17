@@ -1,0 +1,12 @@
+{
+  "id": 31044,
+  "name": "Lv.25 Adventure Pack",
+  "description": "Available for purchase when Witch reaches Lv.25.",
+  "icon": "/ui/imagesets/shop/giftlevelblue6.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

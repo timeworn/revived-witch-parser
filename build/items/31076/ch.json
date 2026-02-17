@@ -1,0 +1,12 @@
+{
+  "id": 31076,
+  "name": "月度召唤礼包",
+  "description": "购买后可进行十连召唤。",
+  "icon": "/ui/imagesets/shop/shopgift16.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

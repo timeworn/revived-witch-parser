@@ -1,0 +1,12 @@
+{
+  "id": 31074,
+  "name": "Advanced Summon Pack",
+  "description": "Purchase to Summon x20.",
+  "icon": "/ui/imagesets/shop/shopgift3.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

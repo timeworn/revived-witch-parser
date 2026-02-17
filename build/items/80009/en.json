@@ -1,0 +1,12 @@
+{
+  "id": 80009,
+  "name": "Sticky Note Wall",
+  "description": "[Compact Item] Simple sticky note wall. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100526.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

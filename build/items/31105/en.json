@@ -1,0 +1,12 @@
+{
+  "id": 31105,
+  "name": "Lv.90 Adventure Pack",
+  "description": "Available for purchase when Witch reaches Lv.90.",
+  "icon": "/ui/imagesets/shop/giftlevelblue13.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

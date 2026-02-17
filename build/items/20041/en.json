@@ -1,0 +1,12 @@
+{
+  "id": 20041,
+  "name": "Magical Guard's Badge",
+  "description": "Prized by Magical Guards as a symbol of their proud identity, the badge bears a lily in the center and two crossed swords below, which signify the knights' eternal duties as guardians of power.",
+  "icon": "/ui/imagesets/items1/101088.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

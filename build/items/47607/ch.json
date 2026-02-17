@@ -1,0 +1,17 @@
+{
+  "id": 47607,
+  "name": "龙血晚礼服",
+  "description": "帕多拉岛上巨龙帝国的女王爱穿的礼服",
+  "icon": "/ui/imagesets/items1/100390.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

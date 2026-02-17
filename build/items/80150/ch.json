@@ -1,0 +1,12 @@
+{
+  "id": 80150,
+  "name": "“我锤！”",
+  "description": "【大件】哼！不许再欺负我了，听到没有？摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100734.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

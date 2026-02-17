@@ -1,0 +1,17 @@
+{
+  "id": 40059,
+  "name": "카무이",
+  "description": "[낮의 아이 카무이] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_081.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78181,
+      "quantity": 1
+    }
+  ]
+}

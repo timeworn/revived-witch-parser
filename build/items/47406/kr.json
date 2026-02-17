@@ -1,0 +1,17 @@
+{
+  "id": 47406,
+  "name": "영웅의 갑옷",
+  "description": "산전수전 육박전까지 다 치러본 백전노장만이 입을 자격이 있는 갑옷.",
+  "icon": "/ui/imagesets/items1/100439.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

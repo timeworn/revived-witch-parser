@@ -1,0 +1,12 @@
+{
+  "id": 35041,
+  "name": "사탕",
+  "description": "모두가 생일 축하를 위해 준비한 각양각색의 사탕.",
+  "icon": "/ui/imagesets/items1/100864.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

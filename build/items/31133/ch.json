@@ -1,0 +1,12 @@
+{
+  "id": 31133,
+  "name": "随机技能副本材料",
+  "description": "可获得随机技能副本材料",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

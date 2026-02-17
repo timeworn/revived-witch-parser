@@ -1,0 +1,12 @@
+{
+  "id": 20005,
+  "name": "Pot",
+  "description": "A finely crafted pot with a metal surface carefully polished. It was obviously treasured by its previous owner. So exquisite that it is generally used only by the upper class at banquets, but some few also received it as a gift.",
+  "icon": "/ui/imagesets/items1/100130.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "玛特薇芙",
-  "ownerId": 71,
+  "character": "玛特薇芙",
+  "characterId": 71,
   "evolutions": "(当前角色进化等级额外使受到的伤害降低0/1/2/3%，提升0/1/2/3%的伤害和无视敌方0/1/2/3点物理防御)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

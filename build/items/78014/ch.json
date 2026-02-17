@@ -1,0 +1,13 @@
+{
+  "id": 78014,
+  "name": "中级妨害魂石",
+  "description": "稀有的魂石。能够使<color=#32CD32>SR级</color>妨害型人偶得到进化。",
+  "icon": "/ui/imagesets/items1/100356.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

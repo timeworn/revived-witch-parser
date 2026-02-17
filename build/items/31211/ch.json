@@ -1,0 +1,12 @@
+{
+  "id": 31211,
+  "name": "淘气糖果包",
+  "description": "南瓜节资深淘气包们的最爱，据说品尝之后的人都‘颤栗’不止~",
+  "icon": "/ui/imagesets/items1/100836.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

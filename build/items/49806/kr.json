@@ -1,0 +1,17 @@
+{
+  "id": 49806,
+  "name": "혼돈 신앙-마법 봉",
+  "description": "혼돈 신앙-마법 봉",
+  "icon": "/ui/imagesets/items1/100747.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

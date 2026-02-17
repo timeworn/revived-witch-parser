@@ -1,0 +1,12 @@
+{
+  "id": 31398,
+  "name": "豪华赠礼盒",
+  "description": "豪华赠礼~",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewPuzzleShop2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

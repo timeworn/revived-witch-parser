@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Catherine",
-  "ownerId": 23,
+  "character": "Catherine",
+  "characterId": 23,
   "evolutions": "(Doll's current Evolution Level increases Crit Chance by 0/0.1/0.2/0.3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

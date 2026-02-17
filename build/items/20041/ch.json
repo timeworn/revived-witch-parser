@@ -1,0 +1,12 @@
+{
+  "id": 20041,
+  "name": "魔法卫队的徽章",
+  "description": "魔法卫队非常珍视的徽章，是他们引以为傲的身份的象征。徽章正中央雕刻着百合花，下方是两把交叉的剑，象征着骑士永远守护着权威。",
+  "icon": "/ui/imagesets/items1/101088.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

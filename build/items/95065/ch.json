@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": null,
-  "ownerId": null,
+  "character": null,
+  "characterId": null,
   "evolutions": "(当前角色进化等级额外减少敌方0/1/2/3%自身攻击数值的魔法防御)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

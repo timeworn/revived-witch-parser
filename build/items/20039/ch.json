@@ -1,0 +1,12 @@
+{
+  "id": 20039,
+  "name": "卷轴的抄写本",
+  "description": "在教会的书库中翻到的卷轴，字迹残缺，背面画着黑色的月桂树。上面依稀可认出残缺的语句：“时之塔”、“源于深渊的绝望”、“禁忌的魔法”。",
+  "icon": "/ui/imagesets/items1/100237.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

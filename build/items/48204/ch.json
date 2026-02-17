@@ -1,0 +1,17 @@
+{
+  "id": 48204,
+  "name": "荆棘之琴",
+  "description": "琴身缠绕布满荆棘的魔法藤蔓，轻易靠近会受到魔法的反噬",
+  "icon": "/ui/imagesets/items1/100716.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

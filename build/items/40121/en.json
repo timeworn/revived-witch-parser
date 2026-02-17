@@ -1,0 +1,17 @@
+{
+  "id": 40121,
+  "name": "Carol",
+  "description": "Obtain Doll [Carol: Ode to Iris]",
+  "icon": "/ui/imagesets/localization/role/char_122/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781122,
+      "quantity": 1
+    }
+  ]
+}

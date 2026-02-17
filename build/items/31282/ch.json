@@ -1,0 +1,12 @@
+{
+  "id": 31282,
+  "name": "圣诞应援活动头像",
+  "description": "给予铁杆粉的纪念头像",
+  "icon": "/ui/imagesets/headphotos/headphoto_Christmas.png",
+  "type": "头像",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

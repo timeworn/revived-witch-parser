@@ -1,0 +1,17 @@
+{
+  "id": 78189,
+  "name": "暗之艾妮萌魂石",
+  "description": "稀有的专属魂石。能够使<color=#32CD32>暗之艾妮萌</color>得到进化。",
+  "icon": "/ui/imagesets/items1/100828.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

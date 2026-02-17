@@ -1,0 +1,17 @@
+{
+  "id": 46808,
+  "name": "Seraph Grail",
+  "description": "A magical grail that converts the holder's spiritual power into vigor. It can heal any injury as long as power is supplied.",
+  "icon": "/ui/imagesets/items1/100451.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

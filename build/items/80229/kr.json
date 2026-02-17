@@ -1,0 +1,12 @@
+{
+  "id": 80229,
+  "name": "삼색 노리개",
+  "description": "[벽 장식] 동양 느낌으로 만든 팬던트 등, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100958.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

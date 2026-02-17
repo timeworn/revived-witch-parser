@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "莉莉娅",
-  "ownerId": 35,
+  "character": "莉莉娅",
+  "characterId": 35,
   "evolutions": "(当前角色进化等级使自身造成的魔法伤害额外提升0/1/2/3%)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

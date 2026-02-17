@@ -1,0 +1,12 @@
+{
+  "id": 31336,
+  "name": "凝莎的手工点心",
+  "description": "使用森林中新鲜美味的浆果制作而成",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop3.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

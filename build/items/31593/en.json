@@ -1,0 +1,12 @@
+{
+  "id": 31593,
+  "name": "Sea Salt Soda",
+  "description": "Ice cold and refreshing sea salt soda, Burnton hot sale~",
+  "icon": "/ui/imagesets/items1/101158.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

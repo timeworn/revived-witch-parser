@@ -1,0 +1,17 @@
+{
+  "id": 40020,
+  "name": "斯瓦尔巴",
+  "description": "可以获得人偶 【复仇之誓 斯瓦尔巴】",
+  "icon": "/ui/imagesets/headphotos/hp_025.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78119,
+      "quantity": 1
+    }
+  ]
+}

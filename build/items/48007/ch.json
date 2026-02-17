@@ -1,0 +1,17 @@
+{
+  "id": 48007,
+  "name": "暗狱链",
+  "description": "炼狱守卫巨斧将军万佩洛斯佩戴的饰品，能召来无尽的炼狱之焰",
+  "icon": "/ui/imagesets/items1/100465.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

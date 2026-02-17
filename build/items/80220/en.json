@@ -1,0 +1,12 @@
+{
+  "id": 80220,
+  "name": "Traditional Floor",
+  "description": "[Floor] Sandalwood floor. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100947.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

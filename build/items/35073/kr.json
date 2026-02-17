@@ -1,0 +1,12 @@
+{
+  "id": 35073,
+  "name": "황금 밀",
+  "description": "한 알 한 알 잘 여문 밀을 보니, 올가을은 풍년인 것 같다.",
+  "icon": "/ui/imagesets/items1/101206.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

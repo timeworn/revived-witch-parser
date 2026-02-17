@@ -1,0 +1,13 @@
+{
+  "id": 78002,
+  "name": "Basic Destroyer Soul Stone",
+  "description": "An unusual soul stone, used to evolve the <coloR=#32CD32>R</coloR> Destroyer.",
+  "icon": "/ui/imagesets/items1/100367.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

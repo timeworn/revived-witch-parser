@@ -1,0 +1,12 @@
+{
+  "id": 31357,
+  "name": "复活节进阶礼包",
+  "description": "复活节进阶礼包",
+  "icon": "/ui/imagesets/shop/shopgift64.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

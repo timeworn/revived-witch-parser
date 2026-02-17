@@ -1,0 +1,17 @@
+{
+  "id": 78166,
+  "name": "多琳魂石",
+  "description": "稀有的专属魂石。能够使<color=#32CD32>多琳</color>得到进化。",
+  "icon": "/ui/imagesets/items1/100889.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 3
+    }
+  ]
+}

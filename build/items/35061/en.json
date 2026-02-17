@@ -1,0 +1,12 @@
+{
+  "id": 35061,
+  "name": "Magic Coupon",
+  "description": "It may not look like it, but this unassuming coupon is imbued with magic power",
+  "icon": "/ui/imagesets/items1/100990.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

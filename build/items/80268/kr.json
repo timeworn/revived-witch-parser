@@ -1,0 +1,12 @@
+{
+  "id": 80268,
+  "name": "생일 축하 케이크",
+  "description": "[작은 가구] 맛있는 케이크 한 조각을 마다할 사람이 있을까? 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101078.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

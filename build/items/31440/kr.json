@@ -1,0 +1,12 @@
+{
+  "id": 31440,
+  "name": "아카샤 코스튬 패키지",
+  "description": "아카샤 코스튬 패키지",
+  "icon": "/ui/imagesets/items1/101059.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

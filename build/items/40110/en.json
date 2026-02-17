@@ -1,0 +1,17 @@
+{
+  "id": 40110,
+  "name": "Angling",
+  "description": "Obtain Doll [Angling: Rhyme of Water]",
+  "icon": "/ui/imagesets/localization/role/char_111/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781111,
+      "quantity": 1
+    }
+  ]
+}

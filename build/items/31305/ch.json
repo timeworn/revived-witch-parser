@@ -1,0 +1,12 @@
+{
+  "id": 31305,
+  "name": "露尼亚之旅豪华礼包",
+  "description": "露尼亚之旅豪华礼包",
+  "icon": "/ui/imagesets/shop/shopgift56.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35072,
+  "name": "特调甜品",
+  "description": "用恶龙鳞片滴落下来的糖水制成，口感甜而不腻，深得老人和孩子们的喜爱",
+  "icon": "/ui/imagesets/items1/101190.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

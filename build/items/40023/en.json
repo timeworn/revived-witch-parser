@@ -1,0 +1,17 @@
+{
+  "id": 40023,
+  "name": "Czerni",
+  "description": "Obtain Doll [Czerni: Angel of Deception]",
+  "icon": "/ui/imagesets/headphotos/hp_022.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78122,
+      "quantity": 1
+    }
+  ]
+}

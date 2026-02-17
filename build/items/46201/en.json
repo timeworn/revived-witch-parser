@@ -1,0 +1,17 @@
+{
+  "id": 46201,
+  "name": "Fragment",
+  "description": "A book with many incomplete pages. Slightly difficult to read.",
+  "icon": "/ui/imagesets/items1/100066.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

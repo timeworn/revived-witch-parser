@@ -1,0 +1,17 @@
+{
+  "id": 46601,
+  "name": "黯淡珠",
+  "description": "本身不会散发出光泽的宝珠",
+  "icon": "/ui/imagesets/items1/100075.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

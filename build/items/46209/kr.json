@@ -1,0 +1,17 @@
+{
+  "id": 46209,
+  "name": "이발디",
+  "description": "소유한 자에게 무한한 지혜와 마력을 줄 수 있는 최고의 전서.",
+  "icon": "/ui/imagesets/items1/100457.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

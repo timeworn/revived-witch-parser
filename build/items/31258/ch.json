@@ -1,0 +1,12 @@
+{
+  "id": 31258,
+  "name": "诞生日羁绊礼包",
+  "description": "诞生日羁绊礼包",
+  "icon": "/ui/imagesets/shop/shopgift45.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

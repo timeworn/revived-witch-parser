@@ -1,0 +1,17 @@
+{
+  "id": 40022,
+  "name": "Catherine",
+  "description": "Obtain Doll [Catherine: The Miracle]",
+  "icon": "/ui/imagesets/headphotos/hp_032.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78121,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 90044,
+  "name": "Glamorous Feast",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/101191.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35001,
+      "quantity": 98
+    }
+  ]
+}

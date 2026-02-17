@@ -1,0 +1,12 @@
+{
+  "id": 31718,
+  "name": "福满新春高级礼包",
+  "description": "福满新春活动礼包，购买可获得抽卡道具、大量装备培养材料和饺子。",
+  "icon": "/ui/imagesets/shop/shopgift54.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

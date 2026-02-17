@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Idol Flora",
-  "ownerId": 95,
+  "character": "Idol Flora",
+  "characterId": 95,
   "evolutions": "(Doll's current Evolution Level increases the DMG taken from Idol Flora for the duration of Intoxicated by0/0.5/1/1.5% and reduces the target's Magic DEF equal to 0/0.5/1/1.5% of Idol Flora's ATK)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

@@ -1,0 +1,12 @@
+{
+  "id": 20017,
+  "name": "거대 화살",
+  "description": "일반 화살보다 다섯 배 이상은 큰 거대 화살. 이 화살을 쏘려면 반드시 거대한 활이 필요할 것이나, 그 거대한 활을 잡아당길 수 있는 장사는 거의 없을 것 같다.",
+  "icon": "/ui/imagesets/items1/100257.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

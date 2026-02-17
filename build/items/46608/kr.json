@@ -1,0 +1,17 @@
+{
+  "id": 46608,
+  "name": "운명의 선택",
+  "description": "예지 능력이 있는 별의 힘이 깃들어 있어, 미래를 내다볼 수 있는 신기한 보옥.",
+  "icon": "/ui/imagesets/items1/100396.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

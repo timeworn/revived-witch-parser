@@ -1,0 +1,17 @@
+{
+  "id": 46603,
+  "name": "수정구",
+  "description": "온통 투명한 보옥, 엄청난 마력이 들어있다고 한다.",
+  "icon": "/ui/imagesets/items1/100183.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

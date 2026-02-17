@@ -1,0 +1,17 @@
+{
+  "id": 48008,
+  "name": "爱丽丝之环",
+  "description": "据说是守护圣树的少女佩戴的装饰，具有神奇的效果",
+  "icon": "/ui/imagesets/items1/100466.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

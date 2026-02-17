@@ -1,0 +1,17 @@
+{
+  "id": 46806,
+  "name": "精灵杯",
+  "description": "盛有精灵湖之水的杯子，多少沾染了精灵的祝福",
+  "icon": "/ui/imagesets/items1/100449.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

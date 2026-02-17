@@ -1,0 +1,17 @@
+{
+  "id": 46209,
+  "name": "Ivaldi",
+  "description": "A book of the supreme code that bestows infinite wisdom and magic upon its owner.",
+  "icon": "/ui/imagesets/items1/100457.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

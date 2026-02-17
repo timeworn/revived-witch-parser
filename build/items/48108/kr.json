@@ -1,0 +1,17 @@
+{
+  "id": 48108,
+  "name": "야생의 반지",
+  "description": "거대한 짐승의 뼈로 만든 장신구, 야생의 힘이 가득 들어있다.",
+  "icon": "/ui/imagesets/items1/100719.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 76001,
+  "name": "辉铜",
+  "description": "自然开采的铜矿石，广泛地应用于锻造和冶炼业，可以为装备提供<color=#32CD32>200</color>经验。",
+  "icon": "/ui/imagesets/items1/100126.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

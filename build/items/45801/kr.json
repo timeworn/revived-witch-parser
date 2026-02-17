@@ -1,0 +1,17 @@
+{
+  "id": 45801,
+  "name": "대거",
+  "description": "소매 안에 숨길 수 있는 무기.",
+  "icon": "/ui/imagesets/items1/100063.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

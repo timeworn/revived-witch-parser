@@ -1,0 +1,12 @@
+{
+  "id": 35009,
+  "name": "우정 포인트",
+  "description": "우정 포인트 상점에서 사용되는 재화",
+  "icon": "/ui/imagesets/items1/100134.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47003,
+  "name": "사제의 지팡이",
+  "description": "사제들이 흔히 사용하는 마법 지팡이, 자신의 마나를 모을 수 있다.",
+  "icon": "/ui/imagesets/items1/100164.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

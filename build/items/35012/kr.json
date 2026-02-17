@@ -1,0 +1,12 @@
+{
+  "id": 35012,
+  "name": "금색 꽃잎",
+  "description": "강대한 영혼이 날아가고 남은 형체, $B$금빛 에너지가 육체를 둘러싸 오랫동안 흩어지지 않는다. $B$인형 소환 및 공방에서 UR, SSR 인형 영혼석을 분해하여 획득할 수 있으며 상점에서 아이템 교환에 사용된다.",
+  "icon": "/ui/imagesets/items1/100118.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

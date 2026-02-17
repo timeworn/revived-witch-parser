@@ -1,0 +1,12 @@
+{
+  "id": 80231,
+  "name": "Lion Dance",
+  "description": "[Compact Item] A vicious-looking little tiger that can repel bad luck. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100962.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45205,
+  "name": "碎骨之锤",
+  "description": "名匠锻造的大锤，能够敲碎坚硬的骨骼",
+  "icon": "/ui/imagesets/items1/100403.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

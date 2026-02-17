@@ -1,0 +1,12 @@
+{
+  "id": 80262,
+  "name": "가족 사진",
+  "description": "[벽 장식] 2인 1묘의 행복해 보이는 사진. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101082.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

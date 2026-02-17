@@ -1,0 +1,12 @@
+{
+  "id": 80179,
+  "name": "철갑 기사",
+  "description": "[작은 가구] 금방이라도 움직일 것 같은 위엄 있는 철갑 기사. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100847.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

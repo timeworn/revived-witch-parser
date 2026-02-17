@@ -1,0 +1,12 @@
+{
+  "id": 35031,
+  "name": "海螺",
+  "description": "闪闪发光的海螺，有时可以在沙滩上捡到。【活动材料】",
+  "icon": "/ui/imagesets/items1/100785.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46205,
+  "name": "허망의 서",
+  "description": "멋대로 세계제일이라고 자칭하던 마도사가 후손에게 전해준 책.",
+  "icon": "/ui/imagesets/items1/100453.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40066,
+  "name": "파르페",
+  "description": "[성령의 징벌자 파르페] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_067/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78129,
+      "quantity": 1
+    }
+  ]
+}

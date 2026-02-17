@@ -1,0 +1,12 @@
+{
+  "id": 35045,
+  "name": "초콜릿",
+  "description": "밸런타인데이 상품, 상점에서 판매 중이다.",
+  "icon": "/ui/imagesets/items1/100920.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

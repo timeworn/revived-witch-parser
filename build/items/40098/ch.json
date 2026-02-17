@@ -1,0 +1,17 @@
+{
+  "id": 40098,
+  "name": "艾迪恩",
+  "description": "可以获得人偶 【玛那梦幻 艾迪恩】",
+  "icon": "/ui/imagesets/localization/role/char_099/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78199,
+      "quantity": 1
+    }
+  ]
+}

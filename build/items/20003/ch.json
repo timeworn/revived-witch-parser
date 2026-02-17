@@ -1,0 +1,12 @@
+{
+  "id": 20003,
+  "name": "魔女笔记——镜框",
+  "description": "能够嵌入镜子碎片的镜框，已嵌入1片碎片。",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

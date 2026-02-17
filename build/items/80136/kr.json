@@ -1,0 +1,12 @@
+{
+  "id": 80136,
+  "name": "별빛 가로등",
+  "description": "[큰 가구] 벤치 위 외로운 그림자를 동반해주는 쓸쓸히 우뚝 서 있는 가로등. 배치하면 쾌적 지수가 25 증가한다.",
+  "icon": "/ui/imagesets/items1/100668.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

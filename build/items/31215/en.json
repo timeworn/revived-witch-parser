@@ -1,0 +1,12 @@
+{
+  "id": 31215,
+  "name": "Norn Costume Pack",
+  "description": "Purchase to gain a Norn's costume",
+  "icon": "/ui/imagesets/items1/100841.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

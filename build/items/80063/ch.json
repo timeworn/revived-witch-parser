@@ -1,0 +1,12 @@
+{
+  "id": 80063,
+  "name": "鲜花相片",
+  "description": "【墙饰】彩色小花相片。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100569.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80295,
+  "name": "따뜻함",
+  "description": "[벽 장식] 하루의 기분이 좋아지는 따뜻한 불빛과 맛있는 음식들. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101120.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

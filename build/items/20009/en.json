@@ -1,0 +1,12 @@
+{
+  "id": 20009,
+  "name": "Witch Notebook: Caterpillar Brothers",
+  "description": "The Younger Caterpillar was found in the Irminsul Woods, but he seems to have already lost all hope.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

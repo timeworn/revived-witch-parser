@@ -1,0 +1,12 @@
+{
+  "id": 80148,
+  "name": "土豆",
+  "description": "【小件】土豆表示它很难，摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100709.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

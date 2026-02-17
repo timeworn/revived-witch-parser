@@ -1,0 +1,12 @@
+{
+  "id": 80267,
+  "name": "庆典圆桌",
+  "description": "【小件】忘记健身教练的叮嘱和你的减脂计划吧，一年一度的生日就应该敞开\"胸怀\"。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101068.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

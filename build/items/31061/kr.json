@@ -1,0 +1,12 @@
+{
+  "id": 31061,
+  "name": "데일리 패키지",
+  "description": "매일 1회만 구매할 수 있다.",
+  "icon": "/ui/imagesets/shop/daygift3.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

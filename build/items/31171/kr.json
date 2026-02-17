@@ -1,0 +1,12 @@
+{
+  "id": 31171,
+  "name": "바캉스 어드벤처 액자",
+  "description": "여름 바캉스를 기념하는 액자.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame8.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

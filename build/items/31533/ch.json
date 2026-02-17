@@ -1,0 +1,12 @@
+{
+  "id": 31533,
+  "name": "南奈尔公仔",
+  "description": "依据镜中模样制作的南奈尔人偶",
+  "icon": "/ui/imagesets/items1/101150.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

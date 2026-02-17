@@ -1,0 +1,12 @@
+{
+  "id": 80003,
+  "name": "Orange Curtains",
+  "description": "[Window] A window with orange curtains. Increase Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100528.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

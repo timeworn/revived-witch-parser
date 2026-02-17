@@ -1,0 +1,17 @@
+{
+  "id": 45808,
+  "name": "真夜黑刃",
+  "description": "即便在黑夜中也能凭借血之诅咒找到目标的匕首，能够让使用者觉醒暗杀的本能",
+  "icon": "/ui/imagesets/items1/100401.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35001,
+  "name": "钻石",
+  "description": "珍贵的矿物资源，可兑换其他资源",
+  "icon": "/ui/imagesets/items1/100005.png",
+  "type": "货币",
+  "typeId": 273,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

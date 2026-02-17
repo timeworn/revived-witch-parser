@@ -1,0 +1,17 @@
+{
+  "id": 46207,
+  "name": "先知神典",
+  "description": "东方的伊萨卡族的先知代代相传的神典",
+  "icon": "/ui/imagesets/items1/100455.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

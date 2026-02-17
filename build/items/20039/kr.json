@@ -1,0 +1,12 @@
+{
+  "id": 20039,
+  "name": "스크롤 사본",
+  "description": "교회의 서고에서 찾아낸 글씨가 불완전한 스크롤. 뒷면엔 검은 월계수가 그려져 있고, 위에는 '크로노 타워', '심연의 절망에서', '금기의 마법'이라는 완전하진 않지만, 어렴풋이 알아볼 수 있는 문구가 쓰여 있다.",
+  "icon": "/ui/imagesets/items1/100237.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

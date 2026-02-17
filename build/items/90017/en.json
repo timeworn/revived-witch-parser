@@ -1,0 +1,12 @@
+{
+  "id": 90017,
+  "name": "Phantom Mirror of Stars Costume: Deathbringer",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/100793.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

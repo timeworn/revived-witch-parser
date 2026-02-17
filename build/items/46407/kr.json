@@ -1,0 +1,17 @@
+{
+  "id": 46407,
+  "name": "해골의 노래",
+  "description": "마계 데몬 솔저의 전공을 찬양할 때 쓰이는 악기, 마계의 곡을 연주할 수 있다.",
+  "icon": "/ui/imagesets/items1/100460.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

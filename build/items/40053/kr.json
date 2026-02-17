@@ -1,0 +1,17 @@
+{
+  "id": 40053,
+  "name": "가르디티스",
+  "description": "[낙원의 시인 가르디티스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_056.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78152,
+      "quantity": 1
+    }
+  ]
+}

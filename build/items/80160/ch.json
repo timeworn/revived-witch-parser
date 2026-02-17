@@ -1,0 +1,12 @@
+{
+  "id": 80160,
+  "name": "冲浪板架",
+  "description": "【大件】在海边尽情玩耍后带回的纪念品。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100799.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

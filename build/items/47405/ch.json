@@ -1,0 +1,17 @@
+{
+  "id": 47405,
+  "name": "漆黑之铠",
+  "description": "通体涂黑的铠甲，令人生畏",
+  "icon": "/ui/imagesets/items1/100441.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

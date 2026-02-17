@@ -1,0 +1,17 @@
+{
+  "id": 47008,
+  "name": "흘리드스캬르프",
+  "description": "신성 제국 베로니카를 상징하는 마법 지팡이, 백의 황녀가 난세를 평정할 때 사용했던 신성한 지팡이라고 한다.",
+  "icon": "/ui/imagesets/items1/100416.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

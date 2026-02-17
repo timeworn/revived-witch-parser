@@ -1,0 +1,12 @@
+{
+  "id": 35042,
+  "name": "应援棒",
+  "description": "使得偶像们更加闪耀的神奇道具",
+  "icon": "/ui/imagesets/items1/100896.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

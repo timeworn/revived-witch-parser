@@ -1,0 +1,12 @@
+{
+  "id": 31050,
+  "name": "Lv.5 Elite Pack",
+  "description": "Available for purchase when Witch reaches Lv.5.",
+  "icon": "/ui/imagesets/shop/giftlevelyellow2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

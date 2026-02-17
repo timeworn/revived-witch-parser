@@ -1,0 +1,12 @@
+{
+  "id": 31518,
+  "name": "星空礼盒",
+  "description": "以星辰为主题的礼物盒，打开后有小惊喜",
+  "icon": "/ui/imagesets/items1/101149.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

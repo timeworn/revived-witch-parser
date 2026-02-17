@@ -1,0 +1,12 @@
+{
+  "id": 35019,
+  "name": "코스튬 코인",
+  "description": "코스튬을 구매하는 데 사용하는 재화",
+  "icon": "/ui/imagesets/items1/100629.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

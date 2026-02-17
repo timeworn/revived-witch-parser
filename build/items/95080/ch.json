@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "纳莎",
-  "ownerId": 80,
+  "character": "纳莎",
+  "characterId": 80,
   "evolutions": "(当前角色进化等级额外提高0/0.5/1/1.5%攻击)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

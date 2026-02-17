@@ -1,0 +1,12 @@
+{
+  "id": 35050,
+  "name": "红色小丑币",
+  "description": "上面刻有小丑的红色硬币，可用于商城兑换道具。【活动材料】",
+  "icon": "/ui/imagesets/items1/100985.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

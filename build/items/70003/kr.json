@@ -1,0 +1,13 @@
+{
+  "id": 70003,
+  "name": "고급 룬",
+  "description": "장비 인챈트 시 사용하는 재료, 재료 소모를 통해 장비를 강력한 속성으로 바꿀 수 있으며, 낮은 확률로 신규 속성을 부여할 수 있다.",
+  "icon": "/ui/imagesets/items1/100205.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

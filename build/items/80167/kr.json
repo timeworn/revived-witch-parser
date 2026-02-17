@@ -1,0 +1,12 @@
+{
+  "id": 80167,
+  "name": "펌킨 사탕솥",
+  "description": "[큰 가구] 사탕이 가득 들어있는 호박 모양의 솥, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100834.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

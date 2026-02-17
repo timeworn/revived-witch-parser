@@ -1,0 +1,12 @@
+{
+  "id": 80206,
+  "name": "节庆屏风",
+  "description": "【大件】装点了节日灯笼的巨大屏风。可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100928.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

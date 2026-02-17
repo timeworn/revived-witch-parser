@@ -1,0 +1,17 @@
+{
+  "id": 46408,
+  "name": "사신의 노래",
+  "description": "명계의 비참한 궁전에서 섬기고 있는 악기, 선율은 생물의 영혼을 조종하여 명계의 심연으로 빠지게 한다.",
+  "icon": "/ui/imagesets/items1/100461.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

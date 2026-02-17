@@ -1,0 +1,12 @@
+{
+  "id": 31012,
+  "name": "얼그레이",
+  "description": "인형한테 선물하면 호감도 150을 획득할 수 있는 정교한 선물.",
+  "icon": "/ui/imagesets/items1/100488.png",
+  "type": "호감도 아이템",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

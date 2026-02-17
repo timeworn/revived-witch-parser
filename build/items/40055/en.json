@@ -1,0 +1,17 @@
+{
+  "id": 40055,
+  "name": "Amanami",
+  "description": "Obtain Doll [Amanami: Princess of the Sun]",
+  "icon": "/ui/imagesets/headphotos/hp_058.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78154,
+      "quantity": 1
+    }
+  ]
+}

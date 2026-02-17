@@ -1,0 +1,12 @@
+{
+  "id": 31365,
+  "name": "Advanced Giftbox",
+  "description": "Advanced Gift",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewShop3.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

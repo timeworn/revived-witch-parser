@@ -1,0 +1,17 @@
+{
+  "id": 40115,
+  "name": "奥莉斯",
+  "description": "可以获得人偶 【渡魂者 奥莉斯】",
+  "icon": "/ui/imagesets/localization/role/char_116/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781116,
+      "quantity": 1
+    }
+  ]
+}

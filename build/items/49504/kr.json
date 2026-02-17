@@ -1,0 +1,17 @@
+{
+  "id": 49504,
+  "name": "사기꾼-반지",
+  "description": "사기꾼-반지",
+  "icon": "/ui/imagesets/items1/100751.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

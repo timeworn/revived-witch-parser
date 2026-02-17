@@ -1,0 +1,12 @@
+{
+  "id": 31350,
+  "name": "Fools' Day Best Deal",
+  "description": "Fools' Day Best Deal",
+  "icon": "/ui/imagesets/shop/shopgift62.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31019,
+  "name": "Small Woodcarving",
+  "description": "An exquisite gift. Give it to a Doll to increase 200 Intimacy points.",
+  "icon": "/ui/imagesets/items1/100495.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

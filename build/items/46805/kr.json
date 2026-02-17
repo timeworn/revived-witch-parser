@@ -1,0 +1,17 @@
+{
+  "id": 46805,
+  "name": "치유의 성배",
+  "description": "성직자의 치유 힘을 저장하는 데 사용하는 영묘한 잔.",
+  "icon": "/ui/imagesets/items1/100448.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

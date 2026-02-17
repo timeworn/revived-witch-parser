@@ -1,0 +1,17 @@
+{
+  "id": 45608,
+  "name": "元磐斧",
+  "description": "苍穹雷神所持的巨斧，能够斩断一切魂魄",
+  "icon": "/ui/imagesets/items1/100421.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

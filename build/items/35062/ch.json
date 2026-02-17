@@ -1,0 +1,12 @@
+{
+  "id": 35062,
+  "name": "南瓜",
+  "description": "金黄色灯笼般的南瓜，做成南瓜蛋糕一定很好吃。",
+  "icon": "/ui/imagesets/items1/100831.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

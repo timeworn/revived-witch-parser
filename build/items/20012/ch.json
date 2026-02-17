@@ -1,0 +1,12 @@
+{
+  "id": 20012,
+  "name": "厄迦姆的收藏",
+  "description": "商人厄迦姆离开故乡前埋下的宝物，寄托了他对故乡的无限思念。",
+  "icon": "/ui/imagesets/items1/100094.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

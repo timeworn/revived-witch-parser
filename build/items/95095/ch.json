@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "偶像芙洛莱",
-  "ownerId": 95,
+  "character": "偶像芙洛莱",
+  "characterId": 95,
   "evolutions": "(当前角色进化等级陶醉状态下额外提升0/0.5/1/1.5%受到来自芙洛莱的伤害，并降低目标0/0.5/1/1.5%攻击的魔法防御)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

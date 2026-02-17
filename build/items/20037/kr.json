@@ -1,0 +1,12 @@
+{
+  "id": 20037,
+  "name": "얼음의 결정",
+  "description": "보기 드문 광석, 정련 후 얼음 결정 광석을 획득 할 수 있다.",
+  "icon": "/ui/imagesets/items1/100248.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31716,
+  "name": "Budding Fortune Basic Pack",
+  "description": "Purchase to get Souls and Dumplings.",
+  "icon": "/ui/imagesets/shop/shopgift52.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31622,
+  "name": "大盘火鸡",
+  "description": "一盘能够满足所有宾客享用的火鸡，绝对是每年感恩节的重头戏",
+  "icon": "/ui/imagesets/items1/101203.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

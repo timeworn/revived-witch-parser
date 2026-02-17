@@ -1,0 +1,17 @@
+{
+  "id": 45201,
+  "name": "青铜锤",
+  "description": "随处可见的青铜锤子，用起来十分顺手",
+  "icon": "/ui/imagesets/items1/100166.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

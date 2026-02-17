@@ -1,0 +1,17 @@
+{
+  "id": 49708,
+  "name": "질서 신앙-목걸이",
+  "description": "질서 신앙-목걸이",
+  "icon": "/ui/imagesets/items1/100776.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

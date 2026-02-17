@@ -1,0 +1,12 @@
+{
+  "id": 31257,
+  "name": "생일 축하 카드",
+  "description": "마녀의 진심이 담겨진 카드. 인형의 호감도를 200 증가시킨다.",
+  "icon": "/ui/imagesets/items1/100870.png",
+  "type": "호감도 아이템",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

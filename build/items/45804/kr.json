@@ -1,0 +1,17 @@
+{
+  "id": 45804,
+  "name": "유혹의 대거",
+  "description": "무희로 변신한 암살자가 즐겨 사용하는 대거.",
+  "icon": "/ui/imagesets/items1/100161.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

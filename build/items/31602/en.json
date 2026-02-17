@@ -1,0 +1,12 @@
+{
+  "id": 31602,
+  "name": "Cool Autumn",
+  "description": "The dog days are over. The cool autumn breeze brings with it the joy of harvest.",
+  "icon": "/ui/imagesets/items1/101202.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

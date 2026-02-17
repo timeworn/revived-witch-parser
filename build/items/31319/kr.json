@@ -1,0 +1,12 @@
+{
+  "id": 31319,
+  "name": "피크닉 주머니",
+  "description": "맑고 따뜻한 날씨, 모두를 위한 선물.",
+  "icon": "/ui/imagesets/items1/101019.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

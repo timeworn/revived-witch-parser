@@ -1,0 +1,12 @@
+{
+  "id": 31213,
+  "name": "科学怪人糖果包",
+  "description": "据说吃完会带来触电般酥麻体验的神奇糖果~",
+  "icon": "/ui/imagesets/items1/100837.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

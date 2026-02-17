@@ -1,0 +1,12 @@
+{
+  "id": 35028,
+  "name": "목재",
+  "description": "[이벤트] 견고한 목재, 건축에 사용된다",
+  "icon": "/ui/imagesets/items1/100782.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Kyphon",
-  "ownerId": 48,
+  "character": "Kyphon",
+  "characterId": 48,
   "evolutions": "(Evolving the current Character's Level will also increase DMG by 0/3.5/7/10.5%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

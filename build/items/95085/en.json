@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Flare",
-  "ownerId": 85,
+  "character": "Flare",
+  "characterId": 85,
   "evolutions": "(Doll's current Evolution Level increases Magic DMG equal to 0/1/2/3% of max HP)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

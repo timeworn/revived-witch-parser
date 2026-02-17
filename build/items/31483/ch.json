@@ -1,0 +1,12 @@
+{
+  "id": 31483,
+  "name": "火焰魔典",
+  "description": "火焰魔典",
+  "icon": "/ui/imagesets/items1/101112.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

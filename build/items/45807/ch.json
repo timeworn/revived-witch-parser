@@ -1,0 +1,17 @@
+{
+  "id": 45807,
+  "name": "龙晶匕首",
+  "description": "龙人族代代相传的宝物，蕴藏着古代龙神的神秘力量",
+  "icon": "/ui/imagesets/items1/100400.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

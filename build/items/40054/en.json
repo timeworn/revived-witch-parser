@@ -1,0 +1,17 @@
+{
+  "id": 40054,
+  "name": "Inn & Lou",
+  "description": "Obtain Doll [Inn & Lou: Twin Executors]",
+  "icon": "/ui/imagesets/headphotos/hp_065.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78153,
+      "quantity": 1
+    }
+  ]
+}

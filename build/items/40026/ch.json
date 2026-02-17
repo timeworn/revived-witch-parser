@@ -1,0 +1,17 @@
+{
+  "id": 40026,
+  "name": "凯忒丝",
+  "description": "可以获得人偶 【赤色战姬 凯忒丝】",
+  "icon": "/ui/imagesets/headphotos/hp_030.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78125,
+      "quantity": 1
+    }
+  ]
+}

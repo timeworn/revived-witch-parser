@@ -1,0 +1,17 @@
+{
+  "id": 45602,
+  "name": "Mercenary Axe",
+  "description": "A deadly axe commonly used by mercenaries.",
+  "icon": "/ui/imagesets/items1/100171.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

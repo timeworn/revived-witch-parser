@@ -1,0 +1,12 @@
+{
+  "id": 80112,
+  "name": "蜡烛壁灯",
+  "description": "【墙饰】摆放蜡烛的壁灯。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100587.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

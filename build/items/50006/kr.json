@@ -1,0 +1,12 @@
+{
+  "id": 50006,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/chest1.png",
+  "type": "던전 아이템",
+  "typeId": 18,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

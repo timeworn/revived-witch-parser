@@ -1,0 +1,17 @@
+{
+  "id": 40071,
+  "name": "Sher",
+  "description": "Obtain Doll [Sher: Wanderer of Fate]",
+  "icon": "/ui/imagesets/headphotos/hp_072.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78170,
+      "quantity": 1
+    }
+  ]
+}

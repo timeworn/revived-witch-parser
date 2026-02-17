@@ -1,0 +1,12 @@
+{
+  "id": 35016,
+  "name": "무지갯빛",
+  "description": "비 내린 후 강기슭에 모인 무지갯빛, 공중에서 반짝이며 각양각색의 빛을 일으켜 보기 드문 [안식]을 형성한다. 이를 통해 사무치는 그리움을 느낄 수 있다.",
+  "icon": "/ui/imagesets/items1/100240.png",
+  "type": "재화",
+  "typeId": 801,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

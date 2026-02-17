@@ -1,0 +1,12 @@
+{
+  "id": 35045,
+  "name": "Chocolate",
+  "description": "A special Valentine's Day item sold in Boutique.",
+  "icon": "/ui/imagesets/items1/100920.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

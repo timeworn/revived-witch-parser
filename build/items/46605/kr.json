@@ -1,0 +1,17 @@
+{
+  "id": 46605,
+  "name": "신탁의 보옥",
+  "description": "신도들 간에 칭송받으며 전해 내려 온 신탁을 들을 수 있는 신기한 보옥.",
+  "icon": "/ui/imagesets/items1/100393.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31616,
+  "name": "스팟치칵",
+  "description": "모든 손님들이 배불리 즐길 수 있는 칠면조 요리는 추수 감사절의 꽃이다.",
+  "icon": "/ui/imagesets/items1/101203.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80257,
+  "name": "나무 그네",
+  "description": "[창문] 간단하지만 튼튼한 그네. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101012.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

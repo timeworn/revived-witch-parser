@@ -1,0 +1,17 @@
+{
+  "id": 40096,
+  "name": "필레노시스",
+  "description": "[과거의 시간 필레노시스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_097/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78197,
+      "quantity": 1
+    }
+  ]
+}

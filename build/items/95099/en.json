@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Eddine",
-  "ownerId": 99,
+  "character": "Eddine",
+  "characterId": 99,
   "evolutions": "(Doll's current Evolution Level increases DMG by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

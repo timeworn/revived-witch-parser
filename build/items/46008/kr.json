@@ -1,0 +1,17 @@
+{
+  "id": 46008,
+  "name": "에누마 엘리시",
+  "description": "사악한 연금술로 소환한 이계의 활, 화살 한 발에 도시 전체가 파괴된다고 한다.",
+  "icon": "/ui/imagesets/items1/100426.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46401,
+  "name": "竖琴",
+  "description": "平常可见的竖琴",
+  "icon": "/ui/imagesets/items1/100174.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

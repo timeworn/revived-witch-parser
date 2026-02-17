@@ -1,0 +1,12 @@
+{
+  "id": 80304,
+  "name": "레스토랑 바 테이블",
+  "description": "[큰 가구] 웃음과 눈물의 공존, 어떤 걱정거리든 모두 들어준다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101129.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

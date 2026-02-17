@@ -1,0 +1,12 @@
+{
+  "id": 31475,
+  "name": "제1일 축하 패키지",
+  "description": "크고 날씬해 보이는 버섯. 따라가면 행운을 가져온다고 한다.",
+  "icon": "/ui/imagesets/items1/101057.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

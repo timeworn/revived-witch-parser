@@ -1,0 +1,12 @@
+{
+  "id": 31442,
+  "name": "Attribute Intensification Fire Pack",
+  "description": "Attribute Intensification Fire Pack",
+  "icon": "/ui/imagesets/charupgrade/CharUpgradeShop02.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

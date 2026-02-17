@@ -1,0 +1,12 @@
+{
+  "id": 80185,
+  "name": "召唤法阵",
+  "description": "【地毯】据说可以召唤出可怕恶魔的法阵，摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100854.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

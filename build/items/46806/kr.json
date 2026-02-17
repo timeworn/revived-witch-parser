@@ -1,0 +1,17 @@
+{
+  "id": 46806,
+  "name": "엘프의 잔",
+  "description": "정령의 호숫물이 담긴 컵, 엘프의 축복이 어느 정도 담겨 있다.",
+  "icon": "/ui/imagesets/items1/100449.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

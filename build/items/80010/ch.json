@@ -1,0 +1,12 @@
+{
+  "id": 80010,
+  "name": "古朴落地灯",
+  "description": "【小件】泛着橙光的落地灯。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100525.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

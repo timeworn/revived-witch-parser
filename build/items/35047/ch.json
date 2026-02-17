@@ -1,0 +1,12 @@
+{
+  "id": 35047,
+  "name": "精心准备的礼物",
+  "description": "魔女精心准备的礼物，赠送给谁好呢？",
+  "icon": "/ui/imagesets/items1/100923.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

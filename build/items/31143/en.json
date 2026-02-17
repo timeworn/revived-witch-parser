@@ -1,0 +1,12 @@
+{
+  "id": 31143,
+  "name": "Journey Value Pack",
+  "description": "Rejoice in unlocking a new chapter! Buy this pack for a ton of character upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80014,
+  "name": "Wall Clock",
+  "description": "[Wall Decor] A metal wall clock. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100530.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48005,
+  "name": "宿灵链",
+  "description": "降临仪式上用来寄宿逝者生前灵魂的神奇项链",
+  "icon": "/ui/imagesets/items1/100463.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

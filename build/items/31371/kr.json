@@ -1,0 +1,12 @@
+{
+  "id": 31371,
+  "name": "산들 주머니",
+  "description": "매미 울음 소리가 가득한 여름날의 특별한 주머니",
+  "icon": "/ui/imagesets/items1/101020.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

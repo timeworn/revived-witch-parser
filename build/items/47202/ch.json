@@ -1,0 +1,17 @@
+{
+  "id": 47202,
+  "name": "理力魔杖",
+  "description": "便于吟唱物理系法术的魔杖",
+  "icon": "/ui/imagesets/items1/100193.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40118,
+  "name": "莉可妮丝",
+  "description": "可以获得人偶 【神祇祷言 莉可妮丝】",
+  "icon": "/ui/imagesets/localization/role/char_119/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781119,
+      "quantity": 1
+    }
+  ]
+}

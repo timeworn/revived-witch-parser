@@ -1,0 +1,12 @@
+{
+  "id": 20017,
+  "name": "Giant Arrow",
+  "description": "A giant arrow five times larger than normal. It must match a giant bow, which few heroes can draw.",
+  "icon": "/ui/imagesets/items1/100257.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

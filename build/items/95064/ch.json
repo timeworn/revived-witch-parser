@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "伊莎贝拉",
-  "ownerId": 64,
+  "character": "伊莎贝拉",
+  "characterId": 64,
   "evolutions": "(当前角色进化等级额外减少敌方0/0.5/1/1.5%的物理防御)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

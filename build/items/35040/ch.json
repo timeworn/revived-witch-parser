@@ -1,0 +1,12 @@
+{
+  "id": 35040,
+  "name": "表现力",
+  "description": "坚持训练，为了实现闪亮动人而努力【活动材料】",
+  "icon": "/ui/imagesets/items1/100862.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

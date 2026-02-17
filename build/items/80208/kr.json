@@ -1,0 +1,12 @@
+{
+  "id": 80208,
+  "name": "신년 문",
+  "description": "[벽 장식] 태양처럼 굳건하게 세워진 문, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100938.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

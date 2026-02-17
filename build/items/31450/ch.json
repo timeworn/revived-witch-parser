@@ -1,0 +1,12 @@
+{
+  "id": 31450,
+  "name": "周年庆快乐",
+  "description": "周年庆快乐",
+  "icon": "/ui/imagesets/emoji/Emoji_71.png",
+  "type": "表情包",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

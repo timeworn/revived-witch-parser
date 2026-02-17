@@ -1,0 +1,17 @@
+{
+  "id": 47804,
+  "name": "사금의 반지",
+  "description": "모래알같이 작은 금싸라기로 만든 반지.",
+  "icon": "/ui/imagesets/items1/100181.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35028,
+  "name": "木材",
+  "description": "坚固的木材，可以建造房屋。【活动材料】",
+  "icon": "/ui/imagesets/items1/100782.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

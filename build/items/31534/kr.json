@@ -1,0 +1,12 @@
+{
+  "id": 31534,
+  "name": "특별 별하늘 패키지",
+  "description": "특별 별하늘 패키지",
+  "icon": "/ui/imagesets/shop/shopgift37.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

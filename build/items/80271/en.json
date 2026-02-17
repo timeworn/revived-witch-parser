@@ -1,0 +1,12 @@
+{
+  "id": 80271,
+  "name": "Surprise Gift",
+  "description": "[Compact Item] Every gift is a surprise, waiting for you to unwrap. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101079.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

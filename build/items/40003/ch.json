@@ -1,0 +1,17 @@
+{
+  "id": 40003,
+  "name": "优丽雅",
+  "description": "可以获得人偶 【露尼亚的圣女 优丽雅】",
+  "icon": "/ui/imagesets/headphotos/hp_006.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78102,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35024,
+  "name": "星辰",
+  "description": "从夜空中落下的神秘碎片，散发着淡淡的黄色光芒。",
+  "icon": "/ui/imagesets/items1/100679.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

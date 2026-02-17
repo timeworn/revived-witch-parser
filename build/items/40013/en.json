@@ -1,0 +1,17 @@
+{
+  "id": 40013,
+  "name": "Nemesi",
+  "description": "Obtain Doll [Nemesi: Deathbringer]",
+  "icon": "/ui/imagesets/headphotos/hp_014.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78112,
+      "quantity": 1
+    }
+  ]
+}

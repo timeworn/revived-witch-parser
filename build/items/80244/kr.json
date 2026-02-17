@@ -1,0 +1,12 @@
+{
+  "id": 80244,
+  "name": "수옥 기지",
+  "description": "[큰 가구] 큰 나무 속에 숨겨져 있는 아지트는 초대를 받아야만 들어갈 수 있다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100999.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

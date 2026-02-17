@@ -1,0 +1,12 @@
+{
+  "id": 31420,
+  "name": "고급 선물 패키지",
+  "description": "의식의 검",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewWeekShop01.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

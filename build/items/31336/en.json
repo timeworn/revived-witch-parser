@@ -1,0 +1,12 @@
+{
+  "id": 31336,
+  "name": "Ninsar's hand-made dessert",
+  "description": "Made of juicy berries harvested from the forest.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop3.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

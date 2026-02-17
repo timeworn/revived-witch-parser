@@ -1,0 +1,12 @@
+{
+  "id": 80283,
+  "name": "Sinister Coffin",
+  "description": "[Compact Item] \"Come on, open it...\" It whispers to you as soon as you come close. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101140.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80108,
+  "name": "흑도 꽃병",
+  "description": "[작은 가구] 검은 도자기 꽃병, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100579.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

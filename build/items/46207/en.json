@@ -1,0 +1,17 @@
+{
+  "id": 46207,
+  "name": "Codex of Prophecy",
+  "description": "A sacred book passed down through generations in the Ithacan prophets of the east.",
+  "icon": "/ui/imagesets/items1/100455.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

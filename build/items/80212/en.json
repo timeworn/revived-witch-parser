@@ -1,0 +1,12 @@
+{
+  "id": 80212,
+  "name": "Chinese Knot",
+  "description": "[Wall Decor] A time-honored knot that has its roots in the Far East. Symbolizes good fortune. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100936.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

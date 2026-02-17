@@ -1,0 +1,12 @@
+{
+  "id": 31373,
+  "name": "仲夏微风初级礼包",
+  "description": "仲夏微风初级礼包",
+  "icon": "/ui/imagesets/shop/shopgift19.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

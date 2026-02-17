@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "阿墨莱",
-  "ownerId": 100,
+  "character": "阿墨莱",
+  "characterId": 100,
   "evolutions": "(当前角色进化等级额外提升0/3.5/7/10.5%最终伤害减免)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

@@ -1,0 +1,12 @@
+{
+  "id": 31193,
+  "name": "바캉스 이모티콘 패키지",
+  "description": "바캉스 이모티콘 패키지, 구매 시 이모티콘을 획득할 수 있다.",
+  "icon": "/ui/imagesets/guild/EmojiPackage.png",
+  "type": "",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

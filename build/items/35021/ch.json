@@ -1,0 +1,12 @@
+{
+  "id": 35021,
+  "name": "誓约之石",
+  "description": "完成索卢克考验的证明。",
+  "icon": "/ui/imagesets/items1/100641.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

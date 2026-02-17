@@ -1,0 +1,12 @@
+{
+  "id": 31584,
+  "name": "랍스터 패키지",
+  "description": "시장에서 잘 팔리는 랍스터, 모두가 좋아한다.",
+  "icon": "/ui/imagesets/items1/101162.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40031,
+  "name": "Elis",
+  "description": "Obtain Doll [Elis: Queen of the Forest]",
+  "icon": "/ui/imagesets/headphotos/hp_039.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78130,
+      "quantity": 1
+    }
+  ]
+}

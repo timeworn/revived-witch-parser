@@ -1,0 +1,17 @@
+{
+  "id": 47403,
+  "name": "사슬 갑옷",
+  "description": "철사를 엮어서 만든 갑옷, 방어력이 상당히 높다.",
+  "icon": "/ui/imagesets/items1/100072.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

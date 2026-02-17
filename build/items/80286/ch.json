@@ -1,0 +1,12 @@
+{
+  "id": 80286,
+  "name": "长眠石像",
+  "description": "【小件】矗立在房间内的石像，面目狰狞地盯着某处，似乎是在守护着某样东西。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101143.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

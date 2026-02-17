@@ -1,0 +1,12 @@
+{
+  "id": 80261,
+  "name": "高档栅格窗",
+  "description": "【窗户】窗外的景色和一年前没什么区别，只是换上了华贵的丝绸窗帘，感觉景色变美了。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101074.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

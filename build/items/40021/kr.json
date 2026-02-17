@@ -1,0 +1,17 @@
+{
+  "id": 40021,
+  "name": "굴베이그",
+  "description": "[심연의 제물 굴베이그] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_028.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78120,
+      "quantity": 1
+    }
+  ]
+}

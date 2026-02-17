@@ -1,0 +1,17 @@
+{
+  "id": 45405,
+  "name": "Champion's Sword",
+  "description": "A sword that can only be wielded by the valiant.",
+  "icon": "/ui/imagesets/items1/100428.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

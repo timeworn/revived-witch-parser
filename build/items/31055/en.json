@@ -1,0 +1,12 @@
+{
+  "id": 31055,
+  "name": "Lv.30 Elite Pack",
+  "description": "Available for purchase when Witch reaches Lv.30.",
+  "icon": "/ui/imagesets/shop/giftlevelyellow7.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

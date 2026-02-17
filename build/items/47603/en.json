@@ -1,0 +1,17 @@
+{
+  "id": 47603,
+  "name": "Prayer's Gown",
+  "description": "A robe worn only at prayer services, plain but still with grace.",
+  "icon": "/ui/imagesets/items1/100386.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

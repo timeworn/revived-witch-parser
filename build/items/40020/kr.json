@@ -1,0 +1,17 @@
+{
+  "id": 40020,
+  "name": "스발바드",
+  "description": "[복수의 맹세 스발바드] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_025.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78119,
+      "quantity": 1
+    }
+  ]
+}

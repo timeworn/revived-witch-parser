@@ -1,0 +1,12 @@
+{
+  "id": 80298,
+  "name": "柔软吧椅",
+  "description": "【小件】不论何时光临本店，这里总有为你而留的位置。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101123.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 781101,
+  "name": "贝拉薇塔魂石",
+  "description": "稀有的专属魂石。能够使<color=#32CD32>贝拉薇塔</color>得到进化。",
+  "icon": "/ui/imagesets/items1/101053.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

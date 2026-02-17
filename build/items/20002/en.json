@@ -1,0 +1,12 @@
+{
+  "id": 20002,
+  "name": "Witch Notebook: Mirror frame",
+  "description": "A frame capable of inserting mirror shards.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

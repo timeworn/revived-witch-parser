@@ -1,0 +1,12 @@
+{
+  "id": 31063,
+  "name": "Awaken Pack",
+  "description": "Purchase to gain a large number of enhancement materials.",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

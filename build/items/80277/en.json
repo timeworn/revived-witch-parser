@@ -1,0 +1,12 @@
+{
+  "id": 80277,
+  "name": "Ancient Wooden Floor",
+  "description": "[Floor] It creaks when walked on. Makes you worried it will cave in at any moment. So tread lightly. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101134.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

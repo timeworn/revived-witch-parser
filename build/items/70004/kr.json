@@ -1,0 +1,13 @@
+{
+  "id": 70004,
+  "name": "랜덤 레어 선물",
+  "description": "랜덤 에픽 선물",
+  "icon": "/ui/imagesets/items1/100214.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

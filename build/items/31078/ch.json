@@ -1,0 +1,12 @@
+{
+  "id": 31078,
+  "name": "进阶终极礼包",
+  "description": "购买后可获得大量人偶突破材料。",
+  "icon": "/ui/imagesets/shop/shopgift10.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

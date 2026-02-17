@@ -1,0 +1,12 @@
+{
+  "id": 31415,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewDailyShop03.png",
+  "type": "",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

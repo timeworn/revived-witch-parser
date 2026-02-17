@@ -1,0 +1,17 @@
+{
+  "id": 47209,
+  "name": "신의 심판 '게오르기오스'",
+  "description": "명계에서 전해 내려 온, 죽은 자의 영혼에 대해 지옥으로 떨어뜨릴지를 심판하는 재결의 지팡이.",
+  "icon": "/ui/imagesets/items1/100447.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

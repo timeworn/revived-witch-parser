@@ -1,0 +1,12 @@
+{
+  "id": 80215,
+  "name": "윷놀이 세트",
+  "description": "[작은 가구] 어린 아이들이 좋아하는 놀이 세트, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100929.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

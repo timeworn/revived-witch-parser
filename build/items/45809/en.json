@@ -1,0 +1,17 @@
+{
+  "id": 45809,
+  "name": "Ledear, Blade of the Underworld",
+  "description": "A dagger used by the Protector of the Underworld. It's enshrined in the Misery Palace, capable of taking the lives of all intruders.",
+  "icon": "/ui/imagesets/items1/100402.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

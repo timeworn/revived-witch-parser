@@ -1,0 +1,17 @@
+{
+  "id": 47004,
+  "name": "우레의 지팡이",
+  "description": "천둥 번개를 소환할 수 있는 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100165.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

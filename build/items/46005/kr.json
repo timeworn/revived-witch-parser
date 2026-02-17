@@ -1,0 +1,17 @@
+{
+  "id": 46005,
+  "name": "플래티넘 활",
+  "description": "상층부 귀족만이 사용할 수 있는 진귀한 물건으로, 장식이 화려하다.",
+  "icon": "/ui/imagesets/items1/100423.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

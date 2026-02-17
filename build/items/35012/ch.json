@@ -1,0 +1,12 @@
+{
+  "id": 35012,
+  "name": "金花瓣",
+  "description": "强大的灵魂飘散后留下的躯壳。$B$金色的能量依附在躯壳四周，久久不能消散。$B$可通过召唤人偶，以及在工坊中分解UR、SSR人偶魂石获得，用于商城交换物品。",
+  "icon": "/ui/imagesets/items1/100118.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

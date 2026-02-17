@@ -1,0 +1,12 @@
+{
+  "id": 31172,
+  "name": "Summer Basic Pack",
+  "description": "Rejoice in the coming of the summer event! Buy this pack for a ton of character upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift30.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

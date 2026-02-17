@@ -1,0 +1,12 @@
+{
+  "id": 31271,
+  "name": "포크로어 개인 앨범",
+  "description": "숲속의 앨범",
+  "icon": "/ui/imagesets/items1/100897.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

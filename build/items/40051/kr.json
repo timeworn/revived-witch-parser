@@ -1,0 +1,17 @@
+{
+  "id": 40051,
+  "name": "유타야",
+  "description": "[작은 치유사 유타야] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_053.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78150,
+      "quantity": 1
+    }
+  ]
+}

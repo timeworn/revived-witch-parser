@@ -1,0 +1,17 @@
+{
+  "id": 46403,
+  "name": "Bard's Harp",
+  "description": "A harp often used by bards to play elegant, emotional melodies.",
+  "icon": "/ui/imagesets/items1/100176.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

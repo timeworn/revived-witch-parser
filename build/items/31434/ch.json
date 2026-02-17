@@ -1,0 +1,12 @@
+{
+  "id": 31434,
+  "name": "自选人偶礼包",
+  "description": "自选人偶礼包",
+  "icon": "/ui/imagesets/items1/101058.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

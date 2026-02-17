@@ -1,0 +1,12 @@
+{
+  "id": 31081,
+  "name": "月度礼物礼盒",
+  "description": "购买后可获得大量礼物。",
+  "icon": "/ui/imagesets/shop/shopgift15.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

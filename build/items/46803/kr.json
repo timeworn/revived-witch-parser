@@ -1,0 +1,17 @@
+{
+  "id": 46803,
+  "name": "자수정잔",
+  "description": "자수정으로 만든 정교한 잔, 사용자 체내의 마력과 공명을 일으킬 수 있다.",
+  "icon": "/ui/imagesets/items1/100202.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

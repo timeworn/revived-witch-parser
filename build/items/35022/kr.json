@@ -1,0 +1,12 @@
+{
+  "id": 35022,
+  "name": "시공의 열쇠",
+  "description": "시공의 힘이 깃들어 있는 열쇠, 시공의 균열을 열 수 있다.",
+  "icon": "/ui/imagesets/items1/100646.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

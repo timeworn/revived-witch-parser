@@ -1,0 +1,12 @@
+{
+  "id": 31423,
+  "name": "Deluxe Giftbox",
+  "description": "An exquisite stamp bearing the Witch's portrait.",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewMazeShop2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

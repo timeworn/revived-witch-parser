@@ -1,0 +1,17 @@
+{
+  "id": 46208,
+  "name": "时空裂隙",
+  "description": "记载了最高等的次元魔法的魔导书，据说是太古时期的女神留下的",
+  "icon": "/ui/imagesets/items1/100456.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

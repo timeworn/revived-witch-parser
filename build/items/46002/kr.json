@@ -1,0 +1,17 @@
+{
+  "id": 46002,
+  "name": "사냥꾼의 활",
+  "description": "사냥에 쓰이는 큰 활, 훌륭한 사냥꾼이라면 갖춰야 할 필수 장비.",
+  "icon": "/ui/imagesets/items1/100186.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

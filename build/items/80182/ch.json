@@ -1,0 +1,12 @@
+{
+  "id": 80182,
+  "name": "惊吓餐桌",
+  "description": "【大件】带有浓郁万圣风格的大餐，摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100844.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

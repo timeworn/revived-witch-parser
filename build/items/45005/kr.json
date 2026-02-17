@@ -1,0 +1,17 @@
+{
+  "id": 45005,
+  "name": "이사이아의 방패",
+  "description": "예언자가 족인에게 하사한 방패, 독실한 신도를 보호할 수 있다.",
+  "icon": "/ui/imagesets/items1/100408.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

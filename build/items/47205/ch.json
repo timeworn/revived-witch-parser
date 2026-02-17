@@ -1,0 +1,17 @@
+{
+  "id": 47205,
+  "name": "摄魂魔杖",
+  "description": "吟唱摄人魂魄妖法的魔杖",
+  "icon": "/ui/imagesets/items1/100443.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

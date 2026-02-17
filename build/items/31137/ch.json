@@ -1,0 +1,12 @@
+{
+  "id": 31137,
+  "name": "牵牛花之恋",
+  "description": "七夕时送给心仪之人的信物，可以增加人偶200点好感度。",
+  "icon": "/ui/imagesets/items1/100735.png",
+  "type": "好感度道具",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

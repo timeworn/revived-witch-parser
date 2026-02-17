@@ -1,0 +1,12 @@
+{
+  "id": 80156,
+  "name": "沙滩玩具",
+  "description": "【小件】可以将沙子堆成各种形状的工具，摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100803.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

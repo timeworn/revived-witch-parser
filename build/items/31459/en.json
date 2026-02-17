@@ -1,0 +1,12 @@
+{
+  "id": 31459,
+  "name": "Basic Invitation Pack",
+  "description": "Basic Invitation Pack",
+  "icon": "/ui/imagesets/items1/100871.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

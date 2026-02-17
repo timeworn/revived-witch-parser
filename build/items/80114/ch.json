@@ -1,0 +1,12 @@
+{
+  "id": 80114,
+  "name": "哥特式窗",
+  "description": "【窗户】哥特风格的窗户。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100590.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

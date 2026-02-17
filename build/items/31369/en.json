@@ -1,0 +1,12 @@
+{
+  "id": 31369,
+  "name": "Breezy Fortune Bag",
+  "description": "A value fortune bag in the Summer Vibe event",
+  "icon": "/ui/imagesets/items1/101020.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

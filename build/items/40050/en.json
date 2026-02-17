@@ -1,0 +1,17 @@
+{
+  "id": 40050,
+  "name": "Tuonel",
+  "description": "Obtain Doll [Tuonel: Hybrid Healer]",
+  "icon": "/ui/imagesets/headphotos/hp_052.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78149,
+      "quantity": 1
+    }
+  ]
+}

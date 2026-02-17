@@ -1,0 +1,13 @@
+{
+  "id": 74002,
+  "name": "高级技能契约",
+  "description": "能够提升人偶技能强度的神奇道具。",
+  "icon": "/ui/imagesets/items1/100236.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

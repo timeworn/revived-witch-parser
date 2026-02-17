@@ -1,0 +1,17 @@
+{
+  "id": 40110,
+  "name": "安格泠",
+  "description": "可以获得人偶 【水光渔韵 安格泠】",
+  "icon": "/ui/imagesets/localization/role/char_111/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781111,
+      "quantity": 1
+    }
+  ]
+}

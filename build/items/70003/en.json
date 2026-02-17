@@ -1,0 +1,13 @@
+{
+  "id": 70003,
+  "name": "Advanced Runestone",
+  "description": "Enchantment Material for equipment. It refreshes equipment with powerful attributes, with a small chance of adding new attributes.",
+  "icon": "/ui/imagesets/items1/100205.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

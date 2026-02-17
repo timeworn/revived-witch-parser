@@ -1,0 +1,17 @@
+{
+  "id": 46807,
+  "name": "Dragon Blood Grail",
+  "description": "A cursed grail containing the blood of an evil dragon.",
+  "icon": "/ui/imagesets/items1/100450.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

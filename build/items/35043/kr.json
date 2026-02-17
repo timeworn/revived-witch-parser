@@ -1,0 +1,12 @@
+{
+  "id": 35043,
+  "name": "복주머니",
+  "description": "설날 복을 가득 담은 주머니, 해태의 습격에 사용된다.$B$일정 시간이 지나면 자동으로 획득한다.",
+  "icon": "/ui/imagesets/items1/100916.png",
+  "type": "재화",
+  "typeId": 545,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

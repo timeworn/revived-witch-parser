@@ -1,0 +1,17 @@
+{
+  "id": 47209,
+  "name": "圣裁·盖吉乌斯",
+  "description": "在冥界传承的，对逝者的灵魂是否进入地狱进行审判的裁决之杖",
+  "icon": "/ui/imagesets/items1/100447.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

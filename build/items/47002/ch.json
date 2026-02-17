@@ -1,0 +1,17 @@
+{
+  "id": 47002,
+  "name": "预言法杖",
+  "description": "能够预示出某些征兆的法杖",
+  "icon": "/ui/imagesets/items1/100085.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

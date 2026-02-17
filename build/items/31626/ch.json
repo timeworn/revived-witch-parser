@@ -1,0 +1,12 @@
+{
+  "id": 31626,
+  "name": "感恩盛宴",
+  "description": "感恩节盛宴拉开帷幕，少女穿上亲手制作的衣服，享受着轻松愉快的节日氛围",
+  "icon": "/ui/imagesets/items1/101205.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

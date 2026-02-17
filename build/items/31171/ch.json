@@ -1,0 +1,12 @@
+{
+  "id": 31171,
+  "name": "海岛冒险头像框",
+  "description": "海岛冒险活动纪念头像框",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame8.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

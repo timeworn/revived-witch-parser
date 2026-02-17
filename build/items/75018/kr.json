@@ -1,0 +1,13 @@
+{
+  "id": 75018,
+  "name": "단단한 비늘",
+  "description": "극단적인 환경에 저항하기 위해 생긴 매우 단단한 비늘. 인형 돌파에 사용된다.",
+  "icon": "/ui/imagesets/items1/100636.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

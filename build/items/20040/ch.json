@@ -1,0 +1,12 @@
+{
+  "id": 20040,
+  "name": "安托瓦内特之戒",
+  "description": "昂贵的红宝石戒指，宝石内注入了大量的魔力，色泽光亮夺目，令人惊叹。",
+  "icon": "/ui/imagesets/items1/101087.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46802,
+  "name": "영혼의 잔",
+  "description": "평소에 영력을 저장해 두었다가, 전투 시 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100190.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

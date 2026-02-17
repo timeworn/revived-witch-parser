@@ -1,0 +1,12 @@
+{
+  "id": 31436,
+  "name": "玛娅维尔外观礼包",
+  "description": "玛娅维尔外观礼包",
+  "icon": "/ui/imagesets/items1/101195.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

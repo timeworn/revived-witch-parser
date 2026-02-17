@@ -1,0 +1,17 @@
+{
+  "id": 45809,
+  "name": "冥刃·利迪尔",
+  "description": "冥界守护者使用的匕首，供奉在悲惨宫殿之中，能夺去所有入侵者的生命气息",
+  "icon": "/ui/imagesets/items1/100402.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

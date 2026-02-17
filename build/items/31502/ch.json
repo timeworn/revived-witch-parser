@@ -1,0 +1,12 @@
+{
+  "id": 31502,
+  "name": "哥特贝雷帽",
+  "description": "艾妮萌的宝贝收藏之一，稍微有点叛逆风格的帽子",
+  "icon": "/ui/imagesets/items1/101113.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

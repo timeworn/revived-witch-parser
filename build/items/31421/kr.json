@@ -1,0 +1,12 @@
+{
+  "id": 31421,
+  "name": "호화 선물 패키지",
+  "description": "제사에 사용하는 의식의 칼은 살상력보다는 외관의 전아함을 더욱 중시한다.",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewPuzzleShop2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

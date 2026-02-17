@@ -1,0 +1,17 @@
+{
+  "id": 47601,
+  "name": "무명옷",
+  "description": "어디서나 흔히 볼 수 있는 천으로 만든 옷.",
+  "icon": "/ui/imagesets/items1/100384.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

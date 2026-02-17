@@ -1,0 +1,12 @@
+{
+  "id": 31623,
+  "name": "Large Turkey",
+  "description": "A big turkey that satiates the appetite of everyone at the table. Definitely the highlight of every Thanksgiving dinner.",
+  "icon": "/ui/imagesets/items1/101203.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40029,
+  "name": "Arcana",
+  "description": "Obtain Doll [Arcana: Fortune Teller]",
+  "icon": "/ui/imagesets/headphotos/hp_037.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78128,
+      "quantity": 1
+    }
+  ]
+}

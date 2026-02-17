@@ -1,0 +1,17 @@
+{
+  "id": 46208,
+  "name": "Chronospace Breach",
+  "description": "A grimoire that records the highest level of dimensional magic. It is said to be left by the Chronospace Goddess of the Primeval Time.",
+  "icon": "/ui/imagesets/items1/100456.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

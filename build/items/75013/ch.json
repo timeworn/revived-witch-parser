@@ -1,0 +1,13 @@
+{
+  "id": 75013,
+  "name": "中级恢复结晶",
+  "description": "魔力的结晶，用于恢复型人偶的突破。",
+  "icon": "/ui/imagesets/items1/100114.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

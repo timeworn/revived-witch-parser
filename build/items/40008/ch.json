@@ -1,0 +1,17 @@
+{
+  "id": 40008,
+  "name": "普利姆拉",
+  "description": "可以获得人偶 【花间采集者 普利姆拉】",
+  "icon": "/ui/imagesets/headphotos/hp_020.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78107,
+      "quantity": 1
+    }
+  ]
+}

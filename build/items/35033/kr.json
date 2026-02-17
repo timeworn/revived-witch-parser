@@ -1,0 +1,12 @@
+{
+  "id": 35033,
+  "name": "진주",
+  "description": "[이벤트] 오색찬란한 귀한 진주, 값비싸 보인다",
+  "icon": "/ui/imagesets/items1/100787.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

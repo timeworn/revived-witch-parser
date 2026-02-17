@@ -1,0 +1,17 @@
+{
+  "id": 47003,
+  "name": "司祭法杖",
+  "description": "司祭们爱用的法杖，能够汇聚自身的法力",
+  "icon": "/ui/imagesets/items1/100164.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

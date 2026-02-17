@@ -1,0 +1,12 @@
+{
+  "id": 35018,
+  "name": "家具币",
+  "description": "金光闪闪的硬币，可以购买小屋家具。",
+  "icon": "/ui/imagesets/items1/100553.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

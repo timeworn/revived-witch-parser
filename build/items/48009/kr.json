@@ -1,0 +1,17 @@
+{
+  "id": 48009,
+  "name": "성스러운 목걸이 '브리싱가멘'",
+  "description": "바다의 여신이 세상 만물을 창조한 절대 신을 찬양하기 위해 절대 신에게 바친 성물, 비바람과 천둥 번개를 마음대로 지배할 수 있다.",
+  "icon": "/ui/imagesets/items1/100467.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

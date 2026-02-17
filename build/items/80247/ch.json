@@ -1,0 +1,12 @@
+{
+  "id": 80247,
+  "name": "密林鹦鹉",
+  "description": "【墙饰】擅长学人说话的鹦鹉，吱喳~主人，请醒醒。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101002.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

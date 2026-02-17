@@ -1,0 +1,17 @@
+{
+  "id": 47001,
+  "name": "Wooden Staff",
+  "description": "An ordinary staff with nothing special.",
+  "icon": "/ui/imagesets/items1/100067.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46402,
+  "name": "음악가의 하프",
+  "description": "음악가들이 자주 사용하던 하프, 간단한 곡을 연주할 수 있다.",
+  "icon": "/ui/imagesets/items1/100175.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

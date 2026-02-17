@@ -1,0 +1,12 @@
+{
+  "id": 31334,
+  "name": "艾琳娜的手工点心",
+  "description": "艾琳娜为主人精心准备的抹茶蛋糕",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

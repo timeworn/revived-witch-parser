@@ -1,0 +1,17 @@
+{
+  "id": 48004,
+  "name": "산호목걸이",
+  "description": "산호로 엮어서 만든 남방의 여러 섬에서 유행하는 정교한 목걸이.",
+  "icon": "/ui/imagesets/items1/100200.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

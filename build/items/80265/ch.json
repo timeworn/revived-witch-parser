@@ -1,0 +1,12 @@
+{
+  "id": 80265,
+  "name": "庆生彩旗",
+  "description": "【墙饰】未来依旧充满希望，站在彩旗下比个\"耶\"，让烦心的过去随风飘散吧。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101073.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

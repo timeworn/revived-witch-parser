@@ -1,0 +1,12 @@
+{
+  "id": 80257,
+  "name": "树荫秋千",
+  "description": "【窗户】结构简单但十分结实的秋千。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101012.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45208,
+  "name": "Last Resort",
+  "description": "A giant hammer used by Athenas, God of Destruction. It is capable of shattering the souls of living creatures.",
+  "icon": "/ui/imagesets/items1/100406.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

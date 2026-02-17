@@ -1,0 +1,17 @@
+{
+  "id": 48302,
+  "name": "大地之剑",
+  "description": "吸收大地之精华的剑，拥有出色的物理属性抗性",
+  "icon": "/ui/imagesets/items1/100692.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46609,
+  "name": "원시의 보석룡 '우룰루'의 눈",
+  "description": "고대 드래곤 우룰루의 마력의 눈동자 힘이 깃들어 있어, 미래의 무한한 가능성을 끌어낼 수 있다고 한다.",
+  "icon": "/ui/imagesets/items1/100397.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

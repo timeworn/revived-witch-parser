@@ -1,0 +1,17 @@
+{
+  "id": 40025,
+  "name": "露西亚",
+  "description": "可以获得人偶 【血色女仆 露西亚】",
+  "icon": "/ui/imagesets/headphotos/hp_026.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78124,
+      "quantity": 1
+    }
+  ]
+}

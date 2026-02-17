@@ -1,0 +1,17 @@
+{
+  "id": 40096,
+  "name": "菲莱诺希丝",
+  "description": "可以获得人偶 【流逝之殇 菲莱诺希丝】",
+  "icon": "/ui/imagesets/localization/role/char_097/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78197,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45202,
+  "name": "철제 망치",
+  "description": "대장간에서 대량으로 만든 망치, 일정 수준의 살상력이 있다.",
+  "icon": "/ui/imagesets/items1/100167.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31281,
+  "name": "圣诞头像框",
+  "description": "Merry Christmas！",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame10.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

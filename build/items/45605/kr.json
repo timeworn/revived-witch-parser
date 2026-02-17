@@ -1,0 +1,17 @@
+{
+  "id": 45605,
+  "name": "역전의 도끼",
+  "description": "백전을 거듭한 용사가 사용하던 도끼, 온갖 풍상고초를 다 겪었다.",
+  "icon": "/ui/imagesets/items1/100418.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

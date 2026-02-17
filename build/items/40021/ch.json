@@ -1,0 +1,17 @@
+{
+  "id": 40021,
+  "name": "古尔薇格",
+  "description": "可以获得人偶 【献祭深渊的少女 古尔薇格】",
+  "icon": "/ui/imagesets/headphotos/hp_028.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78120,
+      "quantity": 1
+    }
+  ]
+}

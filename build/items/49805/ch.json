@@ -1,0 +1,17 @@
+{
+  "id": 49805,
+  "name": "混沌信仰-宝珠",
+  "description": "混沌信仰-宝珠",
+  "icon": "/ui/imagesets/items1/100741.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

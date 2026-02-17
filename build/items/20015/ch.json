@@ -1,0 +1,12 @@
+{
+  "id": 20015,
+  "name": "冰雪骑士团长枪",
+  "description": "某个狂信的骑士团的标准装备，象征着执行神的制裁。似乎能够封闭使用者的感情，手握此枪往往会变得冷酷无情。",
+  "icon": "/ui/imagesets/items1/100251.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

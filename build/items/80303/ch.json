@@ -1,0 +1,12 @@
+{
+  "id": 80303,
+  "name": "促销广告牌",
+  "description": "【小件】本餐厅最新促销套餐，美味又实惠，走过路过，可不要错过！摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101128.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

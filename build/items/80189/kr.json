@@ -1,0 +1,12 @@
+{
+  "id": 80189,
+  "name": "캣츠 선물 박스",
+  "description": "[작은 가구] 올해 크리스마스 선물은 뭘까? 냐옹~ 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100875.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

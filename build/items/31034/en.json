@@ -1,0 +1,12 @@
+{
+  "id": 31034,
+  "name": "CBT Limited Avatar Frame",
+  "description": "Revived Witch CBT Limited Avatar Frame",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame3.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

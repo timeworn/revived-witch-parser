@@ -1,0 +1,12 @@
+{
+  "id": 80192,
+  "name": "겨울 다과 세트",
+  "description": "[작은 가구] 추운 겨울밤에 간식을 먹으며 산타클로스를 기다리곤 했다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100878.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

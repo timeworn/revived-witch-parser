@@ -1,0 +1,17 @@
+{
+  "id": 46606,
+  "name": "绮罗星",
+  "description": "华贵而又不失神秘气质的宝珠",
+  "icon": "/ui/imagesets/items1/100394.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

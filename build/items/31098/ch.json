@@ -1,0 +1,12 @@
+{
+  "id": 31098,
+  "name": "事象限界结算奖励6",
+  "description": "此处描述内容根据实际投放修改",
+  "icon": "/ui/imagesets/shop/daygiftsmall2.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

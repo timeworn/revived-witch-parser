@@ -1,0 +1,12 @@
+{
+  "id": 80172,
+  "name": "Cluck Wall Clock",
+  "description": "[Wall Decor] A wall clock in the shape of an owl. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100849.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

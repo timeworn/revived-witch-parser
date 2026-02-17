@@ -1,0 +1,12 @@
+{
+  "id": 80151,
+  "name": "Sun Lamp",
+  "description": "[Wallpaper] An artificial lamp that grants you the comfort of sunbathing at your home without the risk of sunburn. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100806.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

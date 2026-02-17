@@ -1,0 +1,12 @@
+{
+  "id": 20037,
+  "name": "冰之晶石",
+  "description": "罕见的矿石，提炼后可获得冰晶矿。",
+  "icon": "/ui/imagesets/items1/100248.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46005,
+  "name": "白金之弓",
+  "description": "只有上层贵族才被允许使用的珍贵之物，装饰华丽",
+  "icon": "/ui/imagesets/items1/100423.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

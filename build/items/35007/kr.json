@@ -1,0 +1,12 @@
+{
+  "id": 35007,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/headphotos/hp_009.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

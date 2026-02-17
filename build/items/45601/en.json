@@ -1,0 +1,17 @@
+{
+  "id": 45601,
+  "name": "Hand Axe",
+  "description": "A light and one-handed axe.",
+  "icon": "/ui/imagesets/items1/100170.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

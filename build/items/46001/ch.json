@@ -1,0 +1,17 @@
+{
+  "id": 46001,
+  "name": "木弓",
+  "description": "粗制的木弓，没什么杀伤力",
+  "icon": "/ui/imagesets/items1/100185.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

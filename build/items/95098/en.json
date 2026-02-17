@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Maja Kany",
-  "ownerId": 98,
+  "character": "Maja Kany",
+  "characterId": 98,
   "evolutions": "(Doll's current Evolution Level decreases Magic DEF by 0/0.5/1/1.5%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

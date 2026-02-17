@@ -1,0 +1,12 @@
+{
+  "id": 31127,
+  "name": "Random Blue Gift",
+  "description": "Obtain a Random Blue Gift",
+  "icon": "/ui/imagesets/items1/100481.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

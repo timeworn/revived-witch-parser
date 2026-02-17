@@ -1,0 +1,17 @@
+{
+  "id": 40042,
+  "name": "诺伦",
+  "description": "可以获得人偶 【永恒神官 诺伦】",
+  "icon": "/ui/imagesets/headphotos/hp_055.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78141,
+      "quantity": 1
+    }
+  ]
+}

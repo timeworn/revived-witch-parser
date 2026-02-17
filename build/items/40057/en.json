@@ -1,0 +1,17 @@
+{
+  "id": 40057,
+  "name": "",
+  "description": "Obtain Doll [Belar: Deacon of Darkness]",
+  "icon": "/ui/imagesets/headphotos/hp_034.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78156,
+      "quantity": 1
+    }
+  ]
+}

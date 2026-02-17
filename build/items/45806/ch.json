@@ -1,0 +1,17 @@
+{
+  "id": 45806,
+  "name": "猎魂匕首",
+  "description": "渴求灵魂的诅咒匕首",
+  "icon": "/ui/imagesets/items1/100399.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "阿卡莎",
-  "ownerId": 13,
+  "character": "阿卡莎",
+  "characterId": 13,
   "evolutions": "(当前角色进化等级额外提升0/0.25/0.5/0.75%的暴击伤害，和0/0.25/0.5/0.75的物理穿透)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

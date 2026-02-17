@@ -1,0 +1,17 @@
+{
+  "id": 48007,
+  "name": "암옥의 목걸이",
+  "description": "연옥의 파수꾼 제너럴 엑스 반페루스가 착용했던 장신구, 연옥의 불꽃을 끝없이 소환할 수 있다.",
+  "icon": "/ui/imagesets/items1/100465.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

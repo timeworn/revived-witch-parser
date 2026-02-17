@@ -1,0 +1,12 @@
+{
+  "id": 80151,
+  "name": "太阳灯",
+  "description": "【墙纸】人工制作的明灯，能够模拟日光浴的气氛，还避免了晒伤。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100806.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

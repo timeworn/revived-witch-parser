@@ -1,0 +1,17 @@
+{
+  "id": 40037,
+  "name": "Metamorphoses",
+  "description": "Obtain Doll [Metamorphoses: Dominator of Souls]",
+  "icon": "/ui/imagesets/headphotos/hp_048.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78136,
+      "quantity": 1
+    }
+  ]
+}

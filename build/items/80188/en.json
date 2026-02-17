@@ -1,0 +1,12 @@
+{
+  "id": 80188,
+  "name": "Xmas Mistletoe",
+  "description": "[Wall Decor] A must-have to welcome Christmas. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100874.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49701,
+  "name": "秩序信仰-盾",
+  "description": "秩序信仰-盾",
+  "icon": "/ui/imagesets/items1/100770.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31524,
+  "name": "별하늘 케이크",
+  "description": "별하늘 테마의 케이크. 환상적인 맛이 난다고 한다.",
+  "icon": "/ui/imagesets/items1/101148.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

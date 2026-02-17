@@ -1,0 +1,17 @@
+{
+  "id": 46607,
+  "name": "Solar Orb",
+  "description": "A treasure passed down through generations in the ancestral tribes of the Sunfaith World. It has an emblem of the sun.",
+  "icon": "/ui/imagesets/items1/100395.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

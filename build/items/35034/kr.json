@@ -1,0 +1,12 @@
+{
+  "id": 35034,
+  "name": "산호",
+  "description": "[이벤트] 희귀한 산호초, 특정한 동물의 몸에서 자란다",
+  "icon": "/ui/imagesets/items1/100786.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

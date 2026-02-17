@@ -1,0 +1,12 @@
+{
+  "id": 35061,
+  "name": "魔法奖券",
+  "description": "看似普通，但实则蕴含魔力的特殊奖券",
+  "icon": "/ui/imagesets/items1/100990.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

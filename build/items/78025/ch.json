@@ -1,0 +1,13 @@
+{
+  "id": 78025,
+  "name": "高级恢复魂石",
+  "description": "稀有的魂石。能够使<color=#32CD32>SSR级</color>恢复型人偶得到进化。",
+  "icon": "/ui/imagesets/items1/100360.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

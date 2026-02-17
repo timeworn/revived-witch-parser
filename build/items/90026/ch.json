@@ -1,0 +1,17 @@
+{
+  "id": 90026,
+  "name": "辞旧迎新",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/100924.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

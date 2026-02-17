@@ -1,0 +1,12 @@
+{
+  "id": 31175,
+  "name": "Summer Ultimate Pack",
+  "description": "Rejoice in the coming of the summer event! Buy this pack for an item to exchange the unique equipment of your choice and some summoning items.",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

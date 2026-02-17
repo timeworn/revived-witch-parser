@@ -1,0 +1,12 @@
+{
+  "id": 80211,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100941.png",
+  "type": "",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

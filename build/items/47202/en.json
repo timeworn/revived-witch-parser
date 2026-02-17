@@ -1,0 +1,17 @@
+{
+  "id": 47202,
+  "name": "Psychic Wand",
+  "description": "A wand for chanting physical spells.",
+  "icon": "/ui/imagesets/items1/100193.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

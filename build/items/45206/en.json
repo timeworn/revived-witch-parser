@@ -1,0 +1,17 @@
+{
+  "id": 45206,
+  "name": "Hammer of Judgment",
+  "description": "A hammer used by the Underworld Judge. Any soul trembles at the mere sight of it.",
+  "icon": "/ui/imagesets/items1/100404.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

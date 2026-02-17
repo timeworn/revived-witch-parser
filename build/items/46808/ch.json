@@ -1,0 +1,17 @@
+{
+  "id": 46808,
+  "name": "六翼不死杯",
+  "description": "将持有者的灵力转换为生命力的神奇圣杯，只要灵力不断，什么伤势都能够治愈",
+  "icon": "/ui/imagesets/items1/100451.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

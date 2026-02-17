@@ -1,0 +1,12 @@
+{
+  "id": 35024,
+  "name": "Star",
+  "description": "A mysterious fragment from the sky. Glows yellow faintly.",
+  "icon": "/ui/imagesets/items1/100679.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

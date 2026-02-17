@@ -1,0 +1,12 @@
+{
+  "id": 80269,
+  "name": "Hatching Lamp",
+  "description": "[Compact Item] Have you ever felt the \"brilliance of life\"? If not, come closer. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101075.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31122,
+  "name": "Wang Lao Ju 액자",
+  "description": "오늘 모두 야근이야!",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame6.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

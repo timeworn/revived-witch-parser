@@ -1,0 +1,12 @@
+{
+  "id": 31649,
+  "name": "중급 할로윈 패키지",
+  "description": "중급 할로윈 패키지",
+  "icon": "/ui/imagesets/shop/shopgift71.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

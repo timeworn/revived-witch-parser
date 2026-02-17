@@ -1,0 +1,17 @@
+{
+  "id": 40079,
+  "name": "Suigetsu",
+  "description": "Obtain Doll [Suigetsu: Midsummer Dream]",
+  "icon": "/ui/imagesets/headphotos/hp_078.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78178,
+      "quantity": 1
+    }
+  ]
+}

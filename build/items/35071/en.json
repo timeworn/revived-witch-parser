@@ -1,0 +1,12 @@
+{
+  "id": 35071,
+  "name": "Wacky Candy",
+  "description": "Beloved by the children of the Kingdom of Muntenia, this kind of candy only appears during Halloween. As for who makes it, that remains a mystery.",
+  "icon": "/ui/imagesets/items1/101189.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

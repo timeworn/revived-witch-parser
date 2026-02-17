@@ -1,0 +1,12 @@
+{
+  "id": 20011,
+  "name": "마녀 노트-향수",
+  "description": "엔트의 설명에 따르면, 그의 고향은 아이린 섬 북쪽에 있는, 삼면이 물인 곳에 있다고 한다.",
+  "icon": "/ui/imagesets/items1/100008.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

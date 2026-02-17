@@ -1,0 +1,12 @@
+{
+  "id": 80283,
+  "name": "정체불명의 관",
+  "description": "[작은 가구] \"열어…… 빨리 열어……\" 가까이 가면, 귓가에 속삭이는 듯한 소리가 들려온다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101140.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

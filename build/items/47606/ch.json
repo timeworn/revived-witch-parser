@@ -1,0 +1,17 @@
+{
+  "id": 47606,
+  "name": "魔大公披风",
+  "description": "魔界元帅的披风，威风凛凛",
+  "icon": "/ui/imagesets/items1/100389.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

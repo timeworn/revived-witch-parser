@@ -1,0 +1,12 @@
+{
+  "id": 31650,
+  "name": "南瓜节狂欢豪华礼包",
+  "description": "南瓜节狂欢豪华礼包",
+  "icon": "/ui/imagesets/shop/shopgift28.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

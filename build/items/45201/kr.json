@@ -1,0 +1,17 @@
+{
+  "id": 45201,
+  "name": "청동 망치",
+  "description": "어디서나 흔히 볼 수 있는 청동 망치, 사용하기 매우 편리하다.",
+  "icon": "/ui/imagesets/items1/100166.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

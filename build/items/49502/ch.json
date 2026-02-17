@@ -1,0 +1,17 @@
+{
+  "id": 49502,
+  "name": "欺诈师-圣杯",
+  "description": "欺诈师-圣杯",
+  "icon": "/ui/imagesets/items1/100752.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

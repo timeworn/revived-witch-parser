@@ -1,0 +1,12 @@
+{
+  "id": 31128,
+  "name": "Random Purple Gift",
+  "description": "Obtain a Random Purple Gift",
+  "icon": "/ui/imagesets/items1/100482.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

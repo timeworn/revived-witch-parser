@@ -1,0 +1,12 @@
+{
+  "id": 31325,
+  "name": "Cicada Fortune Bag",
+  "description": "A value fortune bag in the Summer Vibe event",
+  "icon": "/ui/imagesets/items1/101021.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

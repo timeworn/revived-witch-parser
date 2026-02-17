@@ -1,0 +1,12 @@
+{
+  "id": 35005,
+  "name": "高贵的女性",
+  "description": "高贵的女性",
+  "icon": "/ui/imagesets/headphotos/hp_007.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46006,
+  "name": "비룡의 활",
+  "description": "서사 속 칭송받는 영웅 호폴로스가 사용하던, 거대 용을 쏘았다는 거대 활.",
+  "icon": "/ui/imagesets/items1/100424.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

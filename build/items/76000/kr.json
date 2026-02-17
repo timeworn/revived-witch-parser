@@ -1,0 +1,13 @@
+{
+  "id": 76000,
+  "name": "적철",
+  "description": "어디서나 흔히 볼 수 있는 금속 재료, 장비에 경험치 <color=#32CD32>50</color>을 제공한다.",
+  "icon": "/ui/imagesets/items1/100125.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

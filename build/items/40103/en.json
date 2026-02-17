@@ -1,0 +1,17 @@
+{
+  "id": 40103,
+  "name": "U·Pollyben",
+  "description": "Obtain Doll [Endless Mirage - U·Pollyben]",
+  "icon": "/ui/imagesets/localization/role/char_104/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781104,
+      "quantity": 1
+    }
+  ]
+}

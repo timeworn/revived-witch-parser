@@ -1,0 +1,12 @@
+{
+  "id": 80262,
+  "name": "全家福",
+  "description": "【墙饰】两人一猫的幸福合照——又有谁不想要这样的生活呢？摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101082.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

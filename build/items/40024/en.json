@@ -1,0 +1,17 @@
+{
+  "id": 40024,
+  "name": "Datheios",
+  "description": "Obtain Doll [Datheios: Balance Enforcer]",
+  "icon": "/ui/imagesets/headphotos/hp_023.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78123,
+      "quantity": 1
+    }
+  ]
+}

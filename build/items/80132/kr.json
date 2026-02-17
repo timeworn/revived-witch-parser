@@ -1,0 +1,12 @@
+{
+  "id": 80132,
+  "name": "달과 별 램프 세트",
+  "description": "[벽 장식] 별과 달이 그려져 있는 램프 세트로 가장 로맨틱한 분위기를 낼 수 있다. 배치하면 쾌적 지수가 90 증가한다.",
+  "icon": "/ui/imagesets/items1/100664.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

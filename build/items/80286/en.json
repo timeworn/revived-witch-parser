@@ -1,0 +1,12 @@
+{
+  "id": 80286,
+  "name": "Sleeping Statue",
+  "description": "[Compact Item] A stone statue standing in the room. It has a hideous face and a grim stare. Looks like it is guarding something. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101143.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

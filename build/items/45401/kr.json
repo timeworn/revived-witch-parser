@@ -1,0 +1,17 @@
+{
+  "id": 45401,
+  "name": "단검",
+  "description": "아이들도 휘두를 수 있는 단검, 호신용으로 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100078.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

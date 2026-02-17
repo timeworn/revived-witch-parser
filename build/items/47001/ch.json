@@ -1,0 +1,17 @@
+{
+  "id": 47001,
+  "name": "木之法杖",
+  "description": "普通的法杖，没什么特别之处",
+  "icon": "/ui/imagesets/items1/100067.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

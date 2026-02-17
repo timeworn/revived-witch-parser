@@ -1,0 +1,12 @@
+{
+  "id": 31403,
+  "name": "每周突破礼包",
+  "description": "每周突破礼包",
+  "icon": "/ui/imagesets/shop/shopgift10.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

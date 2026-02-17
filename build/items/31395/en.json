@@ -1,0 +1,12 @@
+{
+  "id": 31395,
+  "name": "Dragon Boat Festival Premium Pack",
+  "description": "Dragon Boat Festival Premium Pack",
+  "icon": "/ui/imagesets/shop/shopgift49.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31395,
+  "name": "고급 단오절 패키지",
+  "description": "고급 단오절 패키지",
+  "icon": "/ui/imagesets/shop/shopgift49.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

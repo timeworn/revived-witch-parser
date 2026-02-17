@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "라판",
-  "ownerId": 39,
+  "character": "라판",
+  "characterId": 39,
   "evolutions": "(캐릭터가 진화하면 대상의 물리 방어력을 공격력의 0/2/4/6%만큼 추가로 무시한다)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

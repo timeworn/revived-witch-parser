@@ -1,0 +1,17 @@
+{
+  "id": 47807,
+  "name": "月光之戒",
+  "description": "吸收月光精华的魔戒，上面隐隐现出星空的图案",
+  "icon": "/ui/imagesets/items1/100435.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

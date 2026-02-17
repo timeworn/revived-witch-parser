@@ -1,0 +1,17 @@
+{
+  "id": 40114,
+  "name": "永夜诺忒娜",
+  "description": "可以获得人偶 【千年之誓 永夜诺忒娜】",
+  "icon": "/ui/imagesets/localization/role/char_115/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781115,
+      "quantity": 1
+    }
+  ]
+}

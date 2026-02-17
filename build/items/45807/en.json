@@ -1,0 +1,17 @@
+{
+  "id": 45807,
+  "name": "Obsidian Dagger",
+  "description": "A treasure handed down by generations of Dragonoids. It contains the mysterious power of the ancient dragon gods.",
+  "icon": "/ui/imagesets/items1/100400.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

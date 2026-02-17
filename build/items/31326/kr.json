@@ -1,0 +1,12 @@
+{
+  "id": 31326,
+  "name": "안 & 네로 코스튬 주머니",
+  "description": "안 & 네로 코스튬 주머니, 구매 시 '별 하늘의 기억' 코스튬을 획득할 수 있다.",
+  "icon": "/ui/imagesets/items1/101022.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

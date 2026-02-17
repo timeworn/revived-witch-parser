@@ -1,0 +1,12 @@
+{
+  "id": 31271,
+  "name": "Flora's Personal Album",
+  "description": "An album about forests",
+  "icon": "/ui/imagesets/items1/100897.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

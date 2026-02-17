@@ -1,0 +1,17 @@
+{
+  "id": 47204,
+  "name": "红玉魔杖",
+  "description": "镶有红玉装饰的魔杖",
+  "icon": "/ui/imagesets/items1/100195.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

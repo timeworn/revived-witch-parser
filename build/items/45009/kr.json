@@ -1,0 +1,17 @@
+{
+  "id": 45009,
+  "name": "수호의 방패 '시리우스'",
+  "description": "수호자 전쟁 때 사용했던 방패, 고결한 법률과 질서를 상징하며 각종 마법 피해를 흡수할 수 있다.",
+  "icon": "/ui/imagesets/items1/100412.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31422,
+  "name": "Advanced Giftbox",
+  "description": "Witch Stamp",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewWeekShop03.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

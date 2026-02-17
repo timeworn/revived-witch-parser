@@ -1,0 +1,12 @@
+{
+  "id": 31438,
+  "name": "Afallen Costume Pack",
+  "description": "Afallen Costume Pack",
+  "icon": "/ui/imagesets/items1/101063.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

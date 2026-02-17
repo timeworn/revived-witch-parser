@@ -1,0 +1,12 @@
+{
+  "id": 20017,
+  "name": "巨型弓箭",
+  "description": "超出一般弓箭五倍以上的巨型弓箭，可以想象出发射它的一定是一把巨弓，能够拉动巨弓的豪杰寥寥无几。",
+  "icon": "/ui/imagesets/items1/100257.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

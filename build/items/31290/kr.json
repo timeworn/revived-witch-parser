@@ -1,0 +1,12 @@
+{
+  "id": 31290,
+  "name": "고급 대즐링 패키지",
+  "description": "대즐링 스테이지 기념 패키지, 구매 시 소환 아이템 및 대량의 스킬 재료 아이템을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift35.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

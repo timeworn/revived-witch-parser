@@ -1,0 +1,12 @@
+{
+  "id": 31441,
+  "name": "칼레도니아 코스튬 패키지",
+  "description": "칼레도니아 코스튬 패키지",
+  "icon": "/ui/imagesets/items1/101062.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

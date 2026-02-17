@@ -1,0 +1,12 @@
+{
+  "id": 80240,
+  "name": "传统门框",
+  "description": "【小件】开门迎春，八方来财。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100967.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

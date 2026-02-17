@@ -1,0 +1,12 @@
+{
+  "id": 31403,
+  "name": "Weekly Ascension Pack",
+  "description": "Weekly Ascension Pack",
+  "icon": "/ui/imagesets/shop/shopgift10.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

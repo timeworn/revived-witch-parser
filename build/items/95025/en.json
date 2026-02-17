@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": null,
-  "ownerId": null,
+  "character": null,
+  "characterId": null,
   "evolutions": "(Doll's current Evolution Level increases chance by 0/2/4/6%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

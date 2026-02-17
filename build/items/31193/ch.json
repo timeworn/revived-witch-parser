@@ -1,0 +1,12 @@
+{
+  "id": 31193,
+  "name": "海岛冒险表情包",
+  "description": "海岛冒险活动纪念表情包，购买可获得海岛冒险活动表情包。",
+  "icon": "/ui/imagesets/guild/EmojiPackage.png",
+  "type": "表情包",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

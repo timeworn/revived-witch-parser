@@ -1,0 +1,21 @@
+{
+  "id": 61232,
+  "name": "高贵的女性",
+  "description": "是新的一天了，需要帮您完成今天的共鸣吗？",
+  "icon": "/ui/imagesets/skillicon1/XuanFengZhan.png",
+  "type": "技能",
+  "typeId": 315,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 30055,
+      "quantity": 1
+    },
+    {
+      "id": 30055,
+      "quantity": 1
+    }
+  ]
+}

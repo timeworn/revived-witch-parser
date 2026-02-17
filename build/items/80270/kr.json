@@ -1,0 +1,12 @@
+{
+  "id": 80270,
+  "name": "오색 풍선",
+  "description": "[작은 가구] 풍선 하나하나에 아이들의 꿈이 담겨 있다. 날카로운 물체를 멀리해야 한다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101071.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

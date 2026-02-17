@@ -1,0 +1,17 @@
+{
+  "id": 47407,
+  "name": "龙纹甲胄",
+  "description": "浮现出龙纹图案的铠甲，据说是屠龙勇士曾经穿过的铠甲",
+  "icon": "/ui/imagesets/items1/100440.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

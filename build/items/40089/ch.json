@@ -1,0 +1,17 @@
+{
+  "id": 40089,
+  "name": "蓓丝蒂",
+  "description": "可以获得人偶 【隐于黑夜 蓓丝蒂】",
+  "icon": "/ui/imagesets/headphotos/hp_090.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78190,
+      "quantity": 1
+    }
+  ]
+}

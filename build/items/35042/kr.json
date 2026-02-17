@@ -1,0 +1,12 @@
+{
+  "id": 35042,
+  "name": "응원 봉",
+  "description": "아이돌을 더욱 빛나게 하는 신기한 물건.",
+  "icon": "/ui/imagesets/items1/100896.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

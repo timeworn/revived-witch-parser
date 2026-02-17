@@ -1,0 +1,12 @@
+{
+  "id": 40000,
+  "name": "高贵的女性",
+  "description": "可以获得人偶 【虚无的魔女 $heroine$】",
+  "icon": "/ui/imagesets/headphotos/hp_Player1.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80253,
+  "name": "사슴 실루엣",
+  "description": "[벽장식] 빠르게, 뒤돌아보지 말고 계속 달려라! 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101008.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

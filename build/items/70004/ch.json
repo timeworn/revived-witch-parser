@@ -1,0 +1,13 @@
+{
+  "id": 70004,
+  "name": "随机蓝色礼物",
+  "description": "随机紫色礼物",
+  "icon": "/ui/imagesets/items1/100214.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80254,
+  "name": "苔藓树桩",
+  "description": "【小件】倚靠起来十分舒适的木桩。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101009.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

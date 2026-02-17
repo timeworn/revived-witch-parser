@@ -1,0 +1,12 @@
+{
+  "id": 80300,
+  "name": "Food Display Rack",
+  "description": "[Compact Item] Laden with an assortment of fresh foods, each labeled with an expiration date and replaced regularly. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101125.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 78036,
+  "name": "Expert Mage Soul Stone",
+  "description": "An extraordinary soul stone, used to evolve the <color=#32CD32>UR</color> Mage.",
+  "icon": "/ui/imagesets/items1/100621.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

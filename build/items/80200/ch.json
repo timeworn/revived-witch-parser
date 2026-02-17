@@ -1,0 +1,12 @@
+{
+  "id": 80200,
+  "name": "麋鹿沙发",
+  "description": "【小件】来给胖驯鹿一个大大的拥抱吧。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100887.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

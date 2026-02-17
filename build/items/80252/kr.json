@@ -1,0 +1,12 @@
+{
+  "id": 80252,
+  "name": "밀림 샘물",
+  "description": "[큰 가구] 마법의 숲에서 온 달콤하고 시원한 샘물. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101007.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

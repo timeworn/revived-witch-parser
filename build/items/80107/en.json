@@ -1,0 +1,12 @@
+{
+  "id": 80107,
+  "name": "Mahogany Couch",
+  "description": "[Bulky Item] A sofa made of mahogany. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100575.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

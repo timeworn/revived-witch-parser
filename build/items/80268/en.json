@@ -1,0 +1,12 @@
+{
+  "id": 80268,
+  "name": "Birthday Cake",
+  "description": "[Compact Item] No one would say no to a delicious cake. If they do, let them have two. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101078.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

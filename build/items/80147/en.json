@@ -1,0 +1,12 @@
+{
+  "id": 80147,
+  "name": "Cake for Big A",
+  "description": "[Compact Item] Happy birthday, Big A! Increases Comfort by 15.",
+  "icon": "/ui/imagesets/items1/100683.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

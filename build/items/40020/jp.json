@@ -1,0 +1,17 @@
+{
+  "id": 40020,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/headphotos/hp_025.png",
+  "type": "",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78119,
+      "quantity": 1
+    }
+  ]
+}

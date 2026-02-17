@@ -1,0 +1,17 @@
+{
+  "id": 47201,
+  "name": "멜리아케아이 지팡이",
+  "description": "마법을 소환할 때 사용하는 흔히 보이는 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100192.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

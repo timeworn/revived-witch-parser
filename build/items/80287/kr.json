@@ -1,0 +1,12 @@
+{
+  "id": 80287,
+  "name": "탈출의 마법진",
+  "description": "[카펫] 마법의 기운을 내뿜는 텔레포트. 그 위에 섰을 때, 어디로 가게 될지는 아무도 모른다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101144.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

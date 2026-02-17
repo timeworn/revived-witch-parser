@@ -1,0 +1,12 @@
+{
+  "id": 31479,
+  "name": "Forest Recall Pack",
+  "description": "A short mushroom. It's said that it can take you to a world of wonders if you follow it.",
+  "icon": "/ui/imagesets/items1/101056.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

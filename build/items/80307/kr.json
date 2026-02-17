@@ -1,0 +1,12 @@
+{
+  "id": 80307,
+  "name": "카키색 카펫",
+  "description": "[카펫] 커피와 술을 흘려도 티나지 않는 카키색 카펫. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101132.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31588,
+  "name": "투오넬 코스튬 패키지",
+  "description": "투오넬 코스튬 포함: 힐링의 시간",
+  "icon": "/ui/imagesets/items1/101164.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 75006,
+  "name": "低级刺杀结晶",
+  "description": "魔力的结晶，用于刺杀型人偶的突破。",
+  "icon": "/ui/imagesets/items1/100095.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

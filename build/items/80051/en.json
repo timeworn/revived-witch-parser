@@ -1,0 +1,12 @@
+{
+  "id": 80051,
+  "name": "Marble Fireplace",
+  "description": "[Compact Item] A fireplace made of marble. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100567.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

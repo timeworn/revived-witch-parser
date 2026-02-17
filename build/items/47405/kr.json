@@ -1,0 +1,17 @@
+{
+  "id": 47405,
+  "name": "칠흑의 갑옷",
+  "description": "온통 까맣게 칠한 갑옷, 보기만 해도 무섭다.",
+  "icon": "/ui/imagesets/items1/100441.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

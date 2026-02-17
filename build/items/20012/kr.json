@@ -1,0 +1,12 @@
+{
+  "id": 20012,
+  "name": "에가름의 컬렉션",
+  "description": "상인 에가름이 고향을 떠나기 전에 묻어 둔 보물,  고향에 대한 무한한 그리움이 담겨 있다.",
+  "icon": "/ui/imagesets/items1/100094.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

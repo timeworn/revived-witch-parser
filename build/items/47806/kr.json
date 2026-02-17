@@ -1,0 +1,17 @@
+{
+  "id": 47806,
+  "name": "마성의 반지",
+  "description": "착용자의 이성을 뺏을 수 있다고 전해진 마성의 반지.",
+  "icon": "/ui/imagesets/items1/100434.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

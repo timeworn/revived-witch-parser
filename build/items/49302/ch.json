@@ -1,0 +1,17 @@
+{
+  "id": 49302,
+  "name": "地狱猎手-弓（有问题）",
+  "description": "地狱猎手-弓（有问题）",
+  "icon": "/ui/imagesets/items1/100738.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

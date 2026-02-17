@@ -1,0 +1,12 @@
+{
+  "id": 31072,
+  "name": "초급 소환 패키지",
+  "description": "구매하면 여러 번 소환을 할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift1.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

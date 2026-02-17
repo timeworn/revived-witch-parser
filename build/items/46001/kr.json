@@ -1,0 +1,17 @@
+{
+  "id": 46001,
+  "name": "나무 활",
+  "description": "거친 나무 활, 살상력이 별로 없다.",
+  "icon": "/ui/imagesets/items1/100185.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

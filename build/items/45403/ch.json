@@ -1,0 +1,17 @@
+{
+  "id": 45403,
+  "name": "铸铁剑",
+  "description": "经过工匠精心锻造而成，十分锋利",
+  "icon": "/ui/imagesets/items1/100080.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

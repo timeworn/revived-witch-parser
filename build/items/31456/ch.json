@@ -1,0 +1,12 @@
+{
+  "id": 31456,
+  "name": "1周年纪念头像框",
+  "description": "复苏的魔女一周年纪念",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame13.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

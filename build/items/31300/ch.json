@@ -1,0 +1,12 @@
+{
+  "id": 31300,
+  "name": "福满新春终极礼包",
+  "description": "福满新春活动礼包，购买可获得大量装备培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift55.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

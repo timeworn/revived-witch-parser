@@ -1,0 +1,17 @@
+{
+  "id": 47605,
+  "name": "네버르의 로브",
+  "description": "주교들이 강림 의식을 치를 때 입는 예복, 가볍고 부드럽다.",
+  "icon": "/ui/imagesets/items1/100388.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

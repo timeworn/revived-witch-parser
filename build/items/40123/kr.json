@@ -1,0 +1,17 @@
+{
+  "id": 40123,
+  "name": "가이샤",
+  "description": "[비취의 마음 가이샤] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_124/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781124,
+      "quantity": 1
+    }
+  ]
+}

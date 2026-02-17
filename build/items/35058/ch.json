@@ -1,0 +1,12 @@
+{
+  "id": 35058,
+  "name": "时之结晶",
+  "description": "在时间遨游时，灵魂交织凝结而成的晶体。",
+  "icon": "/ui/imagesets/items1/101027.png",
+  "type": "货币",
+  "typeId": 817,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

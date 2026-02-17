@@ -1,0 +1,12 @@
+{
+  "id": 20010,
+  "name": "악보",
+  "description": "가수 쏠레이의 의뢰를 받고, 그가 상자 안에 넣어 둔 악보를 찾고 있다.",
+  "icon": "/ui/imagesets/items1/100149.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

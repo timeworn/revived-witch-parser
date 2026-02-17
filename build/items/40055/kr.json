@@ -1,0 +1,17 @@
+{
+  "id": 40055,
+  "name": "아마나미",
+  "description": "[태양의 공주 아마나미] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_058.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78154,
+      "quantity": 1
+    }
+  ]
+}

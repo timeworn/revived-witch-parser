@@ -1,0 +1,17 @@
+{
+  "id": 78197,
+  "name": "菲莱诺希丝魂石",
+  "description": "稀有的专属魂石。能够使<color=#32CD32>菲莱诺希丝</color>得到进化。",
+  "icon": "/ui/imagesets/items1/101084.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

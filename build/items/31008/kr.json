@@ -1,0 +1,12 @@
+{
+  "id": 31008,
+  "name": "히아신스",
+  "description": "인형한테 선물하면 호감도 100을 획득할 수 있는 정교한 선물.",
+  "icon": "/ui/imagesets/items1/100484.png",
+  "type": "호감도 아이템",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

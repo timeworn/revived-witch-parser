@@ -1,0 +1,12 @@
+{
+  "id": 80003,
+  "name": "창문",
+  "description": "[창문] 오렌지색 커튼이 달린 창문, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100528.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

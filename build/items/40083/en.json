@@ -1,0 +1,17 @@
+{
+  "id": 40083,
+  "name": "Asherah",
+  "description": "Obtain Doll [Asherah: Protector of Irminsul]",
+  "icon": "/ui/imagesets/localization/role/char_084/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78184,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49103,
+  "name": "守护者-重型盔甲",
+  "description": "守护者-重型盔甲",
+  "icon": "/ui/imagesets/items1/100760.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

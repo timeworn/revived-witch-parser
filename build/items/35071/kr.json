@@ -1,0 +1,12 @@
+{
+  "id": 35071,
+  "name": "몬스터 캔디",
+  "description": "할로윈 기간 동안 문테니아 공국의 아이들이 제일 좋아하는 간식. 누가 만들었는지는 알려지지 않았다.",
+  "icon": "/ui/imagesets/items1/101189.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

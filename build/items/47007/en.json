@@ -1,0 +1,17 @@
+{
+  "id": 47007,
+  "name": "Forbidden Staff",
+  "description": "A malevolent staff wielded by the King of Gaheris only in the rituals of demonic descent.",
+  "icon": "/ui/imagesets/items1/100415.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

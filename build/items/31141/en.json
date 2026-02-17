@@ -1,0 +1,12 @@
+{
+  "id": 31141,
+  "name": "Hype Equipment Pack",
+  "description": "A new chapter is about to come! Buy this pack for equipment upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift22.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

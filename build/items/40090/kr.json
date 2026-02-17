@@ -1,0 +1,17 @@
+{
+  "id": 40090,
+  "name": "코타나",
+  "description": "[신의 결재자 코타나] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_091/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78191,
+      "quantity": 1
+    }
+  ]
+}

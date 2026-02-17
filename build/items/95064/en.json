@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Isabel",
-  "ownerId": 64,
+  "character": "Isabel",
+  "characterId": 64,
   "evolutions": "(Doll's current Evolution Level decreases the enemy target's Physical DEF by 0/0.5/1/1.5%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

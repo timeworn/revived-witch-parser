@@ -1,0 +1,12 @@
+{
+  "id": 31377,
+  "name": "Unique Equipment Advanced Growth Pack",
+  "description": "Unique Equipment Advanced Growth Pack",
+  "icon": "/ui/imagesets/shop/shopgift26.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

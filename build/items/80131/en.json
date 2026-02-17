@@ -1,0 +1,12 @@
+{
+  "id": 80131,
+  "name": "Star Floor",
+  "description": "[Floor] The floor with the theme of a magnificent sky full of shining stars. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100663.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

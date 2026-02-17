@@ -1,0 +1,12 @@
+{
+  "id": 90054,
+  "name": "Exotic Flavors",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/101213.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

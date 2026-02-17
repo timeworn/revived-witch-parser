@@ -1,0 +1,12 @@
+{
+  "id": 80263,
+  "name": "파티 샹들리에",
+  "description": "[벽 장식] 마력이 주입된 샹들리에가 부드러운 빛을 뿜어내며 주변 사람들의 몸과 마음을 편안하게 해준다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101069.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

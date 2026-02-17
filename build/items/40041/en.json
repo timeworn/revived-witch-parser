@@ -1,0 +1,17 @@
+{
+  "id": 40041,
+  "name": "Acheronte",
+  "description": "Obtain Doll [Acheronte: Bard of the Deceased]",
+  "icon": "/ui/imagesets/headphotos/hp_041.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78140,
+      "quantity": 1
+    }
+  ]
+}

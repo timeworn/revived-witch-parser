@@ -1,0 +1,12 @@
+{
+  "id": 31718,
+  "name": "Budding Fortune Premium Pack",
+  "description": "Purchase to get Summons items, Equipment-related materials and Dumplings.",
+  "icon": "/ui/imagesets/shop/shopgift54.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

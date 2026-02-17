@@ -1,0 +1,12 @@
+{
+  "id": 31115,
+  "name": "技能礼包",
+  "description": "购买后可获得大量技能解锁材料。",
+  "icon": "/ui/imagesets/shop/shopgift6.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

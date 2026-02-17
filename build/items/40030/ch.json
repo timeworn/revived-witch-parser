@@ -1,0 +1,17 @@
+{
+  "id": 40030,
+  "name": "辛妮",
+  "description": "可以获得人偶 【命运占卜者 阿迦娜】",
+  "icon": "/ui/imagesets/headphotos/hp_temp.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78129,
+      "quantity": 1
+    }
+  ]
+}

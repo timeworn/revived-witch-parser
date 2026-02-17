@@ -1,0 +1,13 @@
+{
+  "id": 78001,
+  "name": "低级守护魂石",
+  "description": "稀有的魂石。能够使<coloR=#32CD32>R级</coloR>守护型人偶得到进化。",
+  "icon": "/ui/imagesets/items1/100370.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

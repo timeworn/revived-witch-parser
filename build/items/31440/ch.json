@@ -1,0 +1,12 @@
+{
+  "id": 31440,
+  "name": "阿卡莎外观礼包",
+  "description": "阿卡莎外观礼包",
+  "icon": "/ui/imagesets/items1/101059.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

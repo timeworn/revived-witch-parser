@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "U·Pollyben",
-  "ownerId": 104,
+  "character": "U·Pollyben",
+  "characterId": 104,
   "evolutions": "(Doll's current Evolution Level decreases Magic DEF of the enemy equal to 0/1/2/3% of U·Pollyben's max HP)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

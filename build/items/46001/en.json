@@ -1,0 +1,17 @@
+{
+  "id": 46001,
+  "name": "Wooden Bow",
+  "description": "A crudely-made wooden bow that deals little damage.",
+  "icon": "/ui/imagesets/items1/100185.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40107,
+  "name": "Tuonel of Night",
+  "description": "Obtain Doll [Tuonel of Night: Princess of Memory]",
+  "icon": "/ui/imagesets/role/char_108/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781108,
+      "quantity": 1
+    }
+  ]
+}

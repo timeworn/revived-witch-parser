@@ -1,0 +1,13 @@
+{
+  "id": 78022,
+  "name": "고급 파괴형 영혼석",
+  "description": "<color=#32CD32>SSR급</color> 파괴형 인형을 진화하는 데 사용하는 희귀한 영혼석.",
+  "icon": "/ui/imagesets/items1/100369.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

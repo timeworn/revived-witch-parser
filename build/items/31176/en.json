@@ -1,0 +1,12 @@
+{
+  "id": 31176,
+  "name": "Random Advanced Quartz",
+  "description": "Get a random Advanced Ascend Quartz",
+  "icon": "/ui/imagesets/items1/100103.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

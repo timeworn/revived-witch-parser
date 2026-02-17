@@ -1,0 +1,13 @@
+{
+  "id": 79004,
+  "name": "Soul Essence",
+  "description": "Magical essences coalesced from the memories of souls. Can be used to enhance unique equipment.",
+  "icon": "/ui/imagesets/items1/100155.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

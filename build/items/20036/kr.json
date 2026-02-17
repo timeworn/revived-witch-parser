@@ -1,0 +1,12 @@
+{
+  "id": 20036,
+  "name": "여우가 저장한 식량",
+  "description": "아기 여우와 친구들이 눈 속에 저장해 둔 식량. 한 번 더 이주하기에 충분한 양이다.",
+  "icon": "/ui/imagesets/items1/100146.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

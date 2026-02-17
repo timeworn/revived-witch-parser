@@ -1,0 +1,12 @@
+{
+  "id": 31474,
+  "name": "Forest Recall Pack",
+  "description": "A rare mushroom found in the forest. It's said that it can lead you to mysterious treasure if you follow it.",
+  "icon": "/ui/imagesets/items1/101054.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

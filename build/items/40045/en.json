@@ -1,0 +1,17 @@
+{
+  "id": 40045,
+  "name": "Dana",
+  "description": "Obtain Doll [Dana: Goddess of the Lake]",
+  "icon": "/ui/imagesets/headphotos/hp_temp.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78144,
+      "quantity": 1
+    }
+  ]
+}

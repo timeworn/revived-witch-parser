@@ -1,0 +1,17 @@
+{
+  "id": 40115,
+  "name": "Auris",
+  "description": "Obtain Doll [Auris: Soul Deliverer]",
+  "icon": "/ui/imagesets/localization/role/char_116/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781116,
+      "quantity": 1
+    }
+  ]
+}

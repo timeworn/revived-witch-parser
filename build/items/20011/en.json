@@ -1,0 +1,12 @@
+{
+  "id": 20011,
+  "name": "Witch Notebook: Homesick",
+  "description": "According to the Treant's description, his hometown seems to be at the northern end of Irene Island, surrounded by water.",
+  "icon": "/ui/imagesets/items1/100008.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

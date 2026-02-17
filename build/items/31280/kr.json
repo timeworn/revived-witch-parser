@@ -1,0 +1,12 @@
+{
+  "id": 31280,
+  "name": "신년 인형 선택 패키지",
+  "description": "새해를 축하하는 패키지, 구매 후 인형 선택 및 소환 아이템을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift47.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

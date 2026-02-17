@@ -1,0 +1,12 @@
+{
+  "id": 31436,
+  "name": "마야우엘 코스튬 패키지",
+  "description": "마야우엘 코스튬 패키지",
+  "icon": "/ui/imagesets/items1/101195.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

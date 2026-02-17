@@ -1,0 +1,12 @@
+{
+  "id": 31420,
+  "name": "进阶赠礼盒",
+  "description": "仪式之剑",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewWeekShop01.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

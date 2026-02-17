@@ -1,0 +1,12 @@
+{
+  "id": 31689,
+  "name": "Mischief Candy Pack",
+  "description": "A Halloween favorite for naughty kids. It's said that those who eat it can't stop trembling.",
+  "icon": "/ui/imagesets/items1/100836.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

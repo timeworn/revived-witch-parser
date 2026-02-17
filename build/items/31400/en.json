@@ -1,0 +1,12 @@
+{
+  "id": 31400,
+  "name": "Weekly Value Pack",
+  "description": "Weekly Value Pack",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

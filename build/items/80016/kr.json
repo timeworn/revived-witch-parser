@@ -1,0 +1,12 @@
+{
+  "id": 80016,
+  "name": "족자 세트",
+  "description": "[벽 장식] 3개의 액자로 구성된 액자 세트, 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100531.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

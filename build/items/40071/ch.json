@@ -1,0 +1,17 @@
+{
+  "id": 40071,
+  "name": "夏尔",
+  "description": "可以获得人偶 【等待命运之人 夏尔】",
+  "icon": "/ui/imagesets/headphotos/hp_072.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78170,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46603,
+  "name": "Crystal Orb",
+  "description": "A transparent orb that contains incredible magic.",
+  "icon": "/ui/imagesets/items1/100183.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

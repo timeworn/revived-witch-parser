@@ -1,0 +1,12 @@
+{
+  "id": 80275,
+  "name": "엔틱풍 바닥재",
+  "description": "[바닥] 바닥이 미끄러우니 조심하세요! 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101067.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

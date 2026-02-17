@@ -1,0 +1,17 @@
+{
+  "id": 46009,
+  "name": "神弓·塞努诺斯",
+  "description": "月之女神所持，曾因为赌气，射落过太阳的传说之弓",
+  "icon": "/ui/imagesets/items1/100427.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49805,
+  "name": "Chaotic Faith - Orb",
+  "description": "Chaotic Faith - Orb",
+  "icon": "/ui/imagesets/items1/100741.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

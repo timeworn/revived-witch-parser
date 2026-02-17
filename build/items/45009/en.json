@@ -1,0 +1,17 @@
+{
+  "id": 45009,
+  "name": "Sirius, Shield of Defending",
+  "description": "A shield used in the War of Protectors. Represents law and order. It can absorb all kinds of magic damage.",
+  "icon": "/ui/imagesets/items1/100412.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

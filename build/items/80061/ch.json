@@ -1,0 +1,12 @@
+{
+  "id": 80061,
+  "name": "玫瑰相片",
+  "description": "【墙饰】白玫瑰相片。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100571.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

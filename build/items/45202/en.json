@@ -1,0 +1,17 @@
+{
+  "id": 45202,
+  "name": "Iron Hammer",
+  "description": "A hammer made in batch by the blacksmith. It wields certain lethal power.",
+  "icon": "/ui/imagesets/items1/100167.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

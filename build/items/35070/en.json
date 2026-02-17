@@ -1,0 +1,12 @@
+{
+  "id": 35070,
+  "name": "Red Star",
+  "description": "A mysterious fragment that has fallen from the sky. Has a faint red glow [Event Token]",
+  "icon": "/ui/imagesets/items1/100678.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

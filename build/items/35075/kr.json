@@ -1,0 +1,12 @@
+{
+  "id": 35075,
+  "name": "펌킨",
+  "description": "황금빛 랜턴 같은 호박, 호박 케이크로 만들면 분명 맛있을 것 같다.",
+  "icon": "/ui/imagesets/items1/100831.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

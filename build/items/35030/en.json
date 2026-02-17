@@ -1,0 +1,12 @@
+{
+  "id": 35030,
+  "name": "Stone",
+  "description": "Raw stone. Can be used for foundations of buildings.",
+  "icon": "/ui/imagesets/items1/100784.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

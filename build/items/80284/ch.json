@@ -1,0 +1,12 @@
+{
+  "id": 80284,
+  "name": "可怖座钟",
+  "description": "【小件】可怖的地方在于，它总是莫名其妙发出巨响——尤其是有人要靠近某些东西的时候。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101141.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

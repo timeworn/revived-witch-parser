@@ -1,0 +1,12 @@
+{
+  "id": 31081,
+  "name": "월간 선물 상자",
+  "description": "구매하면 대량의 선물을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift15.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

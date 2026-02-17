@@ -1,0 +1,12 @@
+{
+  "id": 20010,
+  "name": "Songbook",
+  "description": "The Commission from Soleil the Singer to find his Songbook, which he kept in his case.",
+  "icon": "/ui/imagesets/items1/100149.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

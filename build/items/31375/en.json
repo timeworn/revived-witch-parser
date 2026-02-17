@@ -1,0 +1,12 @@
+{
+  "id": 31375,
+  "name": "Summer Breeze Deluxe Pack",
+  "description": "Summer Breeze Deluxe Pack",
+  "icon": "/ui/imagesets/shop/shopgift61.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

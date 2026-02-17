@@ -1,0 +1,17 @@
+{
+  "id": 49601,
+  "name": "Magique Augment - Wand",
+  "description": "Magique Augment - Wand",
+  "icon": "/ui/imagesets/items1/100764.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

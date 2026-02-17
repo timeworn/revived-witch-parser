@@ -1,0 +1,17 @@
+{
+  "id": 45206,
+  "name": "심판의 망치",
+  "description": "명계 심판자가 사용하던 망치, 모든 영혼들은 이 망치를 보면 공포에 떤다.",
+  "icon": "/ui/imagesets/items1/100404.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

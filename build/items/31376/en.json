@@ -1,0 +1,12 @@
+{
+  "id": 31376,
+  "name": "Unique Equipment Basic Growth Pack",
+  "description": "Unique Equipment Basic Growth Pack",
+  "icon": "/ui/imagesets/shop/shopgift27.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

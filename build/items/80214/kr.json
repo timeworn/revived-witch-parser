@@ -1,0 +1,12 @@
+{
+  "id": 80214,
+  "name": "북청 사자탈",
+  "description": "[작은 가구] 액운을 막고 복을 불러 온다는 탈, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100935.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

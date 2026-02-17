@@ -1,0 +1,12 @@
+{
+  "id": 35044,
+  "name": "Town Coin",
+  "description": "The currency used in the town. Can be used to purchase items.",
+  "icon": "/ui/imagesets/items1/100922.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

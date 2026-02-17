@@ -1,0 +1,12 @@
+{
+  "id": 80207,
+  "name": "龙形花灯",
+  "description": "【大件】以神秘东方传说为原型的花灯。可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100933.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

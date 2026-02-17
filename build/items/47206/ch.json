@@ -1,0 +1,17 @@
+{
+  "id": 47206,
+  "name": "龙牙之力",
+  "description": "用巨龙牙齿制成的魔杖",
+  "icon": "/ui/imagesets/items1/100444.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

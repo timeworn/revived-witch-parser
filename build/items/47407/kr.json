@@ -1,0 +1,17 @@
+{
+  "id": 47407,
+  "name": "용의 갑옷",
+  "description": "용 무늬가 그려져 있는, 드래곤 슬레이어가 입었던 갑옷이라고 한다.",
+  "icon": "/ui/imagesets/items1/100440.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

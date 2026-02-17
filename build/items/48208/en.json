@@ -1,0 +1,17 @@
+{
+  "id": 48208,
+  "name": "Ring of Thorns",
+  "description": "The ring is covered in magical vines and thorns, making those who approach recklessly backfired by magic.",
+  "icon": "/ui/imagesets/items1/100715.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80272,
+  "name": "香槟木桶",
+  "description": "【大件】来自圣教会密窖的私藏佳酿，运来的过程中费了不少事——倒不如来几桶隔壁的汽水更得人心。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101081.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

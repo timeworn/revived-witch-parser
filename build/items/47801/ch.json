@@ -1,0 +1,17 @@
+{
+  "id": 47801,
+  "name": "戒指",
+  "description": "普通的戒指，在商铺中均有贩卖",
+  "icon": "/ui/imagesets/items1/100179.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

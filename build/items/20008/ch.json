@@ -1,0 +1,12 @@
+{
+  "id": 20008,
+  "name": "魔女笔记——毛虫兄弟",
+  "description": "受毛虫兄长的委托，寻找失散的弟弟。",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

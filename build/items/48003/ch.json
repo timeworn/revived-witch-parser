@@ -1,0 +1,17 @@
+{
+  "id": 48003,
+  "name": "银项链",
+  "description": "银制的项链，突显出佩戴者的高贵身份",
+  "icon": "/ui/imagesets/items1/100199.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47803,
+  "name": "紫玉戒指",
+  "description": "镶有紫玉的戒指，想必价格也非比寻常",
+  "icon": "/ui/imagesets/items1/100180.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

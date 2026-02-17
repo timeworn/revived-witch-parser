@@ -1,0 +1,17 @@
+{
+  "id": 47404,
+  "name": "성전사의 갑옷",
+  "description": "기사가 즐겨 입는 갑옷, 튼튼하고 내구성이 좋다.",
+  "icon": "/ui/imagesets/items1/100438.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

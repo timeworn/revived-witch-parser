@@ -1,0 +1,12 @@
+{
+  "id": 31108,
+  "name": "80레벨 정예 패키지",
+  "description": "마녀 80레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelyellow12.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

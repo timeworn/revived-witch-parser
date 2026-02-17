@@ -1,0 +1,12 @@
+{
+  "id": 80293,
+  "name": "娴静午后",
+  "description": "【窗户】暖阳从窗外懒懒地照射进来，眯起眼睛就可以靠在窗边睡个午觉。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101118.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80007,
+  "name": "木质书桌",
+  "description": "【小件】木质的小书桌。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100536.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

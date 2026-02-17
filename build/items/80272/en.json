@@ -1,0 +1,12 @@
+{
+  "id": 80272,
+  "name": "Champagne Barrel",
+  "description": "[Bulky Item] This vintage wine came from a private collection in Holy Church. Carrying it here was a lot of hassle. Should have just gone for the barrels of soda next door. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101081.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

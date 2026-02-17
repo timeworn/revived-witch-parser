@@ -1,0 +1,12 @@
+{
+  "id": 80301,
+  "name": "맞춤형 피아노",
+  "description": "[작은 가구] 값진 맞춤형 피아노. 장인의 손길에 마음을 움직이는 소리를 낸다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101126.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

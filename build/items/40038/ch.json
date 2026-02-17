@@ -1,0 +1,17 @@
+{
+  "id": 40038,
+  "name": "拉芬",
+  "description": "可以获得人偶 【命运之爪 拉芬】",
+  "icon": "/ui/imagesets/role/char_039/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78137,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20012,
+  "name": "Ökam's Collection",
+  "description": "The treasure buried by the merchant Ökam before he left his hometown, into which he poured his infinite longing for his hometown.",
+  "icon": "/ui/imagesets/items1/100094.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

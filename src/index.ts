@@ -11,7 +11,7 @@ import { AvatarParser } from "src/parsers/avatar";
 import { AvatarFrameParser } from "src/parsers/avatarFrame";
 import { AchievementParser } from "src/parsers/achievement";
 import { BadgeParser } from "src/parsers/badge";
-import { MissionParser } from "src/parsers/mission";
+// import { MissionParser } from "src/parsers/mission";
 import { MusicBoxParser } from "src/parsers/sound/musicBox";
 import { AudioParser } from "src/parsers/sound/audio";
 import { LocalizerLocale } from "src/utils/Localizer";
@@ -24,13 +24,13 @@ logger.info("Loading localization files");
 await Promise.all(
   LOCALES.map(async (locale) => {
     localizers.push(await loadLocalizationFiles(locale as LocalizerLocale));
-  })
+  }),
 );
 logger.info(`Loaded ${localizers.length} localizers for ${LOCALES.length} locales`);
 
 reCreateFolder(BUILD_DIR);
 
-// await parseEntities(localizers, "characters", CharacterParser);
+await parseEntities(localizers, "characters", CharacterParser);
 // await parseEntities(localizers, "affiliations", AffiliationParser);
 // await parseEntities(localizers, "elements", ElementParser);
 // await parseEntities(localizers, "vocations", VocationParser);

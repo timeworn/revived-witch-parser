@@ -1,0 +1,12 @@
+{
+  "id": 80144,
+  "name": "Red Star",
+  "description": "[Compact Item] A trophy to show that you have overcome yourself in the world of the Phantom Mirror of Stars. An ominous black fog is coming out from the gap of the red star. Increases Comfort by 50 when furnished.",
+  "icon": "/ui/imagesets/items1/100682.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

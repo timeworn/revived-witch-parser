@@ -1,0 +1,12 @@
+{
+  "id": 80282,
+  "name": "영면의 의자",
+  "description": "[작은 가구] 고양이가 위에서 잠을 자고 있는 볼품없어 보이는 의자지만, 한번 의자에 앉으면 영원히 깨어날 수 없다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101139.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

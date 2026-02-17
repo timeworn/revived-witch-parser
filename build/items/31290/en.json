@@ -1,0 +1,12 @@
+{
+  "id": 31290,
+  "name": "Dazzling Advanced Pack",
+  "description": "Rejoice in the coming of Dazzling Stage! Buy this pack for Summon Items and a ton of character upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift35.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

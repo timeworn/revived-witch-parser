@@ -1,0 +1,12 @@
+{
+  "id": 35020,
+  "name": "魔力结晶",
+  "description": "可用于提升魔力等级，通过挑战关卡获得。",
+  "icon": "/ui/imagesets/items1/100640.png",
+  "type": "魔力结晶",
+  "typeId": 90,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

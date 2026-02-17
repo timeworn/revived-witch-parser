@@ -1,0 +1,12 @@
+{
+  "id": 31137,
+  "name": "Blooming Glory",
+  "description": "An item to gift to loved ones at Qixi Festival. Increases a doll's Intimacy by 200.",
+  "icon": "/ui/imagesets/items1/100735.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

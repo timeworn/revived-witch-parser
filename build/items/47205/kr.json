@@ -1,0 +1,17 @@
+{
+  "id": 47205,
+  "name": "흡혼의 지팡이",
+  "description": "사람의 혼을 빨아들이는 요술을 부릴 때 사용하는 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100443.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40081,
+  "name": "辛莫拉",
+  "description": "可以获得人偶 【地狱之焰 辛莫拉】",
+  "icon": "/ui/imagesets/localization/role/char_082/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781082,
+      "quantity": 1
+    }
+  ]
+}

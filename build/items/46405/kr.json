@@ -1,0 +1,17 @@
+{
+  "id": 46405,
+  "name": "행복의 선율",
+  "description": "숲의 요정이 사용하던 행복을 전해주는 신기한 악기.",
+  "icon": "/ui/imagesets/items1/100458.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

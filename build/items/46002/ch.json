@@ -1,0 +1,17 @@
+{
+  "id": 46002,
+  "name": "狩人弓",
+  "description": "用于狩猎的长弓，是好猎手必不可少的装备",
+  "icon": "/ui/imagesets/items1/100186.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

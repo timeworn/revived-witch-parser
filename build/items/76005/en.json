@@ -1,0 +1,13 @@
+{
+  "id": 76005,
+  "name": "Magic Cryolite",
+  "description": "A piece of legendary quartz that shines dazzlingly. It provides <color=#32CD32>2,000</color> EXP for Equipment.",
+  "icon": "/ui/imagesets/items1/100247.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

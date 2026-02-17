@@ -1,0 +1,17 @@
+{
+  "id": 40096,
+  "name": "Phileanosis",
+  "description": "Obtain Doll [Phileanosis: Lost Wail]",
+  "icon": "/ui/imagesets/localization/role/char_097/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78197,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80278,
+  "name": "봉인된 창문",
+  "description": "[창문] 널빤지와 못으로 단단히 봉인된 창문, 바깥 풍경은 잘 보이지 않으며, 자세히 보면 순은 못으로 박혀있다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101135.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

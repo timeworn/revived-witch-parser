@@ -1,0 +1,12 @@
+{
+  "id": 80171,
+  "name": "德古喵画像",
+  "description": "【墙饰】德古喵伯爵的尊贵画像，摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100850.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

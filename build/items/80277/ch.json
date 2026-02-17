@@ -1,0 +1,12 @@
+{
+  "id": 80277,
+  "name": "古木地板",
+  "description": "【地板】走在上面嘎吱作响，很难不让人担心是否下一步就会踩断木板——所以，请小心。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101134.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

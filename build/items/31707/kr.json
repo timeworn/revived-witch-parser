@@ -1,0 +1,12 @@
+{
+  "id": 31707,
+  "name": "중급 대즐링 패키지",
+  "description": "대즐링 스테이지 기념 패키지, 구매 시 소환 아이템 및 대량의 가구 코인을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

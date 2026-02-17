@@ -1,0 +1,12 @@
+{
+  "id": 80265,
+  "name": "Birthday Flag",
+  "description": "[Wall Decor] The future is still full of hope. Stand under the flag and make a victory sign. Let the wind take away the troubles of your past. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101073.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

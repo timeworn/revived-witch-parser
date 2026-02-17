@@ -2,16 +2,19 @@ import { BaseParser } from "src/utils/BaseParser";
 import { Item, RawItem } from "src/types/item.model";
 import cItemAttrJson from "src/data/item/citemattr.json";
 import cItemClassToLoadJson from "src/data/item/citemclasstoload.json";
+import cTimeLimitedItemJson from "src/data/item/ctimelimiteditem.json";
 import { createRewardItems, getAssetImage } from "src/utils/utils";
 import { UEItemParser } from "src/parsers/item/ueItem";
+import { NormalItemParser } from "src/parsers/item/normalItem";
 
 const ueItemParser = new UEItemParser();
+const normalItemParser = new NormalItemParser();
 
 /*
   For reference:
-  18 - Main Story Stage Item
-  19 - Quest Item
-  26 / 42 / 138 - Normal Item
+  18 - Main Story Stage Item*
+  19 - Quest Item*
+  26 / 42 / 138 - Normal Item*
   27 - Doll
   58 - Avatar Frame
   74 - Furniture
@@ -33,9 +36,9 @@ const ueItemParser = new UEItemParser();
 const typeToParser = {
   18: null,
   19: null,
-  26: null,
-  42: null,
-  138: null,
+  26: normalItemParser,
+  42: normalItemParser,
+  138: normalItemParser,
   27: null,
   58: null,
   74: null,
@@ -64,7 +67,7 @@ const typeToParser = {
 
 export class ItemParser extends BaseParser<RawItem, Item> {
   static getRaws(): RawItem[] {
-    return Object.values(cItemAttrJson.Data).filter((item) => item.itemtypeid === 107);
+    return Object.values(cItemAttrJson.Data);
   }
 
   static getRaw(id: number): RawItem | undefined {
@@ -73,6 +76,9 @@ export class ItemParser extends BaseParser<RawItem, Item> {
   }
 
   transform(raw: RawItem): Item {
+    const timeLimit =
+      cTimeLimitedItemJson.Data[raw.id as unknown as keyof typeof cTimeLimitedItemJson.Data]?.timeLimit || 0;
+
     let item = {
       id: raw.id,
       name: this.localizer.localize(raw.nameTextID),
@@ -82,6 +88,7 @@ export class ItemParser extends BaseParser<RawItem, Item> {
       typeId: raw.itemtypeid,
       maxNum: raw.maxNum,
       limited: raw.timeLimited === 1,
+      timeLimit,
       discardRewards: createRewardItems(raw.resolvegetitem, raw.resolvegetitemnum),
     };
 

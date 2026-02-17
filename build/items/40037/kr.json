@@ -1,0 +1,17 @@
+{
+  "id": 40037,
+  "name": "메타모포스",
+  "description": "[영혼의 조종자 메타모포스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_048.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78136,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "格拉辛",
-  "ownerId": 93,
+  "character": "格拉辛",
+  "characterId": 93,
   "evolutions": "(当前角色进化等级额外提升0/1/2/3%的属性)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

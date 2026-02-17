@@ -1,0 +1,12 @@
+{
+  "id": 20022,
+  "name": "高贵的女性",
+  "description": "高贵的女性",
+  "icon": "/ui/imagesets/items1/100123.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80280,
+  "name": "怪“喵”壁画",
+  "description": "【墙饰】请不要长时间盯住此画观察，否则眼前出现的幻觉会让你渐渐失去理智。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101137.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

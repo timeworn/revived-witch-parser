@@ -1,0 +1,12 @@
+{
+  "id": 80203,
+  "name": "纯白无瑕立牌",
+  "description": "【小件】希奈缇娅亲手制作的立牌，希望魔女看到后可以想起自己。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100943.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

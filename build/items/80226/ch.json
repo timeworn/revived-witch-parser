@@ -1,0 +1,12 @@
+{
+  "id": 80226,
+  "name": "吉祥春符",
+  "description": "【窗户】古朴的窗栏，可以清楚地看到节日烟花。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100957.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

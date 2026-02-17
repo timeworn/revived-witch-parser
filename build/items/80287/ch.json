@@ -1,0 +1,12 @@
+{
+  "id": 80287,
+  "name": "逃脱法阵",
+  "description": "【地毯】散发着魔法气息的传送阵，不过没人知道站上去会被传送到哪里。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101144.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

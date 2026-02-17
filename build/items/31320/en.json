@@ -1,0 +1,12 @@
+{
+  "id": 31320,
+  "name": "Cool Fortune Bag",
+  "description": "A welcome touch of coolness in the summer heat.",
+  "icon": "/ui/imagesets/items1/101019.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

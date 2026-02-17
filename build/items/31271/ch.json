@@ -1,0 +1,12 @@
+{
+  "id": 31271,
+  "name": "芙洛莱姜饼人",
+  "description": "芙洛莱造型的姜饼小人，吃完身体暖暖的",
+  "icon": "/ui/imagesets/items1/100897.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

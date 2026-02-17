@@ -1,0 +1,17 @@
+{
+  "id": 78148,
+  "name": "Avil Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD32>Avil</color>.",
+  "icon": "/ui/imagesets/items1/100630.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35011,
+      "quantity": 3
+    }
+  ]
+}

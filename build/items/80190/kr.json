@@ -1,0 +1,12 @@
+{
+  "id": 80190,
+  "name": "따뜻한 벽난로",
+  "description": "[큰 가구] 예쁜 벽난로일수록 산타클로스가 많이 찾아온다고 한다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100876.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

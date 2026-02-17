@@ -1,0 +1,17 @@
+{
+  "id": 40028,
+  "name": "Celanya",
+  "description": "Obtain Doll [Celanya: Azure Archer of Wind]",
+  "icon": "/ui/imagesets/headphotos/hp_035.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78127,
+      "quantity": 1
+    }
+  ]
+}

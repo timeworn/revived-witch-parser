@@ -1,0 +1,12 @@
+{
+  "id": 31076,
+  "name": "Monthly Summon Pack",
+  "description": "Purchase to Summon x10.",
+  "icon": "/ui/imagesets/shop/shopgift16.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

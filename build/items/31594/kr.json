@@ -1,0 +1,12 @@
+{
+  "id": 31594,
+  "name": "딸기 빙수",
+  "description": "신선한 딸기로 만든 빙수, 시원하고 새콤달콤해요~",
+  "icon": "/ui/imagesets/items1/101157.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40120,
+  "name": "Amane",
+  "description": "Obtain Doll [Amane: Auspicious Bunny]",
+  "icon": "/ui/imagesets/localization/role/char_121/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781121,
+      "quantity": 1
+    }
+  ]
+}

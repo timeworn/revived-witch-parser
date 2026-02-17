@@ -1,0 +1,12 @@
+{
+  "id": 35008,
+  "name": "영혼",
+  "description": "마력이 응결되어 형성된, 마녀가 영혼 계약을 체결할 때 사용하는 필수품. $B$$B$새로운 인형을 소환할 수 있다.",
+  "icon": "/ui/imagesets/items1/100191.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

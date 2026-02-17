@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Raphan",
-  "ownerId": 39,
+  "character": "Raphan",
+  "characterId": 39,
   "evolutions": "(Doll's current Evolution Level increases ATK by 0/2/4/6% while ignoring the enemy target's Physical DEF)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

@@ -1,0 +1,12 @@
+{
+  "id": 31571,
+  "name": "海螺礼包",
+  "description": "海滨随处可见的海螺",
+  "icon": "/ui/imagesets/items1/101161.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

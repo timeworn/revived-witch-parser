@@ -1,0 +1,12 @@
+{
+  "id": 80261,
+  "name": "고급 격자 창",
+  "description": "[창문] 창밖의 풍경은 1년 전과 별반 다르지 않다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101074.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

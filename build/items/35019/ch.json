@@ -1,0 +1,12 @@
+{
+  "id": 35019,
+  "name": "外观券",
+  "description": "外观购买货币",
+  "icon": "/ui/imagesets/items1/100629.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

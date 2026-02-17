@@ -1,0 +1,12 @@
+{
+  "id": 35020,
+  "name": "마력 결정",
+  "description": "마력 레벨업에 사용되며, 스테이지 도전을 통해 획득할 수 있다.",
+  "icon": "/ui/imagesets/items1/100640.png",
+  "type": "마력 결정",
+  "typeId": 90,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

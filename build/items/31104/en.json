@@ -1,0 +1,12 @@
+{
+  "id": 31104,
+  "name": "Lv.80 Adventure Pack",
+  "description": "Available for purchase when Witch reaches Lv.80.",
+  "icon": "/ui/imagesets/shop/giftlevelblue12.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

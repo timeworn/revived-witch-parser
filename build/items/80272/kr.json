@@ -1,0 +1,12 @@
+{
+  "id": 80272,
+  "name": "샴페인 통",
+  "description": "[큰 가구] 상투스 교회의 밀실에서 나온 술. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101081.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

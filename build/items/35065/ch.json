@@ -1,0 +1,12 @@
+{
+  "id": 35065,
+  "name": "心动值",
+  "description": "让人心跳不止的礼物到底是什么呢~",
+  "icon": "/ui/imagesets/items1/101095.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

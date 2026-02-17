@@ -1,0 +1,17 @@
+{
+  "id": 46404,
+  "name": "애한의 하프",
+  "description": "뜻을 이루지 못한 한 악사가 후손에게 물려 준 하프, 마치 그의 애한을 말해주고 있는 듯하다.",
+  "icon": "/ui/imagesets/items1/100177.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

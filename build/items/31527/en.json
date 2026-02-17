@@ -1,0 +1,12 @@
+{
+  "id": 31527,
+  "name": "Starry Cake",
+  "description": "A star-themed cake. Said to taste like a dream.",
+  "icon": "/ui/imagesets/items1/101148.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

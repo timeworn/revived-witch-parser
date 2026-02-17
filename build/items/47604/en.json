@@ -1,0 +1,17 @@
+{
+  "id": 47604,
+  "name": "Padre's Cassock",
+  "description": "A daily robe worn by the priests of the Holy Church.",
+  "icon": "/ui/imagesets/items1/100387.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

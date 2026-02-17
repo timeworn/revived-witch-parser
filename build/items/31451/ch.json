@@ -1,0 +1,12 @@
+{
+  "id": 31451,
+  "name": "森之回溯特惠礼包",
+  "description": "森之回溯特惠礼包",
+  "icon": "/ui/imagesets/shop/shopgift37.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

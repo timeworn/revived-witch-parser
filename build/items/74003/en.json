@@ -1,0 +1,13 @@
+{
+  "id": 74003,
+  "name": "Shimmering Light",
+  "description": "A blue shimmering light faintly visible on moonless nights. Used to enhance the Dolls' skills.",
+  "icon": "/ui/imagesets/items1/100121.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

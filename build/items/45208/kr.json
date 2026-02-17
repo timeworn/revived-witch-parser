@@ -1,0 +1,17 @@
+{
+  "id": 45208,
+  "name": "종언의 일격",
+  "description": "파괴의 신 아테네가 사용하던, 생물의 영혼까지 산산조각내는 거대 망치.",
+  "icon": "/ui/imagesets/items1/100406.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

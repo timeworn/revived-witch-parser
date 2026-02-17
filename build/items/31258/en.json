@@ -1,0 +1,12 @@
+{
+  "id": 31258,
+  "name": "Birthday Bond Pack",
+  "description": "Birthday Bond Pack",
+  "icon": "/ui/imagesets/shop/shopgift45.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

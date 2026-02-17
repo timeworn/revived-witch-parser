@@ -1,0 +1,12 @@
+{
+  "id": 31334,
+  "name": "에리나의 선물",
+  "description": "에리나가 정성껏 만든 말차 케이크.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

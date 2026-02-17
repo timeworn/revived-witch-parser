@@ -1,0 +1,12 @@
+{
+  "id": 35001,
+  "name": "Diamond",
+  "description": "A precious mineral that can be redeemed for other resources.",
+  "icon": "/ui/imagesets/items1/100005.png",
+  "type": "Currency",
+  "typeId": 273,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

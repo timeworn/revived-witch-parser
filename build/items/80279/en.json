@@ -1,0 +1,12 @@
+{
+  "id": 80279,
+  "name": "Cold Will-o'-the-wisp",
+  "description": "[Wall Decor] A candle emitting a faint, strange glow. Instead of giving you warmth, it sends a chill down your spine. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101136.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40039,
+  "name": "마리나",
+  "description": "[인형사 마리나] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_temp.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78138,
+      "quantity": 1
+    }
+  ]
+}

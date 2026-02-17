@@ -1,0 +1,12 @@
+{
+  "id": 31107,
+  "name": "70级精英礼包",
+  "description": "魔女等级70级可购买。",
+  "icon": "/ui/imagesets/shop/giftlevelyellow11.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

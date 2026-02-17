@@ -1,0 +1,17 @@
+{
+  "id": 47809,
+  "name": "창세의 반지 '안드바리'",
+  "description": "창세의 정점에 녹지 않은 눈이 응결되어 형성된 성물, 전반적으로 새하얗고 무결점의 단색으로 되어 있다. 이것을 착용하면 천지 사이를 제약 없이 자유롭게 드나들 수 있다.",
+  "icon": "/ui/imagesets/items1/100437.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "",
-  "ownerId": 91,
+  "character": "",
+  "characterId": 91,
   "evolutions": null,
   "noEvolution": "",
   "skills": [

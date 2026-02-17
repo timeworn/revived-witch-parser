@@ -1,0 +1,17 @@
+{
+  "id": 40063,
+  "name": "Isabel",
+  "description": "Obtain Doll [Isabella: Executor of God's Grace]",
+  "icon": "/ui/imagesets/role/char_064/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78162,
+      "quantity": 1
+    }
+  ]
+}

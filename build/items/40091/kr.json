@@ -1,0 +1,17 @@
+{
+  "id": 40091,
+  "name": "유년 아카샤",
+  "description": "[검희의 길 유년 아카샤] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_092/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78192,
+      "quantity": 1
+    }
+  ]
+}

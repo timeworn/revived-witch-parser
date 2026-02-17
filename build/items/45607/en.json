@@ -1,0 +1,17 @@
+{
+  "id": 45607,
+  "name": "Elf Axe",
+  "description": "An axe that sank into the Elf Lake and absorbed the essence of the Forest of Elves.",
+  "icon": "/ui/imagesets/items1/100420.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

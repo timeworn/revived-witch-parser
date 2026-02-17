@@ -1,0 +1,12 @@
+{
+  "id": 31053,
+  "name": "20级精英礼包",
+  "description": "魔女等级20级可购买。",
+  "icon": "/ui/imagesets/shop/giftlevelyellow5.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

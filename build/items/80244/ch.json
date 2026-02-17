@@ -1,0 +1,12 @@
+{
+  "id": 80244,
+  "name": "树屋基地",
+  "description": "【大件】藏在大树上的秘密基地，只有受到邀请才可进入。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100999.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

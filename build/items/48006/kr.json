@@ -1,0 +1,17 @@
+{
+  "id": 48006,
+  "name": "파마의 목걸이",
+  "description": "머나먼 동방의 술사들이 즐겨 착용하던 마법의 목걸이, 악한 것을 깨뜨리고 바로 잡는 효과가 있다.",
+  "icon": "/ui/imagesets/items1/100464.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

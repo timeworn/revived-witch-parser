@@ -1,0 +1,20 @@
+{
+  "id": 31279,
+  "name": "饺子",
+  "description": "过年吃饺子，福气滚滚来！使用后能立即获得福。$B$$B$增加3点福。$B$活动结束后转换为等量的精神秘药。",
+  "icon": "/ui/imagesets/items1/100917.png",
+  "type": "普通物品",
+  "typeId": 138,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35043,
+      "quantity": 3
+    }
+  ]
+}

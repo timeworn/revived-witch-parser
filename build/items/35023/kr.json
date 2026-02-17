@@ -1,0 +1,12 @@
+{
+  "id": 35023,
+  "name": "시공의 정수",
+  "description": "시공의 힘이 응축되어 형성된 정수.",
+  "icon": "/ui/imagesets/items1/100645.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

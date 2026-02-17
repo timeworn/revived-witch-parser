@@ -1,0 +1,12 @@
+{
+  "id": 80179,
+  "name": "铁甲骑士",
+  "description": "【小件】威严的骑士盔甲仿佛随时会动起来，摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100847.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

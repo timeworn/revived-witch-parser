@@ -1,0 +1,12 @@
+{
+  "id": 31590,
+  "name": "Chapter 6 Basic Pack",
+  "description": "Chapter 6 Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift19.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

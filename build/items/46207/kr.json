@@ -1,0 +1,17 @@
+{
+  "id": 46207,
+  "name": "예언자의 성전",
+  "description": "동방의 이타카족 예언자로부터 대대손손 전해 내려온 성전.",
+  "icon": "/ui/imagesets/items1/100455.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

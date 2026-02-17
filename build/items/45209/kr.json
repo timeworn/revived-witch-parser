@@ -1,0 +1,17 @@
+{
+  "id": 45209,
+  "name": "혼돈의 망치 '골브너스'",
+  "description": "극야 전투에서 타락한 전쟁의 여신이 사용하던 망치, 암옥의 저주가 가득해 무한한 재앙을 불러온다.",
+  "icon": "/ui/imagesets/items1/100407.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

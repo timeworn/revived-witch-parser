@@ -1,0 +1,12 @@
+{
+  "id": 80182,
+  "name": "공포의 식탁",
+  "description": "[큰 가구] 할로윈 분위기가 물씬 나는 만찬, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100844.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

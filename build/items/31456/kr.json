@@ -1,0 +1,12 @@
+{
+  "id": 31456,
+  "name": "1주년 기념 액자",
+  "description": "깨어난 마녀 1주년 기념",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame13.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 5,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

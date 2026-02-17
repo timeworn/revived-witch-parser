@@ -1,0 +1,17 @@
+{
+  "id": 47406,
+  "name": "Champion's Armor",
+  "description": "A piece of armor only for those battle-hardened heroes.",
+  "icon": "/ui/imagesets/items1/100439.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

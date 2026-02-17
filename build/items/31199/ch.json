@@ -1,0 +1,12 @@
+{
+  "id": 31199,
+  "name": "养成支援礼包",
+  "description": "购买后可获得养成道具",
+  "icon": "/ui/imagesets/shop/shopgift7.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

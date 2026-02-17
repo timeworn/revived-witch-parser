@@ -1,0 +1,12 @@
+{
+  "id": 80263,
+  "name": "Ceremonial Chandelier",
+  "description": "[Wall Decor] The magic-infused chandelier emits a soft glow. Just being near it makes you feel relaxed. Increase Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101069.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

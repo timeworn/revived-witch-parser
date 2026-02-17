@@ -1,0 +1,12 @@
+{
+  "id": 31082,
+  "name": "月度家具礼盒",
+  "description": "购买后可获得大量家具币。",
+  "icon": "/ui/imagesets/shop/shopgift14.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

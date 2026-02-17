@@ -1,0 +1,17 @@
+{
+  "id": 40011,
+  "name": "아네모네",
+  "description": "[불꽃 엘레멘탈리스트 아네모네] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_npc_7.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78110,
+      "quantity": 1
+    }
+  ]
+}

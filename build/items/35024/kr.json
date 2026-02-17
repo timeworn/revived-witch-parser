@@ -1,0 +1,12 @@
+{
+  "id": 35024,
+  "name": "별",
+  "description": "밤하늘에서 떨어진 신비한 조각, 은은한 노란빛을 띤다.",
+  "icon": "/ui/imagesets/items1/100679.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46007,
+  "name": "Astral Bow",
+  "description": "A magical bow that gathers the blessings of starlight.",
+  "icon": "/ui/imagesets/items1/100425.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

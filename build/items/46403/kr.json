@@ -1,0 +1,17 @@
+{
+  "id": 46403,
+  "name": "음유시인의 하프",
+  "description": "음유시인이 감정을 주체할 수 없을 때, 흔히 이 하프로 아름다운 선율을 연주하곤 한다.",
+  "icon": "/ui/imagesets/items1/100176.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

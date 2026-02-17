@@ -1,0 +1,12 @@
+{
+  "id": 31128,
+  "name": "랜덤 에픽 선물",
+  "description": "랜덤으로 에픽 선물 획득 가능",
+  "icon": "/ui/imagesets/items1/100482.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

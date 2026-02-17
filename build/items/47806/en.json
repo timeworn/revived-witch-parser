@@ -1,0 +1,17 @@
+{
+  "id": 47806,
+  "name": "Enchanted Ring",
+  "description": "A legendary magic ring that robs the wearers of their sanity.",
+  "icon": "/ui/imagesets/items1/100434.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

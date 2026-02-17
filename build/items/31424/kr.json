@@ -1,0 +1,12 @@
+{
+  "id": 31424,
+  "name": "악동 캔디",
+  "description": "할로윈데이 아이들의 필수품 캔디.",
+  "icon": "/ui/imagesets/items1/100840.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

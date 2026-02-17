@@ -1,0 +1,12 @@
+{
+  "id": 80259,
+  "name": "Mashup Wooden Wall",
+  "description": "[Wallpaper] A collage of wood panels. The most stylish wall decoration of the year! Take care to keep it dry. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101066.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

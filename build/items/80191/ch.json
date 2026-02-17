@@ -1,0 +1,12 @@
+{
+  "id": 80191,
+  "name": "圣诞彩条",
+  "description": "【墙饰】用冬青树枝编织而成，点缀有铃铛的彩条。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100877.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

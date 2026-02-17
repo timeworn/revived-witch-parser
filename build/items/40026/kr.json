@@ -1,0 +1,17 @@
+{
+  "id": 40026,
+  "name": "케테스",
+  "description": "[붉은 전희 케테스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_030.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78125,
+      "quantity": 1
+    }
+  ]
+}

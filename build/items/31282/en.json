@@ -1,0 +1,12 @@
+{
+  "id": 31282,
+  "name": "Avatar for the Idol Support event",
+  "description": "Commemorative avatar for die-hard fans",
+  "icon": "/ui/imagesets/headphotos/headphoto_Christmas.png",
+  "type": "Avatar",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

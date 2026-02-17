@@ -1,0 +1,17 @@
+{
+  "id": 49202,
+  "name": "战场统领-大剑",
+  "description": "战场统领-大剑",
+  "icon": "/ui/imagesets/items1/100765.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

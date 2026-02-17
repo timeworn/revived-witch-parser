@@ -1,0 +1,17 @@
+{
+  "id": 40043,
+  "name": "Parme",
+  "description": "Obtain Doll [Parme: Truth Seeker]",
+  "icon": "/ui/imagesets/headphotos/hp_044.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78142,
+      "quantity": 1
+    }
+  ]
+}

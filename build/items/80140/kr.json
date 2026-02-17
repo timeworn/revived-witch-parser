@@ -1,0 +1,12 @@
+{
+  "id": 80140,
+  "name": "화원 식물(좌)",
+  "description": "[카펫] 발밑에 식물이 가득 깔린 대형 화단, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100672.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

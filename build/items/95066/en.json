@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Hauen",
-  "ownerId": 66,
+  "character": "Hauen",
+  "characterId": 66,
   "evolutions": "(Doll's current Evolution Level restores HP equal to 0/1/2/3% of ATK)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

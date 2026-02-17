@@ -1,0 +1,17 @@
+{
+  "id": 40069,
+  "name": "米奈厄",
+  "description": "可以获得人偶 【夜之庇佑 米奈厄】",
+  "icon": "/ui/imagesets/headphotos/hp_070.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78168,
+      "quantity": 1
+    }
+  ]
+}

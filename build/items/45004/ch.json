@@ -1,0 +1,17 @@
+{
+  "id": 45004,
+  "name": "巨人之盾",
+  "description": "古代巨人族使用的盾牌，规格超越人类的想象",
+  "icon": "/ui/imagesets/items1/100068.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

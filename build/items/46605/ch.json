@@ -1,0 +1,17 @@
+{
+  "id": 46605,
+  "name": "神谕宝珠",
+  "description": "信徒间传颂，能够聆听神谕的神奇宝珠",
+  "icon": "/ui/imagesets/items1/100393.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

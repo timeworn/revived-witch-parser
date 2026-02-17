@@ -1,0 +1,17 @@
+{
+  "id": 47006,
+  "name": "Dawn's Blessing",
+  "description": "A magical staff that gathers the power of the Morning Star.",
+  "icon": "/ui/imagesets/items1/100414.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

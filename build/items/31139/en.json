@@ -1,0 +1,12 @@
+{
+  "id": 31139,
+  "name": "Hype Summon Pack",
+  "description": "A new chapter is about to come! Buy this pack to summon 20 times.",
+  "icon": "/ui/imagesets/shop/shopgift16.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

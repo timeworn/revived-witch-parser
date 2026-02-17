@@ -1,0 +1,13 @@
+{
+  "id": 76003,
+  "name": "铂金",
+  "description": "罕见的金属，被认为是尊贵的象征，可以为装备提供<color=#32CD32>1000</color>经验。",
+  "icon": "/ui/imagesets/items1/100128.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

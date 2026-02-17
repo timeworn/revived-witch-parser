@@ -1,0 +1,17 @@
+{
+  "id": 40104,
+  "name": "콜레이어",
+  "description": "[샤이닝걸 콜레이어] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_105/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781105,
+      "quantity": 1
+    }
+  ]
+}

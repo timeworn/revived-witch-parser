@@ -1,0 +1,12 @@
+{
+  "id": 31269,
+  "name": "圣诞伴手礼",
+  "description": "圣诞节的小小心意",
+  "icon": "/ui/imagesets/items1/100900.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

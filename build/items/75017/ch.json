@@ -1,0 +1,13 @@
+{
+  "id": 75017,
+  "name": "高级魔导结晶",
+  "description": "魔力的结晶，用于魔导型人偶的突破。",
+  "icon": "/ui/imagesets/items1/100106.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

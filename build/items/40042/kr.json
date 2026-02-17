@@ -1,0 +1,17 @@
+{
+  "id": 40042,
+  "name": "노른",
+  "description": "[영원의 신관 노른] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_055.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78141,
+      "quantity": 1
+    }
+  ]
+}

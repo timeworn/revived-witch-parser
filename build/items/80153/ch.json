@@ -1,0 +1,12 @@
+{
+  "id": 80153,
+  "name": "小岛挂画",
+  "description": "【墙饰】有着小岛外形的挂画。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100807.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

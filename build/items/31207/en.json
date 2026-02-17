@@ -1,0 +1,12 @@
+{
+  "id": 31207,
+  "name": "Skill Boost Pack",
+  "description": "",
+  "icon": "/ui/imagesets/shop/shopgift31.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

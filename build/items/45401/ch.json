@@ -1,0 +1,17 @@
+{
+  "id": 45401,
+  "name": "短剑",
+  "description": "小孩子也能挥动的短剑，可以用来护身",
+  "icon": "/ui/imagesets/items1/100078.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

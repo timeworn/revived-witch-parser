@@ -1,0 +1,12 @@
+{
+  "id": 30074,
+  "name": "Activeness Reward 4",
+  "description": "日常任务活跃值奖励4",
+  "icon": "/ui/imagesets/items1/chest1.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

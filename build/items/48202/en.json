@@ -1,0 +1,17 @@
+{
+  "id": 48202,
+  "name": "Sword of Thorns",
+  "description": "The hilt of the sword is covered in magical vines and thorns, making those who approach recklessly backfired by magic.",
+  "icon": "/ui/imagesets/items1/100711.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

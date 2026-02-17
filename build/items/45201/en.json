@@ -1,0 +1,17 @@
+{
+  "id": 45201,
+  "name": "Bronze Hammer",
+  "description": "A common bronze hammer. Easy to wield.",
+  "icon": "/ui/imagesets/items1/100166.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

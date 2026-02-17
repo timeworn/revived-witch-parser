@@ -1,0 +1,17 @@
+{
+  "id": 47402,
+  "name": "盔甲",
+  "description": "常见的盔甲，有一定的护身作用",
+  "icon": "/ui/imagesets/items1/100196.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

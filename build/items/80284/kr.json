@@ -1,0 +1,12 @@
+{
+  "id": 80284,
+  "name": "공포의 괘종시계",
+  "description": "[작은 가구] 으스스한 곳에선 항상 갑자기 굉음이 들리곤 한다…… 특히 무언가에 가까이 다가가고 있을 때. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101141.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47802,
+  "name": "蜂刺",
+  "description": "暗杀者们喜爱的戒指，据说有神奇的庇护作用",
+  "icon": "/ui/imagesets/items1/100182.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

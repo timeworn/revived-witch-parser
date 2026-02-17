@@ -1,0 +1,17 @@
+{
+  "id": 40023,
+  "name": "체르니",
+  "description": "[기만의 천사 체르니] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_022.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78122,
+      "quantity": 1
+    }
+  ]
+}

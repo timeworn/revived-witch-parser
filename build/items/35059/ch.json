@@ -1,0 +1,12 @@
+{
+  "id": 35059,
+  "name": "魔女印章",
+  "description": "印有魔女头像的精致印章。",
+  "icon": "/ui/imagesets/items1/101031.png",
+  "type": "货币",
+  "typeId": 1073,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

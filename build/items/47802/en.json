@@ -1,0 +1,17 @@
+{
+  "id": 47802,
+  "name": "Stinger",
+  "description": "A ring favored by assassins. Said to be of magical protection.",
+  "icon": "/ui/imagesets/items1/100182.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

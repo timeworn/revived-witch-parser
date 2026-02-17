@@ -1,0 +1,12 @@
+{
+  "id": 50005,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/chest1.png",
+  "type": "",
+  "typeId": 18,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80178,
+  "name": "古堡椅子",
+  "description": "【小件】古朴而华丽的椅子，摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100852.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31309,
+  "name": "春节头像框",
+  "description": "新年快乐",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame12.png",
+  "type": "头像框",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35008,
+      "quantity": 500
+    }
+  ]
+}

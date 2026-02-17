@@ -1,0 +1,17 @@
+{
+  "id": 48306,
+  "name": "大地之杖",
+  "description": "吸收大地之精华的法杖，拥有出色的物理属性抗性",
+  "icon": "/ui/imagesets/items1/100694.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

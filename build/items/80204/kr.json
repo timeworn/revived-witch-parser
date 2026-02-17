@@ -1,0 +1,12 @@
+{
+  "id": 80204,
+  "name": "마터웨이브 피규어",
+  "description": "[작은 가구] 마터웨이브가 손수 만든 피규어, 마녀가 자신을 기억해 주길 바란다. 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100942.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

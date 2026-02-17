@@ -1,0 +1,12 @@
+{
+  "id": 31422,
+  "name": "고급 선물 패키지",
+  "description": "마녀의 인장",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewWeekShop03.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40019,
+  "name": "",
+  "description": "[전장의 꽃 하델] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_029.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78118,
+      "quantity": 1
+    }
+  ]
+}

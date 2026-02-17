@@ -1,0 +1,12 @@
+{
+  "id": 31353,
+  "name": "중급 클라운 패키지",
+  "description": "중급 클라운 패키지",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

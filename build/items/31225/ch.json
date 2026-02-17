@@ -1,0 +1,12 @@
+{
+  "id": 31225,
+  "name": "南瓜节终级礼包",
+  "description": "庆祝南瓜节活动上线，购买可获得抽卡道具和专属装备的购买道具",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

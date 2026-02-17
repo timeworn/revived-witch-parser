@@ -1,0 +1,12 @@
+{
+  "id": 31009,
+  "name": "Cactus",
+  "description": "An exquisite gift. Give it to a Doll to increase 150 Intimacy points.",
+  "icon": "/ui/imagesets/items1/100485.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

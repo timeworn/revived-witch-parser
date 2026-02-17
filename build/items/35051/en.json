@@ -1,0 +1,12 @@
+{
+  "id": 35051,
+  "name": "Blue Clown Coin",
+  "description": "A blue coin sporting the pattern of a clown on its obverse. Can be used to redeem items at the Store. [Event Token]",
+  "icon": "/ui/imagesets/items1/100986.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

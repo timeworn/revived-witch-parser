@@ -1,0 +1,17 @@
+{
+  "id": 48207,
+  "name": "Garment of Thorns",
+  "description": "The garment is covered in magical vines and thorns, making those who approach recklessly backfired by magic.",
+  "icon": "/ui/imagesets/items1/100710.png",
+  "type": "Armor",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

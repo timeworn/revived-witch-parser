@@ -1,0 +1,12 @@
+{
+  "id": 31360,
+  "name": "중급 바캉스 패키지",
+  "description": "",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

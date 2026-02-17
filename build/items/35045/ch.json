@@ -1,0 +1,12 @@
+{
+  "id": 35045,
+  "name": "巧克力",
+  "description": "瓦伦丁节期间的节日商品，各商铺均有售卖。",
+  "icon": "/ui/imagesets/items1/100920.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

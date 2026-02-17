@@ -1,0 +1,12 @@
+{
+  "id": 80007,
+  "name": "Wooden Desk",
+  "description": "[Compact Item] A small wooden desk. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100536.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

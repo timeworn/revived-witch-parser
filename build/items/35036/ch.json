@@ -1,0 +1,12 @@
+{
+  "id": 35036,
+  "name": "南瓜蛋糕",
+  "description": "南瓜节来了，怎能不享受一个美味的南瓜蛋糕呢？",
+  "icon": "/ui/imagesets/items1/100835.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

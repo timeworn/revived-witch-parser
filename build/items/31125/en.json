@@ -1,0 +1,12 @@
+{
+  "id": 31125,
+  "name": "Random Average Quartz",
+  "description": "Get 1 random Average Ascension Quartz.",
+  "icon": "/ui/imagesets/items1/100102.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31056,
+  "name": "40레벨 정예 패키지",
+  "description": "마녀 40레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelyellow8.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

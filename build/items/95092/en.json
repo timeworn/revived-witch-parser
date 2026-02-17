@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Little Akasha",
-  "ownerId": 92,
+  "character": "Little Akasha",
+  "characterId": 92,
   "evolutions": "(Evolving the current Character's Level will also increase an Attribute by 0/0.15/0.3/0.45%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

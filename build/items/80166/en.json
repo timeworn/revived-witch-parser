@@ -1,0 +1,12 @@
+{
+  "id": 80166,
+  "name": "Flying Witch",
+  "description": "[Wall Decor] Is this a bird? Or an airplane? Neither... It's a witch. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100833.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

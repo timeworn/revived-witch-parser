@@ -1,0 +1,12 @@
+{
+  "id": 80168,
+  "name": "Ancient Castle Wallpaper",
+  "description": "[Wallpaper] A perfect copy of Dracucat's castle, down to every tile. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100859.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

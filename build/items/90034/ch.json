@@ -1,0 +1,12 @@
+{
+  "id": 90034,
+  "name": "突破造型 玛娅维尔",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/101014.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31155,
+  "name": "Mid-Autumn Equipment Pack",
+  "description": "Rejoice in the coming of Mid-Autumn Festival! Buy this pack for unique equipment upgrade materials.",
+  "icon": "/ui/imagesets/shop/shopgift32.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

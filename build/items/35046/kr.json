@@ -1,0 +1,12 @@
+{
+  "id": 35046,
+  "name": "꽃",
+  "description": "밸런타인데이 때 초콜릿과 함께 보내는 꽃.",
+  "icon": "/ui/imagesets/items1/100921.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

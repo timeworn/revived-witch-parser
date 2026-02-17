@@ -1,0 +1,12 @@
+{
+  "id": 35072,
+  "name": "특제 간식",
+  "description": "악룡의 비늘에서 흘러내린 시럽으로 만들어져, 질리지 않는 달콤한 맛으로 어른들과 아이들 모두에게 인기가 좋다.",
+  "icon": "/ui/imagesets/items1/101190.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35001,
+  "name": "다이아",
+  "description": "진귀한 광물 자원, 다른 자원으로 교환할 수 있다.",
+  "icon": "/ui/imagesets/items1/100005.png",
+  "type": "재화",
+  "typeId": 273,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

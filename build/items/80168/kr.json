@@ -1,0 +1,12 @@
+{
+  "id": 80168,
+  "name": "고성 벽지",
+  "description": "[벽지] 드라큘냥의 성을 완벽하게 재현하는 데에 없어선 안 될 벽지, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100859.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

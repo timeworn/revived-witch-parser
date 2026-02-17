@@ -1,0 +1,13 @@
+{
+  "id": 75001,
+  "name": "Average Guardian Quartz",
+  "description": "Magic Quartz used to ascend the Guardians.",
+  "icon": "/ui/imagesets/items1/100102.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

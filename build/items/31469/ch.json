@@ -1,0 +1,12 @@
+{
+  "id": 31469,
+  "name": "第1日庆典礼包",
+  "description": "看起来瘦瘦高高的蘑菇，据说跟随它可以带来好运",
+  "icon": "/ui/imagesets/items1/101057.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

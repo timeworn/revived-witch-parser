@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Angling",
-  "ownerId": 111,
+  "character": "Angling",
+  "characterId": 111,
   "evolutions": "(Doll's current Evolution Level increases ATK by 0/1/2/3%, and when using Unique Weapon, the ratio of Physical DMG dealt converted into HP increases by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

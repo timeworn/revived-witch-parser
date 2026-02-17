@@ -1,0 +1,21 @@
+{
+  "id": 60272,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/skillicon1/XuanFengZhan.png",
+  "type": "Skill",
+  "typeId": 315,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 30055,
+      "quantity": 1
+    },
+    {
+      "id": 30055,
+      "quantity": 1
+    }
+  ]
+}

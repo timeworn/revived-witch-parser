@@ -1,0 +1,12 @@
+{
+  "id": 31176,
+  "name": "随机高级结晶",
+  "description": "可获得1个随机高级突破结晶。",
+  "icon": "/ui/imagesets/items1/100103.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

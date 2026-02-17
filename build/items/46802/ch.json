@@ -1,0 +1,17 @@
+{
+  "id": 46802,
+  "name": "储灵杯",
+  "description": "平时用于储存灵力，在战斗中可以释放",
+  "icon": "/ui/imagesets/items1/100190.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

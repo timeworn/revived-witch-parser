@@ -1,0 +1,12 @@
+{
+  "id": 31649,
+  "name": "Halloween Premium Pack",
+  "description": "Halloween Premium Pack",
+  "icon": "/ui/imagesets/shop/shopgift71.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

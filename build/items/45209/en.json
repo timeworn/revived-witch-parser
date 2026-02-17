@@ -1,0 +1,17 @@
+{
+  "id": 45209,
+  "name": "Golbnus, Hammer of Chaos",
+  "description": "A hammer used by the fallen Valkyrie in the Battle of the Polar Night. It is cursed with the spell of Hades, conjuring endless calamities.",
+  "icon": "/ui/imagesets/items1/100407.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

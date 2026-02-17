@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Cassis",
-  "ownerId": 112,
+  "character": "Cassis",
+  "characterId": 112,
   "evolutions": "(Doll's current Evolution Level increases HP equal to 0/1.5/3/4.5% of Cassis's max HP for the duration of Stimulated)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

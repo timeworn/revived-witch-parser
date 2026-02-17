@@ -1,0 +1,12 @@
+{
+  "id": 35043,
+  "name": "福",
+  "description": "承载着人们对春节最真挚的祝福，在它的庇佑下才能挑战年兽来袭，$B$一般需要一定时间才能回复。$B$$B$年兽来袭需要消耗福",
+  "icon": "/ui/imagesets/items1/100916.png",
+  "type": "货币",
+  "typeId": 545,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

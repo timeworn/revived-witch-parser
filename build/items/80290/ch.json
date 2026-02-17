@@ -1,0 +1,12 @@
+{
+  "id": 80290,
+  "name": "亵渎壁炉",
+  "description": "【大件】“这地方怎么连个人影都看不到……”坐在壁炉上的恶魔如是思考到。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101147.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

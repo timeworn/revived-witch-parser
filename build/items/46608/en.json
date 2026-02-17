@@ -1,0 +1,17 @@
+{
+  "id": 46608,
+  "name": "Clotho's Choice",
+  "description": "A magical orb containing the power of the Auguring Star. It can reveal the future.",
+  "icon": "/ui/imagesets/items1/100396.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40081,
+  "name": "Sinmara",
+  "description": "Obtain Doll [Sinmara: The Inferno]",
+  "icon": "/ui/imagesets/localization/role/char_082/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781082,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80226,
+  "name": "입춘방",
+  "description": "[창문] 고풍스러운 창문, 명절 분위기를 한껏 즐길 수 있다. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100957.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

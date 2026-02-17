@@ -1,0 +1,12 @@
+{
+  "id": 31077,
+  "name": "Advanced Discount Pack",
+  "description": "Purchase to gain a large number of Doll ascension materials.",
+  "icon": "/ui/imagesets/shop/shopgift8.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45409,
+  "name": "芬萨里尔",
+  "description": "悲惨宫殿中供奉的灵魂之剑，寄宿着魂之守护者赛法德的无限怨念，据说蕴藏着弑神的力量",
+  "icon": "/ui/imagesets/items1/100432.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

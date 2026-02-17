@@ -1,0 +1,12 @@
+{
+  "id": 31335,
+  "name": "아마나미의 선물",
+  "description": "아마나미 고향의 간식.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop1.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31200,
+  "name": "限时装备礼包",
+  "description": "购买后可获得装备养成道具",
+  "icon": "/ui/imagesets/shop/shopgift36.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

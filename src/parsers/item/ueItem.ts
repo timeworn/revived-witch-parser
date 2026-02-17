@@ -100,8 +100,8 @@ export class UEItemParser extends BaseParser<RawItem, UEOnlyItem> {
     }
 
     return {
-      owner: character?.name ?? null,
-      ownerId: character?.id ?? null,
+      character: character?.name ?? null,
+      characterId: character?.id ?? null,
       evolutions,
       noEvolution: this.localizer.localize(rawUEItem.noevolutiontext),
       skills,

@@ -1,0 +1,13 @@
+{
+  "id": 74005,
+  "name": "Brutal Serum",
+  "description": "Translucent Serum that seals the most primitive brutality. Used to enhance the Dolls' skills.",
+  "icon": "/ui/imagesets/items1/100554.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

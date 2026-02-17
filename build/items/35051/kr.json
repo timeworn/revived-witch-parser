@@ -1,0 +1,12 @@
+{
+  "id": 35051,
+  "name": "블루클라운 코인",
+  "description": "[이벤트] 클라운 문양이 새겨져 있는 푸른 코인, 상점에서 사용할 수 있다.",
+  "icon": "/ui/imagesets/items1/100986.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

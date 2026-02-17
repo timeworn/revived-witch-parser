@@ -1,0 +1,12 @@
+{
+  "id": 31290,
+  "name": "闪耀舞台高级礼包",
+  "description": "庆祝闪耀舞台活动上线，购买可获得大量装备培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift35.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

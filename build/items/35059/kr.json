@@ -1,0 +1,12 @@
+{
+  "id": 35059,
+  "name": "마녀의 인장",
+  "description": "마녀가 새겨진 정교한 인장.",
+  "icon": "/ui/imagesets/items1/101031.png",
+  "type": "재화",
+  "typeId": 1073,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

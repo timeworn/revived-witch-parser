@@ -1,0 +1,12 @@
+{
+  "id": 31577,
+  "name": "Lobster Pack",
+  "description": "Lobsters sold at the market. Loved by everyone.",
+  "icon": "/ui/imagesets/items1/101162.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

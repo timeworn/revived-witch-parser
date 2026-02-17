@@ -1,0 +1,12 @@
+{
+  "id": 31409,
+  "name": "Deluxe Giftbox",
+  "description": "Deluxe Gift",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewMazeShop2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

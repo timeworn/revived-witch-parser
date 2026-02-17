@@ -1,0 +1,12 @@
+{
+  "id": 35049,
+  "name": "Mana Coin",
+  "description": "A coin sporting the pattern of Mana on its obverse. Can be used to enhance Character's level in the event. [Event Token]",
+  "icon": "/ui/imagesets/items1/100987.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

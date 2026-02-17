@@ -1,0 +1,12 @@
+{
+  "id": 31709,
+  "name": "闪耀舞台终级礼包",
+  "description": "庆祝闪耀舞台活动上线，购买可获得专属装备的购买道具。",
+  "icon": "/ui/imagesets/shop/shopgift28.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

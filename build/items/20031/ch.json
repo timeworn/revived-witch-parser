@@ -1,0 +1,12 @@
+{
+  "id": 20031,
+  "name": "火焰徽章",
+  "description": "元素使艾妮萌掉落的徽章。",
+  "icon": "/ui/imagesets/items1/100129.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

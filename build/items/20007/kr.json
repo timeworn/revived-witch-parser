@@ -1,0 +1,12 @@
+{
+  "id": 20007,
+  "name": "시간의 오르골",
+  "description": "기이한 곡을 연주해 사람을 꿈속으로 유인할 수 있는, 모양이 정교한 악기.",
+  "icon": "/ui/imagesets/items1/100122.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

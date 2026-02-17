@@ -1,0 +1,17 @@
+{
+  "id": 48007,
+  "name": "Dark Necklace",
+  "description": "An accessory worn by General Axe Van Pelos who is a guard of Purgatory. It can summon the flames of purgatory.",
+  "icon": "/ui/imagesets/items1/100465.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

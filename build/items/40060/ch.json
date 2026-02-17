@@ -1,0 +1,17 @@
+{
+  "id": 40060,
+  "name": "由依",
+  "description": "可以获得人偶 【破魔之枪 由依】",
+  "icon": "/ui/imagesets/headphotos/hp_061.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78159,
+      "quantity": 1
+    }
+  ]
+}

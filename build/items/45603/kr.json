@@ -1,0 +1,17 @@
+{
+  "id": 45603,
+  "name": "야만족의 도끼",
+  "description": "적진으로 돌격하던 야만족 전사들이 사용하던 도끼, 힘찬 기세를 느낄 수 있다.",
+  "icon": "/ui/imagesets/items1/100172.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 70002,
+  "name": "Average Runestone",
+  "description": "Enchantment Material for equipment. It refreshes equipment with moderately strong attributes.",
+  "icon": "/ui/imagesets/items1/100206.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80122,
+  "name": "雷霆地板",
+  "description": "【地板】雷霆游戏的大理石地板。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100654.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

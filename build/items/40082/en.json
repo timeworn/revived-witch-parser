@@ -1,0 +1,17 @@
+{
+  "id": 40082,
+  "name": "Cersivey",
+  "description": "Obtain Doll [Cersivey: Saintess of Snegurochka]",
+  "icon": "/ui/imagesets/headphotos/hp_083.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78183,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80231,
+  "name": "贺岁舞狮套装",
+  "description": "【小件】看起来凶巴巴的小老虎，可以将一年的霉运赶跑。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100962.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

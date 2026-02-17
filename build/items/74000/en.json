@@ -1,0 +1,13 @@
+{
+  "id": 74000,
+  "name": "Basic Skill Pact",
+  "description": "Used to enhance Doll skills.",
+  "icon": "/ui/imagesets/items1/100234.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

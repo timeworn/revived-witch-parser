@@ -1,0 +1,17 @@
+{
+  "id": 48302,
+  "name": "Sword of the Earth",
+  "description": "A sword infused with the essence of the earth and possesses great physical resistance.",
+  "icon": "/ui/imagesets/items1/100692.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

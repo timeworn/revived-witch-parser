@@ -1,0 +1,12 @@
+{
+  "id": 31597,
+  "name": "여름의 메아리",
+  "description": "여름의 끝자락에서, 소녀들은 오래도록 추억할 시간을 만들기 위해 모였다.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame14.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

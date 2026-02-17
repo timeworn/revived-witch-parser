@@ -1,0 +1,17 @@
+{
+  "id": 48004,
+  "name": "珊瑚链",
+  "description": "南方诸岛流行的项链，用珊瑚精心编制而成",
+  "icon": "/ui/imagesets/items1/100200.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

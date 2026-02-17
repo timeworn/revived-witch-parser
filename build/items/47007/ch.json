@@ -1,0 +1,17 @@
+{
+  "id": 47007,
+  "name": "禁断法杖",
+  "description": "加利斯之王使用的恶毒法杖，只在恶魔的降临仪式上使用",
+  "icon": "/ui/imagesets/items1/100415.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Ushpia",
-  "ownerId": 41,
+  "character": "Ushpia",
+  "characterId": 41,
   "evolutions": "(Evolving the current Character's Level will also increase Generation Speed by 0/0.25/0.5/0.75%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

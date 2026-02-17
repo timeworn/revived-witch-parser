@@ -1,0 +1,17 @@
+{
+  "id": 47603,
+  "name": "기도자의 예복",
+  "description": "기도 의식을 할 때 입는 예복, 화려하진 않지만 품위가 있어 보인다.",
+  "icon": "/ui/imagesets/items1/100386.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

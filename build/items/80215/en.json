@@ -1,0 +1,12 @@
+{
+  "id": 80215,
+  "name": "Cracker Pack",
+  "description": "[Compact Item] A children's favorite during the Spring Festival. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100929.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

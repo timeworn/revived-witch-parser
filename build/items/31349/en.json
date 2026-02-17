@@ -1,0 +1,12 @@
+{
+  "id": 31349,
+  "name": "Deluxe Prank Box",
+  "description": "Open it! A Large Soul Cryolite and tons of development materials await you.",
+  "icon": "/ui/imagesets/items1/100982.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46201,
+  "name": "훼손된 서적",
+  "description": "서적이 많이 훼손되어 알아보기 어려워 보인다.",
+  "icon": "/ui/imagesets/items1/100066.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

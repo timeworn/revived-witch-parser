@@ -1,0 +1,12 @@
+{
+  "id": 80067,
+  "name": "蓝绿色墙纸",
+  "description": "【墙纸】蓝绿色花纹墙纸。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100555.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

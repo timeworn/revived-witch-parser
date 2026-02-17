@@ -1,0 +1,17 @@
+{
+  "id": 40001,
+  "name": "크로쉐",
+  "description": "[시계탑의 시녀 크로쉐] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_004.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78100,
+      "quantity": 1
+    }
+  ]
+}

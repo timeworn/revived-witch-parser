@@ -1,0 +1,17 @@
+{
+  "id": 40043,
+  "name": "帕玫",
+  "description": "可以获得人偶 【真谛探寻者 帕玫】",
+  "icon": "/ui/imagesets/headphotos/hp_044.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78142,
+      "quantity": 1
+    }
+  ]
+}

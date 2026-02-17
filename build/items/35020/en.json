@@ -1,0 +1,12 @@
+{
+  "id": 35020,
+  "name": "Magic Quartz",
+  "description": "Used to upgrade the Magic Level. Obtained by completing stages.",
+  "icon": "/ui/imagesets/items1/100640.png",
+  "type": "Magic Quartz",
+  "typeId": 90,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48009,
+  "name": "圣链·布里希嘉曼",
+  "description": "海之女神献给绝对神，歌颂绝对神创世之举的圣物，风雨雷电，召之即来挥之即去",
+  "icon": "/ui/imagesets/items1/100467.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

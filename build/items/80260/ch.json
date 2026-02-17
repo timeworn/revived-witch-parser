@@ -1,0 +1,12 @@
+{
+  "id": 80260,
+  "name": "集会地毯",
+  "description": "【地毯】曾有人说过，不想当国际象棋棋盘的曲奇饼可不是好毯子。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101077.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

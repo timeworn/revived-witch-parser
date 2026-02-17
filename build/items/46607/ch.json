@@ -1,0 +1,17 @@
+{
+  "id": 46607,
+  "name": "日轮宝珠",
+  "description": "太阳信仰的先住民部落代代相传的宝物，能够浮现出太阳的徽记",
+  "icon": "/ui/imagesets/items1/100395.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

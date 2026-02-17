@@ -1,0 +1,12 @@
+{
+  "id": 31126,
+  "name": "Random UR Doll",
+  "description": "Obtain 1 random UR Doll",
+  "icon": "/ui/imagesets/items1/chest2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

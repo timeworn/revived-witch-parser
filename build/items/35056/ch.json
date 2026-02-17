@@ -1,0 +1,12 @@
+{
+  "id": 35056,
+  "name": "幸运铜币",
+  "description": "古老而神秘的钱币，据说投入古井会交到好运",
+  "icon": "/ui/imagesets/items1/101030.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

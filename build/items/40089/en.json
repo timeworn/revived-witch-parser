@@ -1,0 +1,17 @@
+{
+  "id": 40089,
+  "name": "Betsy",
+  "description": "Obtain Doll [Betsy: Night Crawler]",
+  "icon": "/ui/imagesets/headphotos/hp_090.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78190,
+      "quantity": 1
+    }
+  ]
+}

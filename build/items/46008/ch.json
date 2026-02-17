@@ -1,0 +1,17 @@
+{
+  "id": 46008,
+  "name": "乖离灭世",
+  "description": "经由邪恶的炼金术召唤出的异界之弓，据说一击就能毁灭一座城市",
+  "icon": "/ui/imagesets/items1/100426.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

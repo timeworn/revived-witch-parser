@@ -1,0 +1,12 @@
+{
+  "id": 20005,
+  "name": "酒壶",
+  "description": "做工精细的酒壶，金属表面被仔细擦拭过，可以看出主人对酒壶的珍视。精致的酒壶一般只有地位极高的人在宴饮时使用，不过也有少数的人获得过这种赏赐。",
+  "icon": "/ui/imagesets/items1/100130.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

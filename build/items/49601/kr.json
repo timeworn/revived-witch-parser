@@ -1,0 +1,17 @@
+{
+  "id": 49601,
+  "name": "술식 증폭-마법 봉",
+  "description": "술식 증폭-마법 봉",
+  "icon": "/ui/imagesets/items1/100764.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

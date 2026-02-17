@@ -1,0 +1,17 @@
+{
+  "id": 45609,
+  "name": "연옥의 도끼 '프레도'",
+  "description": "연옥의 용 프레도의 화신, 지옥의 불꽃을 소환하여 모든 적을 태워버릴 수 있다.",
+  "icon": "/ui/imagesets/items1/100422.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

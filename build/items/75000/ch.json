@@ -1,0 +1,13 @@
+{
+  "id": 75000,
+  "name": "低级守护结晶",
+  "description": "魔力的结晶，用于守护型人偶的突破。",
+  "icon": "/ui/imagesets/items1/100101.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46602,
+  "name": "Spiritual Orb",
+  "description": "An orb used to gather spiritual power during the séance ceremony.",
+  "icon": "/ui/imagesets/items1/100076.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

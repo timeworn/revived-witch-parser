@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "안젤린",
-  "ownerId": 111,
+  "character": "안젤린",
+  "characterId": 111,
   "evolutions": "(현재 캐릭터 진화 레벨 공격력 0/1/2/3% 추가 증가, 물리 피해의 0/1/2/3%만큼 HP로 추가 회복)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

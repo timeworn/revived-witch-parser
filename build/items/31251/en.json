@@ -1,0 +1,12 @@
+{
+  "id": 31251,
+  "name": "Reunion Quest Pack",
+  "description": "Reunion Quest Pack",
+  "icon": "/ui/imagesets/shop/shopgift70.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31048,
+  "name": "60级冒险礼包",
+  "description": "魔女等级60级可购买。",
+  "icon": "/ui/imagesets/shop/giftlevelblue10.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

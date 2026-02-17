@@ -1,0 +1,12 @@
+{
+  "id": 80289,
+  "name": "남은 음식들의 향연",
+  "description": "[큰 가구] 고성의 세월과 역사를 품고있는 저녁 만찬. 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101146.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80306,
+  "name": "Spliced Wine Rack",
+  "description": "[Bulky Item] This enormous wine cabinet can satisfy the need of all customers, from heavy spenders to those on budget. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101131.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

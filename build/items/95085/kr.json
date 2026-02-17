@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "플레어",
-  "ownerId": 85,
+  "character": "플레어",
+  "characterId": 85,
   "evolutions": "(캐릭터 진화 시 최대 HP의 0/1/2/3%만큼 마법 피해가 증가한다)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

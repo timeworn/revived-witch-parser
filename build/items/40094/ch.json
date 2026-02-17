@@ -1,0 +1,17 @@
+{
+  "id": 40094,
+  "name": "偶像芙洛莱",
+  "description": "可以获得人偶 【梦之舞台 偶像芙洛莱】",
+  "icon": "/ui/imagesets/localization/role/char_095/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78195,
+      "quantity": 1
+    }
+  ]
+}

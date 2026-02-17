@@ -1,0 +1,12 @@
+{
+  "id": 80052,
+  "name": "White Rose",
+  "description": "[Compact Item] Fresh white rose. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100566.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

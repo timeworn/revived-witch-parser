@@ -1,0 +1,17 @@
+{
+  "id": 49304,
+  "name": "地狱猎手-项链",
+  "description": "地狱猎手-项链",
+  "icon": "/ui/imagesets/items1/100740.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

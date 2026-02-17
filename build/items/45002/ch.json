@@ -1,0 +1,17 @@
+{
+  "id": 45002,
+  "name": "骑士盾",
+  "description": "为骑士量身打造的盾牌，能够抵挡正面的突刺攻击",
+  "icon": "/ui/imagesets/items1/100070.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35048,
+  "name": "정령수",
+  "description": "잊혀진 인형의 일부 능력을 재구성하는 데 사용한다.",
+  "icon": "/ui/imagesets/items1/100975.png",
+  "type": "재화",
+  "typeId": 1057,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

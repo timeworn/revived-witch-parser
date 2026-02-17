@@ -1,0 +1,12 @@
+{
+  "id": 31701,
+  "name": "Ultimate Pack",
+  "description": "Summer Echo Deluxe Pack",
+  "icon": "/ui/imagesets/shop/shopgift61.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

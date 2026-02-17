@@ -1,0 +1,17 @@
+{
+  "id": 40115,
+  "name": "오리스",
+  "description": "혼의 안내자 오리스",
+  "icon": "/ui/imagesets/localization/role/char_116/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781116,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 75015,
+  "name": "Basic Mage Quartz",
+  "description": "Magic Quartz used to ascend the Mages.",
+  "icon": "/ui/imagesets/items1/100104.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

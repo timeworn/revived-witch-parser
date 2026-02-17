@@ -1,0 +1,17 @@
+{
+  "id": 45604,
+  "name": "Troll Axe",
+  "description": "An axe used by trolls. It has a simple and crude shape.",
+  "icon": "/ui/imagesets/items1/100173.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

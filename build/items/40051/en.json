@@ -1,0 +1,17 @@
+{
+  "id": 40051,
+  "name": "Yothaya",
+  "description": "Obtain Doll [Yothaya: Petite Healer]",
+  "icon": "/ui/imagesets/headphotos/hp_053.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78150,
+      "quantity": 1
+    }
+  ]
+}

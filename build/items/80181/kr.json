@@ -1,0 +1,12 @@
+{
+  "id": 80181,
+  "name": "마녀 스탠딩 행거",
+  "description": "[작은 가구] 밤하늘의 마녀, 사실은…… 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100848.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

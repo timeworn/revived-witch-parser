@@ -1,0 +1,12 @@
+{
+  "id": 80227,
+  "name": "传统窗栏",
+  "description": "【墙饰】据说是驱赶怪兽“年”的秘密道具。可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100927.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

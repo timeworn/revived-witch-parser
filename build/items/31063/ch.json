@@ -1,0 +1,12 @@
+{
+  "id": 31063,
+  "name": "觉醒礼包",
+  "description": "购买后可获得大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift12.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

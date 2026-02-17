@@ -1,0 +1,12 @@
+{
+  "id": 80198,
+  "name": "Xmas Tree",
+  "description": "[Bulky Item] A Christmas tree jam-packed with presents. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100885.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

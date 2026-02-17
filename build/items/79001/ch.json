@@ -1,0 +1,13 @@
+{
+  "id": 79001,
+  "name": "魂力粉尘",
+  "description": "灵魂记忆凝结成的魔力粉尘，能用来强化专属装备",
+  "icon": "/ui/imagesets/items1/100055.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

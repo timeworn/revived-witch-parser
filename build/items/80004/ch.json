@@ -1,0 +1,12 @@
+{
+  "id": 80004,
+  "name": "木质书架",
+  "description": "【大件】木质的书架。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100537.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

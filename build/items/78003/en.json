@@ -1,0 +1,13 @@
+{
+  "id": 78003,
+  "name": "Basic Assassin Soul Stone",
+  "description": "An unusual soul stone, used to evolve the <coloR=#32CD32>R</coloR> Assassin.",
+  "icon": "/ui/imagesets/items1/100352.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

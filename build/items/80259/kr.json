@@ -1,0 +1,12 @@
+{
+  "id": 80259,
+  "name": "나무 담장",
+  "description": "[벽지] 나무판을 믹스매치하여 만든 올해 가장 트렌디한 벽. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/101066.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31717,
+  "name": "福满新春进阶礼包",
+  "description": "福满新春活动礼包，购买可获得抽卡道具、大量家具币和饺子。",
+  "icon": "/ui/imagesets/shop/shopgift53.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

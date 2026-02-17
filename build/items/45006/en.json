@@ -1,0 +1,17 @@
+{
+  "id": 45006,
+  "name": "Shield of Glory",
+  "description": "A shield awarded to the veteran warrior in Veronica, the Holy Empire. It represents supreme glory.",
+  "icon": "/ui/imagesets/items1/100409.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

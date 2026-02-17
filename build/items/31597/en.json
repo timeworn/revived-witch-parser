@@ -1,0 +1,12 @@
+{
+  "id": 31597,
+  "name": "Summer Echo",
+  "description": "The girls got together for an unforgettable time at the end of the summer.",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame14.png",
+  "type": "Avatar Frame",
+  "typeId": 58,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

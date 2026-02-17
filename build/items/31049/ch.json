@@ -1,0 +1,12 @@
+{
+  "id": 31049,
+  "name": "1级精英礼包",
+  "description": "魔女等级1级可购买。",
+  "icon": "/ui/imagesets/shop/giftlevelyellow1.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

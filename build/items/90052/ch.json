@@ -1,0 +1,17 @@
+{
+  "id": 90052,
+  "name": "白夜之心",
+  "description": "可改变人偶的外观。",
+  "icon": "/ui/imagesets/items1/101172.png",
+  "type": "外观",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35001,
+      "quantity": 98
+    }
+  ]
+}

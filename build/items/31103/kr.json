@@ -1,0 +1,12 @@
+{
+  "id": 31103,
+  "name": "70레벨 모험 패키지",
+  "description": "마녀 70레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelblue11.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

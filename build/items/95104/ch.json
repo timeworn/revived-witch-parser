@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "优<b>·</b>波莉本",
-  "ownerId": 104,
+  "character": "优<b>·</b>波莉本",
+  "characterId": 104,
   "evolutions": "(当前角色进化等级降低0/1/2/3%优·波莉本攻击的魔法防御)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

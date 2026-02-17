@@ -1,0 +1,17 @@
+{
+  "id": 40092,
+  "name": "格拉辛",
+  "description": "可以获得人偶 【灾厄医生 格拉辛】",
+  "icon": "/ui/imagesets/localization/role/char_093/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781093,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47201,
+  "name": "樫木魔杖",
+  "description": "常见的魔杖，可以用于魔法咏唱",
+  "icon": "/ui/imagesets/items1/100192.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

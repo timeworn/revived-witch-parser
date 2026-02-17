@@ -1,0 +1,12 @@
+{
+  "id": 35025,
+  "name": "Red Star",
+  "description": "A mysterious fragment from the sky. Glows an ominous red.",
+  "icon": "/ui/imagesets/items1/100678.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

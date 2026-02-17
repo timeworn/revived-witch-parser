@@ -1,0 +1,17 @@
+{
+  "id": 48204,
+  "name": "Lyre of Thorns",
+  "description": "The instrument is covered in magical vines and thorns, making those who approach recklessly backfired by magic.",
+  "icon": "/ui/imagesets/items1/100716.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

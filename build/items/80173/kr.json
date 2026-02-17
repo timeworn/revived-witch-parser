@@ -1,0 +1,12 @@
+{
+  "id": 80173,
+  "name": "작은 거미줄",
+  "description": "[벽 장식] 무서운 거미가 걸려 있는 '작은' 거미줄, 배치하면 쾌적 지수가 10 증가한다.",
+  "icon": "/ui/imagesets/items1/100851.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

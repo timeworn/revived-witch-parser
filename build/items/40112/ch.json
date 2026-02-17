@@ -1,0 +1,17 @@
+{
+  "id": 40112,
+  "name": "皎",
+  "description": "可以获得人偶 【海中匿影 皎】",
+  "icon": "/ui/imagesets/localization/role/char_113_break/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781113,
+      "quantity": 1
+    }
+  ]
+}

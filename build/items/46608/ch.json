@@ -1,0 +1,17 @@
+{
+  "id": 46608,
+  "name": "命运抉择",
+  "description": "寄宿了预示星之力，能够昭示未来的神奇宝珠",
+  "icon": "/ui/imagesets/items1/100396.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

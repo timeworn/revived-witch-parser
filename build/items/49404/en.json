@@ -1,0 +1,17 @@
+{
+  "id": 49404,
+  "name": "Holy Blessing - Ring",
+  "description": "Holy Blessing - Ring",
+  "icon": "/ui/imagesets/items1/100754.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

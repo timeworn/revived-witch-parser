@@ -1,0 +1,12 @@
+{
+  "id": 31280,
+  "name": "Spring Festival Doll Pack",
+  "description": "Happy Spring Festival. Purchase to get a Doll (of your own selection) and Summon items.",
+  "icon": "/ui/imagesets/shop/shopgift47.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

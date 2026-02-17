@@ -1,0 +1,12 @@
+{
+  "id": 20016,
+  "name": "사악한 늑대 이빨",
+  "description": "아직 마력이 남아 있는 사악한 늑대의 이빨, 어느 존귀한 존재를 물어서 벌을 받았다고 한다.",
+  "icon": "/ui/imagesets/items1/100253.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

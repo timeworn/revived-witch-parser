@@ -1,0 +1,17 @@
+{
+  "id": 45808,
+  "name": "극야의 검은 칼날",
+  "description": "어두운 밤에도 피의 저주를 빌어 죽음의 대상을 찾는 대거, 사용자가 암살의 본능을 각성하게 한다.",
+  "icon": "/ui/imagesets/items1/100401.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80197,
+  "name": "Bell Couch",
+  "description": "[Bulky Item] Let's all laze around and do nothing this Christmas too... Zzz... Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100884.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

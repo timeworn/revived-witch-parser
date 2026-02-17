@@ -1,0 +1,17 @@
+{
+  "id": 40054,
+  "name": "안 & 네로",
+  "description": "[쌍둥이 집행자 안 & 네로] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_065.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78153,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48101,
+  "name": "야생의 망치",
+  "description": "거대한 짐승의 뼈로 만든 무기, 야생의 힘이 가득 들어있다.",
+  "icon": "/ui/imagesets/items1/100721.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

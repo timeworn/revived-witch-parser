@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "아카샤",
-  "ownerId": 13,
+  "character": "아카샤",
+  "characterId": 13,
   "evolutions": "(현재 캐릭터 진화 레벨 치명 피해 0/0.25/0.5/0.75% , 물리 관통 0/0.25/0.5/0.75 추가 증가 )",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

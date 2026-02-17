@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "니콜리스",
-  "ownerId": 119,
+  "character": "니콜리스",
+  "characterId": 119,
   "evolutions": "(현재 캐릭터 진화 레벨 주는 마법 피해 0/0.5/1/1.5% 추가 증가)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

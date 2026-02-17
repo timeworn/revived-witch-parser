@@ -1,0 +1,12 @@
+{
+  "id": 31404,
+  "name": "Weekly Skill Pack",
+  "description": "Weekly Skill Pack",
+  "icon": "/ui/imagesets/shop/shopgift7.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

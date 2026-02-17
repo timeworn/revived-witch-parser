@@ -1,0 +1,20 @@
+{
+  "id": 31279,
+  "name": "만두",
+  "description": "속이 가든 찬 만두, 사용 후 3 복주머니를 획득한다.$B$이벤트 종료 후 기력 회복 아이템으로 변환된다.",
+  "icon": "/ui/imagesets/items1/100917.png",
+  "type": "일반 아이템",
+  "typeId": 138,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "dailyLimit": -1,
+  "currencyNeeded": 1,
+  "itemGiven": [
+    {
+      "id": 35043,
+      "quantity": 3
+    }
+  ]
+}

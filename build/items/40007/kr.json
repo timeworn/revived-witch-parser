@@ -1,0 +1,17 @@
+{
+  "id": 40007,
+  "name": "아발렌",
+  "description": "[성령의 파수꾼 아발렌] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_018.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78106,
+      "quantity": 1
+    }
+  ]
+}

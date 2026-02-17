@@ -1,0 +1,17 @@
+{
+  "id": 47009,
+  "name": "Ashkelon",
+  "description": "A sacred staff used in the Battle of Ashkelon. Said to be a symbol of the Sun God.",
+  "icon": "/ui/imagesets/items1/100417.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

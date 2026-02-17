@@ -1,0 +1,17 @@
+{
+  "id": 40101,
+  "name": "(현재 캐릭터 진화 레벨 공격력 $parameter1$%, HP 회복 효과 $parameter1$ 추가 증가)",
+  "description": "[기억의 꽃말 아마나미 공주] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_102/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781102,
+      "quantity": 1
+    }
+  ]
+}

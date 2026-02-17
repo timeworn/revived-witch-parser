@@ -1,0 +1,12 @@
+{
+  "id": 31154,
+  "name": "月满中秋技能礼包",
+  "description": "庆祝月满中秋活动上线，购买可获得获得大量技能材料。",
+  "icon": "/ui/imagesets/shop/shopgift31.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

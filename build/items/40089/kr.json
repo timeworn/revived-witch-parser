@@ -1,0 +1,17 @@
+{
+  "id": 40089,
+  "name": "베스티",
+  "description": " [어둠을 걸친 자 베스티] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/headphotos/hp_090.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78190,
+      "quantity": 1
+    }
+  ]
+}

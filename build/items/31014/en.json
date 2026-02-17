@@ -1,0 +1,12 @@
+{
+  "id": 31014,
+  "name": "Lustrous Galaxy",
+  "description": "An exquisite gift. Give it to a Doll to increase 100 Intimacy points.",
+  "icon": "/ui/imagesets/items1/100490.png",
+  "type": "Intimacy Item",
+  "typeId": 75,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

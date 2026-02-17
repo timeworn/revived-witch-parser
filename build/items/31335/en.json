@@ -1,0 +1,12 @@
+{
+  "id": 31335,
+  "name": "Amanami's hand-made dessert",
+  "description": "The traditional dessert from Amanami's hometown.",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop1.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31142,
+  "name": "워밍 초월 패키지",
+  "description": "새로운 챕터의 워밍업, 구매 후 소환 아이템을 획득할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift4.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

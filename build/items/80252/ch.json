@@ -1,0 +1,12 @@
+{
+  "id": 80252,
+  "name": "密林泉水",
+  "description": "【大件】引自魔法森林甘甜而清冽的泉水。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101007.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

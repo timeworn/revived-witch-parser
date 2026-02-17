@@ -1,0 +1,13 @@
+{
+  "id": 75019,
+  "name": "무지갯빛 깃털",
+  "description": "마력의 작용으로 돌변하여 형성된 무지갯빛 깃털. 인형 돌파에 사용된다.",
+  "icon": "/ui/imagesets/items1/100635.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

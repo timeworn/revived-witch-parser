@@ -1,0 +1,12 @@
+{
+  "id": 20040,
+  "name": "앙투아네트의 반지",
+  "description": "값비싸 보이는 루비 반지. 보석에는 엄청난 마력이 담겨있으며, 엄청난 빛깔과 광택을 내뿜고 있다.",
+  "icon": "/ui/imagesets/items1/101087.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

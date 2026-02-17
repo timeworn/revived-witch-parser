@@ -1,0 +1,17 @@
+{
+  "id": 46203,
+  "name": "魔导书",
+  "description": "魔导师们爱用的法术，记载了常用的法术",
+  "icon": "/ui/imagesets/items1/100065.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

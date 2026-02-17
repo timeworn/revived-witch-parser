@@ -1,0 +1,17 @@
+{
+  "id": 40026,
+  "name": "Cetess",
+  "description": "Obtain Doll [Cetess: Crimson Maiden of War]",
+  "icon": "/ui/imagesets/headphotos/hp_030.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78125,
+      "quantity": 1
+    }
+  ]
+}

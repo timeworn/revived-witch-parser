@@ -1,0 +1,12 @@
+{
+  "id": 31392,
+  "name": "단오절 특별 패키지",
+  "description": "단오절 특별 패키지",
+  "icon": "/ui/imagesets/shop/shopgift62.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

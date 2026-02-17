@@ -1,0 +1,17 @@
+{
+  "id": 40123,
+  "name": "Geisha",
+  "description": "Obtain Doll [Geisha: Emerald Heart]",
+  "icon": "/ui/imagesets/localization/role/char_124/square.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781124,
+      "quantity": 1
+    }
+  ]
+}

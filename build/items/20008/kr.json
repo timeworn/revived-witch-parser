@@ -1,0 +1,12 @@
+{
+  "id": 20008,
+  "name": "마녀 노트-송충 형제",
+  "description": "송충 형님의 의뢰를 받고, 헤어진 동생을 찾고 있다.",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

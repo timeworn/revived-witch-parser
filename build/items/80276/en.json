@@ -1,0 +1,12 @@
+{
+  "id": 80276,
+  "name": "Mottled Wall",
+  "description": "[Wall] Time has inflicted wear and tear on this mottled wall, but it can't erase evidence of its glorious past from its surface. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101133.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

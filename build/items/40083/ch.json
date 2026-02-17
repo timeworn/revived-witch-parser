@@ -1,0 +1,17 @@
+{
+  "id": 40083,
+  "name": "埃舍雷",
+  "description": "可以获得人偶 【伊敏瑟伦守护者 埃舍雷】",
+  "icon": "/ui/imagesets/localization/role/char_084/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78184,
+      "quantity": 1
+    }
+  ]
+}

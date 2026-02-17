@@ -1,0 +1,12 @@
+{
+  "id": 80276,
+  "name": "斑驳墙壁",
+  "description": "【墙壁】经过岁月的洗礼后斑驳不堪的墙壁，在残留的表面仍然能窥见当年辉煌的往日。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101133.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

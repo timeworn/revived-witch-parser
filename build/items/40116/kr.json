@@ -1,0 +1,17 @@
+{
+  "id": 40116,
+  "name": "코리어스 영혼석",
+  "description": "[빛나는 샛별 코리어스] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_117/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781117,
+      "quantity": 1
+    }
+  ]
+}

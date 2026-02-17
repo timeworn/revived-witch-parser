@@ -1,0 +1,12 @@
+{
+  "id": 31286,
+  "name": "응원 초월 패키지",
+  "description": "응원 패키지",
+  "icon": "/ui/imagesets/shop/shopgift79.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20009,
+  "name": "魔女笔记——毛虫兄弟",
+  "description": "在伊敏瑟伦之森找到了毛虫弟弟，但他似乎已经放弃了希望。",
+  "icon": "/ui/imagesets/items1/100151.png",
+  "type": "任务物品",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

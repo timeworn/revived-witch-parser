@@ -1,0 +1,17 @@
+{
+  "id": 47207,
+  "name": "악신의 재앙",
+  "description": "니아드 전투에서 반인반수 괴물인 드라우프니르를 소환할 때 사용한 마법 지팡이.",
+  "icon": "/ui/imagesets/items1/100445.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

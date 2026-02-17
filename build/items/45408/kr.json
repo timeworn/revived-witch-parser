@@ -1,0 +1,17 @@
+{
+  "id": 45408,
+  "name": "티르나노그의 맹세",
+  "description": "봄바람 전쟁의 여신이 모든 영력을 이 검에 집결하여 차원의 마신을 티르나노그 호숫가에 봉인하는 데 성공했다고 한다.",
+  "icon": "/ui/imagesets/items1/100431.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

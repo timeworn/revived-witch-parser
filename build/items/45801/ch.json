@@ -1,0 +1,17 @@
+{
+  "id": 45801,
+  "name": "短匕首",
+  "description": "可以藏在袖里的短兵刃",
+  "icon": "/ui/imagesets/items1/100063.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

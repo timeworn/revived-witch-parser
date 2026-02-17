@@ -1,0 +1,17 @@
+{
+  "id": 45207,
+  "name": "震地重击",
+  "description": "贝尔吉卡王国的开国王阿巴顿使用的武器，能够触发大地的共鸣",
+  "icon": "/ui/imagesets/items1/100405.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

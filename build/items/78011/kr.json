@@ -1,0 +1,13 @@
+{
+  "id": 78011,
+  "name": "중급 수호형 영혼석",
+  "description": "<color=#32CD32>SR급</color> 수호형 인형을 진화하는 데 사용하는 희귀한 영혼석.",
+  "icon": "/ui/imagesets/items1/100371.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

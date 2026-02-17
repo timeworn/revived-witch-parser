@@ -1,0 +1,12 @@
+{
+  "id": 80300,
+  "name": "食物陈列架",
+  "description": "【小件】上面摆满了各式各样的新鲜食品，每种食品都贴有建议保质期，并且会定期更换。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101125.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

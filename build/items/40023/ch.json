@@ -1,0 +1,17 @@
+{
+  "id": 40023,
+  "name": "谢尔妮",
+  "description": "可以获得人偶 【欺诈天使 谢尔妮】",
+  "icon": "/ui/imagesets/headphotos/hp_022.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78122,
+      "quantity": 1
+    }
+  ]
+}

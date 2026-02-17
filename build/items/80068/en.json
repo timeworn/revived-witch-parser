@@ -1,0 +1,12 @@
+{
+  "id": 80068,
+  "name": "European-style Carpet",
+  "description": "[Carpet] A round carpet in European style. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100558.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31595,
+  "name": "Iced Black Tea",
+  "description": "Iced Black Tea, cool your summer!",
+  "icon": "/ui/imagesets/items1/101156.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80057,
+  "name": "Luxury Couch",
+  "description": "[Bulky Item] A luxury couch made of wood with a cloth cover. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100559.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

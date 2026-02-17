@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Asherah",
-  "ownerId": 84,
+  "character": "Asherah",
+  "characterId": 84,
   "evolutions": "(Doll's current Evolution Level increases Physical DMG equal to 0/2/4/6% of ATK)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

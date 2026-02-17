@@ -1,0 +1,12 @@
+{
+  "id": 80131,
+  "name": "별무늬 마루",
+  "description": "[마루] 아름다운 별하늘을 감상할 수 있는 테마 가든 마루, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100663.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

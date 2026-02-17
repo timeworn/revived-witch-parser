@@ -1,0 +1,17 @@
+{
+  "id": 40032,
+  "name": "希奈缇娅",
+  "description": "可以获得人偶 【绷带组曲 希奈缇娅】",
+  "icon": "/ui/imagesets/headphotos/hp_049.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78131,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80127,
+  "name": "TapTap饰牌",
+  "description": "【墙饰】TapTap的饰牌。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100659.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

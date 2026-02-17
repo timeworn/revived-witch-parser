@@ -1,0 +1,12 @@
+{
+  "id": 35049,
+  "name": "玛那币",
+  "description": "上面刻有玛那图标的硬币，可用于提升角色等级。【活动材料】",
+  "icon": "/ui/imagesets/items1/100987.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

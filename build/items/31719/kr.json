@@ -1,0 +1,12 @@
+{
+  "id": 31719,
+  "name": "초월 뉴이어 패키지",
+  "description": "해피뉴이어 패키지, 구매 후 대량의 장비 육성 재료를 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/shop/shopgift55.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20015,
+  "name": "Spear of the Frost Chivalric Order",
+  "description": "Standard gear of a fanatic chivalric order. The lance represents the sanction and its holder seems to be heartless with feelings sealed.",
+  "icon": "/ui/imagesets/items1/100251.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

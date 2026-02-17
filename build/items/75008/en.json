@@ -1,0 +1,13 @@
+{
+  "id": 75008,
+  "name": "Advanced Assassin Quartz",
+  "description": "Magic Quartz used to ascend the Assassins.",
+  "icon": "/ui/imagesets/items1/100097.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

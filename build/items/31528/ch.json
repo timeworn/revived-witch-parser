@@ -1,0 +1,12 @@
+{
+  "id": 31528,
+  "name": "星空蛋糕",
+  "description": "以星辰为主题的蛋糕，据说品尝后会有梦幻般的感觉",
+  "icon": "/ui/imagesets/items1/101148.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

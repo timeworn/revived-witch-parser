@@ -1,0 +1,17 @@
+{
+  "id": 49501,
+  "name": "사기꾼-오브",
+  "description": "사기꾼-오브",
+  "icon": "/ui/imagesets/items1/100749.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

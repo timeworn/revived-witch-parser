@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "阿鵺伦",
-  "ownerId": 42,
+  "character": "阿鵺伦",
+  "characterId": 42,
   "evolutions": "(当前角色进化等级无视目标的魔方防御额外提升0/2/4/6%的攻击数值)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

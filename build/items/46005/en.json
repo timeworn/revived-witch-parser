@@ -1,0 +1,17 @@
+{
+  "id": 46005,
+  "name": "Platinum Bow",
+  "description": "A precious bow that only aristocrats are permitted to use. Beautifully decorated.",
+  "icon": "/ui/imagesets/items1/100423.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

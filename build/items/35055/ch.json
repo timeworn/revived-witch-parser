@@ -1,0 +1,12 @@
+{
+  "id": 35055,
+  "name": "风车",
+  "description": "用施加过魔法的纸制成的小风车，微风袭来时会快速转动，深得孩子们的喜爱。",
+  "icon": "/ui/imagesets/items1/101018.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

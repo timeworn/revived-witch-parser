@@ -1,0 +1,17 @@
+{
+  "id": 47007,
+  "name": "금단의 지팡이",
+  "description": "갤리스 왕이 사용하는 사악한 마법 지팡이, 악마의 강림 의식에만 사용된다.",
+  "icon": "/ui/imagesets/items1/100415.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

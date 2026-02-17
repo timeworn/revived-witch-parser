@@ -1,0 +1,17 @@
+{
+  "id": 47409,
+  "name": "숭고한 갑옷 '스윗스'",
+  "description": "고대 엘프족의 대장장이 코다리건이 죽은 반신 영웅 바돌라스를 기념하기 위해, 반신의 유골을 다시 용광로에 넣어 만들어낸 최고의 걸작이다.",
+  "icon": "/ui/imagesets/items1/100442.png",
+  "type": "방어구",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

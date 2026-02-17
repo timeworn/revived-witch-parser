@@ -1,0 +1,13 @@
+{
+  "id": 76004,
+  "name": "琥珀金",
+  "description": "非常稀有的金属，可以为装备提供<color=#32CD32>1500</color>经验。",
+  "icon": "/ui/imagesets/items1/100252.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

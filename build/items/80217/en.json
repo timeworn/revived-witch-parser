@@ -1,0 +1,12 @@
+{
+  "id": 80217,
+  "name": "Hollowed Stool",
+  "description": "[Compact Item] A delicate stool with a classical aura. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100930.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

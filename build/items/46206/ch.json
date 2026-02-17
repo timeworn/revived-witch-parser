@@ -1,0 +1,17 @@
+{
+  "id": 46206,
+  "name": "夜枭咒书",
+  "description": "详尽记录了各类咒术的书本",
+  "icon": "/ui/imagesets/items1/100454.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

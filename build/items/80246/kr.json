@@ -1,0 +1,12 @@
+{
+  "id": 80246,
+  "name": "무지갯빛 새알",
+  "description": "[벽장식] 예쁜 색깔의 거대한 새알, 어떤 새가 부화할까? 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101001.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45403,
+  "name": "Iron Sword",
+  "description": "A very sharp sword meticulously forged by artisans.",
+  "icon": "/ui/imagesets/items1/100080.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

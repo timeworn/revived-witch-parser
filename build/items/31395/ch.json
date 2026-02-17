@@ -1,0 +1,12 @@
+{
+  "id": 31395,
+  "name": "端午节高级礼包",
+  "description": "端午节高级礼包",
+  "icon": "/ui/imagesets/shop/shopgift49.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

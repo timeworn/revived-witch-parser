@@ -1,0 +1,12 @@
+{
+  "id": 80278,
+  "name": "冷寂封窗",
+  "description": "【窗户】一扇被彻底用木板和钉子封住的窗户，外面的景色模糊不清，仔细观察可以发现，钉子竟然是纯银制成。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/101135.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

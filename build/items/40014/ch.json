@@ -1,0 +1,17 @@
+{
+  "id": 40014,
+  "name": "帕嘉妮",
+  "description": "可以获得人偶 【霜冻魔女 帕嘉妮】",
+  "icon": "/ui/imagesets/headphotos/hp_019.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78113,
+      "quantity": 1
+    }
+  ]
+}

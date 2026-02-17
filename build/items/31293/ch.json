@@ -1,0 +1,12 @@
+{
+  "id": 31293,
+  "name": "新春超值礼包",
+  "description": "恭贺新春，购买可获得钻石和抽卡道具奖励",
+  "icon": "/ui/imagesets/shop/shopgift50.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

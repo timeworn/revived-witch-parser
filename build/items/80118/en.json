@@ -1,0 +1,12 @@
+{
+  "id": 80118,
+  "name": "雷霆沙发",
+  "description": "【大件】雷霆游戏的集会沙发。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100650.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

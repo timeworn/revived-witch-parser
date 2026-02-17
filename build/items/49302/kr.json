@@ -1,0 +1,17 @@
+{
+  "id": 49302,
+  "name": "지옥의 헌터-활(파괴)",
+  "description": "지옥의 헌터-활(파괴)",
+  "icon": "/ui/imagesets/items1/100738.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 76000,
+  "name": "赤铁",
+  "description": "随处可见的金属材料，可以为装备提供<color=#32CD32>50</color>经验。",
+  "icon": "/ui/imagesets/items1/100125.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

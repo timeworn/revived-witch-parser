@@ -1,0 +1,17 @@
+{
+  "id": 40003,
+  "name": "Eulalia",
+  "description": "Obtain Doll [Eulalia: Saintess of Lunia]",
+  "icon": "/ui/imagesets/headphotos/hp_006.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78102,
+      "quantity": 1
+    }
+  ]
+}

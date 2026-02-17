@@ -1,0 +1,17 @@
+{
+  "id": 40040,
+  "name": "Ushpia",
+  "description": "Obtain Doll [Ushpia: Queen of the Desert]",
+  "icon": "/ui/imagesets/headphotos/hp_043.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78139,
+      "quantity": 1
+    }
+  ]
+}

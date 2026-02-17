@@ -1,0 +1,17 @@
+{
+  "id": 47004,
+  "name": "雷鸣法杖",
+  "description": "能够引出电闪雷鸣的法杖",
+  "icon": "/ui/imagesets/items1/100165.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

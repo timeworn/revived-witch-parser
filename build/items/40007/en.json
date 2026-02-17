@@ -1,0 +1,17 @@
+{
+  "id": 40007,
+  "name": "Afallen",
+  "description": "Obtain Doll [Afallen: Defender of Holiness]",
+  "icon": "/ui/imagesets/headphotos/hp_018.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78106,
+      "quantity": 1
+    }
+  ]
+}

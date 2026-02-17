@@ -1,0 +1,17 @@
+{
+  "id": 48003,
+  "name": "은목걸이",
+  "description": "은으로 만든 목걸이, 착용자의 고귀한 신분을 돋보이게 한다.",
+  "icon": "/ui/imagesets/items1/100199.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

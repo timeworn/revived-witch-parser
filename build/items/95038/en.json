@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Metamorphoses",
-  "ownerId": 38,
+  "character": "Metamorphoses",
+  "characterId": 38,
   "evolutions": "(Doll's current Evolution Level reduces DMG taken by 0/1/2/3%)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

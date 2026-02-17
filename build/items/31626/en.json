@@ -1,0 +1,12 @@
+{
+  "id": 31626,
+  "name": "Thanksgiving Feast",
+  "description": "The Thanksgiving feast is on. The young girls in their handmade clothes are enjoying the festive cheer.",
+  "icon": "/ui/imagesets/items1/101205.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

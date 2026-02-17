@@ -1,0 +1,12 @@
+{
+  "id": 31500,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/101113.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

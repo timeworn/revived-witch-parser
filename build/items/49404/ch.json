@@ -1,0 +1,17 @@
+{
+  "id": 49404,
+  "name": "神圣祝福-戒指",
+  "description": "神圣祝福-戒指",
+  "icon": "/ui/imagesets/items1/100754.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

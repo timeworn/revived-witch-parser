@@ -1,0 +1,17 @@
+{
+  "id": 47003,
+  "name": "",
+  "description": "",
+  "icon": "/ui/imagesets/items1/100164.png",
+  "type": "",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

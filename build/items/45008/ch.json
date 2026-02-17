@@ -1,0 +1,17 @@
+{
+  "id": 45008,
+  "name": "虹龙盾",
+  "description": "据说是上古时期的虹龙的鳞片制成的盾，如同宝玉般晶莹剔透，能够吸收各种魔法伤害",
+  "icon": "/ui/imagesets/items1/100411.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31334,
+  "name": "Erina's hand-made dessert",
+  "description": "The matcha cake Erina carefully prepared for master",
+  "icon": "/ui/imagesets/activityspringouting/ActivitySpringOutingShop2.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

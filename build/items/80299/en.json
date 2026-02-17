@@ -1,0 +1,12 @@
+{
+  "id": 80299,
+  "name": "Tidal Music Box",
+  "description": "[Compact Item] The primary mood setter in the restaurant! In the absence of music, it steps up to the plate. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101124.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

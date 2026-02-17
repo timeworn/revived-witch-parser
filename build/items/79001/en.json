@@ -1,0 +1,13 @@
+{
+  "id": 79001,
+  "name": "Soul Dust",
+  "description": "Magical dust coalesced from the memories of souls. Can be used to enhance unique equipment.",
+  "icon": "/ui/imagesets/items1/100055.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

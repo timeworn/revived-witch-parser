@@ -1,0 +1,12 @@
+{
+  "id": 80205,
+  "name": "차례상",
+  "description": "[큰 가구] 설날에 차린 차례상, 상다리가 휘어질 것 같다. 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100934.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

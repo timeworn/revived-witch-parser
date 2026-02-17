@@ -1,0 +1,12 @@
+{
+  "id": 35071,
+  "name": "古怪糖果",
+  "description": "深受蒙特尼亚王国孩童们欢迎，仅在南瓜节期间出现，究竟是谁制造了这些糖果依旧是个谜团",
+  "icon": "/ui/imagesets/items1/101189.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31134,
+  "name": "星辰礼包",
+  "description": "闪耀星辰的礼包，购买后可获得大量培养材料。",
+  "icon": "/ui/imagesets/shop/shopgift19.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

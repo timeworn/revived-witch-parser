@@ -1,0 +1,13 @@
+{
+  "id": 79004,
+  "name": "魂力精髓",
+  "description": "灵魂记忆凝结成的魔力精髓，能用来强化专属装备",
+  "icon": "/ui/imagesets/items1/100155.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

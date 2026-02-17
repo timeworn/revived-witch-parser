@@ -1,0 +1,17 @@
+{
+  "id": 48003,
+  "name": "Silver Necklace",
+  "description": "A silver necklace that accentuates the gentility of its wearer.",
+  "icon": "/ui/imagesets/items1/100199.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

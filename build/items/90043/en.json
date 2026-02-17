@@ -1,0 +1,12 @@
+{
+  "id": 90043,
+  "name": "Summer Fantasy",
+  "description": "Changes a doll's appearance.",
+  "icon": "/ui/imagesets/items1/101167.png",
+  "type": "Costume",
+  "typeId": 91,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

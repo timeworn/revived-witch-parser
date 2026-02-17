@@ -1,0 +1,12 @@
+{
+  "id": 31475,
+  "name": "Forest Recall Pack",
+  "description": "A lanky mushroom that is said to bring good luck to whoever follows it.",
+  "icon": "/ui/imagesets/items1/101057.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

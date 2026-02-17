@@ -1,0 +1,17 @@
+{
+  "id": 40009,
+  "name": "芙洛莱",
+  "description": "可以获得人偶 【湖之旋律 芙洛莱】",
+  "icon": "/ui/imagesets/headphotos/hp_016.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78108,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31302,
+  "name": "컴백 호화 패키지",
+  "description": "컴백 호화 패키지",
+  "icon": "/ui/imagesets/shop/shopgift44.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

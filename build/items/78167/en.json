@@ -1,0 +1,17 @@
+{
+  "id": 78167,
+  "name": "Mayahuel Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD33>Mayahuel</color>.",
+  "icon": "/ui/imagesets/items1/100615.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80154,
+  "name": "沙滩小屋",
+  "description": "【大件】为了随时吃到可口西瓜而复刻的迷你沙滩小屋。摆放后可增加20点舒适度。",
+  "icon": "/ui/imagesets/items1/100802.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

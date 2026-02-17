@@ -1,0 +1,17 @@
+{
+  "id": 45401,
+  "name": "Short Sword",
+  "description": "A short and protective sword that even a child can use.",
+  "icon": "/ui/imagesets/items1/100078.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

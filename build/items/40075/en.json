@@ -1,0 +1,17 @@
+{
+  "id": 40075,
+  "name": "Mortimer",
+  "description": "Obtain Doll [Mortimer: Heart of Rose]",
+  "icon": "/ui/imagesets/headphotos/hp_002.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78174,
+      "quantity": 1
+    }
+  ]
+}

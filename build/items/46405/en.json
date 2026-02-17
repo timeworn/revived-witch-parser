@@ -1,0 +1,17 @@
+{
+  "id": 46405,
+  "name": "Melody of Elysium",
+  "description": "A magical instrument used by Forest Fairies to bring happiness.",
+  "icon": "/ui/imagesets/items1/100458.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

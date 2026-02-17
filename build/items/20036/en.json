@@ -1,0 +1,12 @@
+{
+  "id": 20036,
+  "name": "Fox's Stored Food",
+  "description": "The food that the little fox and its companions buried under the snowdrift. Enough to support another migration.",
+  "icon": "/ui/imagesets/items1/100146.png",
+  "type": "Quest Item",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": 76001,
+  "name": "Chalcocite",
+  "description": "Naturally mined copper ore. Widely used in forging and smelting. It provides <color=#32CD32>200</color> EXP for Equipment.",
+  "icon": "/ui/imagesets/items1/100126.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

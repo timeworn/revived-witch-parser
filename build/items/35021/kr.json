@@ -1,0 +1,12 @@
+{
+  "id": 35021,
+  "name": "맹세의 돌",
+  "description": "솔록의 시련을 통과했다는 증명.",
+  "icon": "/ui/imagesets/items1/100641.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

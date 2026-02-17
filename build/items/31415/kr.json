@@ -1,0 +1,12 @@
+{
+  "id": 31415,
+  "name": "매일 특별 패키지",
+  "description": "매일 선물~",
+  "icon": "/ui/imagesets/battlepassnew/BattlePassNewDailyShop03.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46804,
+  "name": "Exorcising Grail",
+  "description": "A grail with the power to purify evil.",
+  "icon": "/ui/imagesets/items1/100203.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

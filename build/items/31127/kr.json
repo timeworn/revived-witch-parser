@@ -1,0 +1,12 @@
+{
+  "id": 31127,
+  "name": "랜덤 레어 선물",
+  "description": "랜덤으로 레어 선물 획득 가능",
+  "icon": "/ui/imagesets/items1/100481.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

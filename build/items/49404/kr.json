@@ -1,0 +1,17 @@
+{
+  "id": 49404,
+  "name": "신성 축복-반지",
+  "description": "신성 축복-반지",
+  "icon": "/ui/imagesets/items1/100754.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

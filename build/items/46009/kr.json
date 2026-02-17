@@ -1,0 +1,17 @@
+{
+  "id": 46009,
+  "name": "신궁 '에우리투스'",
+  "description": "달의 여신이 사용하던 활, 홧김에 태양을 쏘았다고 하는 전설의 활이다.",
+  "icon": "/ui/imagesets/items1/100427.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

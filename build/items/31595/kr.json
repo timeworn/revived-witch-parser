@@ -1,0 +1,12 @@
+{
+  "id": 31595,
+  "name": "아이스티",
+  "description": "아이스티 한 잔이면 뼛속까지 시원해지죠!",
+  "icon": "/ui/imagesets/items1/101156.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

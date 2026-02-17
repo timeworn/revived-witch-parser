@@ -1,0 +1,17 @@
+{
+  "id": 46403,
+  "name": "吟游琴",
+  "description": "吟游诗人情不自已时，常用此琴弹奏出优雅的旋律",
+  "icon": "/ui/imagesets/items1/100176.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

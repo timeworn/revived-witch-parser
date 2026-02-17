@@ -1,0 +1,17 @@
+{
+  "id": 45803,
+  "name": "포이즌 대거",
+  "description": "칼날에 극독이 묻어 있는 대거, 쉽게 사람의 목숨을 앗아갈 수 있다.",
+  "icon": "/ui/imagesets/items1/100061.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

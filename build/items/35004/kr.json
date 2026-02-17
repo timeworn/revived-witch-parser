@@ -1,0 +1,12 @@
+{
+  "id": 35004,
+  "name": "길드 결정",
+  "description": "마녀 길드에서 사용되는 화폐, 각종 귀한 아이템으로 교환할 수 있다.",
+  "icon": "/ui/imagesets/items1/100777.png",
+  "type": "재화",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

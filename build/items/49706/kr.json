@@ -1,0 +1,17 @@
+{
+  "id": 49706,
+  "name": "질서 신앙-마법 지팡이",
+  "description": "질서 신앙-마법 지팡이",
+  "icon": "/ui/imagesets/items1/100771.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

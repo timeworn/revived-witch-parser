@@ -1,0 +1,12 @@
+{
+  "id": 80269,
+  "name": "스탠드 조명",
+  "description": "[작은 가구] '생명의 빛'을 느껴본 적이 있나요? 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/101075.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

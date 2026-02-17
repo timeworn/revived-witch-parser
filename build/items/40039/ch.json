@@ -1,0 +1,17 @@
+{
+  "id": 40039,
+  "name": "麻里奈",
+  "description": "可以获得人偶 【人偶使 麻里奈】",
+  "icon": "/ui/imagesets/headphotos/hp_temp.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78138,
+      "quantity": 1
+    }
+  ]
+}

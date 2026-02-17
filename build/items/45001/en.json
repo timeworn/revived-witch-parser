@@ -1,0 +1,17 @@
+{
+  "id": 45001,
+  "name": "Buckler",
+  "description": "A common round shield. Lightweight and practical.",
+  "icon": "/ui/imagesets/items1/100163.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

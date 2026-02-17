@@ -1,0 +1,17 @@
+{
+  "id": 49202,
+  "name": "전장의 화신-검",
+  "description": "전장의 화신-검",
+  "icon": "/ui/imagesets/items1/100765.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

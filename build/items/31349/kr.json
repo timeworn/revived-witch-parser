@@ -1,0 +1,12 @@
+{
+  "id": 31349,
+  "name": "호화 깜짝 상자",
+  "description": "구매 시 소환 아이템 및 대량의 육성 재료를 획득할 수 있다.",
+  "icon": "/ui/imagesets/items1/100982.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

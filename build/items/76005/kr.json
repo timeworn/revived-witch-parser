@@ -1,0 +1,13 @@
+{
+  "id": 76005,
+  "name": "마법의 결정",
+  "description": "반짝반짝 빛이 나는 전설의 결정, 장비에 경험치 <color=#32CD32>2000</color>을 제공한다.",
+  "icon": "/ui/imagesets/items1/100247.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

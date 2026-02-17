@@ -1,0 +1,12 @@
+{
+  "id": 31075,
+  "name": "최상급 소환 패키지",
+  "description": "구매하면 60회 소환할 수 있다.",
+  "icon": "/ui/imagesets/shop/shopgift4.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

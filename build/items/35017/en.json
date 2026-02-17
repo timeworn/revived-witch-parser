@@ -1,0 +1,12 @@
+{
+  "id": 35017,
+  "name": "Dream Shard",
+  "description": "Quartz formed by the merging of consciousnesses while traveling in the Dreamworld.",
+  "icon": "/ui/imagesets/items1/100634.png",
+  "type": "Dream Shard",
+  "typeId": 561,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

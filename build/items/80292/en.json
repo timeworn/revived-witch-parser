@@ -1,0 +1,12 @@
+{
+  "id": 80292,
+  "name": "Simple Flooring",
+  "description": "[Flooring] A simple but graceful collage of tiles. Very much in vogue this year. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/101117.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

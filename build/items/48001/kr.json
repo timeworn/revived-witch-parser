@@ -1,0 +1,17 @@
+{
+  "id": 48001,
+  "name": "목걸이",
+  "description": "거리에서 흔히 볼 수 있는 일반 목걸이.",
+  "icon": "/ui/imagesets/items1/100197.png",
+  "type": "장신구",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

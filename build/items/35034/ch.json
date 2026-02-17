@@ -1,0 +1,12 @@
+{
+  "id": 35034,
+  "name": "珊瑚",
+  "description": "稀有的珊瑚，据说只生长于奇珍异兽身上。【活动材料】",
+  "icon": "/ui/imagesets/items1/100786.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

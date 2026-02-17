@@ -1,0 +1,13 @@
+{
+  "id": 76003,
+  "name": "백금",
+  "description": "존귀함을 상징하는 보기 드문 금속, 장비에 경험치 <color=#32CD32>1000</color>을 제공한다.",
+  "icon": "/ui/imagesets/items1/100128.png",
+  "type": "일반 아이템",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

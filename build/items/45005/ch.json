@@ -1,0 +1,17 @@
+{
+  "id": 45005,
+  "name": "伊赛亚之盾",
+  "description": "先知赐予族人的盾牌，能够庇护心诚的信徒",
+  "icon": "/ui/imagesets/items1/100408.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

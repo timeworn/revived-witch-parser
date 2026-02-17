@@ -1,0 +1,17 @@
+{
+  "id": 46409,
+  "name": "Warsong of Inanna",
+  "description": "An artifact held by the Valkyrie, Inanna. It stimulates the potential of creatures to unlock their soul power.",
+  "icon": "/ui/imagesets/items1/100462.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

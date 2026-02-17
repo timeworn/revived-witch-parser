@@ -1,0 +1,17 @@
+{
+  "id": 49708,
+  "name": "Ordered Faith - Necklace",
+  "description": "Ordered Faith - Necklace",
+  "icon": "/ui/imagesets/items1/100776.png",
+  "type": "Accessory",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35025,
+  "name": "红星",
+  "description": "从夜空中落下的神秘碎片，散发着不祥的红色光芒。",
+  "icon": "/ui/imagesets/items1/100678.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

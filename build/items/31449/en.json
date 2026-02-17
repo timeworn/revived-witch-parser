@@ -1,0 +1,12 @@
+{
+  "id": 31449,
+  "name": "Anniversary Emoji Pack",
+  "description": "Anniversary Emoji Pack",
+  "icon": "/ui/imagesets/guild/EmojiPackage.png",
+  "type": "",
+  "typeId": 106,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46606,
+  "name": "기라성",
+  "description": "화려하고 진귀한 데다, 신비롭기까지 한 보옥.",
+  "icon": "/ui/imagesets/items1/100394.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

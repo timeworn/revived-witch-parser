@@ -1,0 +1,12 @@
+{
+  "id": 31407,
+  "name": "Weekly Furniture Pack",
+  "description": "Weekly Furniture Pack",
+  "icon": "/ui/imagesets/shop/shopgift14.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

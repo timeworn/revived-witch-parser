@@ -1,0 +1,17 @@
+{
+  "id": 45408,
+  "name": "Oath of Tirnanog",
+  "description": "A sword gathering all the power of the Valkyrie Springwind. It successfully sealed the Dimension Demon in Lake Tirnanog.",
+  "icon": "/ui/imagesets/items1/100431.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

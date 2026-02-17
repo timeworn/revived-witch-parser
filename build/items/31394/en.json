@@ -1,0 +1,12 @@
+{
+  "id": 31394,
+  "name": "Dragon Boat Festival Advanced Pack",
+  "description": "Dragon Boat Festival Advanced Pack",
+  "icon": "/ui/imagesets/shop/shopgift34.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

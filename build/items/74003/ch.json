@@ -1,0 +1,13 @@
+{
+  "id": 74003,
+  "name": "幽光",
+  "description": "在没有月光的夜晚，隐约可见的蓝色幽光。用于提升人偶技能强度。",
+  "icon": "/ui/imagesets/items1/100121.png",
+  "type": "普通物品",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

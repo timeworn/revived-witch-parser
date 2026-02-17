@@ -1,0 +1,17 @@
+{
+  "id": 45807,
+  "name": "흑요석 대거",
+  "description": "용인족의 대대손손 전해져 내려온 보물, 고대 용신의 신비한 힘이 깃들어 있다.",
+  "icon": "/ui/imagesets/items1/100400.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

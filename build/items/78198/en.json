@@ -1,0 +1,17 @@
+{
+  "id": 78198,
+  "name": "Maja Kany Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD32>Maja Kany</color>.",
+  "icon": "/ui/imagesets/items1/101170.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 5
+    }
+  ]
+}

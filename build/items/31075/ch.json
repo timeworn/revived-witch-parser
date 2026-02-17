@@ -1,0 +1,12 @@
+{
+  "id": 31075,
+  "name": "终极召唤礼包",
+  "description": "购买后可进行六十连召唤。",
+  "icon": "/ui/imagesets/shop/shopgift4.png",
+  "type": "礼包",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

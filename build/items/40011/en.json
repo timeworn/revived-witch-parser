@@ -1,0 +1,17 @@
+{
+  "id": 40011,
+  "name": "Anemone",
+  "description": "Obtain Doll [Anemone: Elementalist]",
+  "icon": "/ui/imagesets/headphotos/hp_npc_7.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78110,
+      "quantity": 1
+    }
+  ]
+}

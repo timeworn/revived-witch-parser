@@ -1,0 +1,17 @@
+{
+  "id": 40121,
+  "name": "灏",
+  "description": "可以获得人偶 【鸢花颂歌 灏】",
+  "icon": "/ui/imagesets/localization/role/char_122/square.png",
+  "type": "人偶",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 781122,
+      "quantity": 1
+    }
+  ]
+}

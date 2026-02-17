@@ -1,0 +1,12 @@
+{
+  "id": 35068,
+  "name": "Catpaw Coin",
+  "description": "A currency given to people Black Cat approves of. Can be redeemed for commemorative items.",
+  "icon": "/ui/imagesets/items1/101152.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

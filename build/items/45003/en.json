@@ -1,0 +1,17 @@
+{
+  "id": 45003,
+  "name": "Grand Shield",
+  "description": "A huge shield that can cover its user's entire body.",
+  "icon": "/ui/imagesets/items1/100069.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

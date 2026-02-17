@@ -1,0 +1,17 @@
+{
+  "id": 49603,
+  "name": "术式增幅-布织衣物",
+  "description": "术式增幅-布织衣物",
+  "icon": "/ui/imagesets/items1/100761.png",
+  "type": "饰品",
+  "typeId": 555,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

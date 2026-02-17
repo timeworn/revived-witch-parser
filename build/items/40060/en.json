@@ -1,0 +1,17 @@
+{
+  "id": 40060,
+  "name": "Yui",
+  "description": "Obtain Doll [Yui: Demonsbane Spear]",
+  "icon": "/ui/imagesets/headphotos/hp_061.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78159,
+      "quantity": 1
+    }
+  ]
+}

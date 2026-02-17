@@ -1,0 +1,12 @@
+{
+  "id": 80105,
+  "name": "Mahogany Chair",
+  "description": "[Compact Item] A seat made of mahogany. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100576.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

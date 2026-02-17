@@ -1,0 +1,12 @@
+{
+  "id": 31313,
+  "name": "White Day Basic Pack",
+  "description": "White Day Basic Pack",
+  "icon": "/ui/imagesets/shop/shopgift38.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

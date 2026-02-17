@@ -1,0 +1,12 @@
+{
+  "id": 35041,
+  "name": "Candies",
+  "description": "Assorted candies prepared for the birthday party.",
+  "icon": "/ui/imagesets/items1/100864.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80264,
+  "name": "Birthday Banner",
+  "description": "[Wall Decor] \"Happy Birthday!\" It's a simple greeting but carries a lot of weight. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/101072.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

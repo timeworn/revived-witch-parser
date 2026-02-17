@@ -1,0 +1,17 @@
+{
+  "id": 46204,
+  "name": "Tome of Storm",
+  "description": "A precious book that records advanced spells.",
+  "icon": "/ui/imagesets/items1/100064.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

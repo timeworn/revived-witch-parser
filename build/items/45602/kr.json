@@ -1,0 +1,17 @@
+{
+  "id": 45602,
+  "name": "용병의 도끼",
+  "description": "용병이 즐겨 사용하던 도끼, 일정한 살상력이 있다.",
+  "icon": "/ui/imagesets/items1/100171.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

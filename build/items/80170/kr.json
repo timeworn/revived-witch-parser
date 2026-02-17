@@ -1,0 +1,12 @@
+{
+  "id": 80170,
+  "name": "오래된 철창",
+  "description": "[창문] 조금 낡은 창문, 배치하면 쾌적 지수가 20 증가한다.",
+  "icon": "/ui/imagesets/items1/100856.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

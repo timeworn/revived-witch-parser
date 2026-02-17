@@ -1,0 +1,12 @@
+{
+  "id": 80056,
+  "name": "Blue Recliner",
+  "description": "[Compact Item] A small blue armchair. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100560.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

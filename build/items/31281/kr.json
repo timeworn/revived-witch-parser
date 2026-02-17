@@ -1,0 +1,12 @@
+{
+  "id": 31281,
+  "name": "크리스마스 액자",
+  "description": "Merry Christmas!",
+  "icon": "/ui/imagesets/headframe/HeadPhotoFrame10.png",
+  "type": "액자",
+  "typeId": 58,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

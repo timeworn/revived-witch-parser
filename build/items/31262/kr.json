@@ -1,0 +1,12 @@
+{
+  "id": 31262,
+  "name": "초월 생일 패키지",
+  "description": "초월 생일 패키지",
+  "icon": "/ui/imagesets/shop/shopgift28.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

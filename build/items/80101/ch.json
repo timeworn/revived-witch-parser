@@ -1,0 +1,12 @@
+{
+  "id": 80101,
+  "name": "小红木柜",
+  "description": "【大件】方便收纳的小红木柜。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/100582.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

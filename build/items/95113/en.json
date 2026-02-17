@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "Shiroi",
-  "ownerId": 113,
+  "character": "Shiroi",
+  "characterId": 113,
   "evolutions": "(Doll's current Evolution Level decreases the DMG taken by 0/1/2/3%, increases the damage dealt by 0/1/2/3%, and ignores 0/1/2/3 Magic DEF of the enemy)",
   "noEvolution": "(Doll's Evolution can enhance this skill)",
   "skills": [

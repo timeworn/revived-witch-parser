@@ -1,0 +1,13 @@
+{
+  "id": 78035,
+  "name": "Expert Healer Soul Stone",
+  "description": "An extraordinary soul stone, used to evolve the <color=#32CD32>UR</color> Healer.",
+  "icon": "/ui/imagesets/items1/100620.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [],
+  "isEvolutionItem": false
+}

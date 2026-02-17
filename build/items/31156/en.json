@@ -1,0 +1,12 @@
+{
+  "id": 31156,
+  "name": "Mid-Autumn Summon Pack",
+  "description": "Rejoice in the coming of character unique equipment! Buy this pack for an item to exchange the unique equipment of your choice and some summoning items.",
+  "icon": "/ui/imagesets/shop/shopgift33.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

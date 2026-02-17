@@ -1,0 +1,12 @@
+{
+  "id": 80130,
+  "name": "별무늬 벽지",
+  "description": "[벽지] 아름다운 별하늘을 감상할 수 있는 테마 가든 벽지, 배치하면 쾌적 지수가 15 증가한다.",
+  "icon": "/ui/imagesets/items1/100662.png",
+  "type": "가구",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

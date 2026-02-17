@@ -1,0 +1,12 @@
+{
+  "id": 20031,
+  "name": "화염의 엠블렘",
+  "description": "엘레멘탈리스트 아네모네가 떨어뜨린 엠블렘.",
+  "icon": "/ui/imagesets/items1/100129.png",
+  "type": "임무 아이템",
+  "typeId": 19,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31372,
+  "name": "Summer Breeze Value Pack",
+  "description": "Summer Breeze Value Pack",
+  "icon": "/ui/imagesets/shop/shopgift37.png",
+  "type": "Pack",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

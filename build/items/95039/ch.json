@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "拉芬",
-  "ownerId": 39,
+  "character": "拉芬",
+  "characterId": 39,
   "evolutions": "(当前角色进化等级无视目标的物理防御额外提升0/2/4/6%的攻击数值)",
   "noEvolution": "(进化当前角色可强化专属装备技能)",
   "skills": [

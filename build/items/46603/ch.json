@@ -1,0 +1,17 @@
+{
+  "id": 46603,
+  "name": "水晶球",
+  "description": "通体透明的宝珠，据说蕴藏了不可思议的魔力",
+  "icon": "/ui/imagesets/items1/100183.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

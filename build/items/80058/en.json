@@ -1,0 +1,12 @@
+{
+  "id": 80058,
+  "name": "White Bookcase",
+  "description": "[Bulky Item] A luxurious white bookcase. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100557.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

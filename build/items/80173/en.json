@@ -1,0 +1,12 @@
+{
+  "id": 80173,
+  "name": "Tiny Cobweb",
+  "description": "[Wall Decor] A tiny cobweb with a creepy spider dangling from it. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100851.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

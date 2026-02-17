@@ -1,0 +1,12 @@
+{
+  "id": 80205,
+  "name": "Festival Hotpot",
+  "description": "[Bulky Item] Nothing like a steaming hotpot on a cold winter day. Increases Comfort by 20 when furnished.",
+  "icon": "/ui/imagesets/items1/100934.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35072,
+  "name": "Special Sweets",
+  "description": "Made from the sweet liquid that dropped from the evil dragon's scales. Sweet and refreshing. Loved by children and elders alike.",
+  "icon": "/ui/imagesets/items1/101190.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31533,
+  "name": "난나르 피규어",
+  "description": "거울 속 난나르의 모습을 본떠 만든 피규어.",
+  "icon": "/ui/imagesets/items1/101150.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

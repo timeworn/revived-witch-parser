@@ -1,0 +1,17 @@
+{
+  "id": 45603,
+  "name": "Savage Axe",
+  "description": "An axe popular among the barbarian warriors. Looks fearsome in hand.",
+  "icon": "/ui/imagesets/items1/100172.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76001,
+      "quantity": 1
+    }
+  ]
+}

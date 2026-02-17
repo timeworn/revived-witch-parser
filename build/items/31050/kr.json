@@ -1,0 +1,12 @@
+{
+  "id": 31050,
+  "name": "5레벨 정예 패키지",
+  "description": "마녀 5레벨 구매 가능.",
+  "icon": "/ui/imagesets/shop/giftlevelyellow2.png",
+  "type": "패키지",
+  "typeId": 170,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

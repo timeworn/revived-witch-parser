@@ -1,0 +1,17 @@
+{
+  "id": 47605,
+  "name": "讷韦尔灵衣",
+  "description": "主教们在降临仪式上穿着的灵衣，轻便飘绕",
+  "icon": "/ui/imagesets/items1/100388.png",
+  "type": "防具",
+  "typeId": 811,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76002,
+      "quantity": 1
+    }
+  ]
+}

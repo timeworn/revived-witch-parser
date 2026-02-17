@@ -1,0 +1,12 @@
+{
+  "id": 35050,
+  "name": "Red Clown Coin",
+  "description": "A red coin sporting the pattern of a clown on its obverse. Can be used to redeem items at the Store. [Event Token]",
+  "icon": "/ui/imagesets/items1/100985.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35066,
+  "name": "Shell Coin",
+  "description": "A gold coin with a shell engraved on it, the common currency of the town of Burton.",
+  "icon": "/ui/imagesets/items1/101163.png",
+  "type": "Currency",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

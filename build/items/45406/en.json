@@ -1,0 +1,17 @@
+{
+  "id": 45406,
+  "name": "Electrum Sword",
+  "description": "A sword forged from the sacred electrum by the eastern Ithacans. It has the power to purge evil.",
+  "icon": "/ui/imagesets/items1/100429.png",
+  "type": "Weapon",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

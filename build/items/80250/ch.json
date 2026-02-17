@@ -1,0 +1,12 @@
+{
+  "id": 80250,
+  "name": "野炊铁锅",
+  "description": "【小件】一根奶油手指，两勺一厢情愿的想法~摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101005.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

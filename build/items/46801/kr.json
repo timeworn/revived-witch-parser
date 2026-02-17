@@ -1,0 +1,17 @@
+{
+  "id": 46801,
+  "name": "유리잔",
+  "description": "유리로 만든 평범한 잔.",
+  "icon": "/ui/imagesets/items1/100189.png",
+  "type": "무기",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76000,
+      "quantity": 1
+    }
+  ]
+}

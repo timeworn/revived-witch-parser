@@ -1,0 +1,17 @@
+{
+  "id": 78163,
+  "name": "La Crima Soul Stone",
+  "description": "A scarce soul stone exclusively used to evolve <color=#32CD32>La Crima</color>.",
+  "icon": "/ui/imagesets/items1/100627.png",
+  "type": "Normal Item",
+  "typeId": 26,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 35012,
+      "quantity": 3
+    }
+  ]
+}

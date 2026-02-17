@@ -1,0 +1,12 @@
+{
+  "id": 31282,
+  "name": "응원 이벤트 프로필",
+  "description": "진정한 팬들에게 주는 기념 프로필",
+  "icon": "/ui/imagesets/headphotos/headphoto_Christmas.png",
+  "type": "프로필",
+  "typeId": 122,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

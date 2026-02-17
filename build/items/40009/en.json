@@ -1,0 +1,17 @@
+{
+  "id": 40009,
+  "name": "Flora",
+  "description": "Obtain Doll [Flora: Melody of the Lake]",
+  "icon": "/ui/imagesets/headphotos/hp_016.png",
+  "type": "Doll",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78108,
+      "quantity": 1
+    }
+  ]
+}

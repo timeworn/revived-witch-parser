@@ -1,0 +1,12 @@
+{
+  "id": 80274,
+  "name": "优雅长桌",
+  "description": "【大件】人们围绕着长桌落座，谈论着这一年来的经历，露出会心的微笑。摆放后可增加15点舒适度。",
+  "icon": "/ui/imagesets/items1/101080.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

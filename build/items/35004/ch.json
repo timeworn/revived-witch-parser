@@ -1,0 +1,12 @@
+{
+  "id": 35004,
+  "name": "公会结晶",
+  "description": "在各个魔女公会中普遍流通的货币，能够兑换各类珍贵道具。",
+  "icon": "/ui/imagesets/items1/100777.png",
+  "type": "货币",
+  "typeId": 305,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

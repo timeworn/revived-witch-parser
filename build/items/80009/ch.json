@@ -1,0 +1,12 @@
+{
+  "id": 80009,
+  "name": "便签墙",
+  "description": "【小件】简约便签墙。摆放后可增加10点舒适度。",
+  "icon": "/ui/imagesets/items1/100526.png",
+  "type": "家具",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

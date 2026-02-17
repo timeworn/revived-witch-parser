@@ -1,0 +1,17 @@
+{
+  "id": 40083,
+  "name": "아세라타",
+  "description": "[수호자 아세라타] 인형을 획득할 수 있습니다.",
+  "icon": "/ui/imagesets/localization/role/char_084/square.png",
+  "type": "인형",
+  "typeId": 27,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 78184,
+      "quantity": 1
+    }
+  ]
+}

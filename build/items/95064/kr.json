@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "이사벨라",
-  "ownerId": 64,
+  "character": "이사벨라",
+  "characterId": 64,
   "evolutions": "(캐릭터가 진화하면 적의 물리 방어력을 0/0.5/1/1.5%만큼 추가로 감소시킨다)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [

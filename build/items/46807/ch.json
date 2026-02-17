@@ -1,0 +1,17 @@
+{
+  "id": 46807,
+  "name": "龙血杯",
+  "description": "盛有恶龙之血的诅咒之杯",
+  "icon": "/ui/imagesets/items1/100450.png",
+  "type": "武器",
+  "typeId": 299,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": [
+    {
+      "id": 76003,
+      "quantity": 1
+    }
+  ]
+}

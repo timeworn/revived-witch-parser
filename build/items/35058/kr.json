@@ -1,0 +1,12 @@
+{
+  "id": 35058,
+  "name": "시간의 결정",
+  "description": "시간을 여행할 때, 영혼이 뒤엉켜 생긴 결정체.",
+  "icon": "/ui/imagesets/items1/101027.png",
+  "type": "재화",
+  "typeId": 817,
+  "maxNum": 1,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

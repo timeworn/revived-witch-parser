@@ -1,0 +1,12 @@
+{
+  "id": 80139,
+  "name": "Astronomical Telescope",
+  "description": "[Compact Item] You can see the galaxy with this. Increases Comfort by 15 when furnished.",
+  "icon": "/ui/imagesets/items1/100671.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

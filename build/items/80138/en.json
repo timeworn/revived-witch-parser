@@ -1,0 +1,12 @@
+{
+  "id": 80138,
+  "name": "Little Floorlamp",
+  "description": "[Compact Item] A small floorlamp that illuminates your path. Increases Comfort by 10 when furnished.",
+  "icon": "/ui/imagesets/items1/100670.png",
+  "type": "Furniture",
+  "typeId": 74,
+  "maxNum": 0,
+  "limited": false,
+  "timeLimit": 0,
+  "discardRewards": []
+}

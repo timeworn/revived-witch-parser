@@ -7,9 +7,10 @@
   "typeId": 107,
   "maxNum": 1,
   "limited": false,
+  "timeLimit": 0,
   "discardRewards": [],
-  "owner": "난나르",
-  "ownerId": 63,
+  "character": "난나르",
+  "characterId": 63,
   "evolutions": "(현재 캐릭터 진화 레벨 공격력의 0/5/10/15%만큼 HP 추가 회복)",
   "noEvolution": "(현재 캐릭터를 진화 시키면 전용 장비 스킬을 강화할 수 있습니다.)",
   "skills": [
